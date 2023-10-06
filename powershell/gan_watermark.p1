@@ -1,0 +1,18 @@
+# Define the path to the watermark image
+$watermarkPath = "C:\watermark\senshu2023.png"
+
+# Define the directory where your images are located
+$imageDirectory = "C:\path\to\your\images"
+
+# Loop through all image files in subfolders
+Get-ChildItem -Path $imageDirectory -Recurse -Include *.jpg, *.jpeg, *.png | ForEach-Object {
+    # Construct the output filename with "watermarked_" prefix
+    $outputFileName = Join-Path $_.Directory.FullName ("watermarked_" + $_.Name)
+
+    # Add the watermark using ImageMagick
+    & "C:\Program Files\ImageMagick-7.0.11-Q16-HDRI\magick" convert $_.FullName $watermarkPath -gravity southeast -composite $outputFileName
+
+    Write-Host "Watermarked $($_.Name)"
+}
+
+Write-Host "Watermarking complete."
