@@ -1,0 +1,25 @@
+import bpy
+
+# Get the list of all cameras in the scene
+cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']
+
+# Set the output folder where rendered images will be saved
+output_folder = "//tmp//job"  # Replace with your desired output folder path
+
+# Loop through each camera and render
+for camera in cameras:
+    # Set the active camera
+    bpy.context.scene.camera = camera
+    
+    # Set the output file path for the rendered image
+    render_settings = bpy.context.scene.render
+    render_settings.filepath = f"{output_folder}/{camera.name}"
+
+    # Render the image
+    bpy.ops.render.render(write_still=True)
+    
+    # Optionally, you can print a message to indicate that the rendering is complete
+    print(f"Rendered image from camera: {camera.name}")
+
+# Optionally, reset the active camera to the default camera (e.g., "Camera")
+bpy.context.scene.camera = bpy.data.objects["Camera"]
