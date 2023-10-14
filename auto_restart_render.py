@@ -16,7 +16,7 @@ log_file = "blender_render_log.txt"
 logging.basicConfig(filename=log_file, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Check for already rendered frames and skip them
-existing_frames = [int(os.path.splitext(os.path.basename(png))[0]) for png in glob.glob(os.path.join(render_folder, '*.png')]
+existing_frames = [int(os.path.splitext(os.path.basename(png))[0]) for png in glob.glob(os.path.join(render_folder, '*.png'))]
 for frame in existing_frames:
     if frame >= start_frame and frame <= end_frame:
         start_frame = frame + 1
@@ -44,7 +44,7 @@ while True:
             # All frames have been rendered
             logging.info("All frames rendered. Exiting.")
             break
-        blender_command = [blender_path, "-b", blend_file, "-s", str(frame_number), "-e", str(end_frame), "-o", os.path.join(render_folder, "image_####"), "-a"]
+        blender_command = [blender_path, "-b", blend_file, "-s", str(frame_number), "-e", str(end_frame), "-o", os.path.join(render_folder, "####"), "-a"]
         blender_process = subprocess.Popen(blender_command)
         logging.info(f"Resuming render from frame {frame_number}")
 
