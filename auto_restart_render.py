@@ -4,13 +4,13 @@ import subprocess
 import glob
 
 blender_path = "C:\\Blender\\blender_3_6\\blender.exe"
-blend_file = "F:\\job\\sneaker.blend"
-render_folder = "F:\\job\\zrender"
+blend_file = "I:\\job\\asset TVC\\Sneaker\\sneaker_cam2_t.blend"
+render_folder = "i:\\job\\asset TVC\\zrender"
 start_frame = 1
 end_frame = 120
 
 # Check for already rendered frames and skip them
-existing_frames = [int(os.path.splitext(os.path.basename(png))[0]) for png in glob.glob(os.path.join(render_folder, '*.png')]
+existing_frames = [int(os.path.splitext(os.path.basename(png))[0]) for png in glob.glob(os.path.join(render_folder, '*.png'))]
 for frame in existing_frames:
     if frame >= start_frame and frame <= end_frame:
         start_frame = frame + 1
