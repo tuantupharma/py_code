@@ -1,12 +1,12 @@
 import bpy
 import os
 
-def update_catalog_names(blender_file_path, catalog_file_path):
+def update_catalog_names(catalog_file_path):
     # Open the Asset Catalog Definition file for reading
     with open(catalog_file_path, 'r') as catalog_file:
         catalog_lines = catalog_file.readlines()
 
-    # Get all collections in the Blender file
+    # Get all collections in the current Blender file
     collections = bpy.data.collections
 
     # Iterate through collection lines in the Asset Catalog Definition file
@@ -29,11 +29,17 @@ def update_catalog_names(blender_file_path, catalog_file_path):
     with open(catalog_file_path, 'w') as catalog_file:
         catalog_file.writelines(catalog_lines)
 
-# Specify the paths to the Blender file and Asset Catalog Definition file
-blender_file_path = "C:\\Blender\\lib_addon\\Simply Epic Asset Bundle"
-catalog_file_path = "C:\\Blender\\lib_addon\\Simply Epic Asset Bundle"
+# Get the path of the current Blender file
+blender_file_path = bpy.data.filepath
 
-# Call the function to update catalog names
-update_catalog_names(blender_file_path, catalog_file_path)
+# Ensure the Blender file has been saved before running the script
+if blender_file_path:
+    # Set the catalog file path in the same directory as the Blender file
+    catalog_file_path = os.path.join(os.path.dirname(blender_file_path), "blender_assets.cats.txt")
 
-print(f"Catalog names updated in {catalog_file_path}")
+    # Call the function to update catalog names
+    update_catalog_names(catalog_file_path)
+
+    print(f"Catalog names updated in {catalog_file_path}")
+else:
+    print("Please save the Blender file before running the script.")
