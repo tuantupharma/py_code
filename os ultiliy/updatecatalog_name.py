@@ -9,21 +9,29 @@ def update_catalog_names(catalog_file_path):
     # Get all collections in the current Blender file
     collections = bpy.data.collections
 
-    # Iterate through collection lines in the Asset Catalog Definition file
-    for index, line in enumerate(catalog_lines):
-        if line.startswith('#') or line.startswith('VERSION'):
-            # Ignore comments and the version line
-            continue
+   # Iterate through collection lines in the Asset Catalog Definition file
+for index, line in enumerate(catalog_lines):
+    if line.startswith('#') or line.startswith('VERSION'):
+        # Ignore comments and the version line
+        continue
 
-        # Split the line into UUID, Catalog Path, and Simple Catalog Name
-        uuid, catalog_path, _ = line.strip().split(':')
+    # Split the line into UUID, Catalog Path, and Simple Catalog Name
+    line_parts = line.strip().split(':')
 
-        # Find the corresponding collection by name
-        matching_collection = next((collection for collection in collections if collection.name == catalog_path), None)
+    if len(line_parts) == 3:
+        uuid, catalog_path, _ = line_parts
+    else:
+        # Handle the case where the line doesn't have enough values to unpack
+        print(f"Error parsing line {index + 1} in the catalog file. Skipping...")
+        continue
 
-        # If a matching collection is found, update the Simple Catalog Name in the catalog file
-        if matching_collection:
-            catalog_lines[index] = f"{uuid}:{catalog_path}:{matching_collection.name}\n"
+    # Find the corresponding collection by name
+    matching_collection = next((collection for collection in collections if collection.name == catalog_path), None)
+
+    # If a matching collection is found, update the Simple Catalog Name in the catalog file
+    if matching_collection:
+        catalog_lines[index] = f"{uuid}:{catalog_path}:{matching_collection.name}\n"
+
 
     # Open the Asset Catalog Definition file for writing and update the content
     with open(catalog_file_path, 'w') as catalog_file:
