@@ -1,0 +1,49 @@
+import bpy
+import os
+
+# Set the base path for the texture folder
+texture_folder = os.path.join(bpy.path.abspath("//"), "KB3DTextures")
+
+# Iterate through materials
+for mat in bpy.data.materials:
+    # Extract the material name
+    mat_name = mat.name
+    
+    # Determine the prefixes and suffixes for texture names
+    prefixes = ["KB3D_", "KB3D_WZT_"]
+    suffixes = ["_normal", "_specular", "_Diffuse", "_glossiness", "_height", "_Disp", "_Spec", "_gloss"]
+    
+    for prefix in prefixes:
+        for suffix in suffixes:
+            texture_name = prefix + mat_name + suffix + ".jpg"
+            texture_path = os.path.join(texture_folder, texture_name)
+            
+            # Check if the texture file exists
+            if os.path.exists(texture_path):
+                # Create a Principled BSDF shader if not exists
+                if mat.use_nodes:
+                    mat.node_tree.nodes.clear()
+                else:
+                    mat.use_nodes = True
+                principled = mat.node_tree.nodes.new('ShaderNodeBsdfPrincipled')
+                output = mat.node_tree.nodes.new('ShaderNodeOutputMaterial')
+                
+                # Load the texture image
+                texture_node = mat.node_tree.nodes.new('ShaderNodeTexImage')
+                texture_node.image = bpy.data.images.load(texture_path)
+                
+                # Connect the texture to the principled shader
+                mat.node_tree.links.new(texture_node.outputs["Color"], principled.inputs["Base Color"])
+                if "_normal" in suffix:
+                    mat.node_tree.links.new(texture_node.outputs["Color"], principled.inputs["Normal"])
+                
+                # Connect the principled shader to the output
+                mat.node_tree.links.new(principled.outputs["BSDF"], output.inputs["Surface"])
+                
+                # Activate Node Wrangler's Principled Setup
+             #   bpy.ops.node.simple_principled_bsdf_add()
+                
+                # Rename the nodes for clarity
+                texture_node.name = "Texture_" + mat_name + suffix
+                principled.name = "Principled_" + mat_name + suffix
+                output.name = "Output_" + mat_name + suffix
