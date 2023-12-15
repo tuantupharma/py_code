@@ -14,7 +14,7 @@ def copy_blend_files(source_folder, destination_folder):
 
     for blend_file in get_blend_files(source_folder):
         file_name, file_extension = os.path.splitext(os.path.basename(blend_file))
-        destination_file = os.path.join(destination_folder, f"{file_name}_copy{file_extension}")
+        destination_file = os.path.join(destination_folder, f"{file_name}{file_extension}")
 
         # Check if the destination file already exists
         counter = 1
