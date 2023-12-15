@@ -28,10 +28,11 @@ def copy_blend_files(source_folder, destination_folder):
     return log_entries
 
 def write_log(log_entries, log_file_path):
-    with open(log_file_path, 'w') as log_file:
+    with open(log_file_path, 'w', encoding='utf-8-sig') as log_file:
         log_file.write("Original Name,New Name\n")
         for entry in log_entries:
             log_file.write(f"{entry[0]},{entry[1]}\n")
+
 
 # Folder containing blend files
 source_folder = r'E:\\blenderkit_data\\models'
