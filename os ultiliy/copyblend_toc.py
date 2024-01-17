@@ -35,7 +35,7 @@ def write_log(log_entries, log_file_path):
 
 
 # Folder containing blend files
-source_folder = r'E:\\blenderkit_data\\models'
+source_folder = r'C:\\Blender\\lib_addon\\addons\\Vegetation\data\\vegetation'
 
 # Destination folder for copied blend files
 destination_folder = r'K:\\tmpb'
