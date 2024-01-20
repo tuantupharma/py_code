@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\addon",
-    "\\addon\\startup",
-    "\\addon\\startup\\MSPlugin",
-    "\\lib"
+    "\\addon\\startup\\MSPlugin"
   ],
-  "SelectedNode": "\\addon\\startup\\__init__.py",
   "PreviewInSolutionExplorer": false
 }
