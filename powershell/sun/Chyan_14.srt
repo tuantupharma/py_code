@@ -1,0 +1,5333 @@
+1
+00:00:00,001 --> 00:00:05,070
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:06,501 --> 00:00:07,551
+Hello.
+
+3
+00:00:07,562 --> 00:00:09,409
+Based on what we went through in the previous class,
+
+4
+00:00:09,434 --> 00:00:10,715
+we are going to change
+
+5
+00:00:10,746 --> 00:00:12,581
+the mood
+
+6
+00:00:12,606 --> 00:00:14,100
+of our character again.
+
+7
+00:00:14,658 --> 00:00:16,473
+Last time, we changed it to a cute vibe,
+
+8
+00:00:16,498 --> 00:00:18,598
+and a calm mood.
+
+9
+00:00:18,622 --> 00:00:19,852
+Today, I'm going to change this character
+
+10
+00:00:19,877 --> 00:00:21,588
+to be more aggressive,
+
+11
+00:00:21,599 --> 00:00:22,606
+and after that,
+
+12
+00:00:22,617 --> 00:00:25,033
+by applying various lighting conditions,
+
+13
+00:00:25,057 --> 00:00:26,533
+we'll take a look at
+
+14
+00:00:26,557 --> 00:00:27,700
+other examples.
+
+15
+00:00:28,222 --> 00:00:29,514
+Then first of all,
+
+16
+00:00:29,539 --> 00:00:31,800
+we're going to change it to a more aggressive image,
+
+17
+00:00:31,962 --> 00:00:34,267
+so we need to talk about what we need to do to achieve that.
+
+18
+00:00:34,291 --> 00:00:36,033
+Let's review what we went through
+
+19
+00:00:36,099 --> 00:00:37,990
+from when we expressed a cute character and a calm character
+
+20
+00:00:38,014 --> 00:00:40,133
+in the previous lecture.
+
+21
+00:00:47,094 --> 00:00:48,287
+The cute character.
+
+22
+00:00:48,311 --> 00:00:50,286
+Of course, we can't apply it to everything,
+
+23
+00:00:50,311 --> 00:00:52,335
+there are different ways of directing,
+
+24
+00:00:53,707 --> 00:00:55,700
+so it's good to know that before you move on.
+
+25
+00:00:57,504 --> 00:00:58,523
+Intensity.
+
+26
+00:00:59,838 --> 00:01:02,078
+Let's write down each characteristic.
+
+27
+00:01:02,288 --> 00:01:04,131
+So I said,
+
+28
+00:01:04,141 --> 00:01:05,195
+adjusting the contrast
+
+29
+00:01:07,188 --> 00:01:08,400
+is important
+
+30
+00:01:11,587 --> 00:01:18,005
+to make a strong image
+
+31
+00:01:18,233 --> 00:01:20,067
+but one which is not too bright
+
+32
+00:01:20,091 --> 00:01:21,800
+at a glance.
+
+33
+00:01:22,622 --> 00:01:27,835
+And the main elements, and sub elements.
+
+34
+00:01:29,004 --> 00:01:33,430
+The closer the distance is, the better it would be.
+
+35
+00:01:35,769 --> 00:01:38,391
+And various point elements,
+
+36
+00:01:42,408 --> 00:01:46,067
+I told you it's important to apply them,
+
+37
+00:01:46,092 --> 00:01:48,500
+although the concentration might be a bit distracting,
+
+38
+00:01:48,524 --> 00:01:49,857
+by applying them that much,
+
+39
+00:01:49,881 --> 00:01:51,700
+we need to make a full screen.
+
+40
+00:01:51,724 --> 00:01:53,327
+I said it's important before.
+
+41
+00:01:54,301 --> 00:01:57,802
+And overall, an image with warm coloring
+
+42
+00:01:59,549 --> 00:02:01,597
+would be more suitable in some ways.
+
+43
+00:02:02,519 --> 00:02:03,821
+And what else?
+
+44
+00:02:05,400 --> 00:02:06,798
+A cute situation,
+
+45
+00:02:08,486 --> 00:02:09,833
+in particular, the situation
+
+46
+00:02:09,857 --> 00:02:10,933
+has to be given, and it's really important.
+
+47
+00:02:10,957 --> 00:02:12,220
+That's what I said.
+
+48
+00:02:12,387 --> 00:02:13,575
+And the one with a calm image,
+
+49
+00:02:13,600 --> 00:02:14,804
+unlike this,
+
+50
+00:02:16,403 --> 00:02:17,999
+your eyes need to be comfortable,
+
+51
+00:02:18,245 --> 00:02:21,999
+so the gaze has to move
+
+52
+00:02:22,024 --> 00:02:23,104
+calmly,
+
+53
+00:02:24,290 --> 00:02:26,021
+and slowly,
+
+54
+00:02:26,776 --> 00:02:28,829
+the main element shouldn't take up too much space,
+
+55
+00:02:35,094 --> 00:02:36,966
+so not stretching out the main element too much,
+
+56
+00:02:36,991 --> 00:02:38,100
+but by reducing it a little bit,
+
+57
+00:02:38,124 --> 00:02:40,282
+to make sure to focus on the areas you need,
+
+58
+00:02:40,307 --> 00:02:42,600
+and for the rest of the sections, you can see them loosely.
+
+59
+00:02:42,624 --> 00:02:44,633
+That's how it goes.
+
+60
+00:02:44,782 --> 00:02:47,808
+Main element and sub elements,
+
+61
+00:02:49,707 --> 00:02:50,920
+and the distance,
+
+62
+00:02:51,319 --> 00:02:52,928
+contrary to the cute character,
+
+63
+00:02:52,953 --> 00:02:54,413
+I placed it far away.
+
+64
+00:02:56,337 --> 00:02:57,504
+By removing
+
+65
+00:02:57,529 --> 00:02:59,133
+the things that get in the way around it,
+
+66
+00:02:59,158 --> 00:03:00,221
+such as point elements,
+
+67
+00:03:03,051 --> 00:03:05,400
+compose an empty canvas.
+
+68
+00:03:05,424 --> 00:03:06,933
+Like the saying goes, "less is more".
+
+69
+00:03:06,957 --> 00:03:09,305
+I've made a calm image
+
+70
+00:03:10,003 --> 00:03:11,725
+by composing an empty canvas
+
+71
+00:03:13,612 --> 00:03:15,796
+and by using cool colors.
+
+72
+00:03:15,828 --> 00:03:17,867
+We used the surrounding elements,
+
+73
+00:03:17,891 --> 00:03:19,685
+among them, in the previous lecture,
+
+74
+00:03:19,710 --> 00:03:21,797
+we used water,
+
+75
+00:03:21,822 --> 00:03:23,503
+in highlighting.
+
+76
+00:03:23,527 --> 00:03:25,967
+Cute characters also have quite a lot of the highlights,
+
+77
+00:03:27,891 --> 00:03:30,016
+and since this one is also a point element,
+
+78
+00:03:30,041 --> 00:03:31,692
+we applied it a lot.
+
+79
+00:03:33,308 --> 00:03:35,002
+But this has highlights slightly added.
+
+80
+00:03:35,910 --> 00:03:37,100
+So those are the differences.
+
+81
+00:03:37,216 --> 00:03:38,244
+Then today,
+
+82
+00:03:38,269 --> 00:03:40,200
+let's work on building a strong character.
+
+83
+00:03:40,545 --> 00:03:41,799
+Usually, the overall contrast
+
+84
+00:03:41,823 --> 00:03:42,833
+of the strong character,
+
+85
+00:03:42,857 --> 00:03:44,667
+compared to the previous two ones,
+
+86
+00:03:44,692 --> 00:03:45,967
+it needs to be much stronger.
+
+87
+00:03:46,028 --> 00:03:48,433
+So that you can have a strong image at a glance.
+
+88
+00:03:48,457 --> 00:03:50,457
+The bright image that I mentioned earlier,
+
+89
+00:03:50,481 --> 00:03:51,800
+is used for this.
+
+90
+00:03:52,001 --> 00:03:54,700
+The overall color of the character is white.
+
+91
+00:03:54,724 --> 00:03:57,177
+Then it would be nice if the background color is a bit dark.
+
+92
+00:03:59,017 --> 00:04:00,116
+Like this.
+
+93
+00:04:00,498 --> 00:04:03,722
+It's okay to change it to completely black,
+
+94
+00:04:06,689 --> 00:04:08,900
+or give it a reddish color,
+
+95
+00:04:08,982 --> 00:04:10,802
+or a blue vibe.
+
+96
+00:04:10,827 --> 00:04:11,993
+Either way,
+
+97
+00:04:12,017 --> 00:04:13,283
+it's better to have some contrast,
+
+98
+00:04:13,688 --> 00:04:14,736
+between the background
+
+99
+00:04:14,746 --> 00:04:17,491
+and this character.
+
+100
+00:04:17,791 --> 00:04:19,808
+And here comes a difference between this one
+
+101
+00:04:19,832 --> 00:04:21,300
+and the cute character.
+
+102
+00:04:21,324 --> 00:04:22,533
+For the cute character,
+
+103
+00:04:22,557 --> 00:04:25,418
+by placing a lot of sub-elements in the main elements,
+
+104
+00:04:25,476 --> 00:04:27,781
+we spread the gaze a little bit.
+
+105
+00:04:27,886 --> 00:04:28,894
+Why did we do that?
+
+106
+00:04:28,918 --> 00:04:30,534
+If you get to concentrate too much,
+
+107
+00:04:30,559 --> 00:04:32,120
+it feels like a movie.
+
+108
+00:04:32,144 --> 00:04:34,000
+So if you concentrate too much,
+
+109
+00:04:34,024 --> 00:04:35,468
+it feels like its more serious,
+
+110
+00:04:35,492 --> 00:04:37,492
+and it makes us feel serious.
+
+111
+00:04:37,590 --> 00:04:38,982
+So the one like a kid,
+
+112
+00:04:39,007 --> 00:04:40,579
+has to be distractive.
+
+113
+00:04:40,727 --> 00:04:43,033
+To give a distractive vibe,
+
+114
+00:04:43,058 --> 00:04:45,336
+I spread the main elements.
+
+115
+00:04:46,294 --> 00:04:48,793
+Then, this strong image is actually,
+
+116
+00:04:48,818 --> 00:04:50,745
+if you compare it
+
+117
+00:04:51,092 --> 00:04:52,095
+in that way,
+
+118
+00:04:52,105 --> 00:04:54,022
+it has to have a strong impression,
+
+119
+00:04:56,700 --> 00:04:58,008
+which you can sense,
+
+120
+00:04:58,033 --> 00:04:59,398
+at a glance,
+
+121
+00:05:03,695 --> 00:05:06,294
+so I'm not going to put a lot of sub elements.
+
+122
+00:05:08,692 --> 00:05:10,410
+And for that,
+
+123
+00:05:10,435 --> 00:05:12,501
+we're going to give it a different light.
+
+124
+00:05:15,291 --> 00:05:16,584
+Let's use the one
+
+125
+00:05:16,609 --> 00:05:18,133
+that we used before.
+
+126
+00:05:22,400 --> 00:05:24,704
+Of course, we can use these lights as they are,
+
+127
+00:05:24,729 --> 00:05:26,861
+I'm going to change the lighting a little bit more.
+
+128
+00:05:29,301 --> 00:05:31,059
+When we studied about lighting,
+
+129
+00:05:31,084 --> 00:05:33,820
+we talked about Soft Light and Hard Light.
+
+130
+00:05:34,286 --> 00:05:36,200
+This one has a strong image
+
+131
+00:05:36,224 --> 00:05:38,333
+and with the image that bursts out at once,
+
+132
+00:05:38,358 --> 00:05:39,733
+I'm only going to show
+
+133
+00:05:39,757 --> 00:05:41,233
+a certain amount of the information in a character.
+
+134
+00:05:41,257 --> 00:05:42,890
+We decided not to add the surrounding elements.
+
+135
+00:05:43,003 --> 00:05:45,901
+Therefore, you need to be able to show a lot of things in a character.
+
+136
+00:05:46,394 --> 00:05:47,399
+If so,
+
+137
+00:05:47,410 --> 00:05:49,500
+rather than a simple Hard Light,
+
+138
+00:05:49,525 --> 00:05:51,598
+do Soft Light, which is applied more smoothly.
+
+139
+00:05:51,831 --> 00:05:53,180
+So there are many layers of light and shade.
+
+140
+00:05:53,287 --> 00:05:55,466
+The bright part and the dark part,
+
+141
+00:05:55,491 --> 00:05:58,004
+and the darker parts with the very dark parts,
+
+142
+00:05:58,028 --> 00:05:59,687
+they're divided into different layers.
+
+143
+00:05:59,712 --> 00:06:01,428
+I mentioned there's more information.
+
+144
+00:06:01,453 --> 00:06:03,484
+Therefore, the Soft Light is a bit more
+
+145
+00:06:03,508 --> 00:06:05,800
+effective in my point of view.
+
+146
+00:06:07,309 --> 00:06:08,672
+Let's use the strong light
+
+147
+00:06:08,697 --> 00:06:10,476
+heading to the face
+
+148
+00:06:10,501 --> 00:06:11,522
+of the character.
+
+149
+00:06:17,986 --> 00:06:20,600
+Instead, let's make sure,
+
+150
+00:06:20,625 --> 00:06:21,919
+the areas where light doesn't reach,
+
+151
+00:06:29,677 --> 00:06:31,107
+will be dark.
+
+152
+00:06:31,302 --> 00:06:33,191
+The creature in the back
+
+153
+00:06:37,327 --> 00:06:39,292
+also has to be dark.
+
+154
+00:06:41,295 --> 00:06:43,639
+So I will change the background
+
+155
+00:06:43,664 --> 00:06:45,004
+to make it close to black.
+
+156
+00:06:45,502 --> 00:06:47,779
+If it's blue and black,
+
+157
+00:06:47,804 --> 00:06:49,599
+I think it'll fit this image.
+
+158
+00:06:54,466 --> 00:06:57,719
+It's going to give a strong and cold image,
+
+159
+00:06:57,743 --> 00:06:58,861
+since the key color
+
+160
+00:06:58,871 --> 00:07:00,564
+of this character is bluish,
+
+161
+00:07:00,589 --> 00:07:01,882
+to show
+
+162
+00:07:01,906 --> 00:07:03,491
+the bluish color effectively,
+
+163
+00:07:03,616 --> 00:07:04,833
+I think it's good to draw it
+
+164
+00:07:04,857 --> 00:07:07,031
+a bit cold.
+
+165
+00:07:11,844 --> 00:07:14,218
+I'll choose the areas with mint color.
+
+166
+00:07:14,313 --> 00:07:15,450
+What I'm using right now
+
+167
+00:07:15,475 --> 00:07:16,910
+is the Magic Wand tool.
+
+168
+00:07:17,608 --> 00:07:18,785
+The basic shortcut is probably
+
+169
+00:07:18,810 --> 00:07:20,605
+the W key.
+
+170
+00:07:21,005 --> 00:07:22,935
+So if you press W,
+
+171
+00:07:22,946 --> 00:07:24,995
+you can use it a little faster.
+
+172
+00:07:31,696 --> 00:07:33,897
+I'm going to make the overall brightness a bit darker.
+
+173
+00:07:35,476 --> 00:07:37,033
+And I'm going to make it hard to see.
+
+174
+00:07:37,402 --> 00:07:39,410
+But, I mentioned before that I'm going for a strong impression.
+
+175
+00:07:39,468 --> 00:07:41,876
+Then how come I'm making these hard to see?
+
+176
+00:07:41,901 --> 00:07:43,257
+Because the area I want to show clearly is
+
+177
+00:07:43,282 --> 00:07:44,717
+the face area here.
+
+178
+00:07:44,804 --> 00:07:46,721
+When I first composed this illustration,
+
+179
+00:07:46,746 --> 00:07:47,967
+in other words, when I was drawing the thumbnail,
+
+180
+00:07:47,991 --> 00:07:49,570
+I wanted to make the face the main element.
+
+181
+00:07:49,581 --> 00:07:50,588
+That's what I said,
+
+182
+00:07:50,599 --> 00:07:51,862
+and I'm maintaining it.
+
+183
+00:07:51,873 --> 00:07:54,800
+So, to make the face the main element,
+
+184
+00:07:54,824 --> 00:07:56,992
+I'm only going to make this part strong.
+
+185
+00:08:01,415 --> 00:08:02,614
+Like this.
+
+186
+00:08:10,096 --> 00:08:11,338
+Similarly, I'm going to make the character's eyes
+
+187
+00:08:11,363 --> 00:08:12,567
+give a strong impression.
+
+188
+00:08:12,591 --> 00:08:13,700
+Here's a tip.
+
+189
+00:08:13,725 --> 00:08:16,697
+If you're going to add a lot of descriptions,
+
+190
+00:08:16,815 --> 00:08:19,400
+it might actually be good to put in less description
+
+191
+00:08:19,425 --> 00:08:21,909
+to the area you want to highlight.
+
+192
+00:08:22,091 --> 00:08:24,265
+If there's no description of one area,
+
+193
+00:08:24,290 --> 00:08:26,667
+while there's a lot of description in the other area,
+
+194
+00:08:26,691 --> 00:08:27,800
+the area without description
+
+195
+00:08:27,824 --> 00:08:29,718
+will look a bit intense.
+
+196
+00:08:32,908 --> 00:08:35,414
+That's why this kind of coloring
+
+197
+00:08:35,439 --> 00:08:36,726
+works pretty well.
+
+198
+00:08:38,948 --> 00:08:40,894
+But like I just said,
+
+199
+00:08:40,918 --> 00:08:43,199
+with this coloring,
+
+200
+00:08:43,506 --> 00:08:44,870
+there should be a lot of description in the other areas.
+
+201
+00:08:45,248 --> 00:08:47,327
+So, you need to describe the areas around it.
+
+202
+00:09:02,299 --> 00:09:04,531
+I'll make the center of the head bright
+
+203
+00:09:09,487 --> 00:09:11,507
+and make the center of the teeth bright.
+
+204
+00:09:12,389 --> 00:09:14,513
+I'll put everything in the middle,
+
+205
+00:09:14,538 --> 00:09:16,306
+and I'm going to put in less description for the other areas.
+
+206
+00:09:16,317 --> 00:09:17,240
+And,
+
+207
+00:09:17,251 --> 00:09:19,227
+if you can't see anything in the area with less description,
+
+208
+00:09:19,261 --> 00:09:20,600
+it will be a bit boring,
+
+209
+00:09:20,624 --> 00:09:22,367
+Then it would be nice to
+
+210
+00:09:22,391 --> 00:09:25,016
+see some detail for that area.
+
+211
+00:09:25,187 --> 00:09:26,201
+This circled area
+
+212
+00:09:26,225 --> 00:09:28,225
+is the part we're going to focus on.
+
+213
+00:09:29,112 --> 00:09:30,550
+It's good to arrange a little bit of
+
+214
+00:09:30,575 --> 00:09:32,703
+what you want to show around it.
+
+215
+00:09:32,727 --> 00:09:35,320
+So, what element
+
+216
+00:09:35,433 --> 00:09:36,500
+can play that role?
+
+217
+00:09:36,699 --> 00:09:38,712
+Let's think about that.
+
+218
+00:09:40,607 --> 00:09:41,955
+I'll make the tentacles in front of us
+
+219
+00:09:41,980 --> 00:09:43,914
+darker like this.
+
+220
+00:10:15,675 --> 00:10:17,743
+I'll draw it
+
+221
+00:10:17,754 --> 00:10:18,761
+as I show you
+
+222
+00:10:19,494 --> 00:10:20,501
+a bit of each part.
+
+223
+00:10:20,744 --> 00:10:22,067
+The light coming from the
+
+224
+00:10:22,091 --> 00:10:24,013
+back of this border
+
+225
+00:10:24,202 --> 00:10:25,304
+is called the Backlight.
+
+226
+00:10:25,329 --> 00:10:26,540
+The official name
+
+227
+00:10:26,565 --> 00:10:27,753
+of this light
+
+228
+00:10:27,778 --> 00:10:29,904
+would be Rim Light.
+
+229
+00:10:30,495 --> 00:10:32,394
+The light that comes into the border
+
+230
+00:10:32,418 --> 00:10:33,495
+of the character
+
+231
+00:10:33,520 --> 00:10:35,208
+makes the silhouette
+
+232
+00:10:36,025 --> 00:10:37,798
+quite clear.
+
+233
+00:10:38,335 --> 00:10:40,222
+It's one of the lightings
+
+234
+00:10:40,247 --> 00:10:41,693
+that's used a lot in game illustrations.
+
+235
+00:10:43,708 --> 00:10:45,667
+People use it to the extent that
+
+236
+00:10:45,692 --> 00:10:47,413
+they seem too dependent on Rim Light.
+
+237
+00:10:47,735 --> 00:10:49,005
+So it's important to learn
+
+238
+00:10:49,130 --> 00:10:51,124
+how to use Rim Light.
+
+239
+00:10:51,591 --> 00:10:52,604
+The important thing is
+
+240
+00:10:52,629 --> 00:10:54,116
+that it is a light coming from behind.
+
+241
+00:10:54,141 --> 00:10:56,346
+That's what's important.
+
+242
+00:10:56,587 --> 00:10:59,800
+It's all about coloring
+
+243
+00:10:59,870 --> 00:11:01,403
+where there is light,
+
+244
+00:11:01,427 --> 00:11:02,933
+so it's not about drawing outlines.
+
+245
+00:11:02,957 --> 00:11:04,700
+In the area where the hair is covered,
+
+246
+00:11:04,725 --> 00:11:05,856
+if you think that there would be no light,
+
+247
+00:11:05,881 --> 00:11:07,675
+it's better not to color this part.
+
+248
+00:11:07,699 --> 00:11:09,201
+Or you can add just a little bit of light.
+
+249
+00:11:09,800 --> 00:11:11,104
+Get rid of the areas
+
+250
+00:11:11,129 --> 00:11:12,286
+where there won't be light coming in.
+
+251
+00:11:12,311 --> 00:11:15,013
+It's something very important and simple.
+
+252
+00:11:15,037 --> 00:11:16,527
+But when most people
+
+253
+00:11:16,552 --> 00:11:17,771
+start to put in Rim Light,
+
+254
+00:11:17,796 --> 00:11:19,007
+many people draw it
+
+255
+00:11:19,032 --> 00:11:20,197
+like drawing a border.
+
+256
+00:11:20,893 --> 00:11:23,011
+You have to be careful not to do that.
+
+257
+00:11:31,755 --> 00:11:32,791
+Overall,
+
+258
+00:11:32,802 --> 00:11:34,700
+I'll keep
+
+259
+00:11:34,725 --> 00:11:36,409
+applying blue colors.
+
+260
+00:11:36,644 --> 00:11:38,350
+The Soft Light applied in the middle
+
+261
+00:11:38,375 --> 00:11:39,668
+and the color itself
+
+262
+00:11:39,693 --> 00:11:41,907
+will look bluish.
+
+263
+00:11:44,297 --> 00:11:45,397
+A cool color
+
+264
+00:11:45,421 --> 00:11:47,821
+can give off a cold feeling.
+
+265
+00:11:54,536 --> 00:11:56,400
+So, how are you going to show
+
+266
+00:11:56,424 --> 00:11:57,444
+the border areas
+
+267
+00:11:57,469 --> 00:11:59,133
+that you couldn't see?
+
+268
+00:11:59,157 --> 00:12:00,583
+I'm going to explain it now.
+
+269
+00:12:00,608 --> 00:12:02,590
+We're going to use the highlights.
+
+270
+00:12:02,887 --> 00:12:04,700
+It's similar to what we did before.
+
+271
+00:12:04,787 --> 00:12:06,280
+But I'm going to show the areas I want to show
+
+272
+00:12:08,517 --> 00:12:10,594
+little by little,
+
+273
+00:12:10,619 --> 00:12:12,580
+just like I did when I created a calm character.
+
+274
+00:12:12,935 --> 00:12:14,930
+I'm going to do this by
+
+275
+00:12:15,021 --> 00:12:16,737
+applying the highlights little by little everywhere.
+
+276
+00:12:18,285 --> 00:12:20,000
+Especially the belt.
+
+277
+00:12:20,024 --> 00:12:21,919
+This area where the belt is placed like this.
+
+278
+00:12:21,944 --> 00:12:23,914
+The most effective way to express that is
+
+279
+00:12:23,938 --> 00:12:26,087
+drawing the light coming from the top like this.
+
+280
+00:12:29,237 --> 00:12:30,666
+Do it like this.
+
+281
+00:12:30,690 --> 00:12:31,699
+Yes, that's it.
+
+282
+00:12:31,723 --> 00:12:33,000
+I'm not going to depict this in detail.
+
+283
+00:12:34,386 --> 00:12:35,493
+There are times when I don't express it
+
+284
+00:12:35,518 --> 00:12:37,253
+until it's actually done.
+
+285
+00:12:38,924 --> 00:12:40,733
+You might ask if you can do that,
+
+286
+00:12:40,757 --> 00:12:43,503
+because if you see as you work on it,
+
+287
+00:12:43,527 --> 00:12:45,527
+it might look unfinished.
+
+288
+00:12:45,551 --> 00:12:47,800
+But if you look at it from afar,
+
+289
+00:12:48,185 --> 00:12:50,467
+the belt area is very small,
+
+290
+00:12:50,491 --> 00:12:52,533
+and this area is the top area.
+
+291
+00:12:52,557 --> 00:12:54,033
+That's how it's depicted.
+
+292
+00:12:54,057 --> 00:12:55,970
+So, you don't have to depict anymore from here
+
+293
+00:12:56,232 --> 00:12:58,520
+since it already has three-dimensional details.
+
+294
+00:12:58,693 --> 00:13:00,393
+So, later on,
+
+295
+00:13:00,417 --> 00:13:02,000
+although we would depict this area
+
+296
+00:13:02,024 --> 00:13:03,533
+in more detail later,
+
+297
+00:13:03,557 --> 00:13:05,819
+this is how you would control the amount of description.
+
+298
+00:13:06,332 --> 00:13:07,998
+The subtraction itself,
+
+299
+00:13:08,396 --> 00:13:09,896
+where you exclude the detail
+
+300
+00:13:10,053 --> 00:13:11,700
+in the unnecessary sections,
+
+301
+00:13:11,724 --> 00:13:12,927
+is very important.
+
+302
+00:13:13,099 --> 00:13:15,610
+Especially for those who are drawing for the first time,
+
+303
+00:13:15,634 --> 00:13:18,298
+or for those who have the desire to draw cool illustrations,
+
+304
+00:13:19,396 --> 00:13:21,433
+and especially for those who
+
+305
+00:13:21,457 --> 00:13:22,533
+want to make something look cool,
+
+306
+00:13:22,557 --> 00:13:25,612
+I've seen a lot of cases where they can't control the amount of description.
+
+307
+00:13:26,782 --> 00:13:28,700
+The problem that usually happens
+
+308
+00:13:28,724 --> 00:13:30,982
+doesn't happen because there's no detail
+
+309
+00:13:31,006 --> 00:13:33,598
+or because they can't depict it well.
+
+310
+00:13:33,651 --> 00:13:34,817
+The most common problem happens because
+
+311
+00:13:34,842 --> 00:13:36,751
+there is too much description.
+
+312
+00:13:37,587 --> 00:13:39,467
+Because there is too much description,
+
+313
+00:13:39,491 --> 00:13:42,133
+and because you can't control the amount of description,
+
+314
+00:13:42,157 --> 00:13:44,615
+the amount of description keeps being divided.
+
+315
+00:13:44,639 --> 00:13:48,321
+There's too much description here and there.
+
+316
+00:13:48,460 --> 00:13:50,791
+The area that will be shown has been decided.
+
+317
+00:13:50,815 --> 00:13:52,833
+We decided to show the face.
+
+318
+00:13:53,097 --> 00:13:55,107
+I'm not going to show the bottom too much.
+
+319
+00:13:55,181 --> 00:13:56,322
+Then the part that won't be shown
+
+320
+00:13:56,347 --> 00:13:57,822
+won't need to be put into detail that much.
+
+321
+00:13:58,099 --> 00:13:59,713
+Because that area won't be shown.
+
+322
+00:14:00,083 --> 00:14:01,096
+The description
+
+323
+00:14:01,107 --> 00:14:02,899
+will be placed in the areas that you want to show the viewers.
+
+324
+00:14:03,298 --> 00:14:05,767
+Depict the areas in detail
+
+325
+00:14:05,791 --> 00:14:07,759
+that you want the viewers to see.
+
+326
+00:14:07,783 --> 00:14:09,000
+If the area
+
+327
+00:14:09,024 --> 00:14:10,849
+is not that important,
+
+328
+00:14:10,860 --> 00:14:11,800
+it's a good method to
+
+329
+00:14:11,824 --> 00:14:13,367
+just take out
+
+330
+00:14:13,391 --> 00:14:14,867
+the descriptive details.
+
+331
+00:14:17,401 --> 00:14:18,513
+I'm telling you this
+
+332
+00:14:18,524 --> 00:14:20,533
+because I hope
+
+333
+00:14:20,557 --> 00:14:22,527
+you can change your perception.
+
+334
+00:14:22,551 --> 00:14:23,934
+Description is not compulsory
+
+335
+00:14:23,944 --> 00:14:25,023
+in illustrations.
+
+336
+00:14:25,034 --> 00:14:26,164
+Gradations
+
+337
+00:14:26,211 --> 00:14:28,291
+or descriptions are actually sub elements.
+
+338
+00:14:28,789 --> 00:14:31,694
+It's almost done when the lighting starts...
+
+339
+00:14:31,718 --> 00:14:33,053
+Even if I just do this,
+
+340
+00:14:33,078 --> 00:14:35,091
+and if it looks complete from far away,
+
+341
+00:14:35,126 --> 00:14:36,306
+it will be a success.
+
+342
+00:14:36,442 --> 00:14:38,565
+But at that point, the description
+
+343
+00:14:38,590 --> 00:14:40,145
+would just be the sub element.
+
+344
+00:14:40,291 --> 00:14:42,228
+Rather than betting your life on the sub-elements,
+
+345
+00:14:42,253 --> 00:14:44,619
+and making the form distorted,
+
+346
+00:14:44,963 --> 00:14:46,791
+it's better to exclude some of the descriptions
+
+347
+00:14:46,815 --> 00:14:48,878
+and put them in areas that you want to highlight.
+
+348
+00:14:48,902 --> 00:14:50,933
+So, likewise, you can draw the best picture
+
+349
+00:14:51,032 --> 00:14:53,890
+you can with your current drawing skills.
+
+350
+00:14:55,093 --> 00:14:57,374
+In other words, if you're still not good at describing,
+
+351
+00:14:57,384 --> 00:14:58,443
+then you don't have to
+
+352
+00:14:58,454 --> 00:15:01,104
+forcefully increase the amount of description.
+
+353
+00:15:02,201 --> 00:15:04,067
+So, people usually ask me
+
+354
+00:15:04,091 --> 00:15:05,485
+how should they describe a character
+
+355
+00:15:05,509 --> 00:15:06,733
+and how they should touch it up.
+
+356
+00:15:06,757 --> 00:15:07,951
+I get a lot of questions like this.
+
+357
+00:15:07,975 --> 00:15:09,687
+But, touching up a drawing
+
+358
+00:15:09,712 --> 00:15:11,772
+has similarities with the actual drawing process.
+
+359
+00:15:11,796 --> 00:15:13,024
+So, your skills won't increase
+
+360
+00:15:13,049 --> 00:15:14,622
+right at once.
+
+361
+00:15:14,757 --> 00:15:16,896
+We'll see this later on and
+
+362
+00:15:16,920 --> 00:15:18,382
+I'll explain it further then.
+
+363
+00:15:18,406 --> 00:15:20,106
+But I normally call it brush power.
+
+364
+00:15:20,130 --> 00:15:22,828
+If you want to master
+
+365
+00:15:24,128 --> 00:15:25,476
+brush power,
+
+366
+00:15:25,500 --> 00:15:27,984
+you can say that it takes around a few years.
+
+367
+00:15:28,009 --> 00:15:30,828
+It's something you need to learn naturally as you draw,
+
+368
+00:15:30,852 --> 00:15:33,862
+so, for now, just learn that
+
+369
+00:15:33,887 --> 00:15:35,523
+you will come to acquire the necessary skills later on.
+
+370
+00:15:35,851 --> 00:15:37,218
+Don't focus too much on things like
+
+371
+00:15:37,242 --> 00:15:39,101
+gradation and description.
+
+372
+00:15:39,164 --> 00:15:42,054
+When you want to express a drawing,
+
+373
+00:15:42,078 --> 00:15:43,554
+especially a specialized drawing,
+
+374
+00:15:43,578 --> 00:15:45,875
+when you just use the lighting well,
+
+375
+00:15:45,899 --> 00:15:48,718
+you can make your drawing look complete.
+
+376
+00:15:48,750 --> 00:15:50,170
+In fact, right now,
+
+377
+00:15:50,194 --> 00:15:52,578
+I didn't put in too much description.
+
+378
+00:15:52,603 --> 00:15:54,726
+I only gave light to the top.
+
+379
+00:15:54,750 --> 00:15:55,976
+But wouldn't it be hard to
+
+380
+00:15:56,000 --> 00:15:57,437
+call it a proper description?
+
+381
+00:15:58,803 --> 00:16:00,320
+That's all I described.
+
+382
+00:16:00,344 --> 00:16:01,668
+That's it.
+
+383
+00:16:01,692 --> 00:16:02,507
+There's nothing special.
+
+384
+00:16:02,531 --> 00:16:03,867
+You can even count
+
+385
+00:16:04,148 --> 00:16:05,421
+the creases on the clothes.
+
+386
+00:16:05,445 --> 00:16:06,804
+I think maybe I drew around five.
+
+387
+00:16:08,116 --> 00:16:09,466
+So, even if I drew around that much,
+
+388
+00:16:09,490 --> 00:16:11,515
+the overall form of the illustration will be settled.
+
+389
+00:16:11,539 --> 00:16:13,539
+I don't even need more creases for this area.
+
+390
+00:16:13,874 --> 00:16:15,326
+It's not where you want to show it, right?
+
+391
+00:16:16,412 --> 00:16:18,257
+If you can just clearly show
+
+392
+00:16:18,281 --> 00:16:19,711
+this top area, which is the area we want to show,
+
+393
+00:16:19,735 --> 00:16:21,867
+you don't need to describe the rest of the illustration.
+
+394
+00:16:22,832 --> 00:16:23,895
+Remember that
+
+395
+00:16:23,919 --> 00:16:25,296
+they're the additional elements.
+
+396
+00:16:25,661 --> 00:16:27,047
+Please don't forget that.
+
+397
+00:16:27,951 --> 00:16:30,662
+I was talking about contrast before.
+
+398
+00:16:30,686 --> 00:16:32,850
+I think I told you that
+
+399
+00:16:33,001 --> 00:16:35,231
+when there's the Cast Shadow and the Form Shadow,
+
+400
+00:16:35,255 --> 00:16:37,722
+the Cast Shadow is the shadow between objects.
+
+401
+00:16:37,746 --> 00:16:40,000
+The Form Shadow forms because of
+
+402
+00:16:40,024 --> 00:16:42,196
+the object's three-dimensional form.
+
+403
+00:16:42,220 --> 00:16:43,702
+That's what I said.
+
+404
+00:16:43,726 --> 00:16:45,627
+I also explained
+
+405
+00:16:45,651 --> 00:16:47,945
+that because Form Shadow has less contrast
+
+406
+00:16:47,969 --> 00:16:49,952
+than a Cast Shadow,
+
+407
+00:16:50,870 --> 00:16:53,333
+people usually work on Cast Shadow first.
+
+408
+00:16:53,357 --> 00:16:54,945
+That's what I said.
+
+409
+00:16:57,447 --> 00:16:59,632
+With creases on clothes,
+
+410
+00:16:59,656 --> 00:17:01,053
+they are actually
+
+411
+00:17:01,064 --> 00:17:03,569
+a mixture of Cast Shadow and Form Shadow.
+
+412
+00:17:03,769 --> 00:17:05,371
+For example,
+
+413
+00:17:06,013 --> 00:17:07,871
+there are creases on the shirt,
+
+414
+00:17:10,324 --> 00:17:12,267
+like this one on the shirt.
+
+415
+00:17:14,080 --> 00:17:16,692
+For deep creases on clothes, when the light comes in,
+
+416
+00:17:16,716 --> 00:17:18,049
+there will be shadows.
+
+417
+00:17:18,200 --> 00:17:20,392
+This won't create a shadow like that.
+
+418
+00:17:20,565 --> 00:17:22,132
+So in this case, Form Shadow,
+
+419
+00:17:22,320 --> 00:17:23,922
+if it sticks out like this,
+
+420
+00:17:23,946 --> 00:17:25,314
+Cast Shadow is applied.
+
+421
+00:17:25,338 --> 00:17:26,500
+Of course, that works like that.
+
+422
+00:17:26,524 --> 00:17:27,985
+But let's take a look at this.
+
+423
+00:17:28,712 --> 00:17:29,775
+This one doesn't protrude up
+
+424
+00:17:29,785 --> 00:17:31,181
+that much.
+
+425
+00:17:31,275 --> 00:17:33,674
+The amount of light on this side and that side,
+
+426
+00:17:33,698 --> 00:17:35,698
+has no dramatic difference.
+
+427
+00:17:35,855 --> 00:17:37,303
+Unless...
+
+428
+00:17:40,849 --> 00:17:42,601
+So in a case like this,
+
+429
+00:17:42,625 --> 00:17:43,688
+it's important to express the creases,
+
+430
+00:17:44,017 --> 00:17:45,366
+applying low contrast,
+
+431
+00:17:45,390 --> 00:17:47,274
+to make it so that there's not much difference.
+
+432
+00:17:53,368 --> 00:17:55,323
+Just like this,
+
+433
+00:17:55,334 --> 00:17:56,355
+adjust it gently.
+
+434
+00:17:56,911 --> 00:17:58,081
+If there's low contrast,
+
+435
+00:17:58,105 --> 00:17:59,509
+when you look at it in black and white,
+
+436
+00:17:59,596 --> 00:18:01,348
+the difference between bright and dark parts
+
+437
+00:18:01,372 --> 00:18:03,323
+has to be tiny.
+
+438
+00:18:06,066 --> 00:18:07,136
+When you look at it like this,
+
+439
+00:18:07,160 --> 00:18:08,628
+it'd be good if the difference
+
+440
+00:18:08,652 --> 00:18:10,077
+between the bright and dark parts come out less.
+
+441
+00:18:17,861 --> 00:18:19,294
+It looks like this.
+
+442
+00:18:19,305 --> 00:18:20,581
+But the background gets dark,
+
+443
+00:18:20,612 --> 00:18:23,060
+and just by making the middle part stand out,
+
+444
+00:18:23,077 --> 00:18:24,452
+the illustration already gets
+
+445
+00:18:24,476 --> 00:18:26,263
+more intense to some extent.
+
+446
+00:18:26,478 --> 00:18:28,422
+Of course, I won't finish it here.
+
+447
+00:18:41,064 --> 00:18:42,350
+I said that
+
+448
+00:18:42,374 --> 00:18:45,253
+I'd put some highlights on the outer edge
+
+449
+00:18:45,278 --> 00:18:48,260
+to show you a few of the gazes,
+
+450
+00:18:48,284 --> 00:18:49,951
+but that doesn't seem to be honest.
+
+451
+00:18:49,975 --> 00:18:51,019
+So far,
+
+452
+00:18:52,636 --> 00:18:54,652
+what else can I use at this point?
+
+453
+00:18:54,676 --> 00:18:56,023
+At this point as well.
+
+454
+00:18:56,047 --> 00:18:57,607
+Let's think about it.
+
+455
+00:18:58,170 --> 00:19:00,697
+An element that gives you a strong impression.
+
+456
+00:19:00,721 --> 00:19:02,181
+It shouldn't be too cute.
+
+457
+00:19:02,551 --> 00:19:04,005
+Then,
+
+458
+00:19:04,016 --> 00:19:05,483
+what elements can I use?
+
+459
+00:19:05,706 --> 00:19:07,777
+I think there might be a liquid.
+
+460
+00:19:07,801 --> 00:19:09,738
+Because the character uses tentacles,
+
+461
+00:19:10,442 --> 00:19:11,876
+we can make
+
+462
+00:19:12,957 --> 00:19:15,285
+liquid flow around its tentacle.
+
+463
+00:19:28,616 --> 00:19:30,547
+We can make the liquid sticky
+
+464
+00:19:31,253 --> 00:19:32,422
+over here.
+
+465
+00:19:37,792 --> 00:19:38,842
+Or, I can just
+
+466
+00:19:38,853 --> 00:19:40,212
+draw an eye over here
+
+467
+00:19:40,236 --> 00:19:41,246
+in the mouth.
+
+468
+00:19:42,181 --> 00:19:44,627
+Then, it would look scary overall.
+
+469
+00:19:44,638 --> 00:19:47,053
+These elements would look good.
+
+470
+00:19:48,035 --> 00:19:50,512
+I can put in these elements around it too.
+
+471
+00:19:58,091 --> 00:19:59,361
+Scary, right?
+
+472
+00:20:04,576 --> 00:20:06,629
+Let's work on it by increasing
+
+473
+00:20:07,192 --> 00:20:08,390
+these kinds of things.
+
+474
+00:20:15,882 --> 00:20:17,573
+On the bottom of the background,
+
+475
+00:20:18,037 --> 00:20:19,491
+draw something like this,
+
+476
+00:20:24,861 --> 00:20:26,721
+to make it look like blood,
+
+477
+00:20:26,745 --> 00:20:27,769
+so that we could express
+
+478
+00:20:28,775 --> 00:20:30,571
+the violence
+
+479
+00:20:30,595 --> 00:20:32,921
+of the character.
+
+480
+00:20:32,945 --> 00:20:34,654
+Let's put them in place like this.
+
+481
+00:20:40,941 --> 00:20:43,485
+So that the middle part of the eye can be a point,
+
+482
+00:20:43,510 --> 00:20:46,127
+use the eye makeup that we used
+
+483
+00:20:46,364 --> 00:20:47,881
+when we were working on the calm character.
+
+484
+00:20:59,991 --> 00:21:01,843
+You can see that
+
+485
+00:21:01,854 --> 00:21:02,916
+the overall makeup we used
+
+486
+00:21:02,940 --> 00:21:05,076
+is similar to a calm character.
+
+487
+00:21:05,100 --> 00:21:06,226
+But, even so,
+
+488
+00:21:06,250 --> 00:21:08,946
+you should use the methods you used for creating a cute character too.
+
+489
+00:21:08,970 --> 00:21:10,757
+That way, we can make it have a strong impact.
+
+490
+00:21:11,903 --> 00:21:13,399
+For a strong impact,
+
+491
+00:21:13,423 --> 00:21:15,648
+make sure the viewers focus on a certain area.
+
+492
+00:21:15,672 --> 00:21:17,284
+Oh, this is where the viewers would focus.
+
+493
+00:21:17,309 --> 00:21:19,230
+You should decide things like that.
+
+494
+00:21:19,254 --> 00:21:21,780
+Other than that area, the viewers shouldn't be focusing on the other areas.
+
+495
+00:21:21,930 --> 00:21:24,029
+But, there should be a strong contrast.
+
+496
+00:21:24,040 --> 00:21:26,134
+It should overall be bright.
+
+497
+00:21:27,571 --> 00:21:29,977
+That way, the main element
+
+498
+00:21:30,001 --> 00:21:31,929
+will give a strong impression.
+
+499
+00:21:32,180 --> 00:21:34,990
+So, if you look at the difference,
+
+500
+00:21:35,014 --> 00:21:37,263
+when you show a cute character,
+
+501
+00:21:37,287 --> 00:21:39,188
+overall, it has an exciting feeling.
+
+502
+00:21:44,970 --> 00:21:47,299
+You should make it look exciting.
+
+503
+00:21:47,323 --> 00:21:48,634
+This is the main area.
+
+504
+00:21:50,475 --> 00:21:52,874
+These areas are additional areas.
+
+505
+00:21:53,899 --> 00:21:55,480
+So, when you express them,
+
+506
+00:21:56,860 --> 00:21:59,246
+you should highlight the main area,
+
+507
+00:21:59,270 --> 00:22:00,864
+but you also have to highlight the additional areas.
+
+508
+00:22:00,888 --> 00:22:02,888
+Let's say 0 is around here.
+
+509
+00:22:03,010 --> 00:22:05,010
+Then, if you're drawing a calm character,
+
+510
+00:22:05,586 --> 00:22:07,987
+you won't describe the parts that you won't highlight.
+
+511
+00:22:08,011 --> 00:22:09,742
+Of course, you need to highlight some areas.
+
+512
+00:22:09,766 --> 00:22:11,382
+But, these areas won't be that strong.
+
+513
+00:22:11,406 --> 00:22:13,442
+That way, it will be overall calm.
+
+514
+00:22:14,388 --> 00:22:15,416
+The main area.
+
+515
+00:22:16,618 --> 00:22:18,494
+With a character with a strong impression,
+
+516
+00:22:18,504 --> 00:22:19,514
+you won't highlight
+
+517
+00:22:19,538 --> 00:22:21,240
+the areas that you shouldn't highlight.
+
+518
+00:22:21,264 --> 00:22:22,710
+I'll dramatically highlight the parts I want to highlight.
+
+519
+00:22:22,734 --> 00:22:24,507
+Other areas won't be highlighted.
+
+520
+00:22:25,321 --> 00:22:26,339
+Main area.
+
+521
+00:22:26,818 --> 00:22:28,264
+There's this difference.
+
+522
+00:22:28,608 --> 00:22:30,260
+So, if you decide
+
+523
+00:22:30,285 --> 00:22:32,064
+how much you'll highlight certain areas,
+
+524
+00:22:32,088 --> 00:22:33,868
+your final result will be closer
+
+525
+00:22:33,892 --> 00:22:35,203
+to the image you want.
+
+526
+00:22:47,044 --> 00:22:49,685
+I'm going to add some liquid to the hat.
+
+527
+00:22:51,170 --> 00:22:52,436
+I'll make the overall gaze
+
+528
+00:22:52,460 --> 00:22:53,868
+flow downwards.
+
+529
+00:22:53,892 --> 00:22:56,183
+But, I'm going to maintain the character's calm gaze.
+
+530
+00:22:56,513 --> 00:22:58,428
+I want to give it a cold feeling.
+
+531
+00:22:58,615 --> 00:23:01,029
+If I wanted to make this illustration feel powerful,
+
+532
+00:23:01,040 --> 00:23:03,229
+I would have used a gaze that flows from bottom to top.
+
+533
+00:23:04,552 --> 00:23:06,698
+But if I use that kind of gaze flow,
+
+534
+00:23:06,722 --> 00:23:08,557
+I won't be able to
+
+535
+00:23:08,581 --> 00:23:10,149
+create a mood
+
+536
+00:23:10,173 --> 00:23:12,057
+where the character looks extremely calm.
+
+537
+00:23:12,081 --> 00:23:13,563
+So, I'll just use the gaze
+
+538
+00:23:13,587 --> 00:23:15,487
+that goes downwards.
+
+539
+00:23:15,675 --> 00:23:17,101
+The shape itself
+
+540
+00:23:17,126 --> 00:23:19,294
+looks like a triangle.
+
+541
+00:23:19,318 --> 00:23:22,164
+So, this object will make
+
+542
+00:23:22,175 --> 00:23:23,585
+the gaze go down.
+
+543
+00:23:28,308 --> 00:23:29,948
+Depending on your directing skills,
+
+544
+00:23:29,959 --> 00:23:31,369
+you can put these in, too.
+
+545
+00:23:36,363 --> 00:23:38,701
+It's okay to add them in bit by bit.
+
+546
+00:23:38,924 --> 00:23:40,886
+So, I can put it in like this.
+
+547
+00:23:40,911 --> 00:23:43,226
+But, if this becomes too much,
+
+548
+00:23:43,626 --> 00:23:45,520
+the overall mood could change.
+
+549
+00:23:45,885 --> 00:23:47,367
+Let's add just a little bit.
+
+550
+00:23:50,309 --> 00:23:52,246
+It'd be nice to have some fog.
+
+551
+00:23:52,860 --> 00:23:53,871
+I'll spray it.
+
+552
+00:23:54,549 --> 00:23:55,819
+I'll use the Eraser tool, too.
+
+553
+00:23:58,617 --> 00:24:00,617
+I'm going to use a fun method here.
+
+554
+00:24:01,570 --> 00:24:03,570
+I don't want to just use it like this.
+
+555
+00:24:04,338 --> 00:24:05,769
+So,
+
+556
+00:24:05,977 --> 00:24:07,759
+see this paint can on the left?
+
+557
+00:24:07,783 --> 00:24:09,860
+If you look at the bottom, there is the Smudge Tool.
+
+558
+00:24:10,032 --> 00:24:11,451
+But,
+
+559
+00:24:11,475 --> 00:24:12,559
+you can use it as another function.
+
+560
+00:24:12,583 --> 00:24:14,171
+Some people see it as a Blur Tool.
+
+561
+00:24:14,195 --> 00:24:15,954
+Please change this to the Smudge Tool.
+
+562
+00:24:16,481 --> 00:24:18,922
+This Smudge Tool pushes things out.
+
+563
+00:24:18,946 --> 00:24:21,103
+It's like pushing something with our hands.
+
+564
+00:24:23,470 --> 00:24:24,810
+The downside is that it uses up
+
+565
+00:24:24,834 --> 00:24:26,309
+too much of your computer's memory.
+
+566
+00:24:26,333 --> 00:24:27,893
+So, if your computer has low memory,
+
+567
+00:24:27,917 --> 00:24:30,045
+be careful when you use it.
+
+568
+00:24:30,069 --> 00:24:31,671
+If you make a mistake, the file could be erased.
+
+569
+00:24:31,695 --> 00:24:33,589
+So, it's good to save periodically as you're working.
+
+570
+00:24:33,613 --> 00:24:35,861
+So I drew some fog around it.
+
+571
+00:24:35,885 --> 00:24:38,560
+That Smudge Tool is the best tool to edit this form.
+
+572
+00:24:39,791 --> 00:24:41,493
+It's hard to draw while erasing everything.
+
+573
+00:24:41,517 --> 00:24:42,708
+It's a bit uncomfortable.
+
+574
+00:24:43,739 --> 00:24:46,046
+Like this, I'll create a fog
+
+575
+00:24:46,070 --> 00:24:47,516
+that lurks at the bottom.
+
+576
+00:24:47,540 --> 00:24:49,469
+It brings out the dreary atmosphere.
+
+577
+00:24:49,585 --> 00:24:50,925
+And for the gaze,
+
+578
+00:24:50,949 --> 00:24:52,239
+I'll make it
+
+579
+00:24:52,852 --> 00:24:54,277
+go to the bottom.
+
+580
+00:24:55,365 --> 00:24:58,326
+Make the gaze go right and left.
+
+581
+00:24:58,350 --> 00:24:59,549
+For the overall composition,
+
+582
+00:24:59,573 --> 00:25:01,167
+I'm going to use a triangular composition
+
+583
+00:25:01,191 --> 00:25:03,248
+that we learned before.
+
+584
+00:25:04,586 --> 00:25:07,099
+Using the overall triangular silhouette,
+
+585
+00:25:07,585 --> 00:25:09,890
+I'll arrange it
+
+586
+00:25:09,914 --> 00:25:12,295
+so that the gaze goes downwards
+
+587
+00:25:12,319 --> 00:25:13,667
+to create a calm image.
+
+588
+00:25:24,761 --> 00:25:26,889
+Let's use what we used before.
+
+589
+00:25:26,913 --> 00:25:29,264
+We used this briefly for creating cute characters.
+
+590
+00:25:30,105 --> 00:25:31,993
+Remember when we used the Fade Out effect?
+
+591
+00:25:32,018 --> 00:25:34,020
+As I said before, with this illustration,
+
+592
+00:25:34,044 --> 00:25:36,696
+the viewers need to focus on the middle part.
+
+593
+00:25:36,720 --> 00:25:39,113
+As such, unnecessary sections
+
+594
+00:25:39,137 --> 00:25:40,601
+should be removed.
+
+595
+00:25:46,385 --> 00:25:48,419
+I'm going to use the Multiply Layer.
+
+596
+00:25:50,681 --> 00:25:52,279
+Let's create areas
+
+597
+00:25:52,303 --> 00:25:53,332
+that can't be seen.
+
+598
+00:25:54,964 --> 00:25:56,362
+When I was creating a cute character,
+
+599
+00:25:56,386 --> 00:25:57,544
+I applied this lightly.
+
+600
+00:25:57,568 --> 00:25:59,409
+But, you don't have to apply this lightly now.
+
+601
+00:26:00,395 --> 00:26:01,466
+When it's bright,
+
+602
+00:26:01,491 --> 00:26:02,747
+it's actually better.
+
+603
+00:26:26,810 --> 00:26:29,423
+To make the background look more intense,
+
+604
+00:26:29,447 --> 00:26:31,501
+I'll apply lots of key colors,
+
+605
+00:26:31,525 --> 00:26:32,845
+and I'll continue.
+
+606
+00:26:33,181 --> 00:26:35,506
+Because I'm coloring the areas around the character's face,
+
+607
+00:26:35,530 --> 00:26:37,293
+it will be okay to apply it
+
+608
+00:26:37,785 --> 00:26:38,933
+when it's applied just a bit.
+
+609
+00:26:38,957 --> 00:26:41,511
+But if you apply it too much, viewers can't focus on the face.
+
+610
+00:26:41,535 --> 00:26:43,329
+The point is to control the amount of color.
+
+611
+00:27:00,334 --> 00:27:03,366
+Use it to make the drawing look more intense.
+
+612
+00:27:03,487 --> 00:27:05,746
+This character's mouth is currently blue.
+
+613
+00:27:05,942 --> 00:27:08,636
+It has a very unique design with a tongue.
+
+614
+00:27:09,285 --> 00:27:10,850
+So, I'm going to utilize this
+
+615
+00:27:10,874 --> 00:27:12,209
+and hang these objects.
+
+616
+00:27:12,420 --> 00:27:13,517
+It looks as if it's drooling.
+
+617
+00:27:15,650 --> 00:27:17,352
+The impression
+
+618
+00:27:17,376 --> 00:27:18,595
+will be very intense.
+
+619
+00:27:19,154 --> 00:27:20,787
+Before and after.
+
+620
+00:27:22,149 --> 00:27:24,517
+Of course, if I want to give it a serious look,
+
+621
+00:27:24,541 --> 00:27:26,392
+it's okay to leave these out.
+
+622
+00:27:28,076 --> 00:27:30,709
+Instead, you can add bloodstains.
+
+623
+00:27:49,751 --> 00:27:51,732
+If you do it like this,
+
+624
+00:27:51,756 --> 00:27:53,720
+the character will give off
+
+625
+00:27:53,744 --> 00:27:55,268
+a very strong impression.
+
+626
+00:27:55,293 --> 00:27:57,543
+I'll display it
+
+627
+00:27:57,567 --> 00:27:58,939
+with the other illustrations I did before.
+
+628
+00:28:14,538 --> 00:28:16,731
+These are the three illustrations that we did.
+
+629
+00:28:17,109 --> 00:28:18,367
+The basics.
+
+630
+00:28:18,708 --> 00:28:22,533
+Cute, calm, and strong.
+
+631
+00:28:22,557 --> 00:28:23,986
+You'll be able to see something different
+
+632
+00:28:24,010 --> 00:28:26,049
+from the overall impressions.
+
+633
+00:28:26,585 --> 00:28:29,525
+Like this, you can create various moods
+
+634
+00:28:29,536 --> 00:28:30,653
+with illustrations.
+
+635
+00:28:30,677 --> 00:28:32,679
+Even if it's based on the same sketch,
+
+636
+00:28:32,703 --> 00:28:34,703
+there's a difference in the mood.
+
+637
+00:28:35,044 --> 00:28:37,536
+So, it's important to use these
+
+638
+00:28:37,560 --> 00:28:38,996
+to create the image
+
+639
+00:28:39,021 --> 00:28:40,024
+and compose it
+
+640
+00:28:40,048 --> 00:28:41,846
+and express what you've composed.
+
+641
+00:28:41,937 --> 00:28:43,736
+You should keep practicing like that.
+
+642
+00:28:43,760 --> 00:28:45,169
+It's very important.
+
+643
+00:28:49,660 --> 00:28:51,106
+Now that we've done it up to here,
+
+644
+00:28:51,131 --> 00:28:52,268
+I'm going to create another mood
+
+645
+00:28:54,510 --> 00:28:56,247
+for this character.
+
+646
+00:28:56,271 --> 00:28:58,466
+I'm going to use another method this time.
+
+647
+00:28:58,490 --> 00:29:00,861
+Earlier, we created atmospheres
+
+648
+00:29:00,885 --> 00:29:02,684
+according to the mood we wanted to create.
+
+649
+00:29:06,952 --> 00:29:09,351
+This time, let's give a reason
+
+650
+00:29:09,577 --> 00:29:11,007
+that's a bit different from that.
+
+651
+00:29:21,331 --> 00:29:24,110
+This time, I'm going to create canvases
+
+652
+00:29:24,134 --> 00:29:26,866
+that become different depending on
+
+653
+00:29:27,363 --> 00:29:29,433
+the color you want to use,
+
+654
+00:29:29,457 --> 00:29:30,590
+the lighting you intend to give,
+
+655
+00:29:30,614 --> 00:29:32,657
+or the background you intend to use.
+
+656
+00:29:32,967 --> 00:29:34,033
+Background color.
+
+657
+00:29:34,043 --> 00:29:36,532
+While learning about lighting,
+
+658
+00:29:36,557 --> 00:29:39,173
+we studied background color.
+
+659
+00:29:39,198 --> 00:29:40,881
+Now, let's use it
+
+660
+00:29:40,905 --> 00:29:41,988
+in the actual drawing process.
+
+661
+00:29:41,999 --> 00:29:43,006
+What kind of backgrounds
+
+662
+00:29:43,030 --> 00:29:44,032
+are commonly used?
+
+663
+00:29:44,056 --> 00:29:45,881
+There could be an outdoor background.
+
+664
+00:29:45,905 --> 00:29:47,711
+Especially, we could use different times of the day
+
+665
+00:29:47,735 --> 00:29:50,991
+such as morning, afternoon, evening,
+
+666
+00:29:51,170 --> 00:29:52,444
+night, and dusk.
+
+667
+00:29:52,469 --> 00:29:54,834
+You can use these times roughly.
+
+668
+00:29:55,150 --> 00:29:57,100
+Then, let's see how we can show them
+
+669
+00:29:57,124 --> 00:29:58,991
+based on the lighting.
+
+670
+00:29:59,102 --> 00:30:01,121
+Let's edit as we go on.
+
+671
+00:30:01,477 --> 00:30:02,793
+First of all,
+
+672
+00:30:05,218 --> 00:30:06,689
+let's say you want to organize
+
+673
+00:30:06,714 --> 00:30:08,616
+a daytime background.
+
+674
+00:30:08,641 --> 00:30:11,069
+Let's think about the characteristics of daylight.
+
+675
+00:30:11,305 --> 00:30:13,215
+I'm going to draw the backgrounds.
+
+676
+00:30:13,591 --> 00:30:15,183
+I'm not going to draw it in detail.
+
+677
+00:30:15,749 --> 00:30:17,975
+For people who think
+
+678
+00:30:17,999 --> 00:30:19,002
+it's so hard to draw the background,
+
+679
+00:30:19,012 --> 00:30:21,402
+then, it'd be good to Photoshop your illustration with a reference.
+
+680
+00:30:22,696 --> 00:30:24,871
+When you use photos,
+
+681
+00:30:24,895 --> 00:30:27,126
+it'd be nice if you do the filtering as well.
+
+682
+00:30:27,151 --> 00:30:28,694
+If you click,
+
+683
+00:30:29,472 --> 00:30:33,001
+[Filter] - [Filter Gallery],
+
+684
+00:30:33,607 --> 00:30:34,996
+if you click in here,
+
+685
+00:30:35,102 --> 00:30:37,277
+a Photoshop window pops up,
+
+686
+00:30:37,931 --> 00:30:39,064
+things like this come up,
+
+687
+00:30:39,088 --> 00:30:40,975
+and there are many effects.
+
+688
+00:30:41,196 --> 00:30:42,543
+Try to control anything,
+
+689
+00:30:42,568 --> 00:30:44,121
+find the effect that you want,
+
+690
+00:30:44,155 --> 00:30:45,340
+and apply it.
+
+691
+00:30:46,009 --> 00:30:48,486
+By using that to edit the photos,
+
+692
+00:30:48,511 --> 00:30:50,407
+you can make it as the background of your illustration.
+
+693
+00:30:50,785 --> 00:30:51,911
+First of all,
+
+694
+00:30:51,935 --> 00:30:53,470
+I'll draw one and use it.
+
+695
+00:30:54,591 --> 00:30:56,027
+Let's set it up to be outside
+
+696
+00:30:56,051 --> 00:30:58,152
+on a sunny day.
+
+697
+00:30:59,404 --> 00:31:01,340
+There are clouds,
+
+698
+00:31:12,065 --> 00:31:13,857
+and although it doesn't fit the character,
+
+699
+00:31:13,881 --> 00:31:16,098
+you can imagine that this character went out on a picnic.
+
+700
+00:31:20,888 --> 00:31:23,030
+I'll make the floor look like asphalt.
+
+701
+00:31:40,907 --> 00:31:41,955
+Something like this.
+
+702
+00:31:41,966 --> 00:31:43,384
+It becomes a bright background.
+
+703
+00:31:43,409 --> 00:31:45,348
+Let's think about the conditions of daylight.
+
+704
+00:31:45,372 --> 00:31:47,072
+What color is the sunlight?
+
+705
+00:31:47,096 --> 00:31:48,419
+Actually, the sunlight
+
+706
+00:31:48,444 --> 00:31:50,145
+is called white light.
+
+707
+00:31:50,169 --> 00:31:52,354
+It includes all kinds of colors.
+
+708
+00:31:52,378 --> 00:31:53,696
+But among them,
+
+709
+00:31:53,720 --> 00:31:56,499
+it's a bit on the yellowish side.
+
+710
+00:31:56,524 --> 00:31:58,476
+If you look at pictures of the sun in space,
+
+711
+00:31:58,501 --> 00:32:00,212
+it's burning yellow.
+
+712
+00:32:00,237 --> 00:32:01,754
+So much so that,
+
+713
+00:32:01,778 --> 00:32:03,072
+to a certain extent,
+
+714
+00:32:03,096 --> 00:32:04,223
+the yellow light is a bit strong.
+
+715
+00:32:04,247 --> 00:32:05,603
+So, the sections which are exposed to the sunlight
+
+716
+00:32:05,628 --> 00:32:06,702
+tend to have
+
+717
+00:32:06,726 --> 00:32:08,270
+a bit of a reddish color.
+
+718
+00:32:09,089 --> 00:32:11,634
+So, under the premise that this character
+
+719
+00:32:11,659 --> 00:32:13,155
+is the area that receives light,
+
+720
+00:32:13,179 --> 00:32:15,410
+overall, a yellow color
+
+721
+00:32:15,435 --> 00:32:16,879
+is added to the canvas.
+
+722
+00:32:17,606 --> 00:32:18,827
+The shadow area,
+
+723
+00:32:18,981 --> 00:32:20,686
+well, it's different case by case,
+
+724
+00:32:20,710 --> 00:32:21,837
+but basically,
+
+725
+00:32:21,861 --> 00:32:23,452
+it will have a bluish color.
+
+726
+00:32:23,477 --> 00:32:24,638
+Why does that happen?
+
+727
+00:32:24,662 --> 00:32:26,406
+With shadowy areas,
+
+728
+00:32:26,430 --> 00:32:28,174
+less light comes in
+
+729
+00:32:28,198 --> 00:32:29,689
+compared the lighted areas.
+
+730
+00:32:30,192 --> 00:32:31,765
+What does that mean?
+
+731
+00:32:39,401 --> 00:32:41,052
+When there is an object,
+
+732
+00:32:41,063 --> 00:32:43,003
+there is the lighted area
+
+733
+00:32:43,027 --> 00:32:44,426
+and the areas without light.
+
+734
+00:32:45,242 --> 00:32:47,657
+The background color is blue
+
+735
+00:32:52,490 --> 00:32:55,135
+and the light color is yellow.
+
+736
+00:32:55,906 --> 00:32:57,819
+This area here, where it receives strong light,
+
+737
+00:32:57,843 --> 00:32:59,644
+will have a strong yellowish color.
+
+738
+00:32:59,885 --> 00:33:01,089
+With the background color,
+
+739
+00:33:01,113 --> 00:33:04,164
+there is the main light,
+
+740
+00:33:05,052 --> 00:33:07,473
+and the light that's reflected around it
+
+741
+00:33:07,749 --> 00:33:08,986
+comes in.
+
+742
+00:33:09,815 --> 00:33:11,271
+So, it's basically reflected light.
+
+743
+00:33:11,471 --> 00:33:13,112
+It's been reflected once.
+
+744
+00:33:13,137 --> 00:33:14,596
+It already
+
+745
+00:33:14,621 --> 00:33:16,934
+got rid of light from someplace else,
+
+746
+00:33:16,959 --> 00:33:18,405
+so it's naturally weaker
+
+747
+00:33:18,429 --> 00:33:20,222
+than the strong light coming from the main source.
+
+748
+00:33:20,342 --> 00:33:23,337
+So, this area, where it is affected a lot by light,
+
+749
+00:33:23,361 --> 00:33:24,987
+will have the same color
+
+750
+00:33:25,011 --> 00:33:26,276
+as the light itself.
+
+751
+00:33:26,300 --> 00:33:27,551
+Understand it like that.
+
+752
+00:33:27,575 --> 00:33:30,222
+But, there are areas that aren't affected by light.
+
+753
+00:33:30,246 --> 00:33:31,560
+The shadows.
+
+754
+00:33:31,807 --> 00:33:33,713
+Because this shadow
+
+755
+00:33:33,737 --> 00:33:35,002
+isn't affected by the light a lot,
+
+756
+00:33:35,026 --> 00:33:36,110
+if we put it the other way around,
+
+757
+00:33:36,134 --> 00:33:38,415
+the light doesn't reach the shadow.
+
+758
+00:33:38,439 --> 00:33:39,977
+So, it will be more affected by
+
+759
+00:33:40,001 --> 00:33:41,662
+the background color.
+
+760
+00:33:42,921 --> 00:33:45,490
+If we made this area yellowish,
+
+761
+00:33:45,514 --> 00:33:47,428
+this light and shadow area
+
+762
+00:33:47,453 --> 00:33:48,942
+will be more bluish
+
+763
+00:33:49,025 --> 00:33:50,910
+since that was the background color.
+
+764
+00:33:50,934 --> 00:33:52,111
+Think of it that way.
+
+765
+00:33:52,135 --> 00:33:53,937
+Then, why does the outdoor background
+
+766
+00:33:53,961 --> 00:33:55,651
+have a blue background color?
+
+767
+00:33:55,675 --> 00:33:56,823
+Well, it's simple.
+
+768
+00:33:56,847 --> 00:33:58,195
+The sky is blue.
+
+769
+00:33:59,532 --> 00:34:01,081
+In the air, there are
+
+770
+00:34:01,105 --> 00:34:02,110
+a lot of blue light particles.
+
+771
+00:34:02,134 --> 00:34:03,815
+So, blue color is reflected.
+
+772
+00:34:03,839 --> 00:34:04,992
+Think of it like that.
+
+773
+00:34:05,016 --> 00:34:07,394
+So, the shadows in the character,
+
+774
+00:34:07,418 --> 00:34:08,727
+in other words, these shadows
+
+775
+00:34:08,751 --> 00:34:09,865
+that we worked on before,
+
+776
+00:34:09,889 --> 00:34:12,340
+become blue.
+
+777
+00:34:17,920 --> 00:34:21,086
+Then, we are now going to apply
+
+778
+00:34:21,110 --> 00:34:22,487
+the tertiary colors of light and shadow.
+
+779
+00:34:22,511 --> 00:34:24,465
+When you're applying tertiary colors,
+
+780
+00:34:24,489 --> 00:34:26,433
+just follow the color of the light.
+
+781
+00:34:26,458 --> 00:34:28,308
+What color was the light?
+
+782
+00:34:28,332 --> 00:34:30,554
+It was a yellowish, reddish color.
+
+783
+00:34:32,648 --> 00:34:33,815
+I'm going to use
+
+784
+00:34:33,839 --> 00:34:34,890
+a Normal Layer.
+
+785
+00:34:56,027 --> 00:34:57,116
+Like this.
+
+786
+00:34:57,140 --> 00:34:58,507
+So, we now have
+
+787
+00:34:59,249 --> 00:35:01,793
+a reddish tertiary color.
+
+788
+00:35:08,051 --> 00:35:09,982
+So, I described the tertiary color
+
+789
+00:35:10,006 --> 00:35:11,320
+by using the outer light.
+
+790
+00:35:11,345 --> 00:35:12,980
+But, if they're in the same amounts,
+
+791
+00:35:13,004 --> 00:35:14,254
+it won't look pretty.
+
+792
+00:35:14,742 --> 00:35:16,261
+If you've applied that,
+
+793
+00:35:16,286 --> 00:35:17,477
+and if you don't like,
+
+794
+00:35:17,501 --> 00:35:18,717
+you will want to edit it.
+
+795
+00:35:18,741 --> 00:35:20,167
+Then, what can you do?
+
+796
+00:35:20,243 --> 00:35:21,803
+I'll copy
+
+797
+00:35:21,827 --> 00:35:23,751
+the same layer in.
+
+798
+00:35:24,644 --> 00:35:27,145
+Copy the same layer in,
+
+799
+00:35:27,169 --> 00:35:28,771
+and apply the same effects.
+
+800
+00:35:29,340 --> 00:35:30,721
+If you see
+
+801
+00:35:31,474 --> 00:35:32,911
+the top right here,
+
+802
+00:35:32,935 --> 00:35:35,026
+there's the Opacity slider.
+
+803
+00:35:35,311 --> 00:35:36,790
+Slide the Opacity
+
+804
+00:35:36,801 --> 00:35:38,278
+to 0%.
+
+805
+00:35:39,322 --> 00:35:40,802
+What happens
+
+806
+00:35:41,377 --> 00:35:42,682
+when you slide it?
+
+807
+00:35:42,862 --> 00:35:44,562
+The color we colored in disappears,
+
+808
+00:35:44,587 --> 00:35:46,974
+and only the outer light will stay.
+
+809
+00:35:47,593 --> 00:35:48,922
+Like this.
+
+810
+00:35:49,097 --> 00:35:51,754
+What we're going to do now is
+
+811
+00:35:51,779 --> 00:35:53,779
+right-click on the layer.
+
+812
+00:35:55,403 --> 00:35:57,321
+If you see here,
+
+813
+00:35:57,345 --> 00:35:59,567
+you'll see the menu option [Rasterize Layer].
+
+814
+00:36:00,044 --> 00:36:01,080
+What is this?
+
+815
+00:36:01,104 --> 00:36:02,223
+This combines
+
+816
+00:36:02,248 --> 00:36:03,947
+this outer light and the layer underneath it
+
+817
+00:36:03,971 --> 00:36:05,265
+into one.
+
+818
+00:36:05,289 --> 00:36:07,280
+The opacity is set to 0%.
+
+819
+00:36:07,305 --> 00:36:09,098
+If I rasterize it,
+
+820
+00:36:09,980 --> 00:36:12,365
+the Layer underneath it disappears
+
+821
+00:36:12,389 --> 00:36:14,176
+and only the outer light
+
+822
+00:36:14,200 --> 00:36:15,801
+that we colored on
+
+823
+00:36:15,825 --> 00:36:17,985
+the outlines will stay.
+
+824
+00:36:18,135 --> 00:36:20,040
+As an example, I will use the Selection Tool
+
+825
+00:36:20,064 --> 00:36:21,207
+to select an area like this.
+
+826
+00:36:21,440 --> 00:36:22,663
+Then, only this outer area
+
+827
+00:36:22,688 --> 00:36:23,986
+will be selected like this.
+
+828
+00:36:26,869 --> 00:36:28,053
+Then remember how,
+
+829
+00:36:28,077 --> 00:36:29,557
+I applied a Multiply Layer?
+
+830
+00:36:30,068 --> 00:36:31,530
+I'll make it into a Multiply Layer.
+
+831
+00:36:31,554 --> 00:36:33,439
+If I turn the above Layer on,
+
+832
+00:36:34,703 --> 00:36:36,880
+then the shadows
+
+833
+00:36:36,891 --> 00:36:39,220
+and the outer lights will be separated.
+
+834
+00:36:39,688 --> 00:36:41,437
+And, within the outer light that's been separated,
+
+835
+00:36:41,461 --> 00:36:43,522
+I will erase the areas I don't like.
+
+836
+00:36:50,828 --> 00:36:51,836
+Now, over here,
+
+837
+00:36:51,847 --> 00:36:52,984
+I'll add a new Layer.
+
+838
+00:36:53,008 --> 00:36:54,444
+This time, I'm going to apply
+
+839
+00:36:54,785 --> 00:36:56,285
+the Overlay effect.
+
+840
+00:36:56,944 --> 00:36:59,591
+I said I was going to give it a yellow color, right?
+
+841
+00:37:03,252 --> 00:37:05,011
+In the areas that receive light,
+
+842
+00:37:06,177 --> 00:37:07,300
+I'm going to make sure
+
+843
+00:37:07,324 --> 00:37:09,113
+that a bright yellow light comes in.
+
+844
+00:37:16,385 --> 00:37:18,243
+On the other hand, the areas that don't receive light
+
+845
+00:37:18,399 --> 00:37:20,241
+will receive some blue light.
+
+846
+00:37:21,977 --> 00:37:24,308
+Especially, we learned that for the background objects
+
+847
+00:37:24,332 --> 00:37:25,568
+an air perspective is applied,
+
+848
+00:37:25,592 --> 00:37:26,744
+in the previous lecture.
+
+849
+00:37:26,768 --> 00:37:29,551
+When we apply that,
+
+850
+00:37:29,576 --> 00:37:30,603
+we add a lot of the air color.
+
+851
+00:37:30,613 --> 00:37:32,819
+So, in this case, we would add in a lot of blue.
+
+852
+00:37:36,455 --> 00:37:38,121
+Make sure to apply bluish colors
+
+853
+00:37:38,779 --> 00:37:39,823
+to the hair.
+
+854
+00:37:39,847 --> 00:37:41,133
+It's a good area, right?
+
+855
+00:37:43,800 --> 00:37:44,808
+Like this.
+
+856
+00:38:08,604 --> 00:38:10,151
+Because it gets sunlight,
+
+857
+00:38:10,176 --> 00:38:11,745
+it would be natural that
+
+858
+00:38:11,769 --> 00:38:12,904
+the amount of shadow decreases.
+
+859
+00:38:16,203 --> 00:38:17,467
+If I do this,
+
+860
+00:38:17,491 --> 00:38:19,148
+it will be an illustration
+
+861
+00:38:19,173 --> 00:38:20,597
+that receives strong sunlight.
+
+862
+00:38:22,375 --> 00:38:24,314
+Now, I'll add other lights too.
+
+863
+00:38:27,669 --> 00:38:29,181
+This is example number 1.
+
+864
+00:38:33,772 --> 00:38:35,128
+Now, I'm going to make
+
+865
+00:38:35,152 --> 00:38:36,364
+an evening background
+
+866
+00:38:36,388 --> 00:38:37,848
+with a sunset.
+
+867
+00:38:45,214 --> 00:38:46,802
+When we add sunset,
+
+868
+00:38:46,862 --> 00:38:49,079
+the blue background color that we looked at before,
+
+869
+00:38:49,103 --> 00:38:50,386
+will be spread out like this.
+
+870
+00:38:50,410 --> 00:38:52,868
+When there's sunset, the sky is usually orange.
+
+871
+00:38:52,892 --> 00:38:54,463
+With the evening sky,
+
+872
+00:38:54,487 --> 00:38:56,696
+the sky itself will be an orange color.
+
+873
+00:38:56,720 --> 00:38:58,555
+So, the background color that is applied to the character
+
+874
+00:38:58,579 --> 00:39:00,249
+will be changed to a red color.
+
+875
+00:39:00,522 --> 00:39:02,182
+The light that's coming in is a yellowish color,
+
+876
+00:39:02,206 --> 00:39:03,834
+and the background color is red.
+
+877
+00:39:03,858 --> 00:39:05,366
+So, the color would overall be uniform.
+
+878
+00:39:06,988 --> 00:39:08,814
+Let's change the sky color first.
+
+879
+00:39:42,636 --> 00:39:43,853
+The tentacle in the back
+
+880
+00:39:43,877 --> 00:39:45,334
+disturbs our eyesight, so I'll exclude it.
+
+881
+00:39:50,363 --> 00:39:52,619
+So, the overall illustration
+
+882
+00:39:54,080 --> 00:39:55,933
+will be a piece
+
+883
+00:39:55,957 --> 00:39:57,199
+with a strong orange color.
+
+884
+00:40:01,386 --> 00:40:02,621
+Also, the character
+
+885
+00:40:02,645 --> 00:40:03,777
+will be an overall orangeish color
+
+886
+00:40:03,801 --> 00:40:04,985
+compared to its original color.
+
+887
+00:40:05,009 --> 00:40:06,298
+So, the original color will be changed a lot.
+
+888
+00:40:10,549 --> 00:40:12,303
+We learned this previously with lighting, remember?
+
+889
+00:40:12,686 --> 00:40:16,329
+When a blue object receives yellow light,
+
+890
+00:40:16,467 --> 00:40:18,277
+there's no color that it can reflect.
+
+891
+00:40:26,785 --> 00:40:28,699
+With the Color Range tool,
+
+892
+00:40:31,855 --> 00:40:33,329
+I'll make these areas
+
+893
+00:40:37,773 --> 00:40:39,350
+very low saturated -
+
+894
+00:40:39,374 --> 00:40:42,534
+in fact, they'll be a grayish color.
+
+895
+00:40:42,558 --> 00:40:43,621
+So, this will be my workflow.
+
+896
+00:40:45,511 --> 00:40:47,058
+Now, I'll apply the shadows.
+
+897
+00:40:47,082 --> 00:40:49,949
+I want to utilize what I've used before,
+
+898
+00:40:49,973 --> 00:40:51,564
+but the light direction has changed.
+
+899
+00:40:51,588 --> 00:40:53,110
+So, I'll apply that change.
+
+900
+00:41:02,075 --> 00:41:04,147
+I'll make it a bit dark.
+
+901
+00:41:04,290 --> 00:41:06,517
+This one had a bluish color.
+
+902
+00:41:07,321 --> 00:41:09,204
+So, it doesn't fit this illustration.
+
+903
+00:41:09,988 --> 00:41:12,428
+I'll make it a bit more reddish.
+
+904
+00:41:18,722 --> 00:41:21,168
+Now, with this lighted area,
+
+905
+00:41:24,071 --> 00:41:25,449
+I'll add a new Layer.
+
+906
+00:41:25,473 --> 00:41:27,162
+I'm going to add a Screen Layer.
+
+907
+00:41:28,196 --> 00:41:29,668
+This time, the light won't be completely white,
+
+908
+00:41:29,692 --> 00:41:31,876
+but instead, it will be a yellowish light.
+
+909
+00:41:35,653 --> 00:41:36,787
+The direction of the light will be
+
+910
+00:41:36,811 --> 00:41:39,246
+coming from the top left.
+
+911
+00:42:02,989 --> 00:42:04,689
+I'll adjust the opacity
+
+912
+00:42:04,713 --> 00:42:06,767
+to make sure I have the brightness I want.
+
+913
+00:42:19,402 --> 00:42:21,376
+The light that comes right in front of the character
+
+914
+00:42:21,400 --> 00:42:23,506
+is a very weak light.
+
+915
+00:42:23,530 --> 00:42:25,402
+So, it will be kind of like a Soft Light.
+
+916
+00:42:25,426 --> 00:42:27,708
+I'll give more light to the character's face
+
+917
+00:42:27,732 --> 00:42:28,819
+like this.
+
+918
+00:42:30,884 --> 00:42:33,157
+I'll adjust it so that
+
+919
+00:42:33,566 --> 00:42:34,907
+the facial area will be emphasized.
+
+920
+00:42:35,050 --> 00:42:36,980
+Let's make it a bit more of an orange color.
+
+921
+00:42:46,725 --> 00:42:48,579
+If there's light coming in from the top left,
+
+922
+00:42:48,603 --> 00:42:49,756
+I told you that
+
+923
+00:42:49,780 --> 00:42:51,574
+you need to observe carefully
+
+924
+00:42:51,599 --> 00:42:53,564
+how the light will come in
+
+925
+00:42:53,588 --> 00:42:54,683
+and which areas will receive light.
+
+926
+00:42:58,434 --> 00:43:00,301
+So, when doing that,
+
+927
+00:43:00,326 --> 00:43:02,543
+it's important to observe the object as its basic form.
+
+928
+00:43:03,373 --> 00:43:06,944
+You shouldn't perceive it as
+
+929
+00:43:06,968 --> 00:43:08,689
+a cloth, a skin, or an eye.
+
+930
+00:43:09,181 --> 00:43:10,834
+Is it headed towards the top left?
+
+931
+00:43:10,858 --> 00:43:12,564
+Or, is it headed towards the top right?
+
+932
+00:43:12,964 --> 00:43:14,341
+These aspects
+
+933
+00:43:14,358 --> 00:43:15,720
+are more important.
+
+934
+00:43:16,384 --> 00:43:18,015
+Because it is all about lighting,
+
+935
+00:43:18,026 --> 00:43:19,027
+describing the texture
+
+936
+00:43:19,038 --> 00:43:20,449
+will come in later.
+
+937
+00:43:20,702 --> 00:43:22,912
+We're not describing the texture now.
+
+938
+00:43:23,740 --> 00:43:24,898
+Just simply think of
+
+939
+00:43:25,366 --> 00:43:26,466
+whether a certain area
+
+940
+00:43:26,490 --> 00:43:28,544
+receives light or not.
+
+941
+00:43:28,569 --> 00:43:30,186
+Think of these things.
+
+942
+00:43:30,427 --> 00:43:31,855
+Because of the arm on the left,
+
+943
+00:43:31,866 --> 00:43:33,883
+a Cast Shadow would be formed.
+
+944
+00:43:38,012 --> 00:43:39,884
+There could also be areas
+
+945
+00:43:39,908 --> 00:43:40,933
+covered with hair.
+
+946
+00:43:41,899 --> 00:43:43,843
+You have to consider these things.
+
+947
+00:44:02,936 --> 00:44:05,421
+An eyeball also has three-dimensional characteristics.
+
+948
+00:44:05,446 --> 00:44:06,851
+When it receives the light,
+
+949
+00:44:06,875 --> 00:44:07,989
+it could shine.
+
+950
+00:44:08,133 --> 00:44:09,732
+But, the description of the three-dimensional aspects
+
+951
+00:44:09,756 --> 00:44:11,756
+will have less deformers applied to it.
+
+952
+00:44:12,503 --> 00:44:14,661
+Because there are less deformers,
+
+953
+00:44:14,685 --> 00:44:16,539
+it will look less casual.
+
+954
+00:44:16,563 --> 00:44:18,253
+So, you can apply it depending on the situation.
+
+955
+00:44:18,277 --> 00:44:20,391
+If it looks pretty after you've applied it, use it.
+
+956
+00:44:20,415 --> 00:44:21,710
+If it doesn't, don't use it.
+
+957
+00:44:21,734 --> 00:44:22,772
+That's all.
+
+958
+00:44:27,801 --> 00:44:29,644
+It's good to add tertiary colors as well.
+
+959
+00:44:31,654 --> 00:44:33,194
+I'll use the outer light
+
+960
+00:44:33,218 --> 00:44:34,517
+to add in the tertiary colors.
+
+961
+00:44:35,175 --> 00:44:36,959
+It will be good if these colors
+
+962
+00:44:41,854 --> 00:44:44,007
+are overall reddish.
+
+963
+00:44:55,420 --> 00:44:56,863
+If the inside of the hair
+
+964
+00:44:56,887 --> 00:44:57,973
+and if the inside of the clothes
+
+965
+00:44:57,998 --> 00:44:59,719
+are just cotton,
+
+966
+00:44:59,743 --> 00:45:01,404
+it will have this color.
+
+967
+00:45:01,608 --> 00:45:03,591
+But, there will be some modifications.
+
+968
+00:45:03,615 --> 00:45:05,974
+The character's clothing
+
+969
+00:45:05,998 --> 00:45:08,850
+and the mint color on the hair
+
+970
+00:45:08,874 --> 00:45:11,013
+is made up of material
+
+971
+00:45:11,037 --> 00:45:12,244
+that shines.
+
+972
+00:45:13,600 --> 00:45:14,983
+So, in that case,
+
+973
+00:45:17,531 --> 00:45:19,602
+it's okay to
+
+974
+00:45:19,626 --> 00:45:20,750
+apply the colors
+
+975
+00:45:22,033 --> 00:45:23,787
+of these materials.
+
+976
+00:45:23,811 --> 00:45:25,540
+But, if you apply them too much,
+
+977
+00:45:25,564 --> 00:45:26,848
+the impact of the light will be too weak.
+
+978
+00:45:26,859 --> 00:45:28,490
+So, add in just a little bit.
+
+979
+00:45:29,737 --> 00:45:31,204
+Make sure of that.
+
+980
+00:45:31,866 --> 00:45:32,986
+Just little by little.
+
+981
+00:45:35,108 --> 00:45:37,610
+Just make sure the light impact isn't weak.
+
+982
+00:46:18,063 --> 00:46:20,804
+If you want to describe the background as well,
+
+983
+00:46:20,829 --> 00:46:22,586
+and if it is a moody background,
+
+984
+00:46:22,610 --> 00:46:23,816
+you can put in these.
+
+985
+00:46:25,153 --> 00:46:26,414
+Things like barbed wire.
+
+986
+00:46:30,035 --> 00:46:31,580
+We can add a warning sign
+
+987
+00:46:31,701 --> 00:46:33,792
+to the pillars.
+
+988
+00:46:36,319 --> 00:46:37,767
+Draw it
+
+989
+00:46:37,791 --> 00:46:39,124
+so that it matches
+
+990
+00:46:40,574 --> 00:46:41,780
+the character's perspective.
+
+991
+00:46:44,884 --> 00:46:47,015
+In character illustration,
+
+992
+00:46:47,039 --> 00:46:48,924
+the background is the sub element.
+
+993
+00:46:51,979 --> 00:46:54,192
+So, don't focus too much on it.
+
+994
+00:46:56,391 --> 00:46:58,331
+But, if you want to show the background,
+
+995
+00:46:58,342 --> 00:46:59,422
+then,
+
+996
+00:46:59,446 --> 00:47:00,823
+you should focus on it.
+
+997
+00:47:01,146 --> 00:47:02,541
+With illustrations,
+
+998
+00:47:02,565 --> 00:47:05,135
+the subject changes depending on
+
+999
+00:47:05,189 --> 00:47:08,733
+what you want to show.
+
+1000
+00:47:13,208 --> 00:47:14,694
+An illustrator
+
+1001
+00:47:14,906 --> 00:47:15,935
+is someone
+
+1002
+00:47:15,971 --> 00:47:17,823
+who depicts things.
+
+1003
+00:47:28,524 --> 00:47:30,112
+So,
+
+1004
+00:47:31,473 --> 00:47:33,223
+I'll add in some highlights.
+
+1005
+00:47:42,385 --> 00:47:44,023
+I won't make it too sparkly.
+
+1006
+00:47:45,360 --> 00:47:47,621
+Because with sunsets,
+
+1007
+00:47:47,645 --> 00:47:49,184
+the light is subtle.
+
+1008
+00:47:49,330 --> 00:47:50,755
+So, now that we're done,
+
+1009
+00:47:50,766 --> 00:47:51,826
+we need to do some editing.
+
+1010
+00:47:51,850 --> 00:47:53,200
+I'll create a new Layer.
+
+1011
+00:47:54,244 --> 00:47:55,246
+I'll use the Overlay function
+
+1012
+00:47:55,257 --> 00:47:56,573
+this time as well.
+
+1013
+00:47:57,020 --> 00:47:58,940
+I use Overlay often.
+
+1014
+00:48:01,871 --> 00:48:03,710
+I'm going to make the light spread out,
+
+1015
+00:48:04,041 --> 00:48:06,164
+on the top left.
+
+1016
+00:48:06,717 --> 00:48:07,978
+I call this
+
+1017
+00:48:08,002 --> 00:48:09,841
+scattering light.
+
+1018
+00:48:10,365 --> 00:48:11,555
+Actually, light
+
+1019
+00:48:11,579 --> 00:48:13,637
+isn't something
+
+1020
+00:48:14,445 --> 00:48:16,242
+that comes only in places that it should,
+
+1021
+00:48:16,253 --> 00:48:17,511
+in a logical way.
+
+1022
+00:48:17,657 --> 00:48:19,859
+It will be reflected all around.
+
+1023
+00:48:19,883 --> 00:48:22,231
+Since the light source
+
+1024
+00:48:22,247 --> 00:48:24,185
+is the Sun,
+
+1025
+00:48:24,217 --> 00:48:25,806
+it's too big to say that it's a dot.
+
+1026
+00:48:26,136 --> 00:48:29,581
+So, light spreads around the places it reaches.
+
+1027
+00:48:29,605 --> 00:48:31,114
+So, around the areas that are lighted,
+
+1028
+00:48:31,124 --> 00:48:33,009
+add Overlay like this,
+
+1029
+00:48:33,033 --> 00:48:34,597
+and make it bright.
+
+1030
+00:48:34,621 --> 00:48:35,994
+Then, it will look like
+
+1031
+00:48:36,018 --> 00:48:37,814
+a more natural, pretty light.
+
+1032
+00:48:39,095 --> 00:48:41,560
+The overall illustration will be fancier as well.
+
+1033
+00:48:46,765 --> 00:48:48,880
+So, make sure to
+
+1034
+00:48:48,891 --> 00:48:49,897
+apply the scattering light.
+
+1035
+00:49:03,678 --> 00:49:05,038
+So,
+
+1036
+00:49:05,461 --> 00:49:08,168
+I also described an illustration
+
+1037
+00:49:08,193 --> 00:49:09,914
+with the sunset light.
+
+1038
+00:49:18,039 --> 00:49:19,690
+Let's draw
+
+1039
+00:49:19,714 --> 00:49:20,885
+another illustration, too.
+
+1040
+00:49:26,918 --> 00:49:28,918
+The sunlight that we drew before.
+
+1041
+00:49:30,471 --> 00:49:32,502
+I'll give it some highlights here.
+
+1042
+00:49:32,640 --> 00:49:34,143
+The eyes look too scary.
+
+1043
+00:49:38,567 --> 00:49:39,569
+And the sunset.
+
+1044
+00:49:42,048 --> 00:49:43,633
+We saw the differences
+
+1045
+00:49:43,657 --> 00:49:44,846
+between the two situations.
+
+1046
+00:49:49,988 --> 00:49:51,500
+This time, the background will be set
+
+1047
+00:49:55,057 --> 00:49:56,619
+at night.
+
+1048
+00:50:00,269 --> 00:50:01,734
+We applied daylight
+
+1049
+00:50:01,758 --> 00:50:03,131
+and sunset,
+
+1050
+00:50:03,155 --> 00:50:04,758
+so, now, it will be a night sky.
+
+1051
+00:50:19,232 --> 00:50:20,881
+I'll use the Curve Tool
+
+1052
+00:50:20,905 --> 00:50:22,136
+to make it
+
+1053
+00:50:22,591 --> 00:50:23,786
+dark.
+
+1054
+00:50:27,663 --> 00:50:28,947
+Make the character
+
+1055
+00:50:29,301 --> 00:50:30,970
+dark,
+
+1056
+00:50:30,994 --> 00:50:32,026
+just like this.
+
+1057
+00:50:35,266 --> 00:50:37,540
+I'll add the blue light, too.
+
+1058
+00:50:38,534 --> 00:50:40,578
+The mint color of the character
+
+1059
+00:50:40,602 --> 00:50:42,490
+could become slightly stronger
+
+1060
+00:50:42,514 --> 00:50:45,096
+than the previous color.
+
+1061
+00:50:47,757 --> 00:50:50,569
+This is because the blue object
+
+1062
+00:50:50,593 --> 00:50:52,205
+received blue light.
+
+1063
+00:50:52,229 --> 00:50:53,353
+So, for this object,
+
+1064
+00:50:53,377 --> 00:50:55,717
+there's more reflected light.
+
+1065
+00:50:55,923 --> 00:50:57,536
+So, a stronger light
+
+1066
+00:50:57,560 --> 00:50:59,341
+will be applied.
+
+1067
+00:51:04,046 --> 00:51:06,629
+But, it will be blue.
+
+1068
+00:51:08,626 --> 00:51:11,316
+Mint is closer to a green color,
+
+1069
+00:51:11,340 --> 00:51:12,401
+and green
+
+1070
+00:51:13,101 --> 00:51:15,483
+is a mixture of yellow and blue.
+
+1071
+00:51:21,598 --> 00:51:23,009
+Overall, if I edited it
+
+1072
+00:51:23,033 --> 00:51:24,372
+like this...
+
+1073
+00:51:29,584 --> 00:51:31,278
+Let's edit
+
+1074
+00:51:31,302 --> 00:51:32,367
+the tentacles, too.
+
+1075
+00:51:50,879 --> 00:51:52,078
+Now, I'll add
+
+1076
+00:51:52,102 --> 00:51:53,148
+more light to it.
+
+1077
+00:51:56,493 --> 00:51:58,493
+The gray part doesn't have
+
+1078
+00:51:58,517 --> 00:52:00,299
+a strong blueish color.
+
+1079
+00:52:02,695 --> 00:52:04,247
+Select this area as well.
+
+1080
+00:52:04,275 --> 00:52:05,916
+Using the Color Range Tool,
+
+1081
+00:52:08,069 --> 00:52:09,382
+select, and then,
+
+1082
+00:52:09,406 --> 00:52:11,269
+I'll apply a bit more blue.
+
+1083
+00:52:14,043 --> 00:52:15,977
+I want it to feel bright.
+
+1084
+00:52:16,413 --> 00:52:17,437
+Here,
+
+1085
+00:52:17,465 --> 00:52:18,560
+I'll make a Layer.
+
+1086
+00:52:19,829 --> 00:52:21,462
+Since there's darkness overall,
+
+1087
+00:52:21,487 --> 00:52:22,929
+now we can give it some light.
+
+1088
+00:52:22,954 --> 00:52:24,450
+Using the Screen Layer,
+
+1089
+00:52:24,474 --> 00:52:26,618
+I'm going to apply some Backlight.
+
+1090
+00:52:26,740 --> 00:52:27,752
+I also told you
+
+1091
+00:52:27,763 --> 00:52:29,122
+we call this Meme Light.
+
+1092
+00:52:33,391 --> 00:52:35,110
+It's important to work while
+
+1093
+00:52:35,134 --> 00:52:36,769
+you think about the areas where the light comes in
+
+1094
+00:52:36,793 --> 00:52:38,395
+and the areas that don't.
+
+1095
+00:52:53,850 --> 00:52:55,084
+Character and background.
+
+1096
+00:52:55,109 --> 00:52:57,068
+The character is dark now,
+
+1097
+00:52:57,092 --> 00:52:58,326
+and the background is dark, too.
+
+1098
+00:52:58,350 --> 00:53:00,494
+As such, the character and the background
+
+1099
+00:53:00,518 --> 00:53:01,660
+should be separated.
+
+1100
+00:53:01,762 --> 00:53:03,049
+You can give it
+
+1101
+00:53:04,112 --> 00:53:05,902
+some gradation.
+
+1102
+00:53:06,403 --> 00:53:09,442
+When we were analyzing references,
+
+1103
+00:53:09,466 --> 00:53:11,141
+we did this part before.
+
+1104
+00:53:11,165 --> 00:53:12,750
+Do you remember?
+
+1105
+00:53:35,841 --> 00:53:38,925
+In this case, the area where the light from the back touches
+
+1106
+00:53:38,950 --> 00:53:40,554
+will be the areas
+
+1107
+00:53:40,578 --> 00:53:42,324
+that I'm painting as the Back Light.
+
+1108
+00:53:42,796 --> 00:53:43,828
+That means
+
+1109
+00:53:43,852 --> 00:53:47,133
+all the parts that I'm not applying Back Light to
+
+1110
+00:53:47,157 --> 00:53:48,457
+are in shadow.
+
+1111
+00:53:49,063 --> 00:53:50,891
+What's a shadow?
+
+1112
+00:53:50,915 --> 00:53:52,562
+It's a part where there's no light.
+
+1113
+00:53:52,586 --> 00:53:55,348
+Since this area doesn't get any light,
+
+1114
+00:53:55,372 --> 00:53:57,473
+you might ask, shouldn't it be just black?
+
+1115
+00:53:57,497 --> 00:53:59,183
+I explained this part before.
+
+1116
+00:53:59,207 --> 00:54:00,539
+In this area,
+
+1117
+00:54:01,323 --> 00:54:03,019
+the light is reflected from the surroundings
+
+1118
+00:54:03,785 --> 00:54:07,037
+and the background light is coming from all directions.
+
+1119
+00:54:07,062 --> 00:54:08,418
+So, that's why
+
+1120
+00:54:08,442 --> 00:54:09,625
+we can see this character.
+
+1121
+00:54:09,738 --> 00:54:11,480
+If it weren't for that light,
+
+1122
+00:54:11,504 --> 00:54:12,793
+this character would be black,
+
+1123
+00:54:12,817 --> 00:54:14,312
+and only the Back Light could be seen.
+
+1124
+00:54:14,336 --> 00:54:15,341
+To show you an example,
+
+1125
+00:54:16,600 --> 00:54:18,500
+with only the silhouette,
+
+1126
+00:54:19,472 --> 00:54:21,109
+it will be like this.
+
+1127
+00:54:54,331 --> 00:54:55,417
+As expected, with this process
+
+1128
+00:54:55,441 --> 00:54:56,761
+you can turn off the Pen Pressure.
+
+1129
+00:54:59,053 --> 00:55:01,523
+If you're only thinking about the area,
+
+1130
+00:55:54,896 --> 00:55:56,385
+do it like this.
+
+1131
+00:55:59,508 --> 00:56:01,107
+As expected... the tertiary colors.
+
+1132
+00:56:01,131 --> 00:56:03,267
+This time, it's not just the orangeish colors.
+
+1133
+00:56:03,291 --> 00:56:04,801
+It's getting blue light,
+
+1134
+00:56:05,176 --> 00:56:07,176
+which is the moonlight coming from behind.
+
+1135
+00:56:07,200 --> 00:56:09,415
+So, the tertiary color will also look a bit blue.
+
+1136
+00:56:14,389 --> 00:56:16,173
+Let's put it in like this.
+
+1137
+00:56:16,231 --> 00:56:17,530
+But if I do this,
+
+1138
+00:56:17,554 --> 00:56:19,190
+the drawing will be too bland.
+
+1139
+00:56:19,273 --> 00:56:21,442
+Some areas can't be seen clearly.
+
+1140
+00:56:21,466 --> 00:56:22,614
+It's kind of boring.
+
+1141
+00:56:22,639 --> 00:56:23,713
+From here,
+
+1142
+00:56:23,737 --> 00:56:25,097
+you need some direction skills.
+
+1143
+00:56:25,121 --> 00:56:27,551
+When we draw characters with a night background,
+
+1144
+00:56:27,575 --> 00:56:29,250
+you need to think that the light coming from the front
+
+1145
+00:56:29,275 --> 00:56:32,015
+has some intensity.
+
+1146
+00:56:32,039 --> 00:56:34,750
+When I was working on the sunset background,
+
+1147
+00:56:34,774 --> 00:56:37,133
+I used the light in the middle as Soft Light,
+
+1148
+00:56:37,157 --> 00:56:39,593
+and I applied some light to the lower part of the face.
+
+1149
+00:56:39,617 --> 00:56:40,978
+Similarly,
+
+1150
+00:56:41,002 --> 00:56:42,224
+with the night background,
+
+1151
+00:56:42,248 --> 00:56:44,793
+I made the bottom look brighter,
+
+1152
+00:56:47,645 --> 00:56:49,238
+to get some light.
+
+1153
+00:56:49,946 --> 00:56:51,139
+You can increase
+
+1154
+00:56:51,848 --> 00:56:54,364
+the density of the light
+
+1155
+00:57:10,354 --> 00:57:11,816
+to increase
+
+1156
+00:57:11,840 --> 00:57:13,110
+the visible areas.
+
+1157
+00:57:13,471 --> 00:57:15,931
+People see the bright areas first.
+
+1158
+00:57:16,096 --> 00:57:17,839
+To put it the other way around,
+
+1159
+00:57:17,863 --> 00:57:19,689
+it's hard to draw attention
+
+1160
+00:57:19,713 --> 00:57:21,091
+with dark spaces.
+
+1161
+00:57:22,699 --> 00:57:24,477
+If this illustration goes wrong,
+
+1162
+00:57:24,501 --> 00:57:26,699
+it could be an illustration that doesn't have anything to see in it.
+
+1163
+00:57:27,429 --> 00:57:28,856
+So, to avoid doing that,
+
+1164
+00:57:28,880 --> 00:57:30,953
+so that the viewers can definitely feel they are seeing something,
+
+1165
+00:57:30,977 --> 00:57:33,084
+I'll add a lot of highlights.
+
+1166
+00:57:54,103 --> 00:57:56,769
+I'm going to make the eyes have a strong impression.
+
+1167
+00:57:56,992 --> 00:57:58,448
+I'll show it to you like this.
+
+1168
+00:58:00,563 --> 00:58:01,916
+Nocturnal animals
+
+1169
+00:58:01,940 --> 00:58:03,570
+have shining eyes at night.
+
+1170
+00:58:03,594 --> 00:58:05,874
+They actually look really cool.
+
+1171
+00:58:05,898 --> 00:58:07,285
+You might think they look scary.
+
+1172
+00:58:11,152 --> 00:58:14,009
+There are a lot of elements like that.
+
+1173
+00:58:14,034 --> 00:58:15,115
+So, I'll make these elements
+
+1174
+00:58:15,139 --> 00:58:17,202
+like they're glow-in-the-dark.
+
+1175
+00:58:36,936 --> 00:58:38,968
+I'll add a lot of highlights.
+
+1176
+00:58:47,323 --> 00:58:49,416
+To make the drawing look shiny,
+
+1177
+00:59:13,888 --> 00:59:15,553
+when we put highlights on the hair,
+
+1178
+00:59:15,577 --> 00:59:17,202
+people often mistake something.
+
+1179
+00:59:17,226 --> 00:59:18,964
+Let's talk about this first.
+
+1180
+00:59:19,292 --> 00:59:20,627
+When you want to give it Back Light,
+
+1181
+00:59:20,651 --> 00:59:22,055
+and when you highlight it,
+
+1182
+00:59:22,079 --> 00:59:23,713
+some people apply it like this.
+
+1183
+00:59:25,194 --> 00:59:26,622
+You might ask yourself,
+
+1184
+00:59:26,633 --> 00:59:27,635
+what's wrong with that?
+
+1185
+00:59:27,646 --> 00:59:29,657
+The character is not receiving
+
+1186
+00:59:29,667 --> 00:59:30,835
+the light from the left.
+
+1187
+00:59:31,856 --> 00:59:33,335
+The reason why this character got brighter is
+
+1188
+00:59:33,360 --> 00:59:34,742
+because it received
+
+1189
+00:59:34,766 --> 00:59:36,516
+the light from the side and the back light.
+
+1190
+00:59:36,541 --> 00:59:38,387
+So, that's it for now.
+
+1191
+00:59:38,810 --> 00:59:41,425
+So, this area is the shadow.
+
+1192
+00:59:41,450 --> 00:59:43,357
+The light that this area receives
+
+1193
+00:59:43,381 --> 00:59:44,598
+is not this light.
+
+1194
+00:59:44,773 --> 00:59:46,497
+It's not the light that came from the side.
+
+1195
+00:59:46,508 --> 00:59:47,588
+The light that this part receives
+
+1196
+00:59:47,599 --> 00:59:49,238
+only comes from the front.
+
+1197
+00:59:49,262 --> 00:59:50,965
+So, as the highlight goes to the left,
+
+1198
+00:59:50,989 --> 00:59:52,272
+there's no need to get bigger.
+
+1199
+00:59:52,325 --> 00:59:53,352
+When you color it
+
+1200
+00:59:53,376 --> 00:59:55,123
+and when you add the density later,
+
+1201
+00:59:55,147 --> 00:59:56,703
+the more you go to the left,
+
+1202
+00:59:56,728 --> 00:59:58,127
+there's no need to be bright.
+
+1203
+00:59:58,419 --> 01:00:00,514
+There are many people who misunderstand this.
+
+1204
+01:00:00,538 --> 01:00:01,636
+The light that's received here
+
+1205
+01:00:01,646 --> 01:00:03,078
+only receives the light from the front.
+
+1206
+01:00:03,514 --> 01:00:05,460
+Only the background light is received.
+
+1207
+01:00:05,484 --> 01:00:08,296
+So, only the areas that are close to our eyes will get brighter.
+
+1208
+01:00:12,693 --> 01:00:14,520
+So don't get it wrong.
+
+1209
+01:00:17,099 --> 01:00:18,517
+People often make mistakes here.
+
+1210
+01:00:44,284 --> 01:00:45,457
+The tool I'm using right now is
+
+1211
+01:00:45,481 --> 01:00:46,504
+the Dodge Tool.
+
+1212
+01:00:46,528 --> 01:00:48,678
+The default shortcut is the O button.
+
+1213
+01:00:48,841 --> 01:00:51,359
+The tool that uses this button,
+
+1214
+01:00:51,384 --> 01:00:52,416
+which is the Dodge Tool,
+
+1215
+01:00:52,427 --> 01:00:54,759
+brightens up the picture.
+
+1216
+01:00:55,411 --> 01:00:57,662
+If you use it too much, the picture will look like it's burning.
+
+1217
+01:00:58,880 --> 01:01:00,418
+So, please don't use it too much.
+
+1218
+01:01:01,370 --> 01:01:02,458
+Like this,
+
+1219
+01:01:03,397 --> 01:01:05,007
+I'll make the middle area
+
+1220
+01:01:05,031 --> 01:01:06,208
+brighter more effectively.
+
+1221
+01:01:07,681 --> 01:01:09,433
+I'll apply some more blue.
+
+1222
+01:01:10,134 --> 01:01:11,304
+Do it like this.
+
+1223
+01:01:11,315 --> 01:01:14,286
+Since it's nighttime, I said I'm going to add some sparkles.
+
+1224
+01:01:14,387 --> 01:01:16,208
+That's what I wanted to do.
+
+1225
+01:01:16,964 --> 01:01:19,385
+I put some sparkles around the character.
+
+1226
+01:01:51,872 --> 01:01:54,158
+Like this, you can now create
+
+1227
+01:01:54,182 --> 01:01:55,764
+illustrations with a night sky.
+
+1228
+01:01:55,992 --> 01:01:57,820
+Let's look at the difference from the previous one,
+
+1229
+01:01:57,844 --> 01:01:59,979
+and let's see if it looks like night.
+
+1230
+01:02:03,417 --> 01:02:04,753
+So, let's list the differences.
+
+1231
+01:02:54,968 --> 01:02:57,098
+With this illustration,
+
+1232
+01:02:57,122 --> 01:02:59,009
+I made various variations.
+
+1233
+01:03:00,487 --> 01:03:02,651
+There's a clear difference in the atmosphere.
+
+1234
+01:03:03,929 --> 01:03:06,170
+If you look at the illustration examples I gave today,
+
+1235
+01:03:06,194 --> 01:03:07,487
+you can see
+
+1236
+01:03:07,511 --> 01:03:09,139
+that the time has changed.
+
+1237
+01:03:09,484 --> 01:03:12,259
+So when you make an illustration like this,
+
+1238
+01:03:12,283 --> 01:03:14,029
+you need to tailor it to the nuances
+
+1239
+01:03:14,053 --> 01:03:15,586
+you want to create.
+
+1240
+01:03:15,610 --> 01:03:16,987
+So if there's a light you want to use,
+
+1241
+01:03:17,099 --> 01:03:18,717
+with the light direction,
+
+1242
+01:03:18,741 --> 01:03:20,919
+you can create illustrations according to that.
+
+1243
+01:03:20,930 --> 01:03:21,993
+If you look at this,
+
+1244
+01:03:22,017 --> 01:03:24,271
+you can see that the mood changed gradually.
+
+1245
+01:03:24,282 --> 01:03:25,169
+First,
+
+1246
+01:03:25,180 --> 01:03:27,425
+with the bright light, we gave it a cute and warm image.
+
+1247
+01:03:27,454 --> 01:03:28,373
+For the second one,
+
+1248
+01:03:28,397 --> 01:03:29,998
+it was a pretty and bright image.
+
+1249
+01:03:30,022 --> 01:03:30,944
+The third one was
+
+1250
+01:03:30,968 --> 01:03:32,232
+a strong image.
+
+1251
+01:03:32,328 --> 01:03:34,258
+Depending on the light you want to use,
+
+1252
+01:03:34,282 --> 01:03:35,477
+the mood changes.
+
+1253
+01:03:35,501 --> 01:03:37,175
+So it's important to change the illustration
+
+1254
+01:03:37,199 --> 01:03:39,383
+depending on the lighting you want to give it.
+
+1255
+01:03:40,974 --> 01:03:41,988
+Like this,
+
+1256
+01:03:41,999 --> 01:03:43,831
+with one illustration,
+
+1257
+01:03:44,381 --> 01:03:46,467
+we drew them in different types.
+
+1258
+01:03:47,022 --> 01:03:49,343
+What I want to say to you
+
+1259
+01:03:49,367 --> 01:03:51,415
+once more is,
+
+1260
+01:03:55,324 --> 01:03:57,324
+just because I emphasized light,
+
+1261
+01:03:57,348 --> 01:04:00,045
+don't be too obsessed with it.
+
+1262
+01:04:00,573 --> 01:04:01,627
+What am I trying to say?
+
+1263
+01:04:01,638 --> 01:04:03,738
+Drawing is something that can be done freely.
+
+1264
+01:04:03,763 --> 01:04:04,878
+Especially with casual drawings,
+
+1265
+01:04:04,902 --> 01:04:06,290
+you can draw
+
+1266
+01:04:06,314 --> 01:04:07,571
+much more freely.
+
+1267
+01:04:07,596 --> 01:04:10,368
+Because of that, you can direct it like...
+
+1268
+01:04:23,342 --> 01:04:24,461
+for example,
+
+1269
+01:04:32,083 --> 01:04:34,483
+by changing the background to purple.
+
+1270
+01:04:34,929 --> 01:04:36,160
+Make the areas
+
+1271
+01:04:36,185 --> 01:04:37,509
+such as the light and dark parts
+
+1272
+01:04:39,517 --> 01:04:40,900
+of the character
+
+1273
+01:04:47,334 --> 01:04:48,947
+like this.
+
+1274
+01:05:32,769 --> 01:05:35,017
+Overall, it's important that the parts that receive light
+
+1275
+01:05:35,041 --> 01:05:36,386
+become brighter.
+
+1276
+01:05:36,477 --> 01:05:38,863
+If it becomes bright in black and white, there's no problem.
+
+1277
+01:05:39,214 --> 01:05:41,678
+So if it gets brighter when you see it in black and white,
+
+1278
+01:05:41,702 --> 01:05:43,569
+even if the saturation gets strong,
+
+1279
+01:05:43,593 --> 01:05:45,504
+it's not that important,
+
+1280
+01:05:45,632 --> 01:05:47,166
+no matter how the hues change.
+
+1281
+01:05:47,330 --> 01:05:48,431
+In painting,
+
+1282
+01:05:48,632 --> 01:05:50,569
+if you think about the picture itself,
+
+1283
+01:05:50,593 --> 01:05:52,301
+it's not that important.
+
+1284
+01:05:54,023 --> 01:05:56,681
+When you brightened the middle area like this,
+
+1285
+01:05:56,705 --> 01:05:58,416
+or change the color like this,
+
+1286
+01:06:01,948 --> 01:06:03,779
+as long as they suit each other,
+
+1287
+01:06:03,803 --> 01:06:05,060
+it won't be a problem.
+
+1288
+01:06:10,943 --> 01:06:14,201
+The way to use this Lasso Tool is,
+
+1289
+01:06:14,506 --> 01:06:16,446
+you don't even have to use a drawing tablet.
+
+1290
+01:06:16,470 --> 01:06:18,488
+Sometimes, I just work with a mouse.
+
+1291
+01:06:19,933 --> 01:06:22,014
+Most of the time, of course, I use a drawing tablet.
+
+1292
+01:06:25,410 --> 01:06:27,956
+Even if you go in like this, you'll see that
+
+1293
+01:06:27,980 --> 01:06:30,326
+it still becomes an okay illustration.
+
+1294
+01:06:30,703 --> 01:06:33,258
+In other words, in the illustration,
+
+1295
+01:06:33,282 --> 01:06:34,939
+the coloring
+
+1296
+01:06:34,963 --> 01:06:36,170
+is something really free.
+
+1297
+01:06:36,246 --> 01:06:38,430
+Because of that, you can make many variations
+
+1298
+01:06:38,454 --> 01:06:40,290
+by yourself like this.
+
+1299
+01:06:40,314 --> 01:06:42,050
+Even if I draw only one piece of illustration,
+
+1300
+01:06:42,074 --> 01:06:44,003
+make various examples.
+
+1301
+01:06:44,027 --> 01:06:46,109
+I'd like to emphasize that
+
+1302
+01:06:46,134 --> 01:06:48,191
+if you increase the number
+
+1303
+01:06:48,215 --> 01:06:49,811
+of the type of illustrations you can draw,
+
+1304
+01:06:49,835 --> 01:06:51,089
+it would be good.
+
+1305
+01:06:51,113 --> 01:06:53,019
+That's one of the things I'd like to emphasize.
+
+1306
+01:06:53,043 --> 01:06:54,837
+While talking about coloring,
+
+1307
+01:06:55,166 --> 01:06:57,034
+there's one last thing I want to say.
+
+1308
+01:07:17,202 --> 01:07:19,624
+You can control the contrast.
+
+1309
+01:07:27,654 --> 01:07:29,432
+I'll tell you in the description part,
+
+1310
+01:07:29,805 --> 01:07:32,005
+but later on,
+
+1311
+01:07:33,054 --> 01:07:34,657
+you can use
+
+1312
+01:07:35,870 --> 01:07:37,405
+many editing methods.
+
+1313
+01:07:45,355 --> 01:07:46,958
+This can also be a way
+
+1314
+01:07:46,982 --> 01:07:49,249
+of drawing an illustration.
+
+1315
+01:07:55,217 --> 01:07:56,479
+I'll put it on display.
+
+1316
+01:08:01,339 --> 01:08:02,535
+So like this,
+
+1317
+01:08:02,559 --> 01:08:04,727
+we learned how to make a full illustration.
+
+1318
+01:08:05,385 --> 01:08:07,797
+Next time, I'll pick one of these
+
+1319
+01:08:07,821 --> 01:08:08,923
+that I like the most,
+
+1320
+01:08:08,947 --> 01:08:10,821
+and I'll tell you
+
+1321
+01:08:10,845 --> 01:08:12,204
+how to finish it,
+
+1322
+01:08:12,228 --> 01:08:13,657
+up to the completion stage.
+
+1323
+01:08:13,782 --> 01:08:16,331
+You will then learn how to
+
+1324
+01:08:16,356 --> 01:08:18,211
+change the expression depending on the mood.
+
+1325
+01:08:18,235 --> 01:08:20,086
+It will be good
+
+1326
+01:08:20,110 --> 01:08:21,533
+if you can choose how to color your illustration
+
+1327
+01:08:21,558 --> 01:08:22,857
+according to
+
+1328
+01:08:22,881 --> 01:08:24,920
+what kind of illustration
+
+1329
+01:08:24,944 --> 01:08:26,022
+you're going for.
+
+1330
+01:08:26,033 --> 01:08:28,523
+Let's wrap up today's class.
+
+1331
+01:08:29,172 --> 01:08:30,467
+I'll see you again
+
+1332
+01:08:31,083 --> 01:08:32,623
+in the next lecture.
+
+1333
+01:08:32,625 --> 01:08:33,875
+Keep up the great work.
+

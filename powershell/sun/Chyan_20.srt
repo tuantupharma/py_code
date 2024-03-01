@@ -1,0 +1,3013 @@
+1
+00:00:00,001 --> 00:00:05,109
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:07,052 --> 00:00:08,092
+Hello.
+
+3
+00:00:08,117 --> 00:00:09,625
+Today is our last lecture.
+
+4
+00:00:10,234 --> 00:00:13,055
+We'll review what we've done so far.
+
+5
+00:00:13,388 --> 00:00:15,250
+I'm going to summarize a few things.
+
+6
+00:00:15,515 --> 00:00:18,289
+And while you study,
+
+7
+00:00:18,327 --> 00:00:20,640
+I'm going to say
+
+8
+00:00:20,642 --> 00:00:23,107
+what I couldn't before
+
+9
+00:00:23,109 --> 00:00:25,718
+or things that I want to tell you from now on.
+
+10
+00:00:25,813 --> 00:00:28,314
+Thank you for following through with this long course.
+
+11
+00:00:28,316 --> 00:00:29,875
+I really appreciate it.
+
+12
+00:00:30,320 --> 00:00:31,373
+I'm sure some of you
+
+13
+00:00:31,398 --> 00:00:33,522
+took my class while drawing.
+
+14
+00:00:33,547 --> 00:00:35,311
+Some others
+
+15
+00:00:35,336 --> 00:00:37,461
+may have just watched the videos.
+
+16
+00:00:37,486 --> 00:00:39,117
+For those of you who followed along with me,
+
+17
+00:00:39,142 --> 00:00:41,584
+in this lecture, look at what you drew so far
+
+18
+00:00:41,609 --> 00:00:43,006
+and see if you missed anything.
+
+19
+00:00:43,031 --> 00:00:45,475
+I hope you can take a look.
+
+20
+00:00:45,500 --> 00:00:47,202
+For those who just watched the videos,
+
+21
+00:00:47,204 --> 00:00:50,045
+use what I've told you so far
+
+22
+00:00:50,070 --> 00:00:51,883
+and draw full illustrations and portrait illustration
+
+23
+00:00:51,908 --> 00:00:53,623
+as you make reference to
+
+24
+00:00:53,648 --> 00:00:56,718
+photo materials.
+
+25
+00:00:56,743 --> 00:00:59,430
+Let's summarize what we've done so far
+
+26
+00:00:59,455 --> 00:01:01,513
+and let's take this time to wrap things up.
+
+27
+00:01:02,555 --> 00:01:09,991
+We learned
+
+28
+00:01:10,016 --> 00:01:11,912
+what an illustration is all about.
+
+29
+00:01:12,295 --> 00:01:14,186
+In the end, an illustration
+
+30
+00:01:14,211 --> 00:01:16,381
+is all about composing the square canvas
+
+31
+00:01:16,663 --> 00:01:20,020
+or the overall silhouette of the character.
+
+32
+00:01:20,045 --> 00:01:22,749
+But, in the end, it's not just about making up a character.
+
+33
+00:01:22,750 --> 00:01:24,740
+It's about composing the viewer's gaze
+
+34
+00:01:25,698 --> 00:01:27,356
+and inducing it.
+
+35
+00:01:27,381 --> 00:01:30,709
+We also learned that expressing the key elements are important.
+
+36
+00:01:30,734 --> 00:01:33,615
+That's what illustrations are about.
+
+37
+00:01:34,202 --> 00:01:36,958
+So, when we draw characters,
+
+38
+00:01:36,983 --> 00:01:40,197
+characters are just the subject matter.
+
+39
+00:01:40,199 --> 00:01:43,884
+Illustration is all about 'cooking' a tasty dish with the character.
+
+40
+00:01:45,859 --> 00:01:47,373
+In a way, the process of cooking
+
+41
+00:01:47,375 --> 00:01:49,427
+is just like the process of
+
+42
+00:01:49,452 --> 00:01:50,771
+of drawing illustrations.
+
+43
+00:01:50,796 --> 00:01:57,555
+To do that, in Section 2,
+
+44
+00:01:57,557 --> 00:01:59,318
+I taught you about the basics.
+
+45
+00:02:00,147 --> 00:02:01,992
+Well, it's embarrassing to say that
+
+46
+00:02:01,994 --> 00:02:03,716
+because I didn't teach you a lot.
+
+47
+00:02:03,741 --> 00:02:05,770
+I think that part could be a little disappointing.
+
+48
+00:02:05,795 --> 00:02:07,342
+But with the basics,
+
+49
+00:02:07,344 --> 00:02:10,770
+of course, it would be good if I taught all of them to you.
+
+50
+00:02:10,795 --> 00:02:13,615
+But, there's a lot of information on the internet.
+
+51
+00:02:13,725 --> 00:02:16,459
+So, check out the muscles of the human body there
+
+52
+00:02:16,484 --> 00:02:18,817
+and build up your basics.
+
+53
+00:02:18,842 --> 00:02:21,155
+That's why you need to learn from other sources.
+
+54
+00:02:21,180 --> 00:02:23,982
+Eventually, this process will take a lot of time.
+
+55
+00:02:25,123 --> 00:02:26,608
+But you need to spend a lot of time on it.
+
+56
+00:02:26,610 --> 00:02:27,934
+Compared to other processes,
+
+57
+00:02:28,147 --> 00:02:33,114
+normally, if you go to an art school and learn something,
+
+58
+00:02:33,116 --> 00:02:34,777
+when it comes to coloring,
+
+59
+00:02:34,802 --> 00:02:36,573
+you will eventually get better.
+
+60
+00:02:36,598 --> 00:02:38,706
+I think in this case, one month would be the basic unit of time.
+
+61
+00:02:38,731 --> 00:02:41,978
+I'd say if you learn coloring for 7 to 8 months,
+
+62
+00:02:41,980 --> 00:02:44,542
+you can certainly improve.
+
+63
+00:02:44,567 --> 00:02:46,069
+In case of the whole illustration process,
+
+64
+00:02:46,071 --> 00:02:47,191
+the time unit would be one year.
+
+65
+00:02:47,216 --> 00:02:49,911
+If you want to draw well to a certain extent,
+
+66
+00:02:49,936 --> 00:02:53,011
+it takes 3 to 4 years.
+
+67
+00:02:53,036 --> 00:02:56,434
+So, it takes a lot of time to
+
+68
+00:02:56,459 --> 00:02:57,384
+be better at drawing.
+
+69
+00:02:57,438 --> 00:02:58,771
+When it comes to training,
+
+70
+00:02:58,773 --> 00:03:01,738
+that's why you can't understand this right away.
+
+71
+00:03:01,740 --> 00:03:04,157
+Does that mean you should come back in 3-4 years?
+
+72
+00:03:04,159 --> 00:03:05,124
+It's not like that.
+
+73
+00:03:05,126 --> 00:03:08,020
+We learned how to simplify when we were learning the basics.
+
+74
+00:03:09,473 --> 00:03:12,370
+And with a simplified body,
+
+75
+00:03:12,372 --> 00:03:14,352
+I told you
+
+76
+00:03:14,354 --> 00:03:15,612
+that you can draw characters.
+
+77
+00:03:15,637 --> 00:03:18,502
+So, we're going to use simplified human bodies
+
+78
+00:03:18,504 --> 00:03:20,501
+and draw a simple human body.
+
+79
+00:03:20,503 --> 00:03:23,988
+Let's practice how to draw just like you want to.
+
+80
+00:03:24,548 --> 00:03:26,116
+Let's get to it.
+
+81
+00:03:26,129 --> 00:03:27,308
+So, what did we learn?
+
+82
+00:03:27,333 --> 00:03:38,997
+The human body is divided into basic movements, proportions, and outlines.
+
+83
+00:03:39,784 --> 00:03:41,462
+Out of movement, proportions, and outlines,
+
+84
+00:03:41,487 --> 00:03:43,063
+movement is the most important.
+
+85
+00:03:43,088 --> 00:03:44,128
+The second most important is the proportions.
+
+86
+00:03:44,130 --> 00:03:46,572
+The third would be the outlines.
+
+87
+00:03:46,885 --> 00:03:48,557
+Out of movement, proportions, and lines,
+
+88
+00:03:48,574 --> 00:03:50,337
+the first thing you should learn is
+
+89
+00:03:50,370 --> 00:03:52,463
+the proportions.
+
+90
+00:03:53,026 --> 00:03:55,087
+You should know the proportions
+
+91
+00:03:55,112 --> 00:03:57,243
+for your deformed, or modified characters.
+
+92
+00:03:57,268 --> 00:03:59,046
+Now, with that in mind,
+
+93
+00:03:59,048 --> 00:04:00,982
+make a mannequin in your head.
+
+94
+00:04:00,984 --> 00:04:04,843
+Make a base mannequin that's the basis of your ideal human body.
+
+95
+00:04:04,845 --> 00:04:07,851
+Using that, give it many movements
+
+96
+00:04:07,853 --> 00:04:09,759
+and various angles.
+
+97
+00:04:09,784 --> 00:04:13,436
+You have to train how to move
+
+98
+00:04:13,438 --> 00:04:15,932
+and spin your imaginary body.
+
+99
+00:04:16,706 --> 00:04:18,049
+After doing that,
+
+100
+00:04:18,074 --> 00:04:19,698
+from the human body that you drew,
+
+101
+00:04:19,723 --> 00:04:21,440
+it's good if you study more about the outlines
+
+102
+00:04:21,465 --> 00:04:24,743
+to express
+
+103
+00:04:24,768 --> 00:04:27,227
+more attractive things.
+
+104
+00:04:27,252 --> 00:04:29,017
+Whether it's the fat or the muscles,
+
+105
+00:04:29,042 --> 00:04:31,248
+or the creases of clothes or the hair,
+
+106
+00:04:31,250 --> 00:04:34,012
+study how to draw outlines additionally,
+
+107
+00:04:34,014 --> 00:04:35,836
+so that from the basic body type that you drew,
+
+108
+00:04:35,838 --> 00:04:38,531
+you'll make a more attractive basic version.
+
+109
+00:04:38,533 --> 00:04:40,845
+That's how you will practice.
+
+110
+00:04:40,870 --> 00:04:43,729
+This is the basic framework of the human body.
+
+111
+00:04:43,870 --> 00:04:48,318
+For your information, the proportions, movements, and lines
+
+112
+00:04:48,320 --> 00:04:50,932
+that I mentioned,
+
+113
+00:04:51,268 --> 00:04:53,053
+they could be applied to characters,
+
+114
+00:04:53,078 --> 00:04:55,550
+and animals as well.
+
+115
+00:04:55,575 --> 00:04:57,617
+Most of them are included.
+
+116
+00:04:58,153 --> 00:05:00,342
+Even when you're drawing a dog or a cat,
+
+117
+00:05:00,367 --> 00:05:02,504
+you have to make sure the movements are correct.
+
+118
+00:05:02,506 --> 00:05:04,780
+You should make sure the proportions are correct first.
+
+119
+00:05:04,782 --> 00:05:06,001
+Then, you would make sure the outlines are correct.
+
+120
+00:05:06,003 --> 00:05:08,446
+So in terms of their importance,
+
+121
+00:05:08,448 --> 00:05:12,539
+it will be the same for characters and animals.
+
+122
+00:05:12,541 --> 00:05:15,303
+So please remember these things.
+
+123
+00:05:15,328 --> 00:05:17,861
+So, now that you can
+
+124
+00:05:17,863 --> 00:05:19,686
+draw a character to some extent,
+
+125
+00:05:19,711 --> 00:05:23,452
+now you're going to practice how to actually draw.
+
+126
+00:05:23,477 --> 00:05:26,589
+This is what was included in Section 3.
+
+127
+00:05:26,591 --> 00:05:28,281
+Before we actually draw professionally,
+
+128
+00:05:28,283 --> 00:05:31,671
+it's good to know what you want to do.
+
+129
+00:05:31,696 --> 00:05:34,523
+When you actually draw professionally,
+
+130
+00:05:34,525 --> 00:05:38,458
+if you want to be hired
+
+131
+00:05:39,758 --> 00:05:42,877
+and make money with your illustrations,
+
+132
+00:05:42,879 --> 00:05:48,016
+you'd either draw concept art, or do character illustrations.
+
+133
+00:05:49,508 --> 00:05:51,328
+You might also draw full illustrations,
+
+134
+00:05:54,062 --> 00:05:56,188
+or simply draw fan art and make money that way.
+
+135
+00:05:57,758 --> 00:05:59,079
+There are many different ways.
+
+136
+00:05:59,081 --> 00:06:01,044
+Depending on what you want to do, you need to know different things.
+
+137
+00:06:01,046 --> 00:06:03,319
+In the case of concept art and character illustrations,
+
+138
+00:06:03,344 --> 00:06:04,912
+you need design skills.
+
+139
+00:06:05,403 --> 00:06:06,452
+And for illustrations,
+
+140
+00:06:06,477 --> 00:06:08,534
+you need composition skills.
+
+141
+00:06:08,559 --> 00:06:09,777
+The same goes for fan art, too.
+
+142
+00:06:09,802 --> 00:06:10,679
+As for fan art,
+
+143
+00:06:10,681 --> 00:06:12,064
+it focuses more on
+
+144
+00:06:12,066 --> 00:06:13,331
+expressing the character's charm.
+
+145
+00:06:13,356 --> 00:06:15,143
+But, you won't have to do much design work.
+
+146
+00:06:15,145 --> 00:06:17,113
+So, everyone needs different things.
+
+147
+00:06:17,138 --> 00:06:19,120
+That's why you need to keep that in mind,
+
+148
+00:06:19,145 --> 00:06:21,375
+and it's good to be able to decide what you need quickly.
+
+149
+00:06:21,377 --> 00:06:22,799
+If you can't decide, just get on with it.
+
+150
+00:06:22,824 --> 00:06:25,231
+It's okay to draw first and decide later.
+
+151
+00:06:25,865 --> 00:06:27,262
+But, it's important to decide your path as quickly as possible.
+
+152
+00:06:27,287 --> 00:06:28,699
+Just decide your own path first,
+
+153
+00:06:28,701 --> 00:06:30,706
+no matter how you do it.
+
+154
+00:06:30,731 --> 00:06:32,441
+Why is it important to decide that?
+
+155
+00:06:32,466 --> 00:06:34,659
+So that you can make sure of where you're going.
+
+156
+00:06:34,661 --> 00:06:36,800
+You can change it later
+
+157
+00:06:36,825 --> 00:06:38,683
+if you wish.
+
+158
+00:06:38,708 --> 00:06:40,722
+While you were practicing concept art,
+
+159
+00:06:40,747 --> 00:06:43,184
+you might suddenly want to do illustrations.
+
+160
+00:06:43,209 --> 00:06:46,027
+If you can't stand it, you change your goals.
+
+161
+00:06:46,052 --> 00:06:48,356
+Your skills will improve no matter what,
+
+162
+00:06:48,381 --> 00:06:49,417
+as long as you're drawing.
+
+163
+00:06:49,442 --> 00:06:52,348
+It's just that your artistic path won't be a straight road.
+
+164
+00:06:52,575 --> 00:06:55,128
+Your skills will improve continuously anyway.
+
+165
+00:06:55,153 --> 00:06:57,146
+I compared it to raising your bar before, right?
+
+166
+00:06:57,148 --> 00:06:59,059
+It's like raising your bar of skills.
+
+167
+00:06:59,184 --> 00:07:01,009
+Your skills will be formed one way or another.
+
+168
+00:07:01,011 --> 00:07:02,790
+So, you'll have some chances.
+
+169
+00:07:02,792 --> 00:07:05,328
+First of all, decide what you're doing right now.
+
+170
+00:07:05,330 --> 00:07:08,684
+That will help you speed up the process.
+
+171
+00:07:08,686 --> 00:07:10,637
+Just keep that in mind and continue.
+
+172
+00:07:11,480 --> 00:07:13,436
+We learned the basics.
+
+173
+00:07:13,438 --> 00:07:17,144
+And after that,
+
+174
+00:07:17,169 --> 00:07:19,762
+we learned about the gaze and the silhouette.
+
+175
+00:07:21,755 --> 00:07:25,277
+It's also the most important part of illustration.
+
+176
+00:07:25,302 --> 00:07:28,168
+I also taught you about lighting.
+
+177
+00:07:28,669 --> 00:07:30,638
+In the end, this is all about
+
+178
+00:07:30,663 --> 00:07:33,411
+making the viewers see
+
+179
+00:07:34,300 --> 00:07:38,399
+the main elements first,
+
+180
+00:07:38,674 --> 00:07:39,997
+and then the sub elements,
+
+181
+00:07:41,795 --> 00:07:42,909
+and then the extra elements.
+
+182
+00:07:43,528 --> 00:07:45,784
+We learned how the viewer's gaze will flow
+
+183
+00:07:45,809 --> 00:07:47,934
+and how we will compose the canvas.
+
+184
+00:07:47,959 --> 00:07:49,372
+Dot, line, and plane.
+
+185
+00:07:51,127 --> 00:07:52,724
+A triangular silhouette,
+
+186
+00:07:52,995 --> 00:07:54,449
+a diamond silhouette,
+
+187
+00:07:54,474 --> 00:07:55,488
+an 8-shaped silhouette.
+
+188
+00:07:55,513 --> 00:07:57,002
+In the case of lighting,
+
+189
+00:07:57,004 --> 00:07:58,346
+we need to focus on where the light would come in.
+
+190
+00:07:59,505 --> 00:08:01,292
+We could either give a Spotlight,
+
+191
+00:08:01,317 --> 00:08:02,893
+or apply Hard Light or Soft Light.
+
+192
+00:08:02,895 --> 00:08:04,268
+There're many things you could do.
+
+193
+00:08:04,270 --> 00:08:05,995
+Or you can use complementary colors
+
+194
+00:08:06,606 --> 00:08:08,642
+or similar colors
+
+195
+00:08:08,644 --> 00:08:10,692
+and use all of that
+
+196
+00:08:10,717 --> 00:08:12,427
+to compose the gaze.
+
+197
+00:08:12,452 --> 00:08:15,526
+You should think about
+
+198
+00:08:15,551 --> 00:08:18,628
+whether you could draw people's attention to where you wanted
+
+199
+00:08:18,630 --> 00:08:20,644
+and contain all the important parts there.
+
+200
+00:08:20,669 --> 00:08:23,016
+In other words, did you express what you wanted to?
+
+201
+00:08:23,018 --> 00:08:24,371
+Think about this every time
+
+202
+00:08:24,373 --> 00:08:26,175
+when you compose an illustration.
+
+203
+00:08:26,200 --> 00:08:28,989
+Usually, people who draw for the first time,
+
+204
+00:08:29,014 --> 00:08:31,017
+in other words, people who are self-taught
+
+205
+00:08:31,019 --> 00:08:32,768
+without learning from anyone,
+
+206
+00:08:32,770 --> 00:08:34,925
+for those people,
+
+207
+00:08:34,950 --> 00:08:36,465
+they would have just drawn without thinking.
+
+208
+00:08:36,942 --> 00:08:38,847
+Rather than thinking about the gaze,
+
+209
+00:08:38,872 --> 00:08:40,554
+they would have copied other drawings
+
+210
+00:08:40,555 --> 00:08:42,103
+or photo references.
+
+211
+00:08:42,104 --> 00:08:44,534
+They might have just started with a character that's standing up.
+
+212
+00:08:44,559 --> 00:08:46,613
+Maybe that's how you started drawing.
+
+213
+00:08:46,638 --> 00:08:50,004
+Of course, that's helpful.
+
+214
+00:08:50,006 --> 00:08:52,338
+It's helpful from the perspective of drawing characters,
+
+215
+00:08:52,339 --> 00:08:54,894
+but it doesn't help much when you're composing.
+
+216
+00:08:54,919 --> 00:08:57,505
+So if you continue to draw like that,
+
+217
+00:08:57,507 --> 00:08:59,297
+your skills will improve, but,
+
+218
+00:08:59,299 --> 00:09:00,590
+what happens is,
+
+219
+00:09:00,708 --> 00:09:03,785
+it's hard to get the illustration that you want.
+
+220
+00:09:03,786 --> 00:09:06,505
+You can still draw characters to a certain extent
+
+221
+00:09:06,530 --> 00:09:07,444
+if you take your time.
+
+222
+00:09:07,469 --> 00:09:09,820
+But since you would always draw the same thing,
+
+223
+00:09:09,822 --> 00:09:11,637
+it's hard to draw various things.
+
+224
+00:09:11,802 --> 00:09:13,379
+And when you want to give your drawing a different vibe,
+
+225
+00:09:13,404 --> 00:09:15,909
+it might not have the feeling that you want.
+
+226
+00:09:15,934 --> 00:09:20,194
+Or you might not know how to approach it.
+
+227
+00:09:20,195 --> 00:09:22,614
+It might look okay at the roughing -n stage, but it might look terrible once it's completed.
+
+228
+00:09:22,639 --> 00:09:24,667
+These kinds of problems will happen.
+
+229
+00:09:24,692 --> 00:09:27,388
+So in the end, to solve all these problems,
+
+230
+00:09:27,413 --> 00:09:29,817
+eventually, you need to know about the gaze.
+
+231
+00:09:30,083 --> 00:09:32,731
+How do you show the areas you want?
+
+232
+00:09:32,756 --> 00:09:33,942
+How will you express it?
+
+233
+00:09:34,427 --> 00:09:36,402
+But if you don't know
+
+234
+00:09:36,404 --> 00:09:37,888
+how to do it well,
+
+235
+00:09:37,913 --> 00:09:39,265
+including this area,
+
+236
+00:09:39,290 --> 00:09:40,816
+and the human body area as well,
+
+237
+00:09:40,841 --> 00:09:41,789
+in all...
+
+238
+00:09:41,790 --> 00:09:44,324
+There was something that I emphasized in Section 1.
+
+239
+00:09:44,349 --> 00:09:47,607
+To be honest, I wanted to say this again at the end.
+
+240
+00:09:47,608 --> 00:09:49,739
+It's how to use materials, or references.
+
+241
+00:09:53,395 --> 00:09:55,488
+References help you
+
+242
+00:09:55,513 --> 00:09:58,516
+create the information in your head
+
+243
+00:09:58,517 --> 00:10:01,620
+without actually experiencing it.
+
+244
+00:10:01,645 --> 00:10:03,724
+So these references
+
+245
+00:10:03,726 --> 00:10:05,920
+would be adding something to your head.
+
+246
+00:10:06,583 --> 00:10:11,243
+The gaze, the silhouettes, and the lighting that are used in the actual drawing stage
+
+247
+00:10:11,245 --> 00:10:14,698
+is all about the process of printing out what's in your head.
+
+248
+00:10:15,013 --> 00:10:16,028
+It's the process of printing things out
+
+249
+00:10:16,567 --> 00:10:18,464
+from your head.
+
+250
+00:10:18,489 --> 00:10:20,112
+You have to update the data in your head
+
+251
+00:10:20,113 --> 00:10:21,870
+so that there's going to be a lot to print out.
+
+252
+00:10:21,895 --> 00:10:23,263
+You need to have a lot of data in your head.
+
+253
+00:10:23,288 --> 00:10:24,900
+So that a lot will come out when you print it out.
+
+254
+00:10:24,925 --> 00:10:27,422
+Then, to increase the capacity of your head,
+
+255
+00:10:27,424 --> 00:10:30,636
+you need to rely on references.
+
+256
+00:10:31,403 --> 00:10:33,324
+And of course, the curriculum you've seen so far
+
+257
+00:10:33,349 --> 00:10:35,739
+would be included
+
+258
+00:10:35,764 --> 00:10:37,425
+in this 'data'.
+
+259
+00:10:37,450 --> 00:10:38,773
+Including such things,
+
+260
+00:10:38,775 --> 00:10:41,442
+you get the information you see from these sources.
+
+261
+00:10:41,638 --> 00:10:43,472
+In the process of collecting this information,
+
+262
+00:10:43,497 --> 00:10:46,215
+I told you that you must go through the analyzing process.
+
+263
+00:10:48,005 --> 00:10:50,077
+When you look at references,
+
+264
+00:10:50,079 --> 00:10:52,308
+you shouldn't just say it's 'pretty'.
+
+265
+00:10:52,333 --> 00:10:54,307
+Why is it so pretty?
+
+266
+00:10:54,638 --> 00:10:56,972
+How does the gaze of people flow?
+
+267
+00:10:56,997 --> 00:10:58,969
+What would happen if you flip your drawing vertically?
+
+268
+00:10:58,971 --> 00:11:00,855
+How would it look from a different perspective?
+
+269
+00:11:00,880 --> 00:11:02,601
+How would other colors look in the illustration?
+
+270
+00:11:02,603 --> 00:11:03,988
+Edit things by yourself,
+
+271
+00:11:04,013 --> 00:11:06,039
+and see what happens if you draw with your own style.
+
+272
+00:11:06,040 --> 00:11:08,036
+Try to copy and draw,
+
+273
+00:11:08,061 --> 00:11:10,520
+and please use that as a reference somehow.
+
+274
+00:11:10,638 --> 00:11:13,808
+So, put additional information into your head,
+
+275
+00:11:13,833 --> 00:11:15,983
+and when your head is 'updated',
+
+276
+00:11:15,984 --> 00:11:18,012
+if you do the actual work,
+
+277
+00:11:18,013 --> 00:11:20,817
+I'm sure that your results can be readily used in the field.
+
+278
+00:11:20,842 --> 00:11:23,047
+You'll be able to produce high-quality work.
+
+279
+00:11:23,395 --> 00:11:24,989
+At that point,
+
+280
+00:11:25,106 --> 00:11:27,291
+it's all about gaining more experience
+
+281
+00:11:27,293 --> 00:11:29,402
+and it's about increasing your perfection.
+
+282
+00:11:29,404 --> 00:11:32,802
+I talked about the difference between quality and perfection.
+
+283
+00:11:33,653 --> 00:11:36,600
+Quality is the perfection of the composition itself.
+
+284
+00:11:36,602 --> 00:11:38,167
+On the other hand, perfection is about
+
+285
+00:11:38,192 --> 00:11:39,941
+how clean the final result is,
+
+286
+00:11:39,966 --> 00:11:41,528
+to the point that you can use it in the field.
+
+287
+00:11:41,553 --> 00:11:43,996
+It's about whether it comes out clean and in high quality.
+
+288
+00:11:44,653 --> 00:11:46,169
+When it comes to things like this,
+
+289
+00:11:46,194 --> 00:11:48,309
+the most important thing is the front area.
+
+290
+00:11:48,334 --> 00:11:50,194
+In other words, in terms of the composition of the illustration,
+
+291
+00:11:50,219 --> 00:11:54,496
+it's important to have a full composition.
+
+292
+00:11:54,521 --> 00:11:56,423
+So, you should
+
+293
+00:11:56,425 --> 00:11:57,566
+focus on those areas.
+
+294
+00:11:58,059 --> 00:11:59,899
+After doing that,
+
+295
+00:11:59,901 --> 00:12:03,056
+we looked at a full illustration and a portrait illustration.
+
+296
+00:12:03,058 --> 00:12:04,434
+We looked at two examples.
+
+297
+00:12:10,849 --> 00:12:13,081
+Usually, the thing that applies here
+
+298
+00:12:14,667 --> 00:12:17,884
+is that character illustration and concept art
+
+299
+00:12:17,909 --> 00:12:20,423
+is closer to portrait illustration.
+
+300
+00:12:20,448 --> 00:12:23,009
+For full illustration and fan art,
+
+301
+00:12:23,034 --> 00:12:25,986
+it would literally be full illustrations.
+
+302
+00:12:26,151 --> 00:12:28,174
+That's why you're going to practice like that.
+
+303
+00:12:28,276 --> 00:12:30,549
+When you make a full illustration,
+
+304
+00:12:30,550 --> 00:12:32,905
+You should practice more from what you did above.
+
+305
+00:12:32,906 --> 00:12:34,521
+When you practice,
+
+306
+00:12:34,522 --> 00:12:35,941
+and when it comes to lighting,
+
+307
+00:12:36,792 --> 00:12:41,433
+or when it comes to the concept of coloring,
+
+308
+00:12:41,435 --> 00:12:44,252
+I hope you invest more time.
+
+309
+00:12:44,495 --> 00:12:46,425
+Because you'll have more freedom of expression,
+
+310
+00:12:46,426 --> 00:12:48,790
+compared to portrait illustration,
+
+311
+00:12:48,815 --> 00:12:51,267
+I hope you can use a variety of colors.
+
+312
+00:12:51,292 --> 00:12:53,606
+If I were to add one more thing,
+
+313
+00:12:53,608 --> 00:12:54,947
+I guess it would be composing the canvas.
+
+314
+00:12:55,143 --> 00:12:58,307
+The reason why composing the canvas is more important
+
+315
+00:12:58,309 --> 00:12:59,549
+is because it's like free-styling.
+
+316
+00:13:00,667 --> 00:13:02,603
+The character could be lying down
+
+317
+00:13:02,628 --> 00:13:04,462
+or it could be upside-down.
+
+318
+00:13:04,487 --> 00:13:05,760
+When we cut the canvas in half,
+
+319
+00:13:05,785 --> 00:13:08,033
+the left and right canvases could look different.
+
+320
+00:13:09,089 --> 00:13:10,799
+The characters could change,
+
+321
+00:13:11,366 --> 00:13:13,293
+and the skirt of the character that's lying down
+
+322
+00:13:13,295 --> 00:13:14,932
+could be in different colors.
+
+323
+00:13:15,260 --> 00:13:17,314
+Or you could direct it differently.
+
+324
+00:13:17,339 --> 00:13:20,204
+You could see the background inside the character's outfit,
+
+325
+00:13:20,229 --> 00:13:22,907
+or see a different background through the character's eyes.
+
+326
+00:13:22,932 --> 00:13:24,112
+Like that,
+
+327
+00:13:24,137 --> 00:13:26,831
+there are various ways of directing when you're illustrating.
+
+328
+00:13:27,191 --> 00:13:30,894
+I don't think I even showed you 7% of how you could direct things in this class.
+
+329
+00:13:30,919 --> 00:13:33,181
+That's how free illustrations can be.
+
+330
+00:13:33,206 --> 00:13:36,220
+As such, analyze other illustrations
+
+331
+00:13:36,245 --> 00:13:39,013
+and see what other types of direction are possible.
+
+332
+00:13:39,015 --> 00:13:40,689
+You should continue expanding your experiences
+
+333
+00:13:40,714 --> 00:13:43,501
+after this.
+
+334
+00:13:43,526 --> 00:13:46,158
+So, I think it's a good idea to study more.
+
+335
+00:13:46,183 --> 00:13:49,077
+When you draw a full illustration,
+
+336
+00:13:49,079 --> 00:13:50,347
+focus on coloring
+
+337
+00:13:50,348 --> 00:13:52,517
+to train yourself.
+
+338
+00:13:52,542 --> 00:13:56,167
+If you want to make money with full illustrations,
+
+339
+00:13:56,192 --> 00:13:59,372
+or if you wish to gain recognition with your fan art,
+
+340
+00:13:59,397 --> 00:14:02,158
+I'm sure you'll see how it affects your skills.
+
+341
+00:14:02,183 --> 00:14:03,534
+Especially recently,
+
+342
+00:14:03,559 --> 00:14:05,908
+there are so many illustrators.
+
+343
+00:14:05,933 --> 00:14:09,636
+That also means you have a lot of rivals.
+
+344
+00:14:09,661 --> 00:14:11,073
+There is so much competition,
+
+345
+00:14:11,098 --> 00:14:13,322
+and there are a lot of people who are really good at drawing.
+
+346
+00:14:13,347 --> 00:14:16,228
+There are already a lot of people like that.
+
+347
+00:14:16,253 --> 00:14:18,006
+But now, drawing is even more accessible.
+
+348
+00:14:18,007 --> 00:14:20,050
+There are so many social media services these days.
+
+349
+00:14:20,051 --> 00:14:23,136
+There's Twitter, Pixiv, and
+
+350
+00:14:23,161 --> 00:14:25,470
+dozens of other sites where pictures come up.
+
+351
+00:14:25,495 --> 00:14:26,633
+In such places,
+
+352
+00:14:26,635 --> 00:14:30,173
+there are more ways that you can earn money from your own work.
+
+353
+00:14:30,198 --> 00:14:34,033
+In the past, if you were to make money by drawing,
+
+354
+00:14:34,035 --> 00:14:35,221
+you would earn money with game illustrations.
+
+355
+00:14:35,223 --> 00:14:36,775
+Or you would just create fan art
+
+356
+00:14:36,800 --> 00:14:38,590
+and sell it to other fans.
+
+357
+00:14:38,592 --> 00:14:40,261
+The only way to earn money
+
+358
+00:14:40,286 --> 00:14:44,072
+was to sell fanzines in the past.
+
+359
+00:14:44,097 --> 00:14:47,401
+But recently, you can upload your works on Patreon.
+
+360
+00:14:47,980 --> 00:14:50,930
+It's a site where you could be sponsored based on your art.
+
+361
+00:14:50,955 --> 00:14:53,517
+Patreon, Pixiv, or Fan Box.
+
+362
+00:14:53,542 --> 00:14:55,078
+You can be sponsored from all these sites.
+
+363
+00:14:55,103 --> 00:14:58,009
+Or recently, there's a site that auctions paintings.
+
+364
+00:14:58,650 --> 00:15:01,103
+Digital drawings (NFTs) are also auctioned off,
+
+365
+00:15:01,128 --> 00:15:04,196
+and I heard that there are cases where you can earn Bitcoin or crypto through that.
+
+366
+00:15:05,034 --> 00:15:08,984
+So, you can make money by drawing your own work
+
+367
+00:15:09,009 --> 00:15:10,836
+and there are many new ways.
+
+368
+00:15:10,861 --> 00:15:14,095
+Illustrators will improve their quality
+
+369
+00:15:14,120 --> 00:15:15,728
+and the standard will be higher.
+
+370
+00:15:16,251 --> 00:15:18,664
+In order for us to adapt to that,
+
+371
+00:15:18,665 --> 00:15:20,770
+we have no choice but to keep looking at references.
+
+372
+00:15:21,908 --> 00:15:23,828
+I'm sure you've seen them before, but,
+
+373
+00:15:23,853 --> 00:15:25,587
+teenagers from the 2020s,
+
+374
+00:15:27,064 --> 00:15:28,298
+let me say it again,
+
+375
+00:15:28,524 --> 00:15:32,524
+if you compare the drawings of teenagers from the 2000s
+
+376
+00:15:33,197 --> 00:15:36,167
+and the drawings of teenagers from the 2010s,
+
+377
+00:15:36,169 --> 00:15:38,283
+teenagers in the 2010s
+
+378
+00:15:38,285 --> 00:15:40,329
+are better at drawing.
+
+379
+00:15:40,619 --> 00:15:42,588
+It's inevitable because
+
+380
+00:15:42,589 --> 00:15:45,853
+they have more accessible materials.
+
+381
+00:15:46,056 --> 00:15:48,289
+They had more access to materials,
+
+382
+00:15:48,314 --> 00:15:49,818
+and even if they didn't analyze them much,
+
+383
+00:15:49,819 --> 00:15:52,051
+there are still things that stay in their heads.
+
+384
+00:15:52,053 --> 00:15:55,002
+And because they draw using those things,
+
+385
+00:15:55,003 --> 00:15:57,923
+compared to teenagers who drew in the 2000s,
+
+386
+00:15:57,948 --> 00:15:59,681
+they are better at drawing.
+
+387
+00:16:00,301 --> 00:16:01,212
+What does that mean?
+
+388
+00:16:01,237 --> 00:16:02,486
+If you use references well,
+
+389
+00:16:02,511 --> 00:16:05,212
+it means that you can improve your skills more.
+
+390
+00:16:05,910 --> 00:16:09,057
+For those who draw full illustrations,
+
+391
+00:16:09,059 --> 00:16:11,187
+you have to study
+
+392
+00:16:11,212 --> 00:16:13,336
+how a certain artist composed the gaze
+
+393
+00:16:13,338 --> 00:16:16,046
+and how a certain artist composed the canvas
+
+394
+00:16:16,048 --> 00:16:17,450
+and so on.
+
+395
+00:16:17,452 --> 00:16:19,476
+Try to be like them
+
+396
+00:16:19,501 --> 00:16:23,594
+or try to go beyond that.
+
+397
+00:16:23,619 --> 00:16:24,984
+If you keep practicing
+
+398
+00:16:24,986 --> 00:16:26,064
+full illustration
+
+399
+00:16:26,089 --> 00:16:27,923
+you might be asked to draw loading illustrations,
+
+400
+00:16:28,267 --> 00:16:30,555
+or draw illustrations for novels.
+
+401
+00:16:30,580 --> 00:16:33,273
+You could draw fan art to draw attention,
+
+402
+00:16:33,298 --> 00:16:35,969
+or upload your work on Patreon.
+
+403
+00:16:35,994 --> 00:16:39,134
+I think it'll be a huge help when you do that.
+
+404
+00:16:39,869 --> 00:16:41,306
+Portrait illustration.
+
+405
+00:16:41,331 --> 00:16:45,351
+As expected, the standard is going up for this too.
+
+406
+00:16:45,376 --> 00:16:48,516
+There are a lot of high quality illustrations coming out these days.
+
+407
+00:16:48,541 --> 00:16:51,666
+In the midst of all that, from the perspective of people who have to work,
+
+408
+00:16:51,691 --> 00:16:54,630
+to the point where the students look pathetic,
+
+409
+00:16:54,655 --> 00:16:56,978
+the overall quality of illustrations is high.
+
+410
+00:16:57,598 --> 00:16:59,789
+In the past, you just needed to draw characters.
+
+411
+00:16:59,814 --> 00:17:01,906
+If you could have just drawn a standing character,
+
+412
+00:17:01,907 --> 00:17:04,840
+you could have found places
+
+413
+00:17:04,841 --> 00:17:06,141
+to work.
+
+414
+00:17:06,166 --> 00:17:08,439
+But, these days, this isn't enough.
+
+415
+00:17:08,441 --> 00:17:09,977
+These days, people who draw characters
+
+416
+00:17:10,002 --> 00:17:12,570
+can even draw backgrounds.
+
+417
+00:17:12,595 --> 00:17:14,034
+So, you should be able to draw backgrounds
+
+418
+00:17:14,036 --> 00:17:17,726
+and draw simple objects as well.
+
+419
+00:17:17,751 --> 00:17:20,294
+So, for those who draw full illustrations,
+
+420
+00:17:20,296 --> 00:17:22,273
+this training will help.
+
+421
+00:17:22,298 --> 00:17:24,937
+For those who draw portrait illustrations,
+
+422
+00:17:24,962 --> 00:17:26,894
+I'd like you to practice describing things
+
+423
+00:17:26,896 --> 00:17:28,274
+like metal,
+
+424
+00:17:28,275 --> 00:17:29,728
+trees,
+
+425
+00:17:30,087 --> 00:17:31,766
+or simple objects
+
+426
+00:17:31,791 --> 00:17:33,170
+like cups and things like that.
+
+427
+00:17:33,697 --> 00:17:37,314
+The ability to copy those things...
+
+428
+00:17:37,339 --> 00:17:39,293
+I'm literally talking about the ability to copy.
+
+429
+00:17:39,318 --> 00:17:41,367
+Spend about an hour or two
+
+430
+00:17:41,392 --> 00:17:44,541
+to actually imitate objects.
+
+431
+00:17:44,566 --> 00:17:47,278
+That's how you would train.
+
+432
+00:17:47,303 --> 00:17:50,064
+If you can improve the level of perfection of your description,
+
+433
+00:17:50,089 --> 00:17:52,906
+it will definitely help you draw better illustrations later on.
+
+434
+00:17:52,931 --> 00:17:55,297
+Please continue to do those exercises.
+
+435
+00:17:55,322 --> 00:17:58,109
+Of course, the composition of the canvas would be necessary.
+
+436
+00:17:58,134 --> 00:18:01,709
+There's a limit to canvas composition, though.
+
+437
+00:18:01,711 --> 00:18:03,726
+In the midst of such restrictions,
+
+438
+00:18:03,751 --> 00:18:06,736
+it would be important to practice
+
+439
+00:18:06,761 --> 00:18:08,781
+drawing beautiful illustrations in a stable way.
+
+440
+00:18:08,806 --> 00:18:10,570
+For portrait illustration,
+
+441
+00:18:10,595 --> 00:18:12,161
+compared to full illustrations,
+
+442
+00:18:12,163 --> 00:18:15,976
+it requires a lot of perfection,
+
+443
+00:18:16,001 --> 00:18:20,289
+so in a way, it's the kind of work that requires stability.
+
+444
+00:18:20,314 --> 00:18:24,219
+Companies want illustrators who can draw high-quality work with stability,
+
+445
+00:18:24,244 --> 00:18:28,581
+instead of more challenging work.
+
+446
+00:18:28,606 --> 00:18:30,017
+So, I guess
+
+447
+00:18:30,019 --> 00:18:32,899
+it's good to compose a challenging canvas.
+
+448
+00:18:32,900 --> 00:18:34,849
+But composing a stable canvas,
+
+449
+00:18:34,851 --> 00:18:37,037
+no matter how you compose the canvas,
+
+450
+00:18:37,039 --> 00:18:40,180
+there shouldn't be any imbalance when you look at it.
+
+451
+00:18:40,182 --> 00:18:41,929
+You should make the gaze flow naturally.
+
+452
+00:18:41,931 --> 00:18:43,052
+In other words, stability.
+
+453
+00:18:43,077 --> 00:18:46,777
+I think it'll be good to practice with a sense of stability.
+
+454
+00:18:46,802 --> 00:18:49,425
+That means you will work well in the end.
+
+455
+00:18:49,450 --> 00:18:52,896
+When it comes to being an illustrator,
+
+456
+00:18:52,898 --> 00:18:56,113
+I think there are two strengths.
+
+457
+00:18:56,138 --> 00:18:58,589
+One is someone who draws well.
+
+458
+00:18:58,614 --> 00:19:01,621
+And the second one is someone who draws stably.
+
+459
+00:19:01,950 --> 00:19:04,114
+They're both good at drawing but...
+
+460
+00:19:04,481 --> 00:19:08,168
+In terms of sports, you can compare it to muscle strength and muscular endurance.
+
+461
+00:19:08,427 --> 00:19:13,121
+There are people who have one or two popular artworks.
+
+462
+00:19:13,528 --> 00:19:14,950
+There are other people
+
+463
+00:19:14,952 --> 00:19:17,878
+who aren't that popular,
+
+464
+00:19:17,903 --> 00:19:20,613
+but who produce high-quality illustrations all the time.
+
+465
+00:19:20,638 --> 00:19:24,621
+There's a difference between the two/
+
+466
+00:19:24,623 --> 00:19:28,016
+For example, if you want to be hired by a company,
+
+467
+00:19:28,018 --> 00:19:29,298
+or if you wish to be scouted,
+
+468
+00:19:29,300 --> 00:19:30,954
+you'll focus more on
+
+469
+00:19:30,956 --> 00:19:32,870
+drawing stable illustrations.
+
+470
+00:19:32,895 --> 00:19:35,840
+If you want to work as a freelance artist,
+
+471
+00:19:35,841 --> 00:19:38,800
+you can focus more on
+
+472
+00:19:38,825 --> 00:19:41,504
+making one popular work.
+
+473
+00:19:42,786 --> 00:19:46,347
+So, depending on what you want,
+
+474
+00:19:46,372 --> 00:19:49,372
+you should practice things differently.
+
+475
+00:19:49,559 --> 00:19:52,668
+If you draw through this process,
+
+476
+00:19:53,301 --> 00:19:55,824
+you'll be able to draw a picture of yourself.
+
+477
+00:19:55,849 --> 00:19:57,136
+What I'm saying is
+
+478
+00:19:57,161 --> 00:20:00,143
+if you practice with a certain skillset,
+
+479
+00:20:00,168 --> 00:20:02,192
+you can think about
+
+480
+00:20:02,194 --> 00:20:05,270
+how you can draw
+
+481
+00:20:05,272 --> 00:20:07,864
+and what kind of impact will it give.
+
+482
+00:20:11,108 --> 00:20:14,661
+For example, let's say your skills are here.
+
+483
+00:20:14,825 --> 00:20:17,548
+Because you want to draw a full illustration,
+
+484
+00:20:17,595 --> 00:20:19,406
+out of the things that are necessary for a full illustration,
+
+485
+00:20:19,431 --> 00:20:21,969
+you have weaknesses
+
+486
+00:20:21,994 --> 00:20:25,485
+in how to draw a charming character
+
+487
+00:20:25,486 --> 00:20:28,142
+and the lighting and composition.
+
+488
+00:20:28,167 --> 00:20:29,691
+Let's say your biggest weakness is composition.
+
+489
+00:20:29,716 --> 00:20:31,789
+Then you need to learn that first.
+
+490
+00:20:31,814 --> 00:20:34,200
+What would be an effective way?
+
+491
+00:20:34,225 --> 00:20:37,708
+It's most effective to analyze the screen composition while looking at the references.
+
+492
+00:20:37,733 --> 00:20:40,207
+It'd be good to draw it from time to time, too.
+
+493
+00:20:40,232 --> 00:20:42,605
+How long should you practice?
+
+494
+00:20:42,630 --> 00:20:44,574
+You should practice for a few months,
+
+495
+00:20:44,599 --> 00:20:46,553
+or for a few weeks.
+
+496
+00:20:46,555 --> 00:20:48,363
+You might want to see the effects clearly
+
+497
+00:20:48,365 --> 00:20:50,356
+and set your own plans.
+
+498
+00:20:50,974 --> 00:20:53,144
+Actually, I'm sure that I've said
+
+499
+00:20:53,169 --> 00:20:55,807
+the most important thing is to learn how to study.
+
+500
+00:20:55,809 --> 00:20:57,574
+I think I've said that before.
+
+501
+00:20:57,599 --> 00:21:00,635
+I wanted to include the process of perceiving illustrations
+
+502
+00:21:00,660 --> 00:21:02,942
+into this curriculum.
+
+503
+00:21:04,036 --> 00:21:06,657
+You can improve your drawing skills later.
+
+504
+00:21:06,658 --> 00:21:08,707
+You're going to improve your skills anyway.
+
+505
+00:21:08,732 --> 00:21:10,363
+I can't improve it.
+
+506
+00:21:10,388 --> 00:21:14,074
+I just distributed information to improve your skills.
+
+507
+00:21:14,099 --> 00:21:15,583
+It's the responsibility of the students
+
+508
+00:21:15,608 --> 00:21:16,957
+to make it your own
+
+509
+00:21:16,982 --> 00:21:18,968
+after you've collected the right information.
+
+510
+00:21:18,993 --> 00:21:22,276
+It's one of your jobs as students.
+
+511
+00:21:22,278 --> 00:21:24,281
+From now on, what you have to do is,
+
+512
+00:21:24,306 --> 00:21:26,921
+when it comes to studying,
+
+513
+00:21:26,946 --> 00:21:28,446
+make a plan.
+
+514
+00:21:29,446 --> 00:21:31,304
+What do you need?
+
+515
+00:21:31,329 --> 00:21:33,207
+To practice,
+
+516
+00:21:33,209 --> 00:21:34,968
+which method would be effective?
+
+517
+00:21:34,993 --> 00:21:37,015
+How long should you practice it
+
+518
+00:21:37,040 --> 00:21:38,805
+to get the effects you want?
+
+519
+00:21:39,001 --> 00:21:41,133
+Let me tell you about this.
+
+520
+00:21:41,399 --> 00:21:42,594
+This is something
+
+521
+00:21:42,619 --> 00:21:45,008
+I commonly tell students.
+
+522
+00:21:45,815 --> 00:21:48,390
+This is what studying is all about.
+
+523
+00:21:48,415 --> 00:21:50,422
+The first thing is to find a problem.
+
+524
+00:21:51,499 --> 00:21:56,976
+When focusing on concept art,
+
+525
+00:21:57,001 --> 00:22:00,015
+since you haven't designed a lot, the design might look poor.
+
+526
+00:22:00,040 --> 00:22:03,562
+You might think you have much more weaknesses in fantasy design.
+
+527
+00:22:03,587 --> 00:22:07,280
+Like this, you should identify what your downsides are
+
+528
+00:22:07,282 --> 00:22:10,351
+with as much detail as possible.
+
+529
+00:22:10,376 --> 00:22:13,382
+The first step is to select the details and make them into data.
+
+530
+00:22:13,407 --> 00:22:15,430
+If you found the problem,
+
+531
+00:22:15,923 --> 00:22:17,557
+look for the solution.
+
+532
+00:22:21,931 --> 00:22:23,702
+I'm sure you can predict it to a certain extent.
+
+533
+00:22:23,727 --> 00:22:24,579
+While listening to my class,
+
+534
+00:22:24,604 --> 00:22:27,624
+you can use what you learned from it.
+
+535
+00:22:27,649 --> 00:22:30,984
+For example, what's important when it comes to design?
+
+536
+00:22:31,009 --> 00:22:33,407
+The silhouette arrangement of the entire design,
+
+537
+00:22:33,993 --> 00:22:35,399
+and the ability to come up
+
+538
+00:22:36,693 --> 00:22:38,171
+with concepts.
+
+539
+00:22:38,196 --> 00:22:47,804
+And there's also the placement of dimensions, gaze, coloration and so on.
+
+540
+00:22:48,796 --> 00:22:50,965
+Find the weakest one for you.
+
+541
+00:22:50,966 --> 00:22:52,825
+To practice making concepts,
+
+542
+00:22:52,827 --> 00:22:55,131
+you have to draw characters with various concepts.
+
+543
+00:22:55,156 --> 00:22:56,857
+If you want to practice the silhouette,
+
+544
+00:22:56,882 --> 00:22:59,280
+you need to draw many silhouettes.
+
+545
+00:22:59,367 --> 00:23:01,530
+In that way, you need to find a solution.
+
+546
+00:23:02,085 --> 00:23:04,374
+If you've done coloring, apply it.
+
+547
+00:23:04,521 --> 00:23:05,670
+You need to try it right away.
+
+548
+00:23:05,695 --> 00:23:07,334
+In the process of applying it,
+
+549
+00:23:07,359 --> 00:23:10,249
+it'll be good to think about how long you should do it.
+
+550
+00:23:10,453 --> 00:23:11,932
+If you applied it,
+
+551
+00:23:11,934 --> 00:23:14,218
+after that, give yourself some feedback.
+
+552
+00:23:16,290 --> 00:23:18,419
+If your design skills are weak,
+
+553
+00:23:18,431 --> 00:23:20,193
+especially with fantasy,
+
+554
+00:23:20,218 --> 00:23:24,503
+and if it's hard to draw detailed equipment,
+
+555
+00:23:24,528 --> 00:23:27,285
+you should practice drawing them.
+
+556
+00:23:27,310 --> 00:23:29,714
+Look for things like fantasy armor
+
+557
+00:23:29,739 --> 00:23:32,753
+and work on them for two weeks.
+
+558
+00:23:32,754 --> 00:23:33,840
+Do one illustration a day.
+
+559
+00:23:34,778 --> 00:23:37,301
+Use this to go into a real game.
+
+560
+00:23:37,303 --> 00:23:38,839
+You need to actually design.
+
+561
+00:23:38,864 --> 00:23:41,582
+When you have designed it, it will have gotten a bit better.
+
+562
+00:23:41,607 --> 00:23:43,574
+It's a little better than before,
+
+563
+00:23:43,576 --> 00:23:45,699
+but you will have some room for improvement.
+
+564
+00:23:45,724 --> 00:23:48,325
+Then, you would have solved about 30% of your problems.
+
+565
+00:23:49,067 --> 00:23:52,286
+What should you do to make up for the remaining percentage?
+
+566
+00:23:53,247 --> 00:23:54,949
+Say you've designed something curvy,
+
+567
+00:23:54,974 --> 00:23:57,050
+so you would then go into designing something linear.
+
+568
+00:23:57,075 --> 00:23:59,221
+Look for armor with a lot of lines.
+
+569
+00:24:00,169 --> 00:24:01,826
+Or, you might think that
+
+570
+00:24:01,828 --> 00:24:04,003
+you need to be able to draw leather clothes well.
+
+571
+00:24:04,028 --> 00:24:07,222
+Then look for designs for leather clothes.
+
+572
+00:24:07,247 --> 00:24:10,047
+Find a solution here,
+
+573
+00:24:10,049 --> 00:24:10,848
+and apply it.
+
+574
+00:24:10,850 --> 00:24:13,097
+The feedback process will become repetitive.
+
+575
+00:24:13,122 --> 00:24:14,910
+This is what studying is all about.
+
+576
+00:24:14,935 --> 00:24:18,855
+So this flow will help you
+
+577
+00:24:18,880 --> 00:24:21,442
+increase your drawing skills.
+
+578
+00:24:21,583 --> 00:24:24,066
+So, see if you're going well with the flow.
+
+579
+00:24:24,091 --> 00:24:25,105
+Think about it well.
+
+580
+00:24:25,130 --> 00:24:27,082
+If you're not doing that,
+
+581
+00:24:27,107 --> 00:24:28,716
+I hope you try it.
+
+582
+00:24:28,741 --> 00:24:30,544
+I think you should try it.
+
+583
+00:24:31,386 --> 00:24:33,591
+I think it will definitely help.
+
+584
+00:24:33,911 --> 00:24:37,302
+So, that's the summary of my curriculum.
+
+585
+00:24:37,303 --> 00:24:39,254
+Using the basic skills of the human body,
+
+586
+00:24:39,279 --> 00:24:42,683
+once you understand the perspective, silhouette, and composition,
+
+587
+00:24:42,708 --> 00:24:45,049
+proceed with them purposefully.
+
+588
+00:24:46,474 --> 00:24:48,380
+In the end, the ability that you want
+
+589
+00:24:48,405 --> 00:24:51,325
+would be in drawing the way you want.
+
+590
+00:24:53,615 --> 00:24:55,719
+In other words, through calculation,
+
+591
+00:24:55,721 --> 00:24:57,101
+under thorough calculation,
+
+592
+00:24:57,103 --> 00:25:01,137
+and as something extra, add your own sensitivity.
+
+593
+00:25:01,139 --> 00:25:06,172
+I think our opinions go hand-in-hand
+
+594
+00:25:06,174 --> 00:25:07,324
+with our illustrations.
+
+595
+00:25:07,349 --> 00:25:08,685
+Under a thorough assessment,
+
+596
+00:25:08,710 --> 00:25:10,110
+you need to think about why you illustrated a certain area in that way.
+
+597
+00:25:10,135 --> 00:25:11,675
+If you just put it in because you liked it,
+
+598
+00:25:11,700 --> 00:25:13,725
+or if there are one or two of these things,
+
+599
+00:25:13,726 --> 00:25:16,520
+I think that will create a charming illustration.
+
+600
+00:25:16,661 --> 00:25:19,039
+If you don't calculate at all and just go into those things,
+
+601
+00:25:19,041 --> 00:25:20,957
+it could still be a good illustration.
+
+602
+00:25:20,982 --> 00:25:23,582
+But it would be very abstract.
+
+603
+00:25:23,607 --> 00:25:26,160
+Sometimes, you can feel like the drawing is poor.
+
+604
+00:25:26,185 --> 00:25:29,013
+It could feel less stable.
+
+605
+00:25:29,014 --> 00:25:32,044
+Even so, if you calculate everything completely,
+
+606
+00:25:32,046 --> 00:25:33,722
+the illustration would look too cold.
+
+607
+00:25:33,747 --> 00:25:36,222
+It's stable when you look at it,
+
+608
+00:25:36,247 --> 00:25:38,491
+but it won't be an exceptional illustration.
+
+609
+00:25:38,493 --> 00:25:40,372
+As an illustrator,
+
+610
+00:25:40,374 --> 00:25:42,427
+it might not be a good example.
+
+611
+00:25:42,575 --> 00:25:44,371
+You can still work, but,
+
+612
+00:25:44,396 --> 00:25:47,579
+there would be something missing
+
+613
+00:25:47,581 --> 00:25:51,817
+when it comes to that illustration being a success.
+
+614
+00:25:51,997 --> 00:25:54,769
+So it's good to think about what kind of illustrator you are.
+
+615
+00:25:54,794 --> 00:25:58,192
+You may think your illustrations are stable.
+
+616
+00:25:58,194 --> 00:25:59,496
+Or you may think you're more like an artist.
+
+617
+00:25:59,498 --> 00:26:01,132
+Because you're an artist,
+
+618
+00:26:01,134 --> 00:26:03,137
+you'll tend to draw in challenging ways.
+
+619
+00:26:03,521 --> 00:26:05,739
+Think about what kind of illustrator you are,
+
+620
+00:26:05,982 --> 00:26:08,153
+and if possible, please try to go for both.
+
+621
+00:26:09,271 --> 00:26:11,082
+I've told you this before.
+
+622
+00:26:11,107 --> 00:26:16,270
+The strengths and the weaknesses come together.
+
+623
+00:26:16,778 --> 00:26:18,575
+If you have strengths,
+
+624
+00:26:18,600 --> 00:26:20,825
+there are weaknesses that come with it.
+
+625
+00:26:21,122 --> 00:26:23,746
+The person who draws a stable picture
+
+626
+00:26:23,771 --> 00:26:27,450
+might not be able to draw a jackpot.
+
+627
+00:26:27,763 --> 00:26:29,973
+If you're a sensitive person
+
+628
+00:26:29,975 --> 00:26:32,943
+you might be weak at drawing with stability.
+
+629
+00:26:33,794 --> 00:26:36,921
+Then you have to try to achieve the opposite
+
+630
+00:26:36,923 --> 00:26:39,575
+and you need to be able to stabilize your strengths.
+
+631
+00:26:40,013 --> 00:26:43,606
+Just because you have a weakness doesn't mean that it's not important.
+
+632
+00:26:43,608 --> 00:26:44,927
+Your strengths are important, too.
+
+633
+00:26:45,099 --> 00:26:46,761
+Even so, just because you have strengths,
+
+634
+00:26:46,786 --> 00:26:49,629
+it's not like you can ignore your weaknesses.
+
+635
+00:26:49,654 --> 00:26:51,122
+In the end,
+
+636
+00:26:51,341 --> 00:26:53,333
+you need work on both.
+
+637
+00:26:53,771 --> 00:26:55,232
+But you need to think about
+
+638
+00:26:55,257 --> 00:26:58,129
+what to strengthen and what to practice.
+
+639
+00:26:58,154 --> 00:27:01,545
+I'm sure there's some of you
+
+640
+00:27:01,872 --> 00:27:03,027
+who aren't good at
+
+641
+00:27:03,052 --> 00:27:04,199
+drawing sentimental pictures.
+
+642
+00:27:04,224 --> 00:27:10,031
+I'm sure there are people who are drawing later in their life.
+
+643
+00:27:10,056 --> 00:27:14,984
+Most of them are not familiar with the latest trends.
+
+644
+00:27:15,009 --> 00:27:18,212
+So there are people who want to know how to get familiarized with them.
+
+645
+00:27:18,237 --> 00:27:19,898
+What are the latest trends?
+
+646
+00:27:19,923 --> 00:27:21,520
+There are also people
+
+647
+00:27:21,545 --> 00:27:22,961
+who aren't sure what being pretty is all about.
+
+648
+00:27:22,986 --> 00:27:24,672
+In that case, there's no choice.
+
+649
+00:27:24,697 --> 00:27:27,270
+If there are things that we don't understand emotionally,
+
+650
+00:27:27,272 --> 00:27:28,556
+you have to understand them with your brain.
+
+651
+00:27:29,877 --> 00:27:31,926
+You have to be aware of the things that people like.
+
+652
+00:27:31,928 --> 00:27:34,218
+Most people like this kind of stuff.
+
+653
+00:27:34,220 --> 00:27:35,766
+Why do people like these things?
+
+654
+00:27:35,791 --> 00:27:37,547
+Think about it.
+
+655
+00:27:37,549 --> 00:27:40,558
+You need to be able to continue to draw out the reasons for that.
+
+656
+00:27:40,923 --> 00:27:44,283
+For example, let's say that recently, characters with small eyes
+
+657
+00:27:44,284 --> 00:27:46,844
+are more popular than characters with big eyes.
+
+658
+00:27:46,869 --> 00:27:48,931
+So these days,
+
+659
+00:27:48,933 --> 00:27:53,406
+a lot of characters have small eyes.
+
+660
+00:27:53,431 --> 00:27:54,423
+The reason for that is,
+
+661
+00:27:54,448 --> 00:27:58,259
+recently, when characters have eyes that are too big,
+
+662
+00:27:58,284 --> 00:28:00,562
+people might find them awkward.
+
+663
+00:28:00,587 --> 00:28:02,289
+But with smaller eyes,
+
+664
+00:28:02,314 --> 00:28:04,877
+illustrators pay more attention to the production,
+
+665
+00:28:04,879 --> 00:28:07,001
+and describe the illustration in detail.
+
+666
+00:28:07,306 --> 00:28:10,687
+So the overall quality looks better than it does in big-eyed illustrations.
+
+667
+00:28:10,712 --> 00:28:11,867
+So, maybe because of that,
+
+668
+00:28:11,892 --> 00:28:12,856
+the coloring quality
+
+669
+00:28:12,858 --> 00:28:15,008
+will be higher.
+
+670
+00:28:15,033 --> 00:28:16,728
+You can analyze it like this.
+
+671
+00:28:17,494 --> 00:28:19,370
+If there's something that you don't understand emotionally,
+
+672
+00:28:19,371 --> 00:28:19,934
+you can't help but
+
+673
+00:28:19,936 --> 00:28:21,314
+analyze it.
+
+674
+00:28:21,710 --> 00:28:23,312
+With the parts that you're weak in,
+
+675
+00:28:23,337 --> 00:28:25,242
+you have to keep practicing like that.
+
+676
+00:28:25,267 --> 00:28:29,035
+For example, you might not know why the frills on the skirt are pretty.
+
+677
+00:28:29,037 --> 00:28:30,359
+Actually, I didn't, either.
+
+678
+00:28:30,384 --> 00:28:33,163
+I didn't know why the frills on the skirt were so pretty.
+
+679
+00:28:33,188 --> 00:28:34,486
+But if I were to draw frills right now,
+
+680
+00:28:34,511 --> 00:28:36,126
+I can draw them in any way.
+
+681
+00:28:36,353 --> 00:28:38,650
+I was able to draw this frill because,
+
+682
+00:28:38,652 --> 00:28:41,031
+people like the frills on a skirt.
+
+683
+00:28:41,056 --> 00:28:45,394
+It has a round silhouette
+
+684
+00:28:45,396 --> 00:28:48,106
+so it looks pretty when it's layered.
+
+685
+00:28:48,131 --> 00:28:49,646
+Understand it like that.
+
+686
+00:28:49,687 --> 00:28:51,514
+And because I've utilized it,
+
+687
+00:28:51,515 --> 00:28:53,442
+now I can draw frills like this.
+
+688
+00:28:53,467 --> 00:28:56,093
+In the end, you're going to fix your weaknesses like this.
+
+689
+00:28:56,095 --> 00:28:59,200
+And you'll increase your strengths.
+
+690
+00:28:59,225 --> 00:29:01,674
+I think it's good to practice drawing.
+
+691
+00:29:01,676 --> 00:29:03,067
+I said a lot of things.
+
+692
+00:29:03,092 --> 00:29:05,614
+In the end, when it comes to studying drawing,
+
+693
+00:29:05,639 --> 00:29:10,624
+you should be aware that you're studying,
+
+694
+00:29:10,649 --> 00:29:12,849
+and I hope that you feel
+
+695
+00:29:12,874 --> 00:29:14,912
+that you are learning something from it.
+
+696
+00:29:15,475 --> 00:29:18,380
+If you study drawing on your own,
+
+697
+00:29:18,405 --> 00:29:21,834
+there are times when you feel like you're walking on a hopeless path.
+
+698
+00:29:22,014 --> 00:29:25,309
+But your indicator would be
+
+699
+00:29:25,334 --> 00:29:27,651
+the motive that you set as your destination.
+
+700
+00:29:27,653 --> 00:29:29,507
+I told you about it before with the references.
+
+701
+00:29:29,509 --> 00:29:30,311
+With references,
+
+702
+00:29:30,336 --> 00:29:32,692
+if you have a motive,
+
+703
+00:29:32,717 --> 00:29:34,941
+it's about getting closer to that motive.
+
+704
+00:29:34,966 --> 00:29:36,392
+Acknowledge what you will need
+
+705
+00:29:36,394 --> 00:29:38,322
+and make the sub elements for what you will need.
+
+706
+00:29:38,600 --> 00:29:40,731
+Clear through them one by one.
+
+707
+00:29:40,756 --> 00:29:42,813
+It's important to feel fulfilled.
+
+708
+00:29:42,838 --> 00:29:44,850
+It's a bit of a psychological thing, too.
+
+709
+00:29:45,784 --> 00:29:48,544
+People are not machines when it comes to studying drawing.
+
+710
+00:29:48,569 --> 00:29:50,217
+What is studying after all?
+
+711
+00:29:50,219 --> 00:29:51,637
+It's about strengthening your weaknesses.
+
+712
+00:29:51,639 --> 00:29:53,436
+But it won't all be fun.
+
+713
+00:29:53,577 --> 00:29:55,521
+People have fun at what they're good at.
+
+714
+00:29:55,523 --> 00:29:57,334
+People are very tricky.
+
+715
+00:29:57,693 --> 00:29:59,196
+People are tricky,
+
+716
+00:29:59,221 --> 00:30:01,326
+so in the end, people like what they are good at.
+
+717
+00:30:01,819 --> 00:30:04,577
+Then, it will be good to control that well.
+
+718
+00:30:04,602 --> 00:30:07,788
+You need to feel a sense of achievement.
+
+719
+00:30:09,471 --> 00:30:11,324
+Goal-setting would be help you
+
+720
+00:30:11,349 --> 00:30:13,764
+feel a sense of achievement.
+
+721
+00:30:13,789 --> 00:30:15,339
+Keep looking for solutions
+
+722
+00:30:15,341 --> 00:30:16,850
+and apply your knowledge.
+
+723
+00:30:16,875 --> 00:30:18,918
+It's important that you feel
+
+724
+00:30:18,919 --> 00:30:21,305
+that you're accomplishing more than before.
+
+725
+00:30:21,485 --> 00:30:23,850
+Without that, you can't draw for a long time.
+
+726
+00:30:23,875 --> 00:30:28,202
+If you just try extremely hard to go beyond your skill,
+
+727
+00:30:28,227 --> 00:30:30,053
+you might make it there.
+
+728
+00:30:30,078 --> 00:30:32,942
+But other than those few people, it's going to be hard to hold out.
+
+729
+00:30:33,399 --> 00:30:35,597
+As such, when you work on illustrations,
+
+730
+00:30:35,622 --> 00:30:39,962
+continue to make things that will give you a sense of accomplishment.
+
+731
+00:30:40,675 --> 00:30:43,524
+So, I hope that you can feel
+
+732
+00:30:43,822 --> 00:30:45,761
+that you're moving forward.
+
+733
+00:30:45,763 --> 00:30:47,032
+From the perspective of studying,
+
+734
+00:30:48,744 --> 00:30:51,955
+I hope this curriculum helps you
+
+735
+00:30:51,980 --> 00:30:54,266
+set those things up
+
+736
+00:30:54,291 --> 00:30:56,993
+as you continue drawing.
+
+737
+00:30:57,650 --> 00:30:59,539
+The portrait illustration and full illustration
+
+738
+00:30:59,564 --> 00:31:01,523
+that we made during class
+
+739
+00:31:01,548 --> 00:31:04,337
+will be completed and uploaded later.
+
+740
+00:31:05,455 --> 00:31:07,062
+I'm going to upload them,
+
+741
+00:31:07,087 --> 00:31:09,001
+and students can work on these things.
+
+742
+00:31:09,026 --> 00:31:10,625
+Upload them once in a while.
+
+743
+00:31:10,650 --> 00:31:12,297
+If there's a place to upload them to,
+
+744
+00:31:12,322 --> 00:31:13,319
+do it.
+
+745
+00:31:13,321 --> 00:31:16,437
+If you don't want to, you can just look at them yourself.
+
+746
+00:31:16,462 --> 00:31:18,254
+Keep them as your own resource,
+
+747
+00:31:18,255 --> 00:31:19,416
+and later on,
+
+748
+00:31:19,441 --> 00:31:21,915
+you can look back at them when you have time.
+
+749
+00:31:22,384 --> 00:31:24,103
+Do your best to draw.
+
+750
+00:31:24,525 --> 00:31:28,110
+This is the end of my curriculum
+
+751
+00:31:28,111 --> 00:31:29,329
+so I'll wrap it up here.
+
+752
+00:31:29,767 --> 00:31:31,315
+Thank you for taking this class!
+
+753
+00:31:31,348 --> 00:31:33,048
+Keep up the great work.
+

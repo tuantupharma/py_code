@@ -1,0 +1,3909 @@
+1
+00:00:00,000 --> 00:00:05,307
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:06,069 --> 00:00:07,104
+Hello.
+
+3
+00:00:07,129 --> 00:00:09,798
+Last time, we worked on a full illustration.
+
+4
+00:00:09,823 --> 00:00:13,011
+I'm going to work on a portrait illustration today.
+
+5
+00:00:13,013 --> 00:00:15,747
+We're going to make a design
+
+6
+00:00:15,772 --> 00:00:18,890
+that is used for mobile games,
+
+7
+00:00:18,915 --> 00:00:21,251
+for instance, 'gacha' games.
+
+8
+00:00:21,253 --> 00:00:25,201
+I'm going to make a character design or illustration that would come out in a game.
+
+9
+00:00:25,203 --> 00:00:27,777
+We're going to find out how to express it.
+
+10
+00:00:27,779 --> 00:00:30,667
+I used to call it portrait illustration.
+
+11
+00:00:30,692 --> 00:00:33,943
+The name itself is kind of vague.
+
+12
+00:00:34,091 --> 00:00:36,751
+Some people call it an in-game illustration.
+
+13
+00:00:36,753 --> 00:00:39,183
+There are people who call it character illustration.
+
+14
+00:00:39,185 --> 00:00:41,096
+There are a lot of terms,
+
+15
+00:00:41,098 --> 00:00:43,281
+but what they have in common is that the background is transparent.
+
+16
+00:00:43,306 --> 00:00:45,572
+So, there's only the character.
+
+17
+00:00:45,597 --> 00:00:47,317
+I think it's that kind of illustration.
+
+18
+00:00:47,342 --> 00:00:50,324
+Illustration with a transparent background and a single character.
+
+19
+00:00:50,479 --> 00:00:52,310
+That's how it usually goes.
+
+20
+00:00:52,312 --> 00:00:54,438
+These days,
+
+21
+00:00:54,463 --> 00:00:57,536
+as the scale of the mobile game industry grows,
+
+22
+00:00:57,561 --> 00:01:00,700
+there's a slight change in things like that. They are changing little by little.
+
+23
+00:01:00,909 --> 00:01:03,093
+There are times when we use a background,
+
+24
+00:01:03,284 --> 00:01:05,713
+there are times when a lot of objects are put in.
+
+25
+00:01:05,940 --> 00:01:08,990
+Or it's not focusing on the character, but the background.
+
+26
+00:01:09,015 --> 00:01:11,155
+Other times, it looks like a portrait illustration.
+
+27
+00:01:11,574 --> 00:01:13,091
+There are a lot of differentials like that.
+
+28
+00:01:13,116 --> 00:01:16,915
+This has increased the freedom of directing,
+
+29
+00:01:16,940 --> 00:01:20,008
+but also, the difficulty of the work itself is going up a lot.
+
+30
+00:01:20,009 --> 00:01:21,313
+That would be the downside.
+
+31
+00:01:21,626 --> 00:01:24,695
+So when I worked on portrait illustrations before,
+
+32
+00:01:24,696 --> 00:01:27,940
+even if you could just do a single illustration with only one character,
+
+33
+00:01:27,965 --> 00:01:31,726
+you could commercialize it.
+
+34
+00:01:31,751 --> 00:01:33,754
+It was like that.
+
+35
+00:01:33,779 --> 00:01:37,829
+But recently, to draw in-game illustrations,
+
+36
+00:01:37,854 --> 00:01:40,290
+you need to be able draw your own backgrounds.
+
+37
+00:01:40,315 --> 00:01:43,433
+You have to be able to describe things to a certain extent.
+
+38
+00:01:43,458 --> 00:01:45,686
+So only people who can do that
+
+39
+00:01:45,711 --> 00:01:46,943
+will be hired.
+
+40
+00:01:48,146 --> 00:01:49,851
+With this portrait illustration,
+
+41
+00:01:49,876 --> 00:01:53,826
+there is a slight difference from the previous full illustration.
+
+42
+00:01:53,851 --> 00:01:55,125
+Of course,
+
+43
+00:01:55,150 --> 00:01:57,835
+I said that
+
+44
+00:01:57,846 --> 00:01:58,849
+there are times when the background is included in the illustrations.
+
+45
+00:01:58,859 --> 00:02:01,276
+The difference is that in the case of portrait illustrations,
+
+46
+00:02:01,301 --> 00:02:03,552
+the shape itself is not square most of the time.
+
+47
+00:02:04,590 --> 00:02:05,746
+What does it look like?
+
+48
+00:02:05,771 --> 00:02:08,569
+It literally follows the silhouette of the character.
+
+49
+00:02:08,594 --> 00:02:10,866
+The background became transparent,
+
+50
+00:02:10,891 --> 00:02:13,698
+and there are various interfaces that fit the game.
+
+51
+00:02:14,027 --> 00:02:17,141
+The interface is open and a character is standing.
+
+52
+00:02:17,166 --> 00:02:18,474
+That's what it feels like.
+
+53
+00:02:19,875 --> 00:02:23,166
+So, when we made the full illustration,
+
+54
+00:02:23,183 --> 00:02:26,411
+we focused on organizing the screen itself.
+
+55
+00:02:26,573 --> 00:02:30,491
+So if the character is standing and the background is in the back,
+
+56
+00:02:30,516 --> 00:02:34,912
+we paid attention to the character and the view from the background.
+
+57
+00:02:34,937 --> 00:02:37,688
+The eyes that go out of the screen come back.
+
+58
+00:02:37,713 --> 00:02:39,658
+We also paid attention to these things.
+
+59
+00:02:39,683 --> 00:02:42,231
+But in portrait illustration,
+
+60
+00:02:42,233 --> 00:02:43,884
+the gaze doesn't go outside.
+
+61
+00:02:43,886 --> 00:02:48,143
+The character is always at the center.
+
+62
+00:02:53,390 --> 00:02:56,289
+So when it comes to composing the screen,
+
+63
+00:02:56,314 --> 00:02:59,469
+there will be some restrictions.
+
+64
+00:03:00,567 --> 00:03:02,532
+You need to know them well when you're signing your contract.
+
+65
+00:03:02,557 --> 00:03:05,630
+I think it's better to calculate those things before going in.
+
+66
+00:03:05,655 --> 00:03:07,682
+The difference is the difference...
+
+67
+00:03:07,684 --> 00:03:09,309
+Usually, there may be restrictions...
+
+68
+00:03:09,334 --> 00:03:11,928
+If I point out a few things that happen often...
+
+69
+00:03:11,953 --> 00:03:13,642
+The first one is lighting.
+
+70
+00:03:15,696 --> 00:03:19,544
+Illustrations with a background can be centered on the background.
+
+71
+00:03:20,974 --> 00:03:23,525
+The background can be the main focus, not the character.
+
+72
+00:03:23,550 --> 00:03:25,511
+Even if you use lighting that doesn't show your character well,
+
+73
+00:03:25,538 --> 00:03:27,341
+as long as the atmosphere is right,
+
+74
+00:03:27,366 --> 00:03:29,387
+this can be a mood on its own.
+
+75
+00:03:29,412 --> 00:03:32,636
+For the portrait illustration that goes for each character,
+
+76
+00:03:33,398 --> 00:03:36,688
+the thing you need to ask yourself is,
+
+77
+00:03:36,713 --> 00:03:38,957
+what does the character look like
+
+78
+00:03:38,982 --> 00:03:41,974
+and what makes that character attractive?
+
+79
+00:03:41,976 --> 00:03:44,355
+You need to focus your attention on the character.
+
+80
+00:03:44,357 --> 00:03:47,438
+Because of that, lighting that doesn't pay attention to the character
+
+81
+00:03:47,463 --> 00:03:49,219
+can be hard to use.
+
+82
+00:03:49,484 --> 00:03:52,236
+That's why there's a limit to the lighting.
+
+83
+00:03:53,792 --> 00:03:56,714
+And when it comes to using the background,
+
+84
+00:03:58,208 --> 00:04:00,164
+except for the ones that you can use,
+
+85
+00:04:00,189 --> 00:04:03,638
+except for games and companies that you can use them for,
+
+86
+00:04:03,663 --> 00:04:07,326
+most of the time, it's hard to use the background.
+
+87
+00:04:07,486 --> 00:04:09,655
+So, what happens if you can't use the background?
+
+88
+00:04:09,680 --> 00:04:13,041
+To make the surroundings of the character look fancy,
+
+89
+00:04:13,052 --> 00:04:19,803
+we can put in objects
+
+90
+00:04:20,107 --> 00:04:21,403
+that show the space.
+
+91
+00:04:22,405 --> 00:04:26,643
+You need to arrange the background and items.
+
+92
+00:04:28,812 --> 00:04:31,732
+I controlled my character and background.
+
+93
+00:04:31,757 --> 00:04:33,576
+With density distribution and things like that.
+
+94
+00:04:33,682 --> 00:04:36,511
+Since I have to focus on the inside of my character,
+
+95
+00:04:36,892 --> 00:04:39,045
+the need for description goes up.
+
+96
+00:04:40,089 --> 00:04:42,534
+It's about what you can show inside your character.
+
+97
+00:04:42,551 --> 00:04:43,674
+You need to have a lot of elements.
+
+98
+00:04:43,991 --> 00:04:47,749
+If I want to show you a lot, I have to describe a lot.
+
+99
+00:04:48,478 --> 00:04:51,316
+You'll need details about the design or something like that.
+
+100
+00:04:51,318 --> 00:04:54,413
+Because of that, there could be a difference in the amount of description you use.
+
+101
+00:04:58,001 --> 00:05:01,881
+And you said you'd show the space with the characters, right?
+
+102
+00:05:01,906 --> 00:05:04,748
+When it comes to expressing things like this, the three-dimensional effect...
+
+103
+00:05:06,466 --> 00:05:09,450
+I think it's a bit more important.
+
+104
+00:05:09,788 --> 00:05:10,947
+It's also a part of it...
+
+105
+00:05:13,081 --> 00:05:15,275
+In the background,
+
+106
+00:05:15,300 --> 00:05:18,427
+there are times when you intentionally make it flat.
+
+107
+00:05:19,460 --> 00:05:22,652
+The background and characters are kind of flat.
+
+108
+00:05:22,772 --> 00:05:24,256
+Like an Egyptian mural.
+
+109
+00:05:24,281 --> 00:05:26,965
+The flatness itself is a kind of art.
+
+110
+00:05:26,967 --> 00:05:29,477
+It exists when you organize it, but in the illustration...
+
+111
+00:05:29,479 --> 00:05:32,891
+But in portrait illustrations, like the one here.
+
+112
+00:05:32,916 --> 00:05:35,035
+In other words, it could be too bold to use that kind of direction.
+
+113
+00:05:36,173 --> 00:05:38,708
+For in-game character illustrations.
+
+114
+00:05:38,733 --> 00:05:41,833
+So at times like this, for the three-dimensional effect of the character...
+
+115
+00:05:41,858 --> 00:05:43,640
+You need to pay a lot of attention.
+
+116
+00:05:46,011 --> 00:05:49,148
+To learn these things today,
+
+117
+00:05:49,173 --> 00:05:52,317
+I'm going to use the characters that I designed before.
+
+118
+00:05:52,342 --> 00:05:56,413
+I'm going to mix the elements that the character can use.
+
+119
+00:05:56,415 --> 00:05:58,324
+I'm going to draw attention
+
+120
+00:05:58,326 --> 00:06:02,147
+with all the silhouettes and eyes that we learned earlier.
+
+121
+00:06:02,149 --> 00:06:05,561
+We're going to make a portrait illustration thumbnail for the character.
+
+122
+00:06:06,410 --> 00:06:07,644
+Let's move on.
+
+123
+00:06:09,531 --> 00:06:11,724
+Before we go in,
+
+124
+00:06:11,749 --> 00:06:14,204
+let's see how the character should stand.
+
+125
+00:06:14,229 --> 00:06:15,665
+I'm going to think about it.
+
+126
+00:06:15,690 --> 00:06:17,643
+Before that, we need to think about...
+
+127
+00:06:17,668 --> 00:06:19,811
+This is the same as full illustration.
+
+128
+00:06:19,836 --> 00:06:22,835
+Whatever illustration we draw, the first thing we have to think about is
+
+129
+00:06:22,860 --> 00:06:25,819
+what you want to show in this character.
+
+130
+00:06:26,127 --> 00:06:28,840
+Which part do you want to show the most to the viewers?
+
+131
+00:06:28,865 --> 00:06:31,032
+What kind of mood do you want to show?
+
+132
+00:06:31,108 --> 00:06:33,179
+I want to express this...
+
+133
+00:06:33,204 --> 00:06:35,134
+That's what it's all about.
+
+134
+00:06:35,159 --> 00:06:36,248
+It's very important.
+
+135
+00:06:36,715 --> 00:06:40,298
+As expected, the character's face and teeth...
+
+136
+00:06:40,699 --> 00:06:43,263
+I hope this part can be highlighted.
+
+137
+00:06:43,288 --> 00:06:45,205
+Same as the full illustration.
+
+138
+00:06:45,344 --> 00:06:46,824
+But the difference is,
+
+139
+00:06:46,849 --> 00:06:49,916
+in this illustration, I want to show the wand.
+
+140
+00:06:50,102 --> 00:06:51,812
+When I worked on the full illustration,
+
+141
+00:06:51,837 --> 00:06:54,309
+the wand was missing from the elements.
+
+142
+00:06:55,587 --> 00:06:58,758
+So, I'll put the wand inside the screen.
+
+143
+00:06:58,783 --> 00:07:00,297
+I wish I could show you.
+
+144
+00:07:00,486 --> 00:07:02,862
+In other words, the theme part is the face of the character.
+
+145
+00:07:03,814 --> 00:07:06,595
+The wand would be the sub element.
+
+146
+00:07:06,620 --> 00:07:08,760
+And then the sub element...
+
+147
+00:07:08,785 --> 00:07:10,890
+I think it'll be the creature in the back.
+
+148
+00:07:11,518 --> 00:07:14,721
+Let's think about how to organize it.
+
+149
+00:07:15,401 --> 00:07:19,483
+I can use the characters and the things in the back.
+
+150
+00:07:19,508 --> 00:07:22,475
+I said that the character needs to be more focused.
+
+151
+00:07:22,518 --> 00:07:25,640
+To give a strong impression to the character,
+
+152
+00:07:25,665 --> 00:07:27,983
+we have to think a lot about it.
+
+153
+00:07:28,503 --> 00:07:30,149
+The first thing I'm going to use is...
+
+154
+00:07:31,112 --> 00:07:33,210
+Just like the full illustration,
+
+155
+00:07:36,029 --> 00:07:38,844
+you can see through the character's face.
+
+156
+00:07:45,352 --> 00:07:47,276
+The face is kind of at a low angle.
+
+157
+00:07:47,435 --> 00:07:49,220
+The upper body is kind of at a high angle.
+
+158
+00:07:50,808 --> 00:07:52,157
+It's going to go in...
+
+159
+00:07:56,294 --> 00:07:59,334
+The lower the angle, the higher the angle.
+
+160
+00:08:07,076 --> 00:08:09,902
+I'm going to express the space where this character is standing.
+
+161
+00:08:10,166 --> 00:08:12,663
+Usually, when I work with portrait illustration,
+
+162
+00:08:12,688 --> 00:08:15,746
+even if it's see-through, it's like drawing an illustration with a background.
+
+163
+00:08:15,771 --> 00:08:18,699
+There are many times when I can't put in a lot of perspective.
+
+164
+00:08:18,724 --> 00:08:19,974
+If you apply too much perspective,
+
+165
+00:08:19,999 --> 00:08:22,198
+you can't really see the character's design.
+
+166
+00:08:25,261 --> 00:08:27,108
+There are restrictions on things like that.
+
+167
+00:08:27,133 --> 00:08:29,631
+In general, the height of your gaze...
+
+168
+00:08:29,656 --> 00:08:32,407
+Unless there's a low angle or something like that,
+
+169
+00:08:32,432 --> 00:08:36,553
+it's around the shoulder, around here.
+
+170
+00:08:36,971 --> 00:08:39,311
+So, as you go down,
+
+171
+00:08:39,313 --> 00:08:41,287
+the angle is getting higher.
+
+172
+00:08:41,312 --> 00:08:44,475
+On the floor, the space was spread out like this...
+
+173
+00:08:45,998 --> 00:08:47,905
+The space where this character is standing...
+
+174
+00:08:47,930 --> 00:08:50,049
+It's important to keep guessing
+
+175
+00:08:54,187 --> 00:08:55,820
+so that it looks more dimensional.
+
+176
+00:08:56,404 --> 00:08:58,238
+I can show you my character.
+
+177
+00:09:14,885 --> 00:09:17,031
+To show you the wand,
+
+178
+00:09:17,056 --> 00:09:19,516
+put the wand at the front of the screen.
+
+179
+00:09:20,211 --> 00:09:21,864
+I think that would be nice.
+
+180
+00:09:21,889 --> 00:09:24,591
+It's too much if I push it forward.
+
+181
+00:09:25,082 --> 00:09:27,023
+There are a lot of things to express in this drawing, right?
+
+182
+00:09:27,048 --> 00:09:29,741
+If there's only a character and a wand,
+
+183
+00:09:30,993 --> 00:09:32,399
+stretch its arms forward.
+
+184
+00:09:32,424 --> 00:09:35,018
+I don't mind if the wand is shown.
+
+185
+00:09:35,043 --> 00:09:36,086
+Besides that,
+
+186
+00:09:36,088 --> 00:09:38,119
+I need to put it to the creature in the back, too.
+
+187
+00:09:38,144 --> 00:09:41,322
+I don't think it's good if the wand draws too much attention.
+
+188
+00:09:42,712 --> 00:09:43,885
+To do that,
+
+189
+00:09:47,206 --> 00:09:48,519
+the wand should be kind of off to the side.
+
+190
+00:09:49,799 --> 00:09:53,210
+You can show your character's individuality through hand gestures.
+
+191
+00:10:07,601 --> 00:10:11,018
+The angle of the wand is tilted like this.
+
+192
+00:10:11,059 --> 00:10:13,200
+To cut off the body of the character...
+
+193
+00:10:13,467 --> 00:10:16,257
+So, the view from the top to the bottom...
+
+194
+00:10:16,282 --> 00:10:18,231
+I twisted it into an S shape
+
+195
+00:10:18,632 --> 00:10:21,102
+It's to make the character more assertive.
+
+196
+00:10:21,127 --> 00:10:23,111
+For a situation where the character is more assertive...
+
+197
+00:10:23,136 --> 00:10:26,209
+So I cut it off and made it more assertive.
+
+198
+00:10:26,455 --> 00:10:28,808
+When I talked about what I saw before,
+
+199
+00:10:28,833 --> 00:10:30,181
+that was the part I focused on.
+
+200
+00:10:30,183 --> 00:10:33,596
+If this wand goes along with the character,
+
+201
+00:10:33,598 --> 00:10:36,267
+it's easy to focus on the overall situation,
+
+202
+00:10:36,269 --> 00:10:39,272
+but it's hard to concentrate.
+
+203
+00:10:39,274 --> 00:10:42,797
+So that you can cross the character's body with this wand,
+
+204
+00:10:42,799 --> 00:10:45,549
+I'll set it up and show you those parts
+
+205
+00:10:45,950 --> 00:10:48,073
+in a powerful way.
+
+206
+00:10:48,074 --> 00:10:49,372
+Let's do that.
+
+207
+00:11:00,384 --> 00:11:02,163
+While adjusting the angle,
+
+208
+00:11:03,365 --> 00:11:05,638
+let's find the feeling we want
+
+209
+00:11:12,380 --> 00:11:14,200
+for the thumbnail sketch.
+
+210
+00:11:15,227 --> 00:11:17,612
+It's not like drawing the human body.
+
+211
+00:11:20,020 --> 00:11:22,225
+We need to get on with comprising the overall mood.
+
+212
+00:11:35,689 --> 00:11:37,593
+I'll make the face look more detailed.
+
+213
+00:11:37,954 --> 00:11:39,309
+I'll express it.
+
+214
+00:11:52,465 --> 00:11:54,445
+The overall silhouette...
+
+215
+00:11:54,470 --> 00:11:57,476
+I'm going to make a diamond shape.
+
+216
+00:11:59,816 --> 00:12:03,372
+I think it's because we want to stimulate the desire to buy.
+
+217
+00:12:03,592 --> 00:12:05,532
+Because of the nature of portrait illustration,
+
+218
+00:12:05,557 --> 00:12:07,631
+if I see some characters, I want to pick one.
+
+219
+00:12:07,656 --> 00:12:09,424
+You have to feel that way.
+
+220
+00:12:09,449 --> 00:12:11,933
+The overall fanciness of the character is...
+
+221
+00:12:11,958 --> 00:12:14,462
+There are a lot of times when it goes into the basics.
+
+222
+00:12:16,071 --> 00:12:19,221
+I sometimes break things like this when I draw a character in that level.
+
+223
+00:12:19,246 --> 00:12:21,519
+Like a level 2 or level 3 character.
+
+224
+00:12:21,625 --> 00:12:23,998
+The extra characters in the game.
+
+225
+00:12:24,023 --> 00:12:26,828
+I need to hold it in when I draw things like that.
+
+226
+00:12:27,638 --> 00:12:29,355
+In most cases, for outsourcing works,
+
+227
+00:12:29,357 --> 00:12:31,318
+I work on a lot of level 5 characters.
+
+228
+00:12:31,477 --> 00:12:32,595
+When that happens,
+
+229
+00:12:32,620 --> 00:12:35,302
+to make the character look fancy,
+
+230
+00:12:35,327 --> 00:12:37,841
+it's very important to compose it well.
+
+231
+00:12:38,393 --> 00:12:40,410
+You can use it effectively at times like that.
+
+232
+00:12:40,435 --> 00:12:41,416
+It's a silhouette.
+
+233
+00:12:41,441 --> 00:12:44,149
+From the silhouette, the diamond-shaped silhouette...
+
+234
+00:12:44,595 --> 00:12:46,895
+It's effective in showing off your character.
+
+235
+00:12:46,920 --> 00:12:48,315
+I would have said that.
+
+236
+00:12:49,806 --> 00:12:51,905
+At the bottom,
+
+237
+00:12:51,930 --> 00:12:53,637
+I'm going to put many elements in.
+
+238
+00:12:54,514 --> 00:12:56,621
+The reason why I put a lot at the bottom is because
+
+239
+00:12:59,779 --> 00:13:02,544
+of the nature of the portrait illustration that requires space to be visible.
+
+240
+00:13:02,578 --> 00:13:04,088
+If many of the top elements are placed,
+
+241
+00:13:04,113 --> 00:13:06,028
+it's good to have cute characters,
+
+242
+00:13:06,053 --> 00:13:09,103
+but it's hard to show that kind of space.
+
+243
+00:13:12,192 --> 00:13:14,695
+When you make the background surrounding the character,
+
+244
+00:13:14,720 --> 00:13:17,244
+if the background goes to the back of the head,
+
+245
+00:13:17,571 --> 00:13:19,721
+it's hard to focus on the face.
+
+246
+00:13:19,957 --> 00:13:22,705
+So I'm going to place a lot of elements at the bottom.
+
+247
+00:13:22,730 --> 00:13:25,232
+It's about increasing stability.
+
+248
+00:13:25,288 --> 00:13:27,712
+So when I was working on portrait illustration,
+
+249
+00:13:27,737 --> 00:13:32,629
+I put a lot of elements on the bottom.
+
+250
+00:13:34,184 --> 00:13:36,388
+It's my personal style.
+
+251
+00:13:36,688 --> 00:13:38,868
+It's not that I can't use the inverted triangle silhouette.
+
+252
+00:13:38,893 --> 00:13:40,540
+There are times when I use it, too
+
+253
+00:13:41,021 --> 00:13:43,512
+The character is really cheerful
+
+254
+00:13:43,537 --> 00:13:46,613
+And if need to show that kind of action
+
+255
+00:13:46,638 --> 00:13:49,301
+I use an inverted triangle.
+
+256
+00:13:49,326 --> 00:13:53,624
+In general, it means to follow the triangle a little bit more.
+
+257
+00:13:55,417 --> 00:13:57,054
+With a diamond shape as the base,
+
+258
+00:13:57,089 --> 00:13:59,115
+mix the triangle a little bit.
+
+259
+00:13:59,140 --> 00:14:00,439
+It's good to go in.
+
+260
+00:14:06,984 --> 00:14:09,531
+If you have a certain frame of character...
+
+261
+00:14:11,016 --> 00:14:13,145
+Let's make it smaller.
+
+262
+00:14:17,340 --> 00:14:19,334
+I haven't added a triangular silhouette yet.
+
+263
+00:14:19,359 --> 00:14:21,221
+I put its hair up
+
+264
+00:14:21,246 --> 00:14:24,123
+We said we were going to add the triangular silhouette but it didn't go in.
+
+265
+00:14:24,148 --> 00:14:28,122
+I'm going to put those parts in there.
+
+266
+00:14:29,906 --> 00:14:31,395
+To the bottom of the face,
+
+267
+00:14:31,723 --> 00:14:34,110
+I want to give a strong impression.
+
+268
+00:14:34,976 --> 00:14:36,932
+As I want to give it a strong image,
+
+269
+00:14:36,957 --> 00:14:40,316
+I'm going to add some action to the creature in the back.
+
+270
+00:14:40,494 --> 00:14:42,899
+When we make up our characters' moves,
+
+271
+00:14:42,924 --> 00:14:45,219
+if there's a story behind them,
+
+272
+00:14:45,244 --> 00:14:48,158
+I think it can have with a stronger vibe.
+
+273
+00:14:48,183 --> 00:14:50,266
+For example, sitting down
+
+274
+00:14:50,291 --> 00:14:53,288
+versus sitting down and putting a hand forward.
+
+275
+00:14:53,313 --> 00:14:54,671
+If that happens,
+
+276
+00:14:54,696 --> 00:14:56,416
+the side that you put out your hand while sitting down...
+
+277
+00:14:56,441 --> 00:14:59,231
+It's a concept that makes it look more dynamic.
+
+278
+00:14:59,480 --> 00:15:02,558
+That's why the creature over here stays still
+
+279
+00:15:02,583 --> 00:15:05,973
+rather than not staying still. He's opening his mouth.
+
+280
+00:15:05,998 --> 00:15:08,268
+If you add a simple action like this,
+
+281
+00:15:08,293 --> 00:15:10,943
+it's more dynamic.
+
+282
+00:15:14,167 --> 00:15:15,956
+Open the mouth here.
+
+283
+00:15:17,385 --> 00:15:20,220
+Like moving your character's legs with the tentacles.
+
+284
+00:15:23,696 --> 00:15:26,922
+It's very effective to show the space.
+
+285
+00:15:26,947 --> 00:15:29,970
+I think it's a good item to do that.
+
+286
+00:15:30,179 --> 00:15:33,919
+The tentacles... The floor perspective that we're going to show you.
+
+287
+00:15:34,490 --> 00:15:37,119
+I'll show you this one indirectly.
+
+288
+00:15:38,497 --> 00:15:40,024
+I'll have to shrink it a little bit more.
+
+289
+00:15:59,880 --> 00:16:02,516
+The wider you do the silhouette...
+
+290
+00:16:03,677 --> 00:16:05,706
+As the scale of the picture gets bigger,
+
+291
+00:16:06,018 --> 00:16:09,901
+If you look at the weaknesses, you focus on the character itself.
+
+292
+00:16:09,912 --> 00:16:11,565
+So, looking at the character's face,
+
+293
+00:16:11,575 --> 00:16:13,458
+it's going to be a bit more difficult.
+
+294
+00:16:13,483 --> 00:16:15,386
+The character was made to look fancy.
+
+295
+00:16:15,411 --> 00:16:17,037
+It's very effective.
+
+296
+00:16:17,392 --> 00:16:20,081
+So, when there's an in-game illustration,
+
+297
+00:16:20,106 --> 00:16:23,643
+when it comes to the primary awakening, you can see it on the left side of the screen.
+
+298
+00:16:24,476 --> 00:16:26,729
+There's more composition where it stands still.
+
+299
+00:16:26,754 --> 00:16:30,520
+And then you need it to go in a fancier way with the second awakening.
+
+300
+00:16:30,605 --> 00:16:32,288
+You know, things like elite knights, right?
+
+301
+00:16:32,313 --> 00:16:34,250
+Most of the time,
+
+302
+00:16:34,275 --> 00:16:36,380
+if the scale grows horizontally and goes in...
+
+303
+00:16:36,405 --> 00:16:37,654
+I'm sure you've seen it a lot.
+
+304
+00:16:47,472 --> 00:16:50,462
+Wrap the tentacles in the back like this.
+
+305
+00:16:51,172 --> 00:16:53,484
+I'll use the 8-shaped composition, too.
+
+306
+00:16:56,378 --> 00:16:58,721
+I told you this when I was looking at it and making a silhouette.
+
+307
+00:16:58,746 --> 00:17:01,914
+You can mix these silhouettes.
+
+308
+00:17:02,371 --> 00:17:03,876
+This is a diamond silhouette.
+
+309
+00:17:03,901 --> 00:17:07,202
+Triangular, 8-shaped, etc. They will be mixed together.
+
+310
+00:17:37,709 --> 00:17:40,052
+Adjust the ambiguous angles...
+
+311
+00:17:48,093 --> 00:17:49,422
+Place it like this.
+
+312
+00:17:49,501 --> 00:17:52,168
+At this point, we're going to start the second sketch.
+
+313
+00:17:52,193 --> 00:17:54,104
+In the process of starting the second sketch,
+
+314
+00:17:54,129 --> 00:17:55,936
+continue to give yourself self-feedback.
+
+315
+00:17:56,570 --> 00:17:58,868
+I'm not sure if the things I wanted to express went well.
+
+316
+00:17:58,878 --> 00:18:00,862
+Let's check before we go in.
+
+317
+00:18:01,591 --> 00:18:03,380
+The face of the character,
+
+318
+00:18:03,610 --> 00:18:04,774
+the upper part of the chest.
+
+319
+00:18:04,799 --> 00:18:07,564
+Can you concentrate on them now?
+
+320
+00:18:07,589 --> 00:18:10,535
+Low, middle, and high angles were expressed.
+
+321
+00:18:10,537 --> 00:18:15,224
+Since the tentacles are in this area,
+
+322
+00:18:15,226 --> 00:18:16,810
+I think the character's face can
+
+323
+00:18:16,812 --> 00:18:19,946
+definitely be part of the main element.
+
+324
+00:18:19,971 --> 00:18:21,028
+And next...
+
+325
+00:18:21,038 --> 00:18:23,656
+Thanks to the wand that's sticking out,
+
+326
+00:18:23,681 --> 00:18:26,601
+the design of this wand will be visible.
+
+327
+00:18:26,792 --> 00:18:28,945
+And then if you look down,
+
+328
+00:18:28,970 --> 00:18:29,972
+you can see the visible tentacles.
+
+329
+00:18:29,983 --> 00:18:33,601
+You can see that the order that I first came up with was reflected.
+
+330
+00:18:37,611 --> 00:18:39,430
+Through self-feedback,
+
+331
+00:18:39,455 --> 00:18:41,049
+you can move on to the 2nd sketch.
+
+332
+00:19:00,070 --> 00:19:04,415
+Usually, in real life, there are thumbnail sketches, too.
+
+333
+00:19:04,417 --> 00:19:09,227
+I think it's better to make 2 or 3 general proposals and send them to the company.
+
+334
+00:19:09,252 --> 00:19:10,700
+It's usually a polite gesture.
+
+335
+00:19:10,725 --> 00:19:13,936
+It's kind of like a promise.
+
+336
+00:19:13,961 --> 00:19:15,945
+I'll send you 3 drafts.
+
+337
+00:19:16,417 --> 00:19:18,937
+There are a lot of times when I write it down on a contract.
+
+338
+00:19:20,287 --> 00:19:21,837
+So whenever you have time,
+
+339
+00:19:21,862 --> 00:19:24,787
+I think it's better to practice by picking a lot of rough sketches.
+
+340
+00:19:24,812 --> 00:19:26,844
+It will help you a lot later on.
+
+341
+00:19:29,219 --> 00:19:32,118
+For those who want to draw in-game illustrations,
+
+342
+00:19:32,143 --> 00:19:36,912
+if you have a particular game that you like,
+
+343
+00:19:37,289 --> 00:19:40,763
+and if you want to draw in-game illustrations,
+
+344
+00:19:40,788 --> 00:19:42,502
+make sure to design your own characters.
+
+345
+00:19:42,527 --> 00:19:43,933
+With each character,
+
+346
+00:19:43,958 --> 00:19:46,028
+draw the first and second awakenings separately.
+
+347
+00:19:46,053 --> 00:19:48,019
+That's what I recommend.
+
+348
+00:19:48,374 --> 00:19:49,575
+The reason why I do that is because,
+
+349
+00:19:49,600 --> 00:19:52,510
+when we draw character illustrations,
+
+350
+00:19:52,535 --> 00:19:55,151
+there are a lot of normal standing illustrations,
+
+351
+00:19:55,176 --> 00:19:56,712
+like the one on the left.
+
+352
+00:19:57,112 --> 00:19:59,532
+Otherwise, there are background scenes.
+
+353
+00:19:59,557 --> 00:20:01,572
+It's easy, but relatively,
+
+354
+00:20:03,431 --> 00:20:05,547
+if I try to come up with an illustration that fits 'in-game',
+
+355
+00:20:05,572 --> 00:20:07,499
+the scale doesn't get bigger.
+
+356
+00:20:07,501 --> 00:20:11,973
+So, I'm going to work on it briefly.
+
+357
+00:20:11,984 --> 00:20:12,985
+Like the one on the left.
+
+358
+00:20:13,581 --> 00:20:17,546
+And develop that character from there.
+
+359
+00:20:17,557 --> 00:20:18,819
+Let's do it.
+
+360
+00:20:19,105 --> 00:20:21,361
+Let's say the first round was the first one I did.
+
+361
+00:20:21,363 --> 00:20:25,089
+If you see it as an awakened character,
+
+362
+00:20:25,114 --> 00:20:27,271
+how can you make it fancy?
+
+363
+00:20:27,791 --> 00:20:29,553
+In the process of composing it,
+
+364
+00:20:29,564 --> 00:20:31,771
+the gaze that we learned earlier, or
+
+365
+00:20:31,796 --> 00:20:35,333
+the silhouette, lighting, and that kind of information,
+
+366
+00:20:35,358 --> 00:20:36,868
+you should be putting everything in,
+
+367
+00:20:39,005 --> 00:20:40,894
+while constantly organizing the screen
+
+368
+00:20:44,348 --> 00:20:47,287
+to make room for the characters.
+
+369
+00:20:51,182 --> 00:20:53,203
+In the process, you'll continue to develop your senses
+
+370
+00:20:53,228 --> 00:20:55,518
+to be able to work right away.
+
+371
+00:20:55,742 --> 00:20:57,709
+I think that's the ideal picture.
+
+372
+00:20:58,191 --> 00:21:01,702
+So if you want to draw a game character,
+
+373
+00:21:01,727 --> 00:21:04,259
+if you want to try a game illustration,
+
+374
+00:21:04,284 --> 00:21:07,854
+I hope you practice making illustrations like this later on.
+
+375
+00:21:07,865 --> 00:21:08,817
+I certainly recommend it.
+
+376
+00:21:09,793 --> 00:21:12,316
+But even when you hear this,
+
+377
+00:21:12,341 --> 00:21:14,102
+you know what I want to direct.
+
+378
+00:21:14,127 --> 00:21:15,871
+And you know what I want to express.
+
+379
+00:21:15,896 --> 00:21:17,966
+You want to show off these parts,
+
+380
+00:21:17,991 --> 00:21:20,625
+but you won't know what position the character should take to express that.
+
+381
+00:21:20,650 --> 00:21:23,100
+If you can't get the hang of it even when you watch this video...
+
+382
+00:21:23,548 --> 00:21:26,134
+Actually, the answer to that was in the beginning.
+
+383
+00:21:26,159 --> 00:21:28,236
+You'd use references.
+
+384
+00:21:29,897 --> 00:21:31,662
+For example, what I wanted to show you,
+
+385
+00:21:31,687 --> 00:21:33,344
+it was the side of the character.
+
+386
+00:21:33,602 --> 00:21:36,507
+I think the design of that area is fun.
+
+387
+00:21:36,532 --> 00:21:39,023
+So I want to show off the design of the sides.
+
+388
+00:21:39,024 --> 00:21:42,462
+Keep looking for an illustration that highlights the sides.
+
+389
+00:21:42,828 --> 00:21:45,072
+You can refer to that as your 'friend'.
+
+390
+00:21:46,096 --> 00:21:48,565
+What I wanted to show was the leg line.
+
+391
+00:21:48,590 --> 00:21:50,749
+Let's find an illustration that highlights the leg line.
+
+392
+00:21:50,774 --> 00:21:52,554
+Just keep that in mind.
+
+393
+00:21:52,579 --> 00:21:53,886
+I'll do my best.
+
+394
+00:21:54,687 --> 00:21:58,040
+I told you everything about the screen
+
+395
+00:21:58,065 --> 00:21:59,862
+in this curriculum,
+
+396
+00:21:59,872 --> 00:22:01,596
+so it might not be included.
+
+397
+00:22:01,621 --> 00:22:02,640
+This happens because,
+
+398
+00:22:02,665 --> 00:22:05,657
+in the end, the things you learn only from experience...
+
+399
+00:22:05,668 --> 00:22:07,382
+There are a lot of them.
+
+400
+00:22:07,407 --> 00:22:10,063
+I can't make up those experiences for you.
+
+401
+00:22:10,244 --> 00:22:13,630
+Instead, I told you about the factors that can fill in that experience.
+
+402
+00:22:13,655 --> 00:22:15,183
+Experience can be filled in.
+
+403
+00:22:15,208 --> 00:22:17,583
+In other words, the only thing that can fill your muscle memory is
+
+404
+00:22:18,093 --> 00:22:19,298
+to use your brain.
+
+405
+00:22:20,782 --> 00:22:23,211
+The things you can't do with your brain,
+
+406
+00:22:23,236 --> 00:22:26,044
+you can use materials for as indirect experience.
+
+407
+00:22:26,069 --> 00:22:28,273
+That is also about using your head.
+
+408
+00:22:29,869 --> 00:22:32,615
+They're tools that support your head.
+
+409
+00:22:34,607 --> 00:22:37,745
+If you approach illustrations that way...
+
+410
+00:22:37,922 --> 00:22:40,672
+Of course, compared to those who draw with their gut feelings,
+
+411
+00:22:40,697 --> 00:22:42,223
+it might take some time.
+
+412
+00:22:43,066 --> 00:22:46,002
+Compared to people who just know things at first glance,
+
+413
+00:22:46,027 --> 00:22:48,133
+it might take some time,
+
+414
+00:22:49,711 --> 00:22:51,196
+but when you invest that time,
+
+415
+00:22:51,392 --> 00:22:53,778
+if you had set a goal and carried it out alright... you can do it.
+
+416
+00:22:54,608 --> 00:22:57,416
+So, you're not wrong about what you're thinking,
+
+417
+00:22:57,441 --> 00:22:59,898
+it'll definitely take some time,
+
+418
+00:22:59,923 --> 00:23:02,495
+but you'll eventually be able to reach a positive result.
+
+419
+00:23:03,424 --> 00:23:05,095
+Now, I repeat that
+
+420
+00:23:05,120 --> 00:23:06,692
+making it your own...
+
+421
+00:23:09,092 --> 00:23:11,715
+I think that's the best way to study.
+
+422
+00:23:15,318 --> 00:23:18,227
+Should people who just started drawing not be able to draw well?
+
+423
+00:23:18,683 --> 00:23:22,372
+I want to say that it's not true.
+
+424
+00:23:22,811 --> 00:23:25,242
+Even for those who don't have much experience,
+
+425
+00:23:25,267 --> 00:23:26,732
+depending on the person,
+
+426
+00:23:26,757 --> 00:23:30,531
+there are people who draw really well considering it's their first time.
+
+427
+00:23:30,891 --> 00:23:33,588
+Most of those people are good at using references.
+
+428
+00:23:33,722 --> 00:23:35,235
+They're good at using references,
+
+429
+00:23:35,260 --> 00:23:38,272
+and they know exactly what they want to show.
+
+430
+00:23:38,968 --> 00:23:41,552
+If the illustration doesn't come out well compared to the time you spent on it,
+
+431
+00:23:41,577 --> 00:23:42,862
+it's because you're not sure
+
+432
+00:23:42,887 --> 00:23:44,621
+what you want to express.
+
+433
+00:23:45,764 --> 00:23:48,660
+So, I want to make those parts clear.
+
+434
+00:23:49,618 --> 00:23:51,032
+When you are doing the illustration,
+
+435
+00:23:51,471 --> 00:23:54,247
+when you do the portrait illustration, or the full illustration,
+
+436
+00:23:54,272 --> 00:23:55,488
+be clear about it.
+
+437
+00:23:55,513 --> 00:23:57,793
+And use the things
+
+438
+00:23:57,818 --> 00:23:58,832
+you can use for each situation.
+
+439
+00:23:58,857 --> 00:24:01,927
+If there's something you can't use, you can fill it in with something else.
+
+440
+00:24:01,952 --> 00:24:05,526
+So, in this curriculum,
+
+441
+00:24:06,498 --> 00:24:09,494
+I keep telling you
+
+442
+00:24:09,519 --> 00:24:11,335
+about the elements that are good to use.
+
+443
+00:24:11,360 --> 00:24:13,168
+In other words, the elements that we can use and cannot use.
+
+444
+00:24:13,473 --> 00:24:16,056
+If you learn those things well,
+
+445
+00:24:16,468 --> 00:24:18,523
+you can use that as a weapon.
+
+446
+00:24:19,661 --> 00:24:21,929
+That's what I want to emphasize.
+
+447
+00:24:21,954 --> 00:24:24,197
+I'm doing the 2nd sketch now.
+
+448
+00:24:26,897 --> 00:24:28,279
+The skirt got a bit bigger.
+
+449
+00:24:28,752 --> 00:24:30,612
+I'll shrink it a bit.
+
+450
+00:24:32,540 --> 00:24:34,778
+I'll show the design of the legs.
+
+451
+00:24:58,357 --> 00:25:00,518
+If I show the tentacles,
+
+452
+00:25:00,519 --> 00:25:01,484
+what do you think?
+
+453
+00:25:01,509 --> 00:25:04,743
+Now, this is an illustration
+
+454
+00:25:04,745 --> 00:25:06,123
+that could be used in-game to a certain extent.
+
+455
+00:25:06,895 --> 00:25:09,107
+While maintaining a diamond silhouette,
+
+456
+00:25:09,132 --> 00:25:10,709
+There's a lot of triangle silhouettes mixed in.
+
+457
+00:25:10,734 --> 00:25:12,520
+Using the 8-shaped composition,
+
+458
+00:25:12,545 --> 00:25:14,613
+I focused on the character's face.
+
+459
+00:25:14,866 --> 00:25:16,766
+In the order that I wanted to show you,
+
+460
+00:25:16,791 --> 00:25:21,140
+the character, the wand, and the tentacles in the back,
+
+461
+00:25:21,165 --> 00:25:22,615
+I showed them in order.
+
+462
+00:25:22,982 --> 00:25:25,883
+As the canvas has gotten bigger,
+
+463
+00:25:25,908 --> 00:25:27,605
+you can't really see its face.
+
+464
+00:25:27,720 --> 00:25:29,622
+So that you can see its face more,
+
+465
+00:25:29,624 --> 00:25:31,510
+It's okay to increase the size here.
+
+466
+00:25:31,512 --> 00:25:33,537
+I'll be applying deformers for the situation
+
+467
+00:25:33,539 --> 00:25:35,381
+as we learned about deformers.
+
+468
+00:25:37,233 --> 00:25:38,904
+In full body illustrations,
+
+469
+00:25:38,905 --> 00:25:41,006
+when you can't see the character's face because it's too small,
+
+470
+00:25:41,031 --> 00:25:43,635
+I purposely made the character's face bigger
+
+471
+00:25:46,674 --> 00:25:48,731
+and made the face visible somehow.
+
+472
+00:25:49,406 --> 00:25:51,589
+Deformers can be used like this.
+
+473
+00:25:51,614 --> 00:25:53,122
+Please remember this, too.
+
+474
+00:25:59,703 --> 00:26:01,454
+Since we've done one composition,
+
+475
+00:26:01,464 --> 00:26:03,422
+I should try something different.
+
+476
+00:26:04,036 --> 00:26:05,432
+Secondly,
+
+477
+00:26:09,680 --> 00:26:11,508
+the character's posture.
+
+478
+00:26:11,533 --> 00:26:13,242
+It's pretty strong.
+
+479
+00:26:13,267 --> 00:26:16,533
+The creature in the back will assist the character.
+
+480
+00:26:16,535 --> 00:26:18,604
+That's how it's composed.
+
+481
+00:26:18,629 --> 00:26:19,894
+The second thing I'm going to do is
+
+482
+00:26:19,929 --> 00:26:22,754
+make the character stand still.
+
+483
+00:26:22,779 --> 00:26:25,513
+Let's move the creature in the back dynamically.
+
+484
+00:26:25,514 --> 00:26:27,810
+Or we can link the background a bit.
+
+485
+00:26:27,812 --> 00:26:29,582
+I'll try to increase the scale.
+
+486
+00:26:29,607 --> 00:26:32,017
+As a result, it's like the seasoning of a dish.
+
+487
+00:26:32,019 --> 00:26:35,231
+If you increase the charm of your character,
+
+488
+00:26:35,233 --> 00:26:37,246
+it reduces the charm of the background.
+
+489
+00:26:37,566 --> 00:26:39,179
+If you take out the character's charm,
+
+490
+00:26:39,204 --> 00:26:40,385
+the charm of the background increases.
+
+491
+00:26:40,410 --> 00:26:41,737
+That's the concept.
+
+492
+00:26:41,889 --> 00:26:44,131
+However, the theme is character.
+
+493
+00:26:44,156 --> 00:26:46,819
+It's just that the premise is not broken.
+
+494
+00:26:50,495 --> 00:26:52,561
+Make it smaller and move it to the side.
+
+495
+00:26:55,499 --> 00:26:56,881
+In the second composition,
+
+496
+00:26:56,906 --> 00:26:59,059
+the character will be calm.
+
+497
+00:27:01,188 --> 00:27:03,815
+I'm going to keep the strong impression intact.
+
+498
+00:27:27,177 --> 00:27:28,813
+To give a strong impression,
+
+499
+00:27:28,838 --> 00:27:31,929
+use the hair to make it close to an inverted triangle silhouette.
+
+500
+00:27:32,353 --> 00:27:34,596
+I'm going to widen the lower area.
+
+501
+00:27:36,482 --> 00:27:38,614
+As expected, there's a creature in the bottom layer.
+
+502
+00:27:38,639 --> 00:27:40,694
+So, I'm going to complete the triangular silhouette.
+
+503
+00:27:50,933 --> 00:27:53,521
+I want to show my character's face strongly.
+
+504
+00:27:53,546 --> 00:27:54,873
+It's the same this time.
+
+505
+00:27:55,894 --> 00:27:57,219
+The character's unique point is that...
+
+506
+00:27:57,220 --> 00:27:59,477
+I think it comes from the face.
+
+507
+00:28:00,368 --> 00:28:03,855
+Then, this character is a character that doesn't show its face well.
+
+508
+00:28:03,880 --> 00:28:05,165
+That's okay if you say so.
+
+509
+00:28:05,190 --> 00:28:06,800
+You can emphasize other parts
+
+510
+00:28:06,825 --> 00:28:08,643
+if you're not emphasizing the face.
+
+511
+00:28:08,668 --> 00:28:10,542
+But I think 70 to 80 percent of the time you draw,
+
+512
+00:28:10,567 --> 00:28:12,281
+the face is going to stand out first.
+
+513
+00:28:13,802 --> 00:28:15,024
+There's nothing you can do.
+
+514
+00:28:15,049 --> 00:28:17,006
+Casual characters need to be pretty.
+
+515
+00:28:33,626 --> 00:28:34,729
+As I always say,
+
+516
+00:28:34,754 --> 00:28:38,380
+for the thumbnail, you should focus on making it look nice.
+
+517
+00:28:41,472 --> 00:28:44,436
+Let's do that later.
+
+518
+00:28:45,324 --> 00:28:46,899
+If you pay too much attention in the beginning,
+
+519
+00:28:46,900 --> 00:28:48,502
+as your working time gets longer,
+
+520
+00:28:48,511 --> 00:28:51,407
+there are times when you can't express the feeling that you want.
+
+521
+00:29:09,810 --> 00:29:12,319
+It feels like the wand is crossed with the character.
+
+522
+00:29:12,344 --> 00:29:13,301
+I'm going to put it in.
+
+523
+00:29:14,784 --> 00:29:16,226
+I'll place it in the back like this.
+
+524
+00:29:16,251 --> 00:29:17,761
+I'm going to hold it horizontally this way.
+
+525
+00:29:26,023 --> 00:29:27,827
+If you cross it like this,
+
+526
+00:29:28,788 --> 00:29:30,927
+as the character becomes a cross shape,
+
+527
+00:29:30,952 --> 00:29:33,118
+the character in the middle section
+
+528
+00:29:33,143 --> 00:29:34,750
+will attract a lot of attention.
+
+529
+00:29:39,785 --> 00:29:42,081
+Since you're focused enough on your character,
+
+530
+00:29:42,106 --> 00:29:44,231
+it's okay to make a fuss in the back.
+
+531
+00:29:47,719 --> 00:29:49,296
+Make a fuss with the creature in the back
+
+532
+00:29:49,321 --> 00:29:51,447
+as if you've never seen such a thing before.
+
+533
+00:29:54,512 --> 00:29:57,442
+When you don't draw much attention towards your character,
+
+534
+00:29:57,467 --> 00:29:59,139
+if you do something like this,
+
+535
+00:29:59,164 --> 00:30:00,997
+the creature can become the main element.
+
+536
+00:30:01,022 --> 00:30:02,733
+It would be a very dangerous choice.
+
+537
+00:30:02,758 --> 00:30:05,451
+But now we're crossing the wand.
+
+538
+00:30:05,453 --> 00:30:08,309
+Unlike the background,
+
+539
+00:30:08,311 --> 00:30:09,748
+I'll make it stand calmly,
+
+540
+00:30:09,750 --> 00:30:11,783
+or because it has this gap...
+
+541
+00:30:11,808 --> 00:30:13,146
+In terms of the character, no matter what,
+
+542
+00:30:13,147 --> 00:30:15,326
+it's a section that attracts people's attention.
+
+543
+00:30:15,351 --> 00:30:18,641
+Since it's that kind of situation, I was able to direct it
+
+544
+00:30:19,193 --> 00:30:20,646
+by making a fuss in the back.
+
+545
+00:30:20,671 --> 00:30:22,112
+That's what you can think.
+
+546
+00:30:24,383 --> 00:30:26,890
+The quiet character and its chaotic surroundings.
+
+547
+00:30:26,915 --> 00:30:28,620
+There's a big difference between them.
+
+548
+00:30:28,645 --> 00:30:29,958
+For that character,
+
+549
+00:30:29,983 --> 00:30:32,807
+when you give it a scary feeling,
+
+550
+00:30:32,832 --> 00:30:34,264
+it's going to be effective.
+
+551
+00:30:34,714 --> 00:30:36,791
+Should I say it's different?
+
+552
+00:30:42,093 --> 00:30:45,144
+You can think of it as intentionally using unnaturalness.
+
+553
+00:30:45,738 --> 00:30:48,633
+A simple theory of instilling fear.
+
+554
+00:30:48,900 --> 00:30:50,417
+In a way, it's not simple.
+
+555
+00:30:50,442 --> 00:30:51,957
+It's an interesting theory.
+
+556
+00:30:51,982 --> 00:30:54,081
+Out of that...
+
+557
+00:30:54,392 --> 00:30:56,636
+There's a theory called the uncanny valley.
+
+558
+00:30:59,214 --> 00:31:02,802
+The closer the character gets to reality, the more attractive it becomes
+
+559
+00:31:03,240 --> 00:31:06,798
+but there's a sudden drop in attractiveness at a certain level.
+
+560
+00:31:07,797 --> 00:31:10,439
+The part where your attractiveness increases and then decreases.
+
+561
+00:31:10,835 --> 00:31:13,291
+When we saw this section, we called it an uncanny valley.
+
+562
+00:31:13,605 --> 00:31:17,080
+When we want to instill fear into our characters,
+
+563
+00:31:17,098 --> 00:31:19,011
+when you want to give off a horror vibe...
+
+564
+00:31:19,036 --> 00:31:21,700
+The point is to touch the valley on purpose.
+
+565
+00:31:21,725 --> 00:31:24,605
+When you look at this picture, it needs to look unnatural.
+
+566
+00:31:25,234 --> 00:31:26,372
+One of them...
+
+567
+00:31:26,397 --> 00:31:28,787
+The background in chaos and the character who stays still.
+
+568
+00:31:28,812 --> 00:31:31,056
+The unnaturalness that comes out between them,
+
+569
+00:31:31,081 --> 00:31:32,405
+you would want to express that.
+
+570
+00:31:34,801 --> 00:31:36,855
+I'm going to express fog in the back
+
+571
+00:31:38,281 --> 00:31:40,783
+and make the silhouette as wide as possible.
+
+572
+00:31:44,326 --> 00:31:47,132
+It can enhance the fear from the viewers.
+
+573
+00:31:57,599 --> 00:32:00,440
+The overall posture of the character has become very monotonous,
+
+574
+00:32:00,465 --> 00:32:02,831
+but, let's make a flow here.
+
+575
+00:32:03,082 --> 00:32:06,012
+When the posture is small, and if you want to make the flow clear,
+
+576
+00:32:06,611 --> 00:32:09,435
+the end part of the gaze flow is important.
+
+577
+00:32:09,805 --> 00:32:10,925
+What would be the end part?
+
+578
+00:32:10,950 --> 00:32:12,778
+There's not much you can control with the feet.
+
+579
+00:32:12,803 --> 00:32:15,905
+The area that you can adjust the size of will be the face.
+
+580
+00:32:16,282 --> 00:32:20,242
+So, the line that's like this...
+
+581
+00:32:22,293 --> 00:32:23,947
+If there's a line like this,
+
+582
+00:32:24,486 --> 00:32:27,532
+the middle part is definitely less bent, right?
+
+583
+00:32:27,557 --> 00:32:29,938
+But since this area is bent a lot,
+
+584
+00:32:30,204 --> 00:32:31,497
+from the perspective of the viewers,
+
+585
+00:32:31,528 --> 00:32:33,796
+it looks more bent.
+
+586
+00:32:33,821 --> 00:32:36,070
+Even though the end of this curve is bent.
+
+587
+00:32:39,274 --> 00:32:41,844
+Then, the face of this character
+
+588
+00:32:45,779 --> 00:32:47,003
+will be bent like this.
+
+589
+00:32:47,775 --> 00:32:51,280
+Bend the shoulder so that it's opposite to your face.
+
+590
+00:32:54,795 --> 00:32:57,231
+By creating the contrapposto to the human body,
+
+591
+00:33:08,861 --> 00:33:10,435
+you can strengthen the character's
+
+592
+00:33:10,436 --> 00:33:12,041
+atmosphere overall.
+
+593
+00:33:18,895 --> 00:33:21,701
+If you go into the second sketch,
+
+594
+00:34:03,273 --> 00:34:06,387
+the skirt has a low angle.
+
+595
+00:34:08,411 --> 00:34:10,547
+It feels like it is held up.
+
+596
+00:34:18,078 --> 00:34:20,987
+Other than that, the place we look at the characters
+
+597
+00:34:21,012 --> 00:34:23,076
+would mostly be the shoulder area.
+
+598
+00:34:23,093 --> 00:34:25,958
+You saw the character at a low angle.
+
+599
+00:34:25,967 --> 00:34:26,981
+If you give it that feeling,
+
+600
+00:34:26,998 --> 00:34:29,510
+the character itself looks huge.
+
+601
+00:34:29,937 --> 00:34:32,748
+You can control the pressure that comes out of it.
+
+602
+00:34:33,391 --> 00:34:35,192
+I think it's easy.
+
+603
+00:34:35,193 --> 00:34:37,276
+When you look at the low angle and high angle,
+
+604
+00:34:37,277 --> 00:34:40,671
+the low angle would be more intimidating.
+
+605
+00:34:41,568 --> 00:34:44,620
+Usually, cute characters are looked up at from the bottom.
+
+606
+00:34:44,715 --> 00:34:46,177
+It's a bit of an overbearing character,
+
+607
+00:34:46,202 --> 00:34:49,283
+like a queen.
+
+608
+00:34:49,308 --> 00:34:51,832
+There are a lot of times when these characters look down on you.
+
+609
+00:34:54,898 --> 00:34:57,340
+You can use those images, too.
+
+610
+00:34:57,911 --> 00:35:00,375
+The images that we use in the picture.
+
+611
+00:35:00,376 --> 00:35:02,296
+The image is...
+
+612
+00:35:03,481 --> 00:35:06,456
+Even if I ask people who don't draw,
+
+613
+00:35:06,457 --> 00:35:08,218
+Most of them say the same thing.
+
+614
+00:35:08,443 --> 00:35:11,507
+So, the important points used in illustration,
+
+615
+00:35:11,508 --> 00:35:13,983
+it also means that we already know them.
+
+616
+00:35:14,796 --> 00:35:18,062
+It's important to be aware of how much you use them.
+
+617
+00:35:19,595 --> 00:35:21,853
+That's what's at the heart of my class in the end.
+
+618
+00:35:22,011 --> 00:35:24,299
+There are a lot of things that you've used up to now.
+
+619
+00:35:24,324 --> 00:35:26,118
+I'm sure you're all using these.
+
+620
+00:35:26,320 --> 00:35:28,374
+If you've drawn before,
+
+621
+00:35:28,375 --> 00:35:31,332
+you've surely done things that you thought were pretty.
+
+622
+00:35:31,333 --> 00:35:33,822
+When you thought something was pretty,
+
+623
+00:35:33,824 --> 00:35:36,736
+it's similar to the perception that people already have.
+
+624
+00:35:36,885 --> 00:35:39,137
+I'm sure you'd be feeling it.
+
+625
+00:35:39,405 --> 00:35:41,731
+This is pretty. This is cute.
+
+626
+00:35:41,756 --> 00:35:44,065
+I think this side is more attractive.
+
+627
+00:35:44,090 --> 00:35:45,107
+Things like that.
+
+628
+00:35:45,132 --> 00:35:49,461
+But usually, you have these thoughts unconsciously.
+
+629
+00:35:51,957 --> 00:35:54,245
+There's nothing that's decided.
+
+630
+00:35:54,589 --> 00:35:57,200
+This is how characters appear cute.
+
+631
+00:35:57,225 --> 00:35:59,373
+Unless someone decides it for me,
+
+632
+00:35:59,398 --> 00:36:01,859
+actually, it's hard to be sure about that.
+
+633
+00:36:02,698 --> 00:36:04,699
+But even if no one does it,
+
+634
+00:36:04,724 --> 00:36:06,724
+please decide it for yourself.
+
+635
+00:36:08,308 --> 00:36:09,662
+When you go in like this,
+
+636
+00:36:09,663 --> 00:36:11,642
+the character looks cuter.
+
+637
+00:36:11,781 --> 00:36:13,564
+When you go in like this,
+
+638
+00:36:13,589 --> 00:36:15,713
+it gives off a high-pressure feeling.
+
+639
+00:36:15,715 --> 00:36:17,870
+In the process of observing the illustration,
+
+640
+00:36:18,375 --> 00:36:20,189
+we talked about studying materials earlier.
+
+641
+00:36:20,191 --> 00:36:22,962
+In the process of studying the materials,
+
+642
+00:36:22,964 --> 00:36:25,724
+you set your own rules beforehand.
+
+643
+00:36:26,182 --> 00:36:28,325
+And used them consciously.
+
+644
+00:36:29,090 --> 00:36:30,642
+We're talking about the same thing here.
+
+645
+00:36:30,903 --> 00:36:32,173
+It's important.
+
+646
+00:36:36,852 --> 00:36:39,081
+If you do it like this,
+
+647
+00:36:43,965 --> 00:36:47,039
+to focus on the character in the middle of the cross...
+
+648
+00:36:47,582 --> 00:36:50,089
+So the characters and the eyes of the people around it...
+
+649
+00:36:50,114 --> 00:36:51,633
+I'm making it a cross.
+
+650
+00:36:52,248 --> 00:36:54,258
+It's more like a diamond silhouette.
+
+651
+00:36:54,267 --> 00:36:57,393
+I looked up a little more than I had done before.
+
+652
+00:36:57,699 --> 00:37:00,089
+Should I say that it's that calm?
+
+653
+00:37:00,091 --> 00:37:02,490
+The left side is a bit more stable.
+
+654
+00:37:02,965 --> 00:37:04,702
+I want to show the space better.
+
+655
+00:37:04,727 --> 00:37:08,384
+But thanks to the unstable feeling, the fear element was added.
+
+656
+00:37:08,409 --> 00:37:10,260
+It's the second case.
+
+657
+00:37:13,163 --> 00:37:15,966
+Depending on what you want,
+
+658
+00:37:15,991 --> 00:37:17,324
+it can be composed differently.
+
+659
+00:37:17,868 --> 00:37:19,248
+I'll do one more.
+
+660
+00:37:22,398 --> 00:37:23,607
+What I'm going to do this time is,
+
+661
+00:37:23,632 --> 00:37:27,400
+let's think differently about the concept of space.
+
+662
+00:37:27,425 --> 00:37:29,367
+The character doesn't have to stand up all the time.
+
+663
+00:37:29,392 --> 00:37:30,927
+The character can sit down.
+
+664
+00:37:30,929 --> 00:37:33,500
+There are times when you need to make up a situation where it lies down.
+
+665
+00:37:33,766 --> 00:37:36,827
+How can I draw you lying down with an illustration?
+
+666
+00:37:37,294 --> 00:37:39,408
+You can have the view as a top view.
+
+667
+00:37:39,619 --> 00:37:42,724
+Like you're looking at the character lying down from the sky.
+
+668
+00:37:42,726 --> 00:37:45,505
+Make the background into a blanket or something like that.
+
+669
+00:37:45,885 --> 00:37:47,839
+I made a blanket like this.
+
+670
+00:37:50,771 --> 00:37:53,818
+The blanket itself becomes the shape of the entire illustration.
+
+671
+00:37:53,843 --> 00:37:56,417
+That's possible.
+
+672
+00:37:56,442 --> 00:37:58,159
+I won't use it often, though.
+
+673
+00:38:00,484 --> 00:38:02,013
+No matter what, for the conditions...
+
+674
+00:38:02,038 --> 00:38:03,641
+That's what you need now.
+
+675
+00:38:03,666 --> 00:38:05,754
+Can you focus on your character?
+
+676
+00:38:05,894 --> 00:38:08,130
+Can you see
+
+677
+00:38:09,221 --> 00:38:10,707
+the space well?
+
+678
+00:38:10,709 --> 00:38:12,534
+Did the character become the main element?
+
+679
+00:38:14,113 --> 00:38:16,897
+And overall, does it look fancy?
+
+680
+00:38:17,270 --> 00:38:19,645
+That is, can I stimulate your desire to buy it?
+
+681
+00:38:19,647 --> 00:38:21,797
+If these three conditions are met, it would be good.
+
+682
+00:38:22,950 --> 00:38:24,531
+Portrait illustration.
+
+683
+00:38:24,722 --> 00:38:28,403
+In a way, you can say that they have are fewer restrictions.
+
+684
+00:38:28,888 --> 00:38:31,737
+Of course, compared to full illustrations,
+
+685
+00:38:31,762 --> 00:38:33,956
+There are a lot of restrictions.
+
+686
+00:38:33,981 --> 00:38:35,129
+That's true.
+
+687
+00:38:35,154 --> 00:38:38,019
+I'm not saying it's too limited.
+
+688
+00:38:42,292 --> 00:38:43,610
+Let's make one more example.
+
+689
+00:38:43,635 --> 00:38:47,588
+This time, we're going to come up with a creature in the back.
+
+690
+00:38:47,613 --> 00:38:50,396
+Until now, I showed the character first.
+
+691
+00:38:50,421 --> 00:38:52,761
+Then, show the wand.
+
+692
+00:38:52,786 --> 00:38:54,381
+We were able to see their eyes were connected.
+
+693
+00:38:54,406 --> 00:38:57,324
+This time, I'll take this wand out on the side.
+
+694
+00:38:58,299 --> 00:38:59,899
+The creature in the back.
+
+695
+00:39:00,717 --> 00:39:04,552
+We're going to connect the characters and show them.
+
+696
+00:39:06,954 --> 00:39:08,507
+How do we do this?
+
+697
+00:39:08,715 --> 00:39:11,390
+The fact that this creature's character is sitting on it,
+
+698
+00:39:11,415 --> 00:39:12,571
+that's not bad.
+
+699
+00:39:13,228 --> 00:39:15,456
+Let's calculate the overall flow of the gaze.
+
+700
+00:39:15,639 --> 00:39:18,643
+The gaze can go from top to bottom.
+
+701
+00:39:18,668 --> 00:39:21,606
+Or you might look away and go in.
+
+702
+00:39:22,958 --> 00:39:25,228
+If you're looking down from top to bottom,
+
+703
+00:39:25,253 --> 00:39:27,125
+Or as if you're looking at it from the front.
+
+704
+00:39:27,127 --> 00:39:29,144
+I think it'd be good to make the character sit down.
+
+705
+00:39:30,204 --> 00:39:32,218
+If it's bent like this,
+
+706
+00:39:32,219 --> 00:39:35,740
+it'd be nice if the same character was sitting on the other side.
+
+707
+00:39:36,908 --> 00:39:39,524
+I think you can make it attractive either way.
+
+708
+00:39:39,549 --> 00:39:42,294
+In fact, in the former one, the gaze flows down.
+
+709
+00:39:42,319 --> 00:39:44,600
+It makes you feel calm unwittingly.
+
+710
+00:39:44,886 --> 00:39:47,246
+So, the feeling I want to give to this character,
+
+711
+00:39:47,247 --> 00:39:48,868
+it's still intense.
+
+712
+00:39:48,893 --> 00:39:51,898
+But this time, this horror vibe...
+
+713
+00:39:51,899 --> 00:39:53,136
+I don't want to give it to you like that.
+
+714
+00:39:53,138 --> 00:39:55,214
+I mean, I don't want to give you that feeling.
+
+715
+00:39:55,239 --> 00:39:57,234
+I want to show it naturally.
+
+716
+00:39:57,259 --> 00:39:59,005
+That's what I thought.
+
+717
+00:39:59,675 --> 00:40:01,453
+For me, the 2nd one...
+
+718
+00:40:01,454 --> 00:40:03,244
+The character has an S-shaped silhouette.
+
+719
+00:40:03,269 --> 00:40:04,802
+We're going to do that.
+
+720
+00:40:09,388 --> 00:40:12,202
+Just like the first illustration,
+
+721
+00:40:12,227 --> 00:40:14,435
+the character has a strong posture.
+
+722
+00:40:14,460 --> 00:40:18,517
+The background elements surround the character.
+
+723
+00:40:18,542 --> 00:40:20,631
+I'm going to create an illustration.
+
+724
+00:40:33,618 --> 00:40:35,604
+Draw as many bodies as possible
+
+725
+00:40:37,269 --> 00:40:39,626
+Until I can pick one easily.
+
+726
+00:40:41,002 --> 00:40:42,715
+So, let's practice.
+
+727
+00:40:58,263 --> 00:41:01,158
+You don't have to pull it out exactly.
+
+728
+00:41:01,610 --> 00:41:04,479
+It's actually the most burdensome to draw without any pressure.
+
+729
+00:41:06,473 --> 00:41:08,165
+You'll know that if you've done it before.
+
+730
+00:41:08,634 --> 00:41:11,164
+But they say that we should draw the human body without any burden.
+
+731
+00:41:11,164 --> 00:41:14,254
+At this stage, I'm trying to make the proportions correct.
+
+732
+00:41:14,255 --> 00:41:15,486
+You'll see for yourself.
+
+733
+00:41:17,319 --> 00:41:19,822
+Then, 10 to 20 minutes go by so quickly.
+
+734
+00:41:20,218 --> 00:41:23,206
+There will be times when it won't go as you expected.
+
+735
+00:41:23,621 --> 00:41:25,933
+In that case, you have to stop on your own.
+
+736
+00:41:26,574 --> 00:41:29,384
+When it's the time to keep paying attention to the human body,
+
+737
+00:41:29,409 --> 00:41:31,851
+you have to check it by yourself.
+
+738
+00:41:35,619 --> 00:41:38,734
+You're supposed to make your human bodies correct.
+
+739
+00:41:39,083 --> 00:41:41,271
+I'll try to make it rough.
+
+740
+00:41:41,586 --> 00:41:42,766
+It's okay to get it wrong.
+
+741
+00:41:43,287 --> 00:41:45,600
+Let's focus on expressing our feelings.
+
+742
+00:41:53,925 --> 00:41:55,179
+As expected, with this drawing,
+
+743
+00:41:55,179 --> 00:41:58,348
+the characters will come out small.
+
+744
+00:41:59,921 --> 00:42:02,263
+I'm going to increase the face size.
+
+745
+00:42:26,260 --> 00:42:27,919
+An earlier theory that we used...
+
+746
+00:42:28,169 --> 00:42:30,901
+I'll bend the ends of the face a little bit.
+
+747
+00:42:33,297 --> 00:42:35,380
+You know the flow that I was going to give it?
+
+748
+00:42:35,405 --> 00:42:37,755
+I'm going to make this flow stronger.
+
+749
+00:43:08,729 --> 00:43:11,926
+Let's draw the face in more detail
+
+750
+00:43:11,951 --> 00:43:13,557
+The face is very important in a character.
+
+751
+00:43:35,497 --> 00:43:37,898
+I'll also add a simple cloth silhouette.
+
+752
+00:43:38,926 --> 00:43:41,767
+That's going to cover the fundamentals of thumbnail sketches.
+
+753
+00:43:53,128 --> 00:43:55,397
+I'll give you a tip here.
+
+754
+00:43:55,406 --> 00:43:57,144
+When sketching the thumbnail,
+
+755
+00:43:57,169 --> 00:44:00,930
+it might still be hard to draw a tentacle like this.
+
+756
+00:44:00,955 --> 00:44:03,054
+What am I supposed to do with this?
+
+757
+00:44:03,079 --> 00:44:04,625
+There are times when you might think that.
+
+758
+00:44:04,881 --> 00:44:07,892
+It's hard to draw a human body at first,
+
+759
+00:44:07,917 --> 00:44:09,892
+especially the arms and legs.
+
+760
+00:44:09,917 --> 00:44:11,056
+If you look at it, it stretches out.
+
+761
+00:44:11,058 --> 00:44:13,731
+It might be hard to draw a cylinder like this, too.
+
+762
+00:44:13,809 --> 00:44:16,502
+So, let me give you a tip.
+
+763
+00:44:17,317 --> 00:44:18,896
+If it's really hard,
+
+764
+00:44:19,840 --> 00:44:22,093
+it's good to color it with dimensions.
+
+765
+00:44:23,310 --> 00:44:26,071
+This is called silhouette drawing.
+
+766
+00:44:28,106 --> 00:44:29,986
+Organizing the canvas with dimensions.
+
+767
+00:44:29,987 --> 00:44:31,942
+This is a very effective method.
+
+768
+00:44:32,387 --> 00:44:35,618
+Of course, the reason why I don't recommend this method is
+
+769
+00:44:35,643 --> 00:44:38,114
+because if you do it like this the first time,
+
+770
+00:44:38,116 --> 00:44:41,567
+later on, when you're working on the character sketch,
+
+771
+00:44:41,569 --> 00:44:43,334
+it will take
+
+772
+00:44:43,699 --> 00:44:45,391
+a lot more time.
+
+773
+00:44:45,400 --> 00:44:47,734
+In the process, you'll lose your motivation.
+
+774
+00:44:47,735 --> 00:44:49,376
+You will have a lot of times like that.
+
+775
+00:44:49,417 --> 00:44:51,100
+The way I'm going to recommend to you today is...
+
+776
+00:44:51,101 --> 00:44:52,876
+I'll show you how to do it in a line.
+
+777
+00:44:52,901 --> 00:44:54,265
+If you think this
+
+778
+00:44:54,267 --> 00:44:56,162
+is harder,
+
+779
+00:44:56,163 --> 00:44:58,161
+it's okay to proceed with the dimensions first.
+
+780
+00:44:58,975 --> 00:45:00,844
+There're other ways, too.
+
+781
+00:45:00,869 --> 00:45:02,487
+I'll tell you a fun trick.
+
+782
+00:45:02,851 --> 00:45:04,264
+Create one layer.
+
+783
+00:45:05,333 --> 00:45:07,919
+If you press FX,
+
+784
+00:45:07,921 --> 00:45:09,806
+we used Outer Glow.
+
+785
+00:45:09,831 --> 00:45:11,798
+Which one are we going to use?
+
+786
+00:45:11,823 --> 00:45:13,544
+What I'm going to use today is the Stroke.
+
+787
+00:45:14,008 --> 00:45:15,359
+This Stroke is literally...
+
+788
+00:45:15,383 --> 00:45:18,725
+I'll draw a line on the outside of what I drew.
+
+789
+00:45:18,727 --> 00:45:22,650
+And if I color it in white...
+
+790
+00:45:30,490 --> 00:45:32,326
+If I color it in white,
+
+791
+00:45:32,351 --> 00:45:34,350
+there's a black line on the outside.
+
+792
+00:45:35,297 --> 00:45:38,847
+Let's use something similar that we learned before.
+
+793
+00:45:39,385 --> 00:45:41,024
+When you use it as a Stroke,
+
+794
+00:45:41,049 --> 00:45:43,805
+there's Opacity and Fill in the upper right corner.
+
+795
+00:45:43,922 --> 00:45:46,846
+If you turn off the Fill,
+
+796
+00:45:47,243 --> 00:45:48,630
+there's only a line left.
+
+797
+00:45:49,266 --> 00:45:50,664
+Let's use this
+
+798
+00:45:50,665 --> 00:45:53,014
+to draw a tentacle.
+
+799
+00:45:53,796 --> 00:45:56,189
+It's so hard to get the silhouette of the character's hair.
+
+800
+00:45:56,214 --> 00:45:58,730
+It's so hard to get the silhouette of its hair.
+
+801
+00:45:58,731 --> 00:46:00,583
+People who want to draw in dimensions, too...
+
+802
+00:46:00,608 --> 00:46:02,564
+You can depict the hair like this.
+
+803
+00:46:05,225 --> 00:46:07,586
+There are a lot of people who think this is a bit easier.
+
+804
+00:46:07,587 --> 00:46:10,289
+So, while you're working on the sketch,
+
+805
+00:46:10,314 --> 00:46:12,481
+and if you can't draw things like that,
+
+806
+00:46:12,506 --> 00:46:13,967
+what the heck are you supposed to do?
+
+807
+00:46:13,992 --> 00:46:15,749
+For those who think like that,
+
+808
+00:46:15,774 --> 00:46:17,965
+you should try drawing it with dimensions.
+
+809
+00:46:17,967 --> 00:46:20,131
+It'll be easier to access than you think.
+
+810
+00:46:29,272 --> 00:46:34,964
+Hold the wand behind the body like this.
+
+811
+00:46:34,989 --> 00:46:36,007
+It's almost invisible.
+
+812
+00:46:38,917 --> 00:46:42,574
+Similar to what I discussed earlier in the 8-figure composition,
+
+813
+00:46:42,599 --> 00:46:45,755
+the tentacles wrap around the character.
+
+814
+00:46:53,955 --> 00:46:57,341
+Let's continue to draw attention to the character.
+
+815
+00:47:23,322 --> 00:47:26,438
+Let's move on to the 2nd sketch.
+
+816
+00:47:44,465 --> 00:47:48,363
+One of the things that I recommend, when you make a thumbnail like this,
+
+817
+00:47:48,616 --> 00:47:51,530
+especially if you're a student,
+
+818
+00:47:51,667 --> 00:47:55,727
+so you can get confirmation from someone,
+
+819
+00:47:55,824 --> 00:47:59,574
+I'd like you to draw it without being scared, if you can.
+
+820
+00:47:59,877 --> 00:48:01,815
+How can I describe this later?
+
+821
+00:48:01,840 --> 00:48:04,243
+If you start removing one or two of them,
+
+822
+00:48:04,268 --> 00:48:06,151
+it's hard to study.
+
+823
+00:48:06,366 --> 00:48:07,994
+If you want to study for sure,
+
+824
+00:48:07,996 --> 00:48:10,887
+to the point where you wonder if it's okay to do this,
+
+825
+00:48:10,912 --> 00:48:12,622
+it's a good idea to start something but then
+
+826
+00:48:12,895 --> 00:48:14,581
+later, in the process of fixing it,
+
+827
+00:48:14,606 --> 00:48:16,242
+of course, it's hard to fix it.
+
+828
+00:48:16,267 --> 00:48:17,432
+You're going to fail for sure.
+
+829
+00:48:17,738 --> 00:48:20,129
+But don't be afraid of failure.
+
+830
+00:48:20,131 --> 00:48:22,933
+What you do in the process of studying
+
+831
+00:48:22,958 --> 00:48:24,546
+is a process of failure.
+
+832
+00:48:25,370 --> 00:48:29,064
+So I hope you draw as boldly as possible.
+
+833
+00:48:33,007 --> 00:48:34,727
+Rather than what you think,
+
+834
+00:48:34,752 --> 00:48:36,833
+I think you should do 30% of what you can do.
+
+835
+00:48:37,728 --> 00:48:40,311
+It's really nice to have someone who can fix it from there.
+
+836
+00:48:40,336 --> 00:48:43,724
+If you don't know anyone like that, you'll just have to take your time.
+
+837
+00:48:43,749 --> 00:48:46,503
+You have to take the time to give yourself self-feedback.
+
+838
+00:48:46,813 --> 00:48:51,357
+Compare good materials and pictures that you like.
+
+839
+00:48:52,100 --> 00:48:54,422
+Did I do something wrong?
+
+840
+00:48:54,447 --> 00:48:55,903
+You'll try to find those parts.
+
+841
+00:48:55,928 --> 00:48:57,919
+You'll go through a self-study process.
+
+842
+00:49:00,353 --> 00:49:03,291
+Of course, if you're not learning from someone else,
+
+843
+00:49:03,293 --> 00:49:06,298
+it'll take a long time doing it all on your own.
+
+844
+00:49:06,323 --> 00:49:09,093
+But that's how you get through it by yourself.
+
+845
+00:49:09,094 --> 00:49:10,846
+It's not so bad...
+
+846
+00:49:10,871 --> 00:49:14,475
+The things you learn by yourself can be much more memorable, actually.
+
+847
+00:49:16,662 --> 00:49:20,740
+It's important to keep studying without getting depressed.
+
+848
+00:49:23,482 --> 00:49:27,172
+For those who follow along with me,
+
+849
+00:49:27,197 --> 00:49:30,207
+follow the way I've been doing things.
+
+850
+00:49:30,209 --> 00:49:33,000
+If you're doing a portrait illustration,
+
+851
+00:49:33,001 --> 00:49:34,475
+those of you who are studying,
+
+852
+00:49:34,500 --> 00:49:36,855
+I hope you try your best.
+
+853
+00:49:37,476 --> 00:49:38,895
+Ask yourself if you can do that much.
+
+854
+00:49:38,920 --> 00:49:40,308
+Yes, try it.
+
+855
+00:49:41,196 --> 00:49:43,251
+If you can't, you can think about it later.
+
+856
+00:49:44,991 --> 00:49:46,559
+That's my life motto.
+
+857
+00:49:46,699 --> 00:49:49,804
+What happens later is what happens later.
+
+858
+00:49:50,867 --> 00:49:53,662
+Worrying about the future doesn't mean you can prepare for something.
+
+859
+00:50:14,916 --> 00:50:16,878
+The character has become more mature, right.
+
+860
+00:50:16,895 --> 00:50:19,727
+I'm going to make its face bigger to cover that feeling.
+
+861
+00:50:22,774 --> 00:50:24,577
+I'm going to make the hat bigger, too.
+
+862
+00:50:37,879 --> 00:50:40,722
+What I'm telling you in this class
+
+863
+00:50:40,747 --> 00:50:47,102
+are the same things that I always pay attention to when I work.
+
+864
+00:50:47,315 --> 00:50:49,508
+What's the gaze flow?
+
+865
+00:50:49,862 --> 00:50:52,222
+What are the parts you want to show off?
+
+866
+00:50:53,784 --> 00:50:55,699
+How are you going to show the perspective?
+
+867
+00:50:55,724 --> 00:50:57,146
+How are you going to organize the space?
+
+868
+00:50:57,148 --> 00:50:58,559
+What are you going to do with the silhouette?
+
+869
+00:50:58,584 --> 00:51:02,116
+These are all things I think about when I work.
+
+870
+00:51:02,117 --> 00:51:04,643
+They're critical.
+
+871
+00:51:05,965 --> 00:51:10,263
+If there's an illustration that you're still working on,
+
+872
+00:51:10,288 --> 00:51:13,135
+go through the process of self-feedback.
+
+873
+00:51:14,361 --> 00:51:16,087
+There are people who can't do this well.
+
+874
+00:51:16,112 --> 00:51:18,002
+As much as I've been working for a long time...
+
+875
+00:51:18,027 --> 00:51:19,726
+What's important when you draw is,
+
+876
+00:51:20,345 --> 00:51:23,013
+for those who work a lot each day,
+
+877
+00:51:23,015 --> 00:51:25,537
+they work about 7 hours a day.
+
+878
+00:51:25,785 --> 00:51:27,202
+As for those who do it more,
+
+879
+00:51:27,204 --> 00:51:29,163
+sometimes, it can be up to 10 hours.
+
+880
+00:51:29,834 --> 00:51:31,777
+Everyone has a different level of physical strength.
+
+881
+00:51:32,249 --> 00:51:34,154
+We have a different amount of time to work.
+
+882
+00:51:34,156 --> 00:51:35,639
+Of course there are differences depending on the person.
+
+883
+00:51:36,489 --> 00:51:39,721
+But the important thing is to have enough time to draw.
+
+884
+00:51:39,746 --> 00:51:43,012
+I'm sure there are times when I work longer than an hour.
+
+885
+00:51:43,448 --> 00:51:44,845
+As that happens,
+
+886
+00:51:44,870 --> 00:51:48,763
+drawing is not about maintaining great concentration for a short period of time.
+
+887
+00:51:49,019 --> 00:51:53,319
+I think it's more about maintaining loose concentration for a long time.
+
+888
+00:51:53,336 --> 00:51:54,565
+It's very important.
+
+889
+00:51:54,884 --> 00:51:56,664
+But in that process,
+
+890
+00:51:56,665 --> 00:51:59,343
+You'll have no choice but to spend some time blankly.
+
+891
+00:51:59,378 --> 00:52:03,661
+In the meantime, there will be some days when you draw mindlessly.
+
+892
+00:52:03,976 --> 00:52:07,948
+When that happens, you'll stop in the middle.
+
+893
+00:52:07,973 --> 00:52:10,537
+It feels like a switch goes off in myself.
+
+894
+00:52:10,888 --> 00:52:12,921
+Like stepping on a trigger.
+
+895
+00:52:12,946 --> 00:52:16,098
+Stop and see if what you're doing is right.
+
+896
+00:52:16,192 --> 00:52:18,863
+It's essential to take time to verify it.
+
+897
+00:52:19,188 --> 00:52:22,979
+For those who find it hard to take that kind of time,
+
+898
+00:52:23,004 --> 00:52:25,630
+it's good to set an alarm.
+
+899
+00:52:25,857 --> 00:52:31,523
+When I work on something, I set an alarm every 2-3 hours.
+
+900
+00:52:31,548 --> 00:52:35,466
+When the alarm goes off, you stop and look at your drawing.
+
+901
+00:52:35,491 --> 00:52:37,629
+You look at the picture from another person's point of view.
+
+902
+00:52:38,134 --> 00:52:39,845
+There are many ways to analyze it.
+
+903
+00:52:39,846 --> 00:52:42,551
+There are people who check it on their mobile screens.
+
+904
+00:52:44,284 --> 00:52:45,765
+There are people who flip it over.
+
+905
+00:52:45,790 --> 00:52:48,050
+That's a way to use the reversal function.
+
+906
+00:52:48,314 --> 00:52:50,444
+Starting with the left and right reversal.
+
+907
+00:52:51,521 --> 00:52:53,942
+And it's a good idea to check with someone else.
+
+908
+00:52:54,682 --> 00:52:57,231
+It's a way to compare yours with other illustrations.
+
+909
+00:52:57,256 --> 00:52:59,500
+I use various methods.
+
+910
+00:53:01,666 --> 00:53:03,313
+I don't think there's any errors.
+
+911
+00:53:04,285 --> 00:53:06,767
+I'm not sure if what I want to do is going well.
+
+912
+00:53:06,792 --> 00:53:07,895
+Those are the most important things.
+
+913
+00:53:08,684 --> 00:53:11,906
+I'm uncertain if what I hope to show you is being expressed well.
+
+914
+00:53:12,929 --> 00:53:17,547
+You have to think about that before going into it because it's an illustration.
+
+915
+00:53:18,427 --> 00:53:21,161
+If your concentration is too good,
+
+916
+00:53:23,259 --> 00:53:26,473
+if you were so focused while you were working on it,
+
+917
+00:53:29,103 --> 00:53:31,518
+if you're not good at stopping and thinking,
+
+918
+00:53:31,543 --> 00:53:33,950
+it's really good to set an alarm and step back from it.
+
+919
+00:53:38,928 --> 00:53:41,828
+You don't have to be sad that you can't do that.
+
+920
+00:53:41,829 --> 00:53:45,243
+If you focus on one thing, you can't pay attention to other things.
+
+921
+00:53:45,475 --> 00:53:47,578
+If you focus on the details,
+
+922
+00:53:47,580 --> 00:53:50,256
+if you don't care about the overall balance,
+
+923
+00:53:50,281 --> 00:53:52,477
+when you focus on a part of it, your concentration
+
+924
+00:53:52,479 --> 00:53:54,219
+will be stronger than for others.
+
+925
+00:53:54,722 --> 00:53:57,075
+That's a strength in a different sense.
+
+926
+00:53:57,100 --> 00:53:58,935
+The pros and cons always come together.
+
+927
+00:54:00,103 --> 00:54:01,583
+Think positively.
+
+928
+00:54:03,434 --> 00:54:06,703
+You just have to cover the areas that are weak.
+
+929
+00:54:06,937 --> 00:54:08,507
+I chattered along like this.
+
+930
+00:54:08,779 --> 00:54:11,470
+I've done the 2nd sketch of this character.
+
+931
+00:54:11,495 --> 00:54:13,366
+Let's compare them and take a look.
+
+932
+00:54:26,448 --> 00:54:28,425
+We made three compositions.
+
+933
+00:54:28,599 --> 00:54:31,883
+The character has a dynamic vibe.
+
+934
+00:54:31,936 --> 00:54:34,638
+The first step is for the creature in the back to assist it.
+
+935
+00:54:34,747 --> 00:54:37,137
+I'll show you the character and the wand first.
+
+936
+00:54:37,162 --> 00:54:39,016
+We went into the order for showing the creature.
+
+937
+00:54:39,236 --> 00:54:43,506
+And I wanted to show a scary feeling to the character.
+
+938
+00:54:43,531 --> 00:54:46,568
+The second time I intentionally made it look different.
+
+939
+00:54:46,948 --> 00:54:49,705
+It has a strong effect behind the character.
+
+940
+00:54:49,707 --> 00:54:51,299
+I'm going to fill in the fancy atmosphere.
+
+941
+00:54:51,519 --> 00:54:54,073
+Compared to the left side,
+
+942
+00:54:54,082 --> 00:54:57,942
+it's close to the inverted triangular composition. I'll put a lot of weight on the top.
+
+943
+00:54:58,243 --> 00:55:01,727
+It's unstable but intense.
+
+944
+00:55:04,118 --> 00:55:06,081
+The characters and the creature in the back.
+
+945
+00:55:06,081 --> 00:55:07,829
+It's the 3rd one that created a natural connection.
+
+946
+00:55:08,182 --> 00:55:11,563
+Since the character is sitting on top of an object,
+
+947
+00:55:11,588 --> 00:55:13,880
+compared to the two friends I drew earlier,
+
+948
+00:55:14,195 --> 00:55:17,443
+it's much easier to predict the spatiality.
+
+949
+00:55:19,472 --> 00:55:21,040
+The tentacles in the front, too,
+
+950
+00:55:21,065 --> 00:55:24,106
+contributed to the whole thing.
+
+951
+00:55:24,544 --> 00:55:29,759
+The tentacles in front of us and the head where the character is sitting.
+
+952
+00:55:30,608 --> 00:55:33,424
+The head of the tentacles, the tentacles at the back.
+
+953
+00:55:33,449 --> 00:55:36,714
+The illustration is in three layers.
+
+954
+00:55:37,080 --> 00:55:40,027
+Showing the space with all the layers is
+
+955
+00:55:40,052 --> 00:55:41,238
+the third case.
+
+956
+00:55:41,612 --> 00:55:43,886
+Each of us wants to show something.
+
+957
+00:55:43,911 --> 00:55:46,433
+You'll be able to see what's in there.
+
+958
+00:55:46,458 --> 00:55:47,922
+Like I said,
+
+959
+00:55:47,947 --> 00:55:50,163
+the diamond composition close to a triangular one,
+
+960
+00:55:50,188 --> 00:55:52,379
+you'll see that it's used very often.
+
+961
+00:55:52,740 --> 00:55:54,831
+If you organize the screen like this,
+
+962
+00:55:54,856 --> 00:55:58,256
+there will be some objects that can be used in person.
+
+963
+00:55:58,880 --> 00:56:02,685
+So, you need to follow your character's mood
+
+964
+00:56:02,687 --> 00:56:04,965
+to create an illustration, and to do that,
+
+965
+00:56:04,990 --> 00:56:07,231
+what would you do when you create a cute character?
+
+966
+00:56:07,317 --> 00:56:09,257
+What should you do when you want to give a calm vibe?
+
+967
+00:56:09,282 --> 00:56:11,862
+That's what's in the end of the class.
+
+968
+00:56:11,887 --> 00:56:14,207
+Let's do it together then.
+
+969
+00:56:14,367 --> 00:56:16,452
+I'm going to grab one of these
+
+970
+00:56:16,477 --> 00:56:18,729
+and I'll draw the lines and color the characters.
+
+971
+00:56:18,754 --> 00:56:21,298
+Next time, I'm going to try the color roughing stage.
+
+972
+00:56:21,425 --> 00:56:22,633
+This time, before...
+
+973
+00:56:22,643 --> 00:56:25,611
+I didn't tell you much about the full illustration process.
+
+974
+00:56:25,621 --> 00:56:28,460
+It's in the light and shade stage, so we're going to talk
+
+975
+00:56:28,485 --> 00:56:29,935
+more about it in detail.
+
+976
+00:56:30,760 --> 00:56:34,166
+That's all I've got to say for now so I'll wrap up today's class.
+
+977
+00:56:34,184 --> 00:56:35,856
+Thank you for your hard work.
+

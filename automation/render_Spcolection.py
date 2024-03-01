@@ -21,7 +21,7 @@ if collection:
             obj.hide_render = False
 
             # Set the output path for the current object
-            output_path = os.path.join(output_folder, f"trans_{obj.name}.png")
+            output_path = os.path.join(output_folder, f"4_{obj.name}_2.png")
             bpy.context.scene.render.filepath = output_path
             bpy.context.scene.render.image_settings.file_format = 'PNG'
 

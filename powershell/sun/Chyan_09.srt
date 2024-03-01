@@ -1,0 +1,3521 @@
+1
+00:00:00,001 --> 00:00:05,339
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:06,494 --> 00:00:10,114
+Hello, now is the time to start designing.
+
+3
+00:00:10,116 --> 00:00:12,799
+From this lecture,
+
+4
+00:00:12,801 --> 00:00:16,167
+students will have time to work on an actual drawing.
+
+5
+00:00:16,334 --> 00:00:20,371
+We're going to design using what we've practiced before.
+
+6
+00:00:20,396 --> 00:00:22,136
+Based on what we are going to design today,
+
+7
+00:00:22,161 --> 00:00:24,471
+we're going to draw an illustration later.
+
+8
+00:00:24,730 --> 00:00:26,471
+If you're copying my examples as you're taking this lecture,
+
+9
+00:00:26,496 --> 00:00:27,860
+I think
+
+10
+00:00:27,872 --> 00:00:30,369
+you can follow the tempo I'm drawing at.
+
+11
+00:00:30,394 --> 00:00:33,717
+The main course of our class starts today.
+
+12
+00:00:34,109 --> 00:00:37,986
+If possible, try drawing along during the class.
+
+13
+00:00:38,128 --> 00:00:41,562
+I think it'd be good if you draw with me.
+
+14
+00:00:43,170 --> 00:00:45,409
+Before we go in, let's wrap this up.
+
+15
+00:00:48,078 --> 00:00:49,034
+Design.
+
+16
+00:00:50,889 --> 00:00:54,690
+Some get scared of the word itself.
+
+17
+00:00:55,623 --> 00:00:57,152
+Because they assume it's going to be too hard,
+
+18
+00:00:58,625 --> 00:01:00,359
+and it's not for us but for professionals.
+
+19
+00:01:00,384 --> 00:01:02,775
+Some people think like that.
+
+20
+00:01:03,365 --> 00:01:06,284
+Let's talk about what design is.
+
+21
+00:01:07,775 --> 00:01:10,680
+Does a design have to be complicated?
+
+22
+00:01:20,542 --> 00:01:23,471
+Should it be complicated?
+
+23
+00:01:29,010 --> 00:01:30,504
+What's important?
+
+24
+00:01:33,181 --> 00:01:35,541
+How should we practice?
+
+25
+00:01:39,806 --> 00:01:42,900
+We're going to talk about these things.
+
+26
+00:01:44,240 --> 00:01:48,700
+First of all, I'm going to show you the designs that I drew while scribbling.
+
+27
+00:01:48,725 --> 00:01:50,979
+Let's open a few up and talk about them.
+
+28
+00:01:51,885 --> 00:01:54,075
+When I am designing,
+
+29
+00:01:54,100 --> 00:01:56,942
+I emphasize the importance of the concept.
+
+30
+00:01:57,288 --> 00:01:59,128
+You can say it's the first impression.
+
+31
+00:01:59,130 --> 00:02:03,550
+What kind of impression do you have when you first see your character?
+
+32
+00:02:03,575 --> 00:02:06,019
+And if ten people look at it,
+
+33
+00:02:06,044 --> 00:02:08,120
+would those ten people say the same things about it?
+
+34
+00:02:08,204 --> 00:02:10,119
+I think it's very important.
+
+35
+00:02:11,269 --> 00:02:15,041
+llustration shows the difference between cartoons and animation.
+
+36
+00:02:15,043 --> 00:02:16,533
+The difference is
+
+37
+00:02:16,892 --> 00:02:19,319
+you can draw a lot of pieces for cartoons and animation.
+
+38
+00:02:19,585 --> 00:02:21,307
+And you get to see the character several times.
+
+39
+00:02:21,548 --> 00:02:25,083
+So, even if it's not unique in design,
+
+40
+00:02:25,108 --> 00:02:26,906
+there's a place where you can express the charm
+
+41
+00:02:26,908 --> 00:02:29,022
+of this character.
+
+42
+00:02:29,308 --> 00:02:31,885
+But on the other hand, what we're doing right now,
+
+43
+00:02:31,910 --> 00:02:34,933
+or the design that you're going to experience,
+
+44
+00:02:34,958 --> 00:02:36,508
+with just this one piece,
+
+45
+00:02:36,533 --> 00:02:38,410
+to be honest, all the charm of this character,
+
+46
+00:02:38,435 --> 00:02:39,686
+even if it's not all the charm,
+
+47
+00:02:39,688 --> 00:02:42,035
+you need to be able to show most of its charm.
+
+48
+00:02:42,194 --> 00:02:44,596
+And when you think you have expressed that,
+
+49
+00:02:44,621 --> 00:02:46,823
+but the viewer doesn't agree,
+
+50
+00:02:47,190 --> 00:02:49,496
+this could end up being a failed illustration.
+
+51
+00:02:49,521 --> 00:02:52,215
+Illustration is like a language.
+
+52
+00:02:52,240 --> 00:02:55,014
+I talk about something and the other person gets it.
+
+53
+00:02:55,090 --> 00:02:57,627
+From the point of view of going through this process,
+
+54
+00:02:57,652 --> 00:02:59,787
+in a way, it's a language.
+
+55
+00:02:59,812 --> 00:03:02,231
+I like comparing cooking to drawing.
+
+56
+00:03:02,415 --> 00:03:05,030
+There's a theme for this character,
+
+57
+00:03:05,032 --> 00:03:07,754
+and according to the recipe you made,
+
+58
+00:03:08,029 --> 00:03:09,747
+you have to cook and serve it.
+
+59
+00:03:09,923 --> 00:03:11,621
+But it needs to fit well with the restaurant.
+
+60
+00:03:12,104 --> 00:03:14,719
+For example, if you open a kimchi stew restaurant,
+
+61
+00:03:14,919 --> 00:03:18,279
+and if you sell omelet rice, that's not too bad.
+
+62
+00:03:18,304 --> 00:03:21,606
+But it's kind of awkward if they sell spaghetti all of a sudden.
+
+63
+00:03:21,783 --> 00:03:26,006
+So it's important to make sure
+
+64
+00:03:26,031 --> 00:03:28,298
+the viewers enjoy it.
+
+65
+00:03:28,996 --> 00:03:30,608
+If you look at a few designs,
+
+66
+00:03:32,903 --> 00:03:36,131
+when you look at them, the design of each character,
+
+67
+00:03:36,156 --> 00:03:39,231
+unlike your expectations,
+
+68
+00:03:39,256 --> 00:03:41,850
+may not be expressed in detail.
+
+69
+00:03:45,281 --> 00:03:47,210
+Some may look comfortable,
+
+70
+00:03:48,518 --> 00:03:50,744
+and some may look simple,
+
+71
+00:03:53,935 --> 00:03:57,426
+while there are smaller ones.
+
+72
+00:03:57,502 --> 00:03:59,516
+But what's most important is
+
+73
+00:03:59,583 --> 00:04:02,187
+the first impression of the character.
+
+74
+00:04:02,763 --> 00:04:05,029
+You may think that this character looks calm
+
+75
+00:04:05,552 --> 00:04:07,208
+and that it looks formal.
+
+76
+00:04:08,187 --> 00:04:10,962
+On the other hand, this character could look cheeky.
+
+77
+00:04:13,110 --> 00:04:16,802
+It looks like it is sneaky, but does a good job at the same time.
+
+78
+00:04:20,881 --> 00:04:23,865
+This one looks like it won't talk much.
+
+79
+00:04:24,144 --> 00:04:26,611
+This one looks authoritative.
+
+80
+00:04:26,642 --> 00:04:29,777
+You can see these personalities at first glance
+
+81
+00:04:30,361 --> 00:04:34,243
+and whether you can accept these differences
+
+82
+00:04:34,255 --> 00:04:35,599
+would be very important in character design.
+
+83
+00:04:37,588 --> 00:04:38,483
+Therefore,
+
+84
+00:04:38,508 --> 00:04:39,790
+today, we're going to talk about
+
+85
+00:04:39,815 --> 00:04:42,117
+how to put it into our design.
+
+86
+00:04:42,400 --> 00:04:43,581
+Let's go back to the beginning.
+
+87
+00:04:45,665 --> 00:04:47,671
+Should design be complex?
+
+88
+00:04:47,779 --> 00:04:50,316
+I don't think so.
+
+89
+00:04:50,610 --> 00:04:52,973
+Of course, if you are drawing concept art,
+
+90
+00:04:52,998 --> 00:04:55,700
+and prepare a portfolio,
+
+91
+00:04:55,725 --> 00:04:58,869
+it's good to draw it in detail, when you make a portfolio.
+
+92
+00:04:58,894 --> 00:05:01,273
+A portfolio shows
+
+93
+00:05:01,298 --> 00:05:03,590
+that you can depict things in detail.
+
+94
+00:05:03,615 --> 00:05:05,675
+So, you would need to have detailed drawings for it.
+
+95
+00:05:05,700 --> 00:05:08,341
+But, other than that, it's not necessary.
+
+96
+00:05:08,425 --> 00:05:09,908
+Then what do you need?
+
+97
+00:05:09,983 --> 00:05:11,694
+It doesn't have to be complicated.
+
+98
+00:05:11,719 --> 00:05:13,367
+But there's one thing you need instead.
+
+99
+00:05:13,392 --> 00:05:14,912
+It's tempo adjustment.
+
+100
+00:05:17,075 --> 00:05:19,696
+Some people say it's about controlling strengths and weaknesses.
+
+101
+00:05:21,362 --> 00:05:25,185
+Some people talk about the rhythm of the design.
+
+102
+00:05:25,210 --> 00:05:26,810
+What are these strengths and weaknesses?
+
+103
+00:05:26,885 --> 00:05:30,158
+Even if the design is widely spread,
+
+104
+00:05:30,183 --> 00:05:33,112
+there needs to be a point where we can focus.
+
+105
+00:05:34,360 --> 00:05:36,702
+Let's talk about the three elements of the illustration again.
+
+106
+00:05:40,601 --> 00:05:43,898
+Point, line, and plane.
+
+107
+00:05:46,475 --> 00:05:50,623
+The planes are what determine the overall first impression.
+
+108
+00:05:51,015 --> 00:05:53,138
+How do the clothes look?
+
+109
+00:05:54,287 --> 00:05:55,952
+Is the middle area hollowed out?
+
+110
+00:05:55,977 --> 00:05:58,223
+Or are there a lot of accessories?
+
+111
+00:05:59,565 --> 00:06:01,352
+Are the clothes spread out?
+
+112
+00:06:01,563 --> 00:06:04,502
+Or do they stick to the character?
+
+113
+00:06:04,885 --> 00:06:06,702
+The overall plane arrangement
+
+114
+00:06:06,727 --> 00:06:09,065
+decides the character's first impression.
+
+115
+00:06:09,367 --> 00:06:12,385
+Now, the linear elements
+
+116
+00:06:12,410 --> 00:06:14,335
+induce the gaze.
+
+117
+00:06:14,494 --> 00:06:16,585
+And if there are points,
+
+118
+00:06:16,691 --> 00:06:18,743
+the gaze would stop there.
+
+119
+00:06:18,818 --> 00:06:20,610
+Let's look at an example.
+
+120
+00:06:22,300 --> 00:06:24,210
+If we're looking at this character on the left,
+
+121
+00:06:24,235 --> 00:06:27,375
+our eyes would follow the black areas
+
+122
+00:06:27,400 --> 00:06:30,498
+and our gaze would stop
+
+123
+00:06:30,523 --> 00:06:32,029
+at the skin area in the middle.
+
+124
+00:06:32,304 --> 00:06:34,223
+And the parts where the eyes stop,
+
+125
+00:06:34,248 --> 00:06:37,119
+you can assign parts
+
+126
+00:06:37,144 --> 00:06:37,956
+to show off your character's sexiness.
+
+127
+00:06:37,981 --> 00:06:39,510
+It's an element to make
+
+128
+00:06:39,535 --> 00:06:42,819
+the overall impression of the character sexy.
+
+129
+00:06:43,302 --> 00:06:45,077
+Or the one on the right side,
+
+130
+00:06:45,102 --> 00:06:48,533
+I'm going to place the key elements in between,
+
+131
+00:06:49,108 --> 00:06:51,729
+to make it easy to focus.
+
+132
+00:06:51,912 --> 00:06:54,988
+You can design a nice illustration,
+
+133
+00:06:55,013 --> 00:06:57,322
+through linear elements
+
+134
+00:06:57,381 --> 00:06:59,120
+and point elements.
+
+135
+00:06:59,389 --> 00:07:01,718
+That means, these point elements,
+
+136
+00:07:01,815 --> 00:07:05,458
+it'd be good if you can focus more on them compared to other things.
+
+137
+00:07:06,917 --> 00:07:10,512
+Let's say there are detailed designs in this part.
+
+138
+00:07:10,537 --> 00:07:12,371
+It has complicated designs.
+
+139
+00:07:12,396 --> 00:07:15,069
+Then it needs to be a lot more complicated than it is now.
+
+140
+00:07:15,310 --> 00:07:18,752
+Otherwise, although it's an item that needs to draw attention,
+
+141
+00:07:18,777 --> 00:07:20,519
+it can't play that role.
+
+142
+00:07:20,802 --> 00:07:23,154
+So, it's only a relative thing.
+
+143
+00:07:23,156 --> 00:07:26,581
+The more complicated this side is, the more complicated it has to be.
+
+144
+00:07:26,606 --> 00:07:28,395
+If it looked simple,
+
+145
+00:07:28,420 --> 00:07:30,149
+this much is fine.
+
+146
+00:07:31,575 --> 00:07:33,475
+So what's important about design is,
+
+147
+00:07:33,500 --> 00:07:35,375
+it doesn't have to be complicated.
+
+148
+00:07:35,400 --> 00:07:38,044
+If it's a complicated section,
+
+149
+00:07:38,494 --> 00:07:41,183
+place fewer elements where you want the eyes to take a break.
+
+150
+00:07:41,208 --> 00:07:44,152
+It's very important to control the strengths and weaknesses.
+
+151
+00:07:44,869 --> 00:07:47,485
+There are a lot of interesting designs that use this.
+
+152
+00:07:48,527 --> 00:07:50,792
+If you look at well-designed illustrations,
+
+153
+00:07:50,817 --> 00:07:54,023
+if you observe the strong and weak elements,
+
+154
+00:07:54,048 --> 00:07:56,100
+you'll be able to see some pretty interesting illustrations.
+
+155
+00:07:57,567 --> 00:08:01,083
+To give an example of weakness,
+
+156
+00:08:01,085 --> 00:08:03,804
+for this one, the middle part...
+
+157
+00:08:03,816 --> 00:08:05,546
+if they were all black,
+
+158
+00:08:08,510 --> 00:08:11,602
+it wouldn't be too bad, but it could have looked a bit bland.
+
+159
+00:08:11,835 --> 00:08:13,790
+I'm going to change this area to skin.
+
+160
+00:08:13,815 --> 00:08:17,671
+And you can place elements that are used for dolls on the skin.
+
+161
+00:08:17,696 --> 00:08:18,978
+It looks like it was broken.
+
+162
+00:08:18,980 --> 00:08:22,200
+And by giving a strong impression in the center,
+
+163
+00:08:22,225 --> 00:08:25,602
+it arranges the section that draws attention to the design.
+
+164
+00:08:26,498 --> 00:08:29,529
+I'm going to use that to add more flavor to my illustration.
+
+165
+00:08:30,188 --> 00:08:31,994
+This is the control of strength and weakness.
+
+166
+00:08:32,988 --> 00:08:36,179
+What you need is your charm.
+
+167
+00:08:37,021 --> 00:08:38,923
+In the end, the character that you drew
+
+168
+00:08:38,948 --> 00:08:40,810
+needs to be able to approach people in a charming way.
+
+169
+00:08:40,877 --> 00:08:42,852
+For those who want to work in the field,
+
+170
+00:08:42,877 --> 00:08:44,158
+it should be commercially popular.
+
+171
+00:08:44,183 --> 00:08:46,075
+It's a selling point.
+
+172
+00:08:46,100 --> 00:08:47,917
+Can you actually sell this?
+
+173
+00:08:47,942 --> 00:08:50,292
+People often ask me if I can sell it for money.
+
+174
+00:08:50,317 --> 00:08:52,456
+Then, where does its charm come from?
+
+175
+00:08:52,481 --> 00:08:54,079
+There can be a lot of things.
+
+176
+00:08:54,910 --> 00:08:56,308
+Where can we find charm?
+
+177
+00:08:56,908 --> 00:08:58,860
+It's going to be connected with an important point.
+
+178
+00:08:58,885 --> 00:09:00,458
+Charm is very important.
+
+179
+00:09:01,575 --> 00:09:03,496
+If the answer for both is charm,
+
+180
+00:09:03,521 --> 00:09:05,093
+where will this charm come from?
+
+181
+00:09:05,204 --> 00:09:08,100
+Should it just look pretty?
+
+182
+00:09:10,887 --> 00:09:12,742
+Or is it the setting?
+
+183
+00:09:17,969 --> 00:09:20,825
+Colors can be a part of the visual elements.
+
+184
+00:09:22,042 --> 00:09:24,577
+There could be a lot of things like that.
+
+185
+00:09:24,602 --> 00:09:26,519
+Actually, all of these are included.
+
+186
+00:09:27,296 --> 00:09:30,106
+It's important how well the combination works,
+
+187
+00:09:30,494 --> 00:09:33,865
+using all of them.
+
+188
+00:09:34,298 --> 00:09:36,044
+Of course, it has to look pretty,
+
+189
+00:09:36,069 --> 00:09:38,300
+and the setting,
+
+190
+00:09:38,301 --> 00:09:42,296
+how much the character design shows personality
+
+191
+00:09:42,321 --> 00:09:45,175
+when it comes to showing off your charm,
+
+192
+00:09:45,200 --> 00:09:46,447
+it plays an important role.
+
+193
+00:09:46,481 --> 00:09:49,637
+Then what should we do
+
+194
+00:09:49,662 --> 00:09:51,362
+to put this setting
+
+195
+00:09:51,387 --> 00:09:55,412
+in that pretty visual element?
+
+196
+00:09:55,787 --> 00:09:58,422
+In a way, it could be very simple.
+
+197
+00:09:58,481 --> 00:10:00,542
+It's a story.
+
+198
+00:10:03,581 --> 00:10:05,215
+In the end, the story
+
+199
+00:10:05,240 --> 00:10:08,333
+means that you need to be able to put it in the visual element.
+
+200
+00:10:09,300 --> 00:10:12,998
+Let's draw this and talk about it.
+
+201
+00:10:13,515 --> 00:10:15,981
+I think it's going to contain a very majestic story,
+
+202
+00:10:16,006 --> 00:10:17,621
+but it's not such a big deal.
+
+203
+00:10:22,154 --> 00:10:25,762
+Here's a simple-looking wizard.
+
+204
+00:10:26,099 --> 00:10:28,960
+Today, we're going to adjust this around,
+
+205
+00:10:28,985 --> 00:10:31,021
+and put it in a unique style.
+
+206
+00:10:31,022 --> 00:10:33,415
+The charm that I mentioned earlier,
+
+207
+00:10:33,440 --> 00:10:35,329
+we are going through the way to expresss it intensively.
+
+208
+00:10:35,354 --> 00:10:36,652
+I'm going to talk about it from now on.
+
+209
+00:10:36,777 --> 00:10:38,367
+In the previous lecture, we were talking about
+
+210
+00:10:38,702 --> 00:10:41,412
+the gaze and silhouettes.
+
+211
+00:10:41,597 --> 00:10:43,265
+How to draw hair lumps.
+
+212
+00:10:43,290 --> 00:10:44,260
+How the wind blows.
+
+213
+00:10:44,262 --> 00:10:46,100
+We learned these things.
+
+214
+00:10:46,181 --> 00:10:47,918
+So, by using those,
+
+215
+00:10:47,920 --> 00:10:50,203
+in this class we will learn how to apply them.
+
+216
+00:10:50,392 --> 00:10:53,717
+Let's use them to decorate this.
+
+217
+00:10:59,980 --> 00:11:01,552
+I copied and pasted the character.
+
+218
+00:11:04,083 --> 00:11:05,542
+Let's take a look at it part by part.
+
+219
+00:11:10,752 --> 00:11:13,133
+Just in case, let's make the screen bigger.
+
+220
+00:11:19,162 --> 00:11:20,421
+First of all,
+
+221
+00:11:20,446 --> 00:11:23,092
+I said give it a story.
+
+222
+00:11:23,117 --> 00:11:26,616
+Let's find out exactly what story means.
+
+223
+00:11:26,783 --> 00:11:29,479
+The story seems really majestic.
+
+224
+00:11:29,504 --> 00:11:30,667
+But to be honest, it's nothing.
+
+225
+00:11:30,692 --> 00:11:33,427
+This is a normal wizard now.
+
+226
+00:11:34,335 --> 00:11:36,406
+Let's add the story here.
+
+227
+00:11:36,681 --> 00:11:38,244
+How do you put it in?
+
+228
+00:11:38,769 --> 00:11:40,450
+Let's look at the character's universe.
+
+229
+00:11:40,583 --> 00:11:42,306
+For example, this character
+
+230
+00:11:42,331 --> 00:11:43,831
+Let's go for an alternate historical background first.
+
+231
+00:11:43,856 --> 00:11:45,071
+Let's say it's a fantasy,
+
+232
+00:11:45,096 --> 00:11:46,550
+or science fiction.
+
+233
+00:11:46,794 --> 00:11:49,665
+Depending on what it is, the design will change a lot.
+
+234
+00:11:49,915 --> 00:11:51,215
+For example, this has
+
+235
+00:11:51,240 --> 00:11:53,997
+a science-fantasy like design that we can see often
+
+236
+00:11:53,998 --> 00:11:56,430
+in mobile games these days.
+
+237
+00:11:56,455 --> 00:11:58,900
+If it's a science-fantasy design,
+
+238
+00:11:58,925 --> 00:12:00,213
+how will it change?
+
+239
+00:12:00,805 --> 00:12:01,884
+For example,
+
+240
+00:12:04,792 --> 00:12:08,507
+the character's wand could be more mechanical.
+
+241
+00:12:12,916 --> 00:12:14,809
+Because the crystal ball
+
+242
+00:12:17,869 --> 00:12:21,036
+in the middle looks like it's for fantasy settings.
+
+243
+00:12:25,903 --> 00:12:28,182
+We could replace it with a small jewel
+
+244
+00:12:40,390 --> 00:12:42,966
+to make it look like it's from a science-fantasy game.
+
+245
+00:12:42,991 --> 00:12:47,319
+Or, because it's in a science-fantasy setting, we can place belts around it.
+
+246
+00:12:47,470 --> 00:12:49,337
+Because the trend these days is techwear.
+
+247
+00:12:50,709 --> 00:12:52,507
+You can change the clothing
+
+248
+00:12:53,728 --> 00:12:55,498
+so that it looks like techwear.
+
+249
+00:12:58,900 --> 00:13:02,805
+Or, this is something used for fantasy too, but,
+
+250
+00:13:02,830 --> 00:13:04,248
+we can also use it here because it is casual style.
+
+251
+00:13:04,273 --> 00:13:07,030
+You can make the inside of the hair shine.
+
+252
+00:13:12,409 --> 00:13:15,494
+What pops into your mind when we say there's a sci-fi magician?
+
+253
+00:13:15,969 --> 00:13:17,711
+You could draw drones.
+
+254
+00:13:18,582 --> 00:13:21,363
+Usually, wizards speak in European languages.
+
+255
+00:13:21,867 --> 00:13:26,373
+Because it's in a sci-fi setting, you can draw drones
+
+256
+00:13:26,415 --> 00:13:27,813
+that look futuristic.
+
+257
+00:13:29,486 --> 00:13:31,209
+Things that look like this,
+
+258
+00:13:40,928 --> 00:13:43,793
+or two of the same things are going around,
+
+259
+00:13:43,882 --> 00:13:47,517
+or you can give the two drones personality,
+
+260
+00:13:52,765 --> 00:13:54,246
+to change the design.
+
+261
+00:13:55,219 --> 00:13:57,521
+While doing one more sci-fi thing,
+
+262
+00:13:58,510 --> 00:14:00,937
+I can add more elements.
+
+263
+00:14:00,971 --> 00:14:03,285
+I did some details with the wand,
+
+264
+00:14:03,361 --> 00:14:06,330
+and there's a techwear bracelet on the arm,
+
+265
+00:14:07,496 --> 00:14:11,071
+or drones in the back,
+
+266
+00:14:11,362 --> 00:14:14,321
+so, with this kind of concept,
+
+267
+00:14:14,355 --> 00:14:17,942
+there will be more elements for the character.
+
+268
+00:14:18,109 --> 00:14:21,654
+Let's use the ones that are attractive only.
+
+269
+00:14:21,905 --> 00:14:24,502
+You will be able to add to your character's own charm.
+
+270
+00:14:24,678 --> 00:14:27,725
+So when you go into the design, the story part,
+
+271
+00:14:27,809 --> 00:14:29,698
+the more I think about it,
+
+272
+00:14:30,346 --> 00:14:33,083
+you can add a lot of charm to it.
+
+273
+00:14:33,142 --> 00:14:36,063
+How should I study to think about things like this?
+
+274
+00:14:36,088 --> 00:14:38,232
+Let's talk about it briefly.
+
+275
+00:14:40,259 --> 00:14:41,234
+It's a thought process.
+
+276
+00:14:44,005 --> 00:14:48,396
+Like a word chain game, keep saying the words that come to mind.
+
+277
+00:14:48,523 --> 00:14:51,128
+There was a game like this in the past.
+
+278
+00:14:51,153 --> 00:14:54,333
+If you go to a convenience store, there are... and...
+
+279
+00:14:54,334 --> 00:14:57,917
+Similar to that, I thought of sci-fi.
+
+280
+00:14:58,050 --> 00:14:59,659
+What could you come up with when it comes to science fiction?
+
+281
+00:14:59,684 --> 00:15:01,188
+A mechanical wand.
+
+282
+00:15:02,186 --> 00:15:03,173
+What else?
+
+283
+00:15:03,232 --> 00:15:04,421
+Drones.
+
+284
+00:15:04,882 --> 00:15:06,487
+There's something else called techwear.
+
+285
+00:15:07,207 --> 00:15:08,527
+What else could come up?
+
+286
+00:15:08,611 --> 00:15:12,227
+If there are numbers and symbols, it seems like sci-fi.
+
+287
+00:15:12,403 --> 00:15:15,767
+For example, like this,
+
+288
+00:15:17,517 --> 00:15:18,828
+or something like this.
+
+289
+00:15:23,400 --> 00:15:26,142
+I don't know why, but there are four or one in there.
+
+290
+00:15:26,542 --> 00:15:28,498
+If you have that, it can be sci-fi-like.
+
+291
+00:15:28,632 --> 00:15:31,078
+There are point colors,
+
+292
+00:15:36,680 --> 00:15:38,353
+and shiny items,
+
+293
+00:15:39,588 --> 00:15:42,509
+luminous items that are rare in real life.
+
+294
+00:15:51,236 --> 00:15:52,928
+Or you can use metal.
+
+295
+00:15:53,334 --> 00:15:55,196
+What else is there when it comes to science fiction?
+
+296
+00:15:55,600 --> 00:15:58,167
+That's how you should think about it.
+
+297
+00:15:59,080 --> 00:16:01,200
+The more you can write it down,
+
+298
+00:16:01,225 --> 00:16:03,103
+the more it will help you design.
+
+299
+00:16:04,232 --> 00:16:05,486
+Then this is the first one.
+
+300
+00:16:05,511 --> 00:16:07,548
+The first way was to apply the story.
+
+301
+00:16:08,148 --> 00:16:11,223
+Now let's dig into the details.
+
+302
+00:16:12,590 --> 00:16:14,832
+There are points, lines, and planes.
+
+303
+00:16:18,228 --> 00:16:21,213
+Let's think about planes first.
+
+304
+00:16:21,813 --> 00:16:24,388
+I'm going to apply my personality to this character.
+
+305
+00:16:25,892 --> 00:16:28,456
+The personality that came out after the story,
+
+306
+00:16:28,468 --> 00:16:29,819
+I'm going to put it in.
+
+307
+00:16:29,877 --> 00:16:32,892
+This character has a calm impression.
+
+308
+00:16:32,925 --> 00:16:35,455
+For the first time, I'm going to play a calm character.
+
+309
+00:16:35,480 --> 00:16:36,609
+Let's move on.
+
+310
+00:16:37,175 --> 00:16:40,148
+Being calm and the position that comes out of the game is
+
+311
+00:16:40,173 --> 00:16:42,400
+not like the final boss.
+
+312
+00:16:42,475 --> 00:16:45,113
+It would be a wizard
+
+313
+00:16:45,138 --> 00:16:48,544
+who's just finished their apprenticeship
+
+314
+00:16:48,728 --> 00:16:51,598
+and was hired as a new recruit.
+
+315
+00:16:51,623 --> 00:16:53,967
+Let's design it like that.
+
+316
+00:16:54,594 --> 00:16:56,558
+When we learned about the silhouette in the previous lecture,
+
+317
+00:16:56,667 --> 00:17:00,323
+remember triangle, diamond, 8-shaped compositions. We learned about them a lot.
+
+318
+00:17:00,432 --> 00:17:03,530
+What was the one that gives you a calm impression?
+
+319
+00:17:04,073 --> 00:17:05,330
+It was a triangle.
+
+320
+00:17:05,680 --> 00:17:09,084
+Then, we are going to apply a triangle silhouette
+
+321
+00:17:09,109 --> 00:17:10,527
+to the character's outfit,
+
+322
+00:17:10,603 --> 00:17:12,635
+but if it looks too calm,
+
+323
+00:17:12,819 --> 00:17:14,515
+it may look like a great wizard.
+
+324
+00:17:16,626 --> 00:17:21,311
+With a long white beard,
+
+325
+00:17:21,344 --> 00:17:23,586
+it will look as if it's going to use sophisticated magic.
+
+326
+00:17:23,611 --> 00:17:25,942
+So, let's avoid using the triangular silhouette.
+
+327
+00:17:25,955 --> 00:17:30,544
+Then what should we do?
+
+328
+00:17:31,380 --> 00:17:32,925
+Let's mix triangles and diamonds.
+
+329
+00:17:33,292 --> 00:17:34,405
+Let's move on.
+
+330
+00:17:38,571 --> 00:17:41,757
+I'm going to make the outfit on this arm float a bit more.
+
+331
+00:17:47,915 --> 00:17:50,263
+Previously, I told you that with clothes,
+
+332
+00:17:50,288 --> 00:17:52,492
+it's better to make
+
+333
+00:17:52,517 --> 00:17:53,705
+long hands.
+
+334
+00:17:54,230 --> 00:17:56,073
+Talking about deformers,
+
+335
+00:18:09,373 --> 00:18:13,346
+if you want to prepare something like concept art,
+
+336
+00:18:13,371 --> 00:18:15,704
+there's one thing you have to think about at this stage.
+
+337
+00:18:15,972 --> 00:18:17,816
+When you work on concept art,
+
+338
+00:18:17,873 --> 00:18:21,412
+depending on the specifications of the game you're going to work on,
+
+339
+00:18:21,592 --> 00:18:26,256
+there are a lot of times when you can't work on the design.
+
+340
+00:18:26,406 --> 00:18:29,506
+For example, this design right now,
+
+341
+00:18:29,531 --> 00:18:31,666
+if you look at it in 3D, it's a skirt,
+
+342
+00:18:31,800 --> 00:18:34,465
+but there are a lot of areas where the sleeves overlap.
+
+343
+00:18:34,490 --> 00:18:36,642
+You might need to change the design.
+
+344
+00:18:37,017 --> 00:18:40,733
+If it's overlapped, when you observe it in the game,
+
+345
+00:18:40,758 --> 00:18:42,398
+it makes it look awkward.
+
+346
+00:18:42,423 --> 00:18:44,333
+Or your arms can go through your body,
+
+347
+00:18:44,483 --> 00:18:46,900
+or whenever the character moves their arm, the skirt may be lifted.
+
+348
+00:18:46,925 --> 00:18:48,350
+It ends up flipping a lot.
+
+349
+00:18:48,992 --> 00:18:52,500
+I'm sure people who play games have experienced this before.
+
+350
+00:18:53,025 --> 00:18:56,148
+Some items are restricted so that you can't do that.
+
+351
+00:18:56,173 --> 00:19:00,202
+If you're studying for an examination for concept art,
+
+352
+00:19:00,227 --> 00:19:03,800
+when it comes to the specifications of the game,
+
+353
+00:19:03,825 --> 00:19:07,142
+It's good to remember the parts that you can't express.
+
+354
+00:19:07,283 --> 00:19:10,298
+It's hard to express the see-through style.
+
+355
+00:19:10,323 --> 00:19:13,646
+Or items that have a lot of layers.
+
+356
+00:19:13,896 --> 00:19:18,042
+Or if the design is too flat and you just put in the pattern,
+
+357
+00:19:18,067 --> 00:19:20,225
+sometimes it may look ugly in 3D.
+
+358
+00:19:20,952 --> 00:19:23,777
+It'll be even better
+
+359
+00:19:24,210 --> 00:19:26,700
+if you think about a lot of items with limitations.
+
+360
+00:19:26,850 --> 00:19:28,833
+Let's keep going.
+
+361
+00:19:30,508 --> 00:19:32,106
+Let's change our facial expressions a little bit.
+
+362
+00:19:32,108 --> 00:19:34,873
+So to make it a bit calmer than now,
+
+363
+00:19:38,050 --> 00:19:39,935
+when we have the word 'calm' in mind,
+
+364
+00:19:39,960 --> 00:19:42,392
+and when we ask ourselves if it's closer to being cute or pretty,
+
+365
+00:19:42,417 --> 00:19:43,579
+being calm would be closer to being pretty.
+
+366
+00:19:44,817 --> 00:19:46,613
+This is a quick review with faces.
+
+367
+00:19:49,090 --> 00:19:51,204
+When we want to draw a beautiful face,
+
+368
+00:19:51,237 --> 00:19:54,592
+we need to add detail to the facial features.
+
+369
+00:19:57,352 --> 00:19:59,483
+I'm going to depict the eyelashes.
+
+370
+00:20:04,898 --> 00:20:08,027
+To make the first impression look pretty,
+
+371
+00:20:08,052 --> 00:20:09,244
+retouch the eye area a bit more.
+
+372
+00:20:17,592 --> 00:20:20,288
+I think it'd be good if there was a cute element, too.
+
+373
+00:20:20,313 --> 00:20:22,442
+The hairband will add to that part.
+
+374
+00:20:23,273 --> 00:20:24,710
+I'll put one in.
+
+375
+00:20:30,285 --> 00:20:33,723
+I'll make the silhouette as wide as possible,
+
+376
+00:20:36,212 --> 00:20:38,221
+to increase the casualness.
+
+377
+00:20:38,513 --> 00:20:41,562
+I'm going to add the silhouette of the hair.
+
+378
+00:20:42,863 --> 00:20:44,946
+Overall, it's a triangle silhouette
+
+379
+00:20:44,971 --> 00:20:47,341
+and a diamond silhouette,
+
+380
+00:20:47,425 --> 00:20:49,444
+The character has a more wizard-like vibe.
+
+381
+00:20:49,469 --> 00:20:51,104
+You'll be able to see that it's getting closer.
+
+382
+00:20:51,321 --> 00:20:53,717
+Compared to the existing complete apprenticeship wizard,
+
+383
+00:20:53,742 --> 00:20:55,831
+it looks like a wizard with a certain level.
+
+384
+00:20:56,406 --> 00:20:57,581
+If you are done up to here,
+
+385
+00:20:57,606 --> 00:21:00,553
+we've cleared the first assignment I wanted to go through.
+
+386
+00:21:02,056 --> 00:21:04,504
+I wanted to make the hat a little longer,
+
+387
+00:21:05,000 --> 00:21:07,081
+and raise the level.
+
+388
+00:21:11,921 --> 00:21:14,029
+Let's fix the silhouette of the weapon now.
+
+389
+00:21:14,388 --> 00:21:17,496
+As I said before, I want to upgrade the level.
+
+390
+00:21:17,521 --> 00:21:20,217
+It'd be nice if the weapon looks heavy.
+
+391
+00:21:23,004 --> 00:21:26,348
+From here, it's good to refer to references,
+
+392
+00:21:26,835 --> 00:21:28,160
+such as illustration materials.
+
+393
+00:21:28,185 --> 00:21:30,419
+It might be better to refer to those things.
+
+394
+00:21:31,094 --> 00:21:35,148
+I'm filming a class video right now.
+
+395
+00:21:35,181 --> 00:21:36,490
+So I can't look at the references.
+
+396
+00:21:39,623 --> 00:21:43,090
+You students are not filming, so take a look at the references.
+
+397
+00:21:43,448 --> 00:21:44,669
+Feel free to use them.
+
+398
+00:21:44,902 --> 00:21:46,748
+But this is sci-fi.
+
+399
+00:21:46,773 --> 00:21:48,879
+It's the only concept we have.
+
+400
+00:21:48,904 --> 00:21:51,087
+It's going to be hard to give it a unique design.
+
+401
+00:21:51,315 --> 00:21:54,429
+Then should I add one more setting?
+
+402
+00:21:54,663 --> 00:21:56,492
+Let's go back to that point.
+
+403
+00:21:59,177 --> 00:22:01,250
+What kind of setting can we apply to it?
+
+404
+00:22:01,367 --> 00:22:04,439
+We put the numbers in.. What else comes to mind when you think of numbers?
+
+405
+00:22:04,600 --> 00:22:06,025
+You can give
+
+406
+00:22:07,703 --> 00:22:09,283
+an experiment-like vibe to it.
+
+407
+00:22:10,321 --> 00:22:12,604
+I came up with a calm character.
+
+408
+00:22:15,297 --> 00:22:17,225
+While thinking of a calm character,
+
+409
+00:22:17,492 --> 00:22:20,490
+If I can give the impression of a laboratory,
+
+410
+00:22:20,515 --> 00:22:22,748
+is it going to be a bit dark?
+
+411
+00:22:26,367 --> 00:22:28,935
+I don't want to make it look dark.
+
+412
+00:22:30,310 --> 00:22:32,719
+You may just put an animal in it.
+
+413
+00:22:32,940 --> 00:22:34,144
+Sharks,
+
+414
+00:22:34,983 --> 00:22:35,975
+or another animal,
+
+415
+00:22:37,150 --> 00:22:40,508
+or plants and fruits,
+
+416
+00:22:40,533 --> 00:22:42,771
+they're very unique items.
+
+417
+00:22:42,796 --> 00:22:46,419
+With this alternate history, these items...
+
+418
+00:22:46,444 --> 00:22:50,796
+In other words, if there's a strong point to the design,
+
+419
+00:22:50,821 --> 00:22:53,932
+the character's design brings out its identity.
+
+420
+00:22:54,306 --> 00:22:56,219
+I'm going to put an element to this character.
+
+421
+00:22:56,244 --> 00:22:58,796
+Let's put in a shark.
+
+422
+00:23:19,700 --> 00:23:22,085
+I can make the side blue,
+
+423
+00:23:22,110 --> 00:23:23,965
+but if I were to put in a conceptual shark,
+
+424
+00:23:26,400 --> 00:23:28,621
+you can change the form of the shark's mouth like this.
+
+425
+00:23:32,853 --> 00:23:38,177
+Except for the belt here,
+
+426
+00:23:57,608 --> 00:23:59,508
+you can make it into an eye shape,
+
+427
+00:24:05,121 --> 00:24:07,984
+or in this section, you can put shark teeth,
+
+428
+00:24:17,858 --> 00:24:20,725
+or you can make the character's teeth sharp.
+
+429
+00:24:26,823 --> 00:24:28,771
+Other than that,
+
+430
+00:24:28,796 --> 00:24:31,179
+maybe make a headband which looks like the shape of a shark.
+
+431
+00:24:41,900 --> 00:24:45,342
+With the concept of the shark,
+
+432
+00:24:45,800 --> 00:24:48,869
+design elements that can be used for characters that have already been added.
+
+433
+00:24:49,402 --> 00:24:53,519
+The reason why I think about the story is to use the elements of design,
+
+434
+00:24:53,981 --> 00:24:57,592
+in a variety of things.
+
+435
+00:24:57,617 --> 00:24:58,973
+Moreover,
+
+436
+00:24:58,998 --> 00:25:02,604
+by using the plane elements that we saw earlier,
+
+437
+00:25:02,629 --> 00:25:04,710
+the character's identity is increasing more and more.
+
+438
+00:25:05,273 --> 00:25:08,774
+Let's do the drones parting around us like fish.
+
+439
+00:25:09,990 --> 00:25:13,252
+Because the character has a shark concept, the drones can look like flying fish.
+
+440
+00:25:18,410 --> 00:25:19,915
+A flying fish...
+
+441
+00:25:28,004 --> 00:25:35,019
+So change the design of the wand here,
+
+442
+00:25:45,168 --> 00:25:47,348
+apply the shape of a shark's teeth,
+
+443
+00:25:54,019 --> 00:25:56,817
+or you can put a fin on the back.
+
+444
+00:26:12,765 --> 00:26:14,032
+By using the concept of a shark,
+
+445
+00:26:14,044 --> 00:26:15,664
+we're going to keep adding something.
+
+446
+00:26:15,798 --> 00:26:18,283
+But the silhouette information that I mentioned earlier,
+
+447
+00:26:18,308 --> 00:26:22,988
+while maintaining the shape of a diamond in the triangle,
+
+448
+00:26:23,396 --> 00:26:26,454
+and since it's a calm setting, the overall silhouette
+
+449
+00:26:26,479 --> 00:26:30,454
+isn't sharp and it doesn't stick out a lot.
+
+450
+00:26:30,479 --> 00:26:34,900
+Don't go like this at the end.
+
+451
+00:26:34,925 --> 00:26:38,340
+If it sticks out, it makes it look aggressive.
+
+452
+00:26:38,723 --> 00:26:41,897
+It'd be nice to reduce those parts little by little.
+
+453
+00:26:44,502 --> 00:26:46,100
+Let's reduce it bit by bit.
+
+454
+00:26:52,777 --> 00:26:55,588
+So we've handled the planes from among the points, lines, and planes.
+
+455
+00:26:55,613 --> 00:26:57,769
+Let's look at the points and the lines,
+
+456
+00:26:57,794 --> 00:27:00,983
+Let's think about the section where we need to focus our attention.
+
+457
+00:27:01,125 --> 00:27:04,771
+People will see the face and the hat.
+
+458
+00:27:04,796 --> 00:27:07,669
+And they are going to come down to the center and spread out on both sides.
+
+459
+00:27:07,694 --> 00:27:08,602
+Along the sleeve,
+
+460
+00:27:09,510 --> 00:27:11,685
+with the gaze that widened like that,
+
+461
+00:27:11,710 --> 00:27:13,914
+the legs will be separated a little bit.
+
+462
+00:27:14,215 --> 00:27:16,710
+It's separated,
+
+463
+00:27:17,185 --> 00:27:18,732
+so this is a separate part.
+
+464
+00:27:19,090 --> 00:27:21,921
+Then choose the section
+
+465
+00:27:21,946 --> 00:27:24,038
+where you want people to focus their attention.
+
+466
+00:27:25,548 --> 00:27:27,650
+Choose the section where you want to
+
+467
+00:27:27,652 --> 00:27:29,623
+draw the viewer's attention beforehand.
+
+468
+00:27:29,694 --> 00:27:33,006
+Do we want people to pay attention to the shoulders?
+
+469
+00:27:33,881 --> 00:27:36,458
+Since you put these letters in, it'd be nice if they pay attention to them.
+
+470
+00:27:37,008 --> 00:27:39,298
+We need to draw attention to the weapon design, too.
+
+471
+00:27:39,598 --> 00:27:43,846
+Do you want people to look at the legs a little bit,
+
+472
+00:27:43,871 --> 00:27:45,860
+but not the feet?
+
+473
+00:27:46,223 --> 00:27:47,833
+Or if people never pay attention to the part you wanted,
+
+474
+00:27:48,138 --> 00:27:50,438
+then let's adjust it accordingly.
+
+475
+00:27:51,246 --> 00:27:53,133
+In the section where people should look at first,
+
+476
+00:27:53,308 --> 00:27:57,102
+we're going to use a point color that's more visible.
+
+477
+00:27:58,369 --> 00:28:02,450
+When designing, things like black and white,
+
+478
+00:28:02,708 --> 00:28:04,943
+they're not exactly considered as colors.
+
+479
+00:28:05,271 --> 00:28:10,510
+We literally say they are achromatic.
+
+480
+00:28:10,919 --> 00:28:12,915
+Since it's not colored, it's achromatic.
+
+481
+00:28:13,356 --> 00:28:15,729
+Since these are achromatic colors,
+
+482
+00:28:15,754 --> 00:28:17,993
+just with the detailed design,
+
+483
+00:28:18,005 --> 00:28:18,966
+compared to other places,
+
+484
+00:28:20,498 --> 00:28:24,206
+It also plays a role as a point.
+
+485
+00:28:25,681 --> 00:28:30,260
+Like this, in the section you wanted,
+
+486
+00:28:30,285 --> 00:28:33,433
+you can arrange it so that people pay attention to it.
+
+487
+00:28:39,202 --> 00:28:41,510
+If you want people to look
+
+488
+00:28:41,535 --> 00:28:43,133
+at the legs a little bit,
+
+489
+00:28:46,410 --> 00:28:48,433
+add gradation like this.
+
+490
+00:28:52,983 --> 00:28:54,890
+If there's a gradation,
+
+491
+00:28:54,915 --> 00:28:57,269
+it will be more visible than before.
+
+492
+00:29:05,361 --> 00:29:08,138
+And I want the wand part to be seen clearly.
+
+493
+00:29:24,988 --> 00:29:30,708
+Then by adding a point color,
+
+494
+00:29:36,659 --> 00:29:38,930
+or a linear element,
+
+495
+00:29:39,088 --> 00:29:41,288
+that will draw attention to this side,
+
+496
+00:29:41,496 --> 00:29:43,665
+for example, an effect.
+
+497
+00:29:45,944 --> 00:29:48,400
+If this effect is coming out here,
+
+498
+00:29:48,425 --> 00:29:50,257
+it'll catch people's eyes.
+
+499
+00:29:59,785 --> 00:30:01,096
+By using these kinds of things,
+
+500
+00:30:01,121 --> 00:30:02,129
+we are making a point where we can concentrate
+
+501
+00:30:02,154 --> 00:30:05,392
+on this character.
+
+502
+00:30:10,277 --> 00:30:12,279
+Apply it on the feet just a little bit.
+
+503
+00:30:12,281 --> 00:30:14,942
+Since it's awkward if you only use the top part,
+
+504
+00:30:14,944 --> 00:30:16,362
+I'm going to apply it on the bottom as well.
+
+505
+00:30:16,364 --> 00:30:18,937
+We didn't want to focus on the feet.
+
+506
+00:30:19,104 --> 00:30:21,486
+So I'm going to add just a little bit.
+
+507
+00:30:38,206 --> 00:30:39,569
+What else can we do?
+
+508
+00:30:39,571 --> 00:30:42,348
+Since it's a shark,
+
+509
+00:30:53,552 --> 00:30:55,031
+you can put the tail in,
+
+510
+00:30:55,056 --> 00:30:57,507
+or you can draw the shape of the teeth on the clothes.
+
+511
+00:30:58,806 --> 00:31:01,875
+It's the thinking process again, the shark thing that keeps coming to mind.
+
+512
+00:31:03,298 --> 00:31:07,213
+The teeth, pointed eyes, flying fish,
+
+513
+00:31:08,592 --> 00:31:09,796
+and the tail,
+
+514
+00:31:10,596 --> 00:31:12,394
+it all came to mind from there.
+
+515
+00:31:19,590 --> 00:31:22,715
+That's the way you make up the design.
+
+516
+00:31:26,585 --> 00:31:29,344
+Let's take a look at before and after.
+
+517
+00:31:29,619 --> 00:31:30,448
+Before,
+
+518
+00:31:30,848 --> 00:31:31,473
+and after.
+
+519
+00:31:32,210 --> 00:31:33,525
+The character is definitely
+
+520
+00:31:33,550 --> 00:31:35,601
+more unique.
+
+521
+00:31:35,827 --> 00:31:38,029
+Between the first impression of the character on the left,
+
+522
+00:31:38,054 --> 00:31:40,048
+and the first impression of the character on the right,
+
+523
+00:31:40,073 --> 00:31:42,131
+the two feel different.
+
+524
+00:31:42,381 --> 00:31:45,513
+The one with the intense first impression will be the one on the left.
+
+525
+00:31:46,988 --> 00:31:50,300
+When you look at the game character,
+
+526
+00:31:50,325 --> 00:31:52,563
+I told you that you need to feel
+
+527
+00:31:52,588 --> 00:31:54,183
+what kind of charm this character has.
+
+528
+00:31:54,433 --> 00:31:55,733
+So, when we say that,
+
+529
+00:31:55,758 --> 00:31:57,660
+the character with a first impression so strong
+
+530
+00:31:57,685 --> 00:32:00,035
+that we can predict its personality
+
+531
+00:32:00,119 --> 00:32:01,613
+and actions
+
+532
+00:32:01,638 --> 00:32:04,387
+would be the one on the left.
+
+533
+00:32:04,604 --> 00:32:06,552
+So when you design it, like this,
+
+534
+00:32:06,577 --> 00:32:08,006
+put in the story,
+
+535
+00:32:08,031 --> 00:32:10,608
+and adjust the silhouette according to the personality,
+
+536
+00:32:10,633 --> 00:32:12,977
+or adjust points, lines, and planes,
+
+537
+00:32:13,002 --> 00:32:14,658
+by drawing people's attention,
+
+538
+00:32:14,683 --> 00:32:16,969
+use all the things we've learned so far.
+
+539
+00:32:16,994 --> 00:32:20,158
+So it's important to use those things to organize it.
+
+540
+00:32:20,292 --> 00:32:22,954
+In a way, this is what I wanted to say today.
+
+541
+00:32:22,979 --> 00:32:24,377
+And it's the most important part.
+
+542
+00:32:24,402 --> 00:32:28,250
+This part would be related to creating the universe of the story, as I mentioned before.
+
+543
+00:32:28,275 --> 00:32:29,908
+The ability to write a story,
+
+544
+00:32:29,933 --> 00:32:33,473
+for those who practice concept art,
+
+545
+00:32:33,498 --> 00:32:35,556
+can be a very important thing.
+
+546
+00:32:35,581 --> 00:32:37,506
+For those who draw fan art,
+
+547
+00:32:37,531 --> 00:32:40,400
+you don't have to pay much attention to it.
+
+548
+00:32:40,425 --> 00:32:42,721
+Why is this important for people who draw concept art?
+
+549
+00:32:42,746 --> 00:32:45,190
+If you work in the concept art field,
+
+550
+00:32:45,192 --> 00:32:47,448
+you could be the director of the art team.
+
+551
+00:32:47,473 --> 00:32:49,883
+Although you could turn into a freelancer later on,
+
+552
+00:32:49,908 --> 00:32:52,938
+either way,
+
+553
+00:32:52,963 --> 00:32:54,233
+some of you may want to be a leader.
+
+554
+00:32:54,258 --> 00:32:57,498
+For those people, this ability is especially important.
+
+555
+00:32:57,523 --> 00:33:01,329
+The ability to imagine the entire scene while creating a universe,
+
+556
+00:33:01,354 --> 00:33:03,154
+something that the viewers can understand,
+
+557
+00:33:03,179 --> 00:33:05,685
+the ability to form that kind of universe itself
+
+558
+00:33:05,710 --> 00:33:09,419
+in a way, from the perspective of an art designer,
+
+559
+00:33:09,421 --> 00:33:12,294
+it's a skill that is emphasized a lot in the field.
+
+560
+00:33:13,002 --> 00:33:14,517
+It's one of my personal episodes, but,
+
+561
+00:33:14,542 --> 00:33:17,179
+a long time ago, someone asked me
+
+562
+00:33:17,204 --> 00:33:18,719
+to be their company's art director.
+
+563
+00:33:18,744 --> 00:33:22,315
+Their content provider told me that
+
+564
+00:33:22,340 --> 00:33:25,390
+because they think I can create a universe
+
+565
+00:33:25,415 --> 00:33:26,985
+they felt that
+
+566
+00:33:27,010 --> 00:33:29,052
+I would be a suitable art director.
+
+567
+00:33:29,077 --> 00:33:32,513
+When I heard that, I realized that
+
+568
+00:33:32,538 --> 00:33:36,731
+that kind of skill would be important for character designers.
+
+569
+00:33:37,323 --> 00:33:40,481
+So, people should be accepting of your designs
+
+570
+00:33:40,506 --> 00:33:43,920
+and you should be able to put what you want into the designs.
+
+571
+00:33:43,997 --> 00:33:46,792
+I began to think that these two things are important,
+
+572
+00:33:46,817 --> 00:33:49,133
+and I wanted to emphasize them to students.
+
+573
+00:33:49,158 --> 00:33:51,177
+So, let's design characters once more.
+
+574
+00:33:51,202 --> 00:33:53,208
+Because doing just one example is a bit boring.
+
+575
+00:33:54,200 --> 00:33:56,204
+what should we do next?
+
+576
+00:34:01,511 --> 00:34:04,202
+We're going to make different settings.
+
+577
+00:34:05,308 --> 00:34:07,683
+What can you think up?
+
+578
+00:34:07,708 --> 00:34:11,117
+If you're just watching this lecture, imagine
+
+579
+00:34:11,142 --> 00:34:14,108
+what you can add to this character in your head.
+
+580
+00:34:14,133 --> 00:34:20,013
+I previously made a sci-fi character, so I'll make a character from a fantasy setting.
+
+581
+00:34:21,096 --> 00:34:24,276
+I'm going to draw a fantasy character.
+
+582
+00:34:24,277 --> 00:34:26,256
+But, how should I do this?
+
+583
+00:34:26,402 --> 00:34:28,977
+We just created fish, remember.
+
+584
+00:34:29,336 --> 00:34:33,292
+So, I'm thinking of a mobile game
+
+585
+00:34:33,317 --> 00:34:37,548
+where underwater creatures were the main concept.
+
+586
+00:34:37,902 --> 00:34:39,513
+With these mobile games
+
+587
+00:34:39,538 --> 00:34:41,313
+that are set in a deep sea background,
+
+588
+00:34:41,315 --> 00:34:43,456
+the contrast of black and white is evident,
+
+589
+00:34:43,481 --> 00:34:45,531
+and there was a strong
+
+590
+00:34:46,023 --> 00:34:47,279
+point color.
+
+591
+00:34:47,304 --> 00:34:49,835
+There were a lot of characters
+
+592
+00:34:49,860 --> 00:34:53,637
+with extremely white skin color
+
+593
+00:34:53,763 --> 00:34:55,712
+or with very lowly saturated skin colors.
+
+594
+00:34:55,788 --> 00:34:59,035
+I think those designs are unique.
+
+595
+00:34:59,681 --> 00:35:00,606
+So, let's apply
+
+596
+00:35:02,704 --> 00:35:04,615
+the underwater setting.
+
+597
+00:35:05,397 --> 00:35:09,835
+I'd like to tell you that it's good to practice design as much as you can.
+
+598
+00:35:09,917 --> 00:35:12,763
+It's kind of sad that I have to tell you
+
+599
+00:35:12,787 --> 00:35:13,777
+to practice as much as you can.
+
+600
+00:35:13,802 --> 00:35:14,808
+But that's the reality.
+
+601
+00:35:14,833 --> 00:35:16,481
+So, if you have experience,
+
+602
+00:35:16,506 --> 00:35:20,231
+there are more things that you can draw.
+
+603
+00:35:20,256 --> 00:35:23,460
+That's why you need to practice with many different examples.
+
+604
+00:35:26,660 --> 00:35:29,046
+First, I'm going to lower the overall saturation.
+
+605
+00:35:30,855 --> 00:35:42,121
+I'll make the black robes into white robes.
+
+606
+00:35:47,890 --> 00:35:51,983
+I'm going to create a mad character
+
+607
+00:35:52,175 --> 00:35:54,127
+which is very different from the previous calm character.
+
+608
+00:35:57,071 --> 00:35:58,996
+But, the key color will be the same.
+
+609
+00:35:59,363 --> 00:36:01,373
+The key colors would still be
+
+610
+00:36:01,375 --> 00:36:04,360
+the mint color and the blue color
+
+611
+00:36:04,385 --> 00:36:05,231
+that I used previously.
+
+612
+00:36:05,256 --> 00:36:09,048
+I'll make the character into a mad character.
+
+613
+00:36:10,698 --> 00:36:12,488
+Because we need to practice with different examples.
+
+614
+00:36:40,196 --> 00:36:42,917
+Let's modify the facial expressions first.
+
+615
+00:36:57,921 --> 00:37:00,579
+To create a strong impression with the eyes as well,
+
+616
+00:37:00,890 --> 00:37:04,452
+I'll detail them more, unlike when it was a calm and pretty one.
+
+617
+00:37:05,027 --> 00:37:07,019
+Then, the eyes would be emphasized.
+
+618
+00:37:11,506 --> 00:37:14,929
+Let's draw sharp teeth.
+
+619
+00:37:23,285 --> 00:37:25,850
+I think putting in dark circles would be good, too.
+
+620
+00:37:28,841 --> 00:37:30,083
+With the overall silhouette,
+
+621
+00:37:30,108 --> 00:37:32,890
+the previous one had a triangular one.
+
+622
+00:37:32,915 --> 00:37:34,242
+For the one we're using now,
+
+623
+00:37:34,267 --> 00:37:36,698
+we don't have to use a triangular silhouette to give a calm impression.
+
+624
+00:37:36,723 --> 00:37:39,217
+So, let's change the design starting with the sleeves
+
+625
+00:37:39,692 --> 00:37:42,604
+to make a diamond-shaped robe.
+
+626
+00:37:50,665 --> 00:37:52,329
+I'll open this area
+
+627
+00:37:57,183 --> 00:37:58,992
+to make the robe lighter.
+
+628
+00:38:04,896 --> 00:38:07,325
+It's good to change the pose, too.
+
+629
+00:38:32,133 --> 00:38:34,289
+When we're designing,
+
+630
+00:38:34,302 --> 00:38:35,532
+even the postures
+
+631
+00:38:35,556 --> 00:38:37,902
+have a huge impact on the character's first impression.
+
+632
+00:38:38,502 --> 00:38:39,708
+So, when you're practicing alone,
+
+633
+00:38:39,733 --> 00:38:41,977
+it will be good to
+
+634
+00:38:42,002 --> 00:38:43,042
+control everything and practice.
+
+635
+00:38:49,385 --> 00:38:52,035
+Let's make the hair pointy
+
+636
+00:38:52,067 --> 00:38:53,878
+to show the character's temper.
+
+637
+00:38:53,896 --> 00:38:56,051
+The overall silhouette will be very pointy.
+
+638
+00:38:58,092 --> 00:39:01,435
+Let's pause a bit and talk about the silhouette.
+
+639
+00:39:01,460 --> 00:39:03,000
+What is the silhouette?
+
+640
+00:39:04,483 --> 00:39:07,016
+Let's go over it once more.
+
+641
+00:39:07,125 --> 00:39:09,504
+I covered it last time,
+
+642
+00:39:09,529 --> 00:39:11,375
+but there's no harm in knowing this.
+
+643
+00:39:12,090 --> 00:39:13,567
+In the end, it's this.
+
+644
+00:39:13,592 --> 00:39:16,108
+If it's sharp, it gives a sharp impression.
+
+645
+00:39:16,383 --> 00:39:18,796
+If it's square, it'll make a strong impression on the character.
+
+646
+00:39:18,996 --> 00:39:21,629
+If it's round, it'll make a cute impression.
+
+647
+00:39:21,654 --> 00:39:24,135
+If it's curved, it'll make a flexible impression.
+
+648
+00:39:24,160 --> 00:39:25,485
+That's how it works.
+
+649
+00:39:25,510 --> 00:39:28,902
+What's important is how it's combined,
+
+650
+00:39:28,904 --> 00:39:31,744
+and maintained.
+
+651
+00:39:32,268 --> 00:39:33,367
+What I'm saying right now is
+
+652
+00:39:33,392 --> 00:39:35,896
+this character is a bit sharp,
+
+653
+00:39:36,421 --> 00:39:39,092
+but with a loose sharpness.
+
+654
+00:39:39,117 --> 00:39:42,302
+It's a bit cranky, but it's usually quiet.
+
+655
+00:39:42,304 --> 00:39:43,746
+It feels like it lacks sleep,
+
+656
+00:39:43,889 --> 00:39:45,102
+it gives that kind of impression.
+
+657
+00:39:45,127 --> 00:39:48,727
+It's not a very sharp silhouette.
+
+658
+00:39:48,994 --> 00:39:52,253
+It's kind of sharp, but it maintains a somewhat loose feeling.
+
+659
+00:39:52,617 --> 00:39:55,196
+So it can go in with the same silhouette.
+
+660
+00:39:55,508 --> 00:39:59,267
+And if there's a part that breaks the silhouette,
+
+661
+00:39:59,727 --> 00:40:02,725
+or if there's a part where it's slightly off,
+
+662
+00:40:03,083 --> 00:40:06,896
+we need to check out whether we can apply these silhouettes
+
+663
+00:40:08,038 --> 00:40:09,465
+to those sections or not.
+
+664
+00:40:09,777 --> 00:40:12,839
+For example, even a hat like this,
+
+665
+00:40:13,835 --> 00:40:16,156
+we look down at the end of the hat,
+
+666
+00:40:16,869 --> 00:40:19,185
+or I said it will be a droopy silhouette.
+
+667
+00:40:21,996 --> 00:40:23,813
+So that you can feel that,
+
+668
+00:40:27,225 --> 00:40:29,702
+you can draw it droopy like this way down.
+
+669
+00:40:31,575 --> 00:40:33,079
+In every single detail,
+
+670
+00:40:33,186 --> 00:40:35,627
+We're going to use the drooping silhouette.
+
+671
+00:40:38,739 --> 00:40:40,537
+I'll loosen up one side like this,
+
+672
+00:40:41,623 --> 00:40:44,200
+so that you can include these settings, too
+
+673
+00:41:03,063 --> 00:41:06,384
+and I'm going to rip off the end of the outfit.
+
+674
+00:41:07,100 --> 00:41:08,708
+The material setting of the outfit is also
+
+675
+00:41:08,733 --> 00:41:11,029
+one of the important things that you can set up.
+
+676
+00:41:11,054 --> 00:41:12,433
+It's good to use it together.
+
+677
+00:41:12,592 --> 00:41:14,346
+It's not that difficult.
+
+678
+00:41:14,371 --> 00:41:16,483
+If the character is a bit dark,
+
+679
+00:41:16,508 --> 00:41:18,002
+you may tear the edges apart,
+
+680
+00:41:20,154 --> 00:41:23,855
+or if you're a strong character, you can make the outfit thicker.
+
+681
+00:41:23,857 --> 00:41:24,948
+It's like that.
+
+682
+00:41:32,746 --> 00:41:34,753
+I tried to use fantasy settings.
+
+683
+00:41:34,778 --> 00:41:37,300
+Don't use too much techwear or things like that.
+
+684
+00:41:41,086 --> 00:41:42,696
+But there's one thing you can use instead.
+
+685
+00:41:42,819 --> 00:41:44,453
+I can't use it in sci-fi,
+
+686
+00:41:44,478 --> 00:41:46,512
+but it's something that can be used in fantasy effectively.
+
+687
+00:41:46,696 --> 00:41:48,646
+Curved metals.
+
+688
+00:41:48,863 --> 00:41:50,582
+Why can't I use it in sci-fi?
+
+689
+00:41:50,607 --> 00:41:53,190
+It's simple, it has a strong fantasy vibe.
+
+690
+00:41:54,782 --> 00:41:56,446
+So the curved metal is
+
+691
+00:41:56,471 --> 00:41:59,903
+the exclusive property of fantasy characters.
+
+692
+00:42:00,700 --> 00:42:02,382
+It's an element that I like, too.
+
+693
+00:42:02,407 --> 00:42:05,228
+I can't use it when I draw sci-fi characters as well.
+
+694
+00:42:05,253 --> 00:42:06,232
+It's one of the items that I can't use in sci-fi.
+
+695
+00:42:10,688 --> 00:42:12,103
+First of all,
+
+696
+00:42:40,371 --> 00:42:44,144
+I think it'll be good to show the arms like this.
+
+697
+00:42:46,113 --> 00:42:48,481
+To show a somewhat violent personality,
+
+698
+00:42:48,506 --> 00:42:51,342
+the normal arm warmers have a very calm impression.
+
+699
+00:42:53,079 --> 00:42:54,967
+I'll change them to a half glove.
+
+700
+00:42:55,994 --> 00:42:58,525
+Adjust it to make the character look violent.
+
+701
+00:43:01,865 --> 00:43:04,230
+And I'm going to change the design of the skirt.
+
+702
+00:43:04,232 --> 00:43:05,296
+Which one would be good?
+
+703
+00:43:05,596 --> 00:43:08,213
+If you cover it up like this, the character becomes too calm.
+
+704
+00:43:08,971 --> 00:43:11,589
+It's a bit different from what I want to do now.
+
+705
+00:43:11,800 --> 00:43:14,096
+Therefore, I'm going to make it wider.
+
+706
+00:43:17,104 --> 00:43:19,879
+And as expected,
+
+707
+00:43:22,281 --> 00:43:24,215
+you have to tear the ends a bit to maintain the character's impression.
+
+708
+00:43:28,090 --> 00:43:30,108
+These days, even if it's fantasy,
+
+709
+00:43:30,133 --> 00:43:32,010
+there are a lot of fusion styles of fantasy.
+
+710
+00:43:33,265 --> 00:43:35,499
+Fantasy with a bit of sci-fi.
+
+711
+00:43:35,935 --> 00:43:37,819
+So, as time goes by,
+
+712
+00:43:37,844 --> 00:43:42,521
+it's not like we're preparing a portfolio for fantasy.
+
+713
+00:43:42,546 --> 00:43:44,801
+These days, people often prepare a lot for science fiction.
+
+714
+00:43:44,803 --> 00:43:48,312
+The actual number of outsourced orders is also increasing for sci-fi.
+
+715
+00:43:48,788 --> 00:43:52,076
+So, there are students
+
+716
+00:43:52,078 --> 00:43:53,194
+who are into fantasy only.
+
+717
+00:43:53,219 --> 00:43:57,463
+It's sad, but it's time for you to prepare for sci-fi.
+
+718
+00:43:57,488 --> 00:43:59,016
+I think it's a good decision.
+
+719
+00:43:59,058 --> 00:44:01,388
+On the other hand, if you're interested in science fiction only,
+
+720
+00:44:01,413 --> 00:44:02,592
+or you are not into fantasy at all,
+
+721
+00:44:02,617 --> 00:44:03,773
+those of you who are doing that,
+
+722
+00:44:03,798 --> 00:44:06,194
+I recommend you
+
+723
+00:44:06,219 --> 00:44:07,733
+to work on this side, too.
+
+724
+00:44:08,779 --> 00:44:10,027
+You'll use it someday.
+
+725
+00:44:10,668 --> 00:44:14,210
+You'll use it someday and you'll have to study various fields,
+
+726
+00:44:14,235 --> 00:44:15,752
+so you can do it from the other side.
+
+727
+00:44:16,492 --> 00:44:17,700
+There's something like this.
+
+728
+00:44:19,523 --> 00:44:21,217
+You can improvise in drawing female characters
+
+729
+00:44:21,241 --> 00:44:22,883
+and by drawing muscular male characters.
+
+730
+00:44:23,013 --> 00:44:25,304
+And by studying perspective from a background,
+
+731
+00:44:25,329 --> 00:44:27,527
+you can make a character more three-dimensional.
+
+732
+00:44:27,935 --> 00:44:31,744
+Likewise, improving in one area can help with the other areas.
+
+733
+00:44:36,571 --> 00:44:38,513
+You can use round metals for this character.
+
+734
+00:44:38,538 --> 00:44:40,597
+Again, we want to make the gaze focus
+
+735
+00:44:40,823 --> 00:44:43,302
+on this area.
+
+736
+00:44:43,756 --> 00:44:47,122
+I think placing a belt around this character
+
+737
+00:44:47,147 --> 00:44:47,897
+would be fine.
+
+738
+00:44:47,922 --> 00:44:51,867
+But, this pocket makes the character look like
+
+739
+00:44:53,300 --> 00:44:55,323
+it's from a rural village, not the deep sea.
+
+740
+00:44:55,348 --> 00:44:56,629
+So, let's delete this.
+
+741
+00:44:59,692 --> 00:45:01,318
+What else can we do?
+
+742
+00:45:01,320 --> 00:45:03,994
+If we're creating a character from under the sea,
+
+743
+00:45:04,019 --> 00:45:07,519
+you can also use teeth.
+
+744
+00:45:07,727 --> 00:45:09,410
+But, we already drew in teeth for the shark.
+
+745
+00:45:09,435 --> 00:45:11,975
+Now, let's create a different mood.
+
+746
+00:45:12,713 --> 00:45:16,039
+I'll make the center of the hat black.
+
+747
+00:45:18,079 --> 00:45:20,260
+I'll also add the teeth here.
+
+748
+00:45:29,502 --> 00:45:32,650
+The hat would droop down compared to the one on the left.
+
+749
+00:45:40,000 --> 00:45:44,539
+Alternatively, we can make a hat
+
+750
+00:45:44,867 --> 00:45:46,115
+that goes upwards.
+
+751
+00:45:48,492 --> 00:45:51,929
+I'll make the head droop down.
+
+752
+00:45:55,894 --> 00:45:58,642
+Some deep sea fish use bait.
+
+753
+00:46:01,283 --> 00:46:02,829
+So, this character could
+
+754
+00:46:03,677 --> 00:46:04,931
+look just like that.
+
+755
+00:46:09,710 --> 00:46:13,043
+We can add more teeth to this area.
+
+756
+00:46:18,194 --> 00:46:20,771
+These fractured designs
+
+757
+00:46:20,796 --> 00:46:23,006
+are also characteristics of deep sea characters.
+
+758
+00:46:23,490 --> 00:46:25,635
+So, let's use these elements as well.
+
+759
+00:46:30,940 --> 00:46:34,215
+You could add black veins to the side.
+
+760
+00:46:46,105 --> 00:46:49,906
+To describe the character's personalities more in detail,
+
+761
+00:46:50,490 --> 00:46:52,988
+because the previous boots had a calm silhouette,
+
+762
+00:46:53,013 --> 00:46:56,533
+let's draw boots that stick together and are pointing upwards.
+
+763
+00:47:00,577 --> 00:47:01,808
+The important thing is the silhouette.
+
+764
+00:47:02,490 --> 00:47:04,756
+Because it's a silhouette that goes generally upwards,
+
+765
+00:47:04,781 --> 00:47:07,352
+it would be much less calm than the previous one.
+
+766
+00:47:18,027 --> 00:47:20,019
+If we use the creatures, too,
+
+767
+00:47:20,020 --> 00:47:21,984
+because we used drones on the left,
+
+768
+00:47:21,986 --> 00:47:23,381
+remember how this character's a fantasy character?
+
+769
+00:47:23,406 --> 00:47:25,985
+Then, instead of machine parts,
+
+770
+00:47:26,010 --> 00:47:27,733
+creatures would be much more adequate.
+
+771
+00:47:28,221 --> 00:47:31,677
+Because it would be good to draw a monstrous character,
+
+772
+00:47:41,064 --> 00:47:42,187
+like this,
+
+773
+00:47:46,100 --> 00:47:47,329
+we can draw something like Cthulhu.
+
+774
+00:47:52,004 --> 00:47:54,923
+If you don't know what it is, search for it.
+
+775
+00:48:05,910 --> 00:48:07,190
+It may look like I'm just drawing,
+
+776
+00:48:07,215 --> 00:48:08,554
+but actually, I'm drawing the teeth.
+
+777
+00:48:42,594 --> 00:48:44,219
+They look a bit gross, but still,
+
+778
+00:48:44,244 --> 00:48:46,325
+I can add eyes like this.
+
+779
+00:49:04,263 --> 00:49:07,425
+And if we change the design of the wand like that,
+
+780
+00:49:08,840 --> 00:49:10,781
+it should be curved
+
+781
+00:49:10,806 --> 00:49:13,590
+because we're going for a fantasy setting instead of a sci-fi setting.
+
+782
+00:49:14,502 --> 00:49:16,415
+To give a fantasy vibe,
+
+783
+00:49:16,440 --> 00:49:19,306
+curved silhouettes would be better than linear ones.
+
+784
+00:49:19,981 --> 00:49:21,004
+Accordingly,
+
+785
+00:49:33,919 --> 00:49:35,531
+I'll do it like this,
+
+786
+00:49:37,598 --> 00:49:38,821
+or design it like this,
+
+787
+00:49:42,975 --> 00:49:44,392
+with the same character,
+
+788
+00:49:44,417 --> 00:49:46,104
+the design can change this much.
+
+789
+00:49:48,000 --> 00:49:49,698
+From the same character on the right,
+
+790
+00:49:49,723 --> 00:49:52,188
+the design of the characters on the left and the center,
+
+791
+00:49:52,213 --> 00:49:53,839
+becomes definitely different.
+
+792
+00:49:53,881 --> 00:49:57,240
+That's how you look at the process and we call it a variation.
+
+793
+00:49:57,265 --> 00:49:59,125
+When it comes to variations,
+
+794
+00:49:59,150 --> 00:50:02,202
+with the same concept, we're increasing the amount of design.
+
+795
+00:50:02,227 --> 00:50:06,023
+For example, if this is 1, 2,
+
+796
+00:50:06,048 --> 00:50:10,600
+1-2 and 1-3, that's what we're going to do.
+
+797
+00:50:11,375 --> 00:50:13,135
+In a way, these things,
+
+798
+00:50:13,160 --> 00:50:15,623
+belong to a wide variation.
+
+799
+00:50:15,648 --> 00:50:19,554
+According to the settings you want,
+
+800
+00:50:19,556 --> 00:50:22,221
+depending on your personality and story,
+
+801
+00:50:22,463 --> 00:50:25,561
+by adjusting it, you keep increasing the amount.
+
+802
+00:50:25,737 --> 00:50:28,418
+If you increase the amount, it becomes a pattern.
+
+803
+00:50:28,420 --> 00:50:30,346
+It's your data.
+
+804
+00:50:30,371 --> 00:50:33,504
+It will be used for the actual performance.
+
+805
+00:50:34,171 --> 00:50:37,238
+So I hope you build up as many things as possible.
+
+806
+00:50:37,263 --> 00:50:38,540
+It's good to practice.
+
+807
+00:50:38,565 --> 00:50:41,421
+If you're going to follow me through this process,
+
+808
+00:50:41,446 --> 00:50:44,618
+I hope you design one.
+
+809
+00:50:44,719 --> 00:50:46,298
+You don't have to be so detailed.
+
+810
+00:50:46,323 --> 00:50:48,608
+It's enough to be like the character on the right.
+
+811
+00:50:48,806 --> 00:50:52,785
+It's okay to have a simple design like this.
+
+812
+00:50:52,810 --> 00:50:55,196
+Let's make it pretty in your eyes.
+
+813
+00:50:55,221 --> 00:50:57,725
+I hope you try to give it a sense of storytelling.
+
+814
+00:50:57,900 --> 00:51:01,127
+I hope you make a design like that.
+
+815
+00:51:01,252 --> 00:51:02,938
+What I designed today is
+
+816
+00:51:02,963 --> 00:51:04,519
+going to be used later on,
+
+817
+00:51:05,419 --> 00:51:08,295
+to continue with the illustration work.
+
+818
+00:51:08,479 --> 00:51:11,920
+I need to think about which one would be better.
+
+819
+00:51:12,004 --> 00:51:13,177
+Let's wrap this up.
+
+820
+00:51:15,681 --> 00:51:18,785
+Today, we had a time to study design.
+
+821
+00:51:18,810 --> 00:51:20,333
+What's important about design is,
+
+822
+00:51:21,300 --> 00:51:24,118
+first, it doesn't have to be complicated.
+
+823
+00:51:24,185 --> 00:51:27,348
+Instead, by using the tempo control,
+
+824
+00:51:27,373 --> 00:51:32,017
+it's better to divide the concentration section.
+
+825
+00:51:32,290 --> 00:51:36,996
+Check if it's a clear section
+
+826
+00:51:37,021 --> 00:51:40,637
+that draws attention from these designs, later on.
+
+827
+00:51:40,838 --> 00:51:43,394
+Check out the designs you've done yourself.
+
+828
+00:51:43,419 --> 00:51:45,746
+There are certain parts that draw attention.
+
+829
+00:51:46,046 --> 00:51:48,910
+That's how you control your strength.
+
+830
+00:51:48,935 --> 00:51:50,435
+So you can be a good design.
+
+831
+00:51:50,610 --> 00:51:53,292
+Of course, there's a need for some detail in the process.
+
+832
+00:51:53,317 --> 00:51:55,156
+For those who are preparing for the portfolio,
+
+833
+00:51:55,181 --> 00:51:57,929
+it's good to practice in detail, too.
+
+834
+00:51:59,221 --> 00:52:01,602
+What's important about design?
+
+835
+00:52:01,604 --> 00:52:03,788
+The most important thing is charm.
+
+836
+00:52:04,054 --> 00:52:06,565
+But there are so many things that create that charm.
+
+837
+00:52:06,873 --> 00:52:09,204
+The silhouette itself can be charming,
+
+838
+00:52:09,229 --> 00:52:11,146
+if the character just looks pretty,
+
+839
+00:52:11,171 --> 00:52:13,639
+or if it has a pretty face, that's part of the design.
+
+840
+00:52:13,823 --> 00:52:17,125
+It's also important how attractive the character looks.
+
+841
+00:52:17,596 --> 00:52:19,322
+I didn't tell you before.
+
+842
+00:52:19,406 --> 00:52:20,796
+When I was in the process of designing,
+
+843
+00:52:20,809 --> 00:52:21,932
+the color of the character's skin color
+
+844
+00:52:21,944 --> 00:52:23,882
+changed a little bit.
+
+845
+00:52:24,185 --> 00:52:25,988
+Even the skin color is part of the design.
+
+846
+00:52:26,013 --> 00:52:28,573
+We're not designing outfits,
+
+847
+00:52:28,598 --> 00:52:30,396
+but a character design.
+
+848
+00:52:30,421 --> 00:52:32,415
+The color of this character's skin is strong.
+
+849
+00:52:32,440 --> 00:52:33,421
+Why is the saturation low?
+
+850
+00:52:33,446 --> 00:52:35,916
+Yellow, red, or black?
+
+851
+00:52:35,918 --> 00:52:37,133
+Depending on these things,
+
+852
+00:52:37,158 --> 00:52:39,451
+the character's impression changes.
+
+853
+00:52:39,453 --> 00:52:42,802
+We get into the design by adjusting each one of them.
+
+854
+00:52:44,383 --> 00:52:46,513
+How do you practice this?
+
+855
+00:52:46,804 --> 00:52:48,260
+Variation.
+
+856
+00:52:48,460 --> 00:52:50,059
+Based on the same character,
+
+857
+00:52:50,127 --> 00:52:52,019
+the story that
+
+858
+00:52:52,193 --> 00:52:53,608
+you imagined,
+
+859
+00:52:53,675 --> 00:52:57,400
+I hope you think about it and add more stories to your thoughts.
+
+860
+00:52:57,425 --> 00:52:59,402
+By adding some settings,
+
+861
+00:52:59,427 --> 00:53:02,514
+checking the conditions compared to what you imagined,
+
+862
+00:53:02,890 --> 00:53:06,239
+or whether people interpret it the same way,
+
+863
+00:53:06,315 --> 00:53:08,090
+keep testing those things.
+
+864
+00:53:08,115 --> 00:53:10,702
+It's important to practice the design.
+
+865
+00:53:10,827 --> 00:53:14,029
+The quantity matters in design. The more you try, the more experience you get.
+
+866
+00:53:14,072 --> 00:53:16,914
+That becomes your own know-how.
+
+867
+00:53:17,106 --> 00:53:20,394
+So, I can't help this part. We just have to draw a lot.
+
+868
+00:53:20,610 --> 00:53:23,633
+Especially for those who thought that design was difficult,
+
+869
+00:53:23,658 --> 00:53:27,031
+I hope you think about that today.
+
+870
+00:53:27,190 --> 00:53:29,392
+I talked about a lot of things today.
+
+871
+00:53:29,417 --> 00:53:32,140
+To be honest, I just decorated my wizard character
+
+872
+00:53:32,165 --> 00:53:34,633
+according to my taste.
+
+873
+00:53:34,733 --> 00:53:36,727
+I just added the settings that I wanted to add.
+
+874
+00:53:36,985 --> 00:53:39,021
+And there's a little theory added to it.
+
+875
+00:53:39,110 --> 00:53:42,888
+So I recommend that you try it without being scared off.
+
+876
+00:53:43,321 --> 00:53:44,839
+That's all for today.
+
+877
+00:53:44,864 --> 00:53:46,735
+Next time, by using this,
+
+878
+00:53:47,196 --> 00:53:49,205
+let's draw an illustration.
+
+879
+00:53:49,207 --> 00:53:52,219
+Of course, we will go through the subject of light before that.
+
+880
+00:53:52,756 --> 00:53:54,223
+See you in the next class.
+

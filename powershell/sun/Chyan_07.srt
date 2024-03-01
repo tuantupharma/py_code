@@ -1,0 +1,3689 @@
+1
+00:00:00,000 --> 00:00:05,121
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:05,921 --> 00:00:06,840
+Hello.
+
+3
+00:00:06,865 --> 00:00:08,727
+From today,
+
+4
+00:00:09,195 --> 00:00:11,055
+we will go through Section 3.
+
+5
+00:00:11,281 --> 00:00:14,296
+As I said, Section 2 was about
+
+6
+00:00:14,298 --> 00:00:18,001
+the method for practicing characters.
+
+7
+00:00:18,003 --> 00:00:21,733
+So, it wasn't practice to draw a perfect illustration.
+
+8
+00:00:21,758 --> 00:00:23,603
+When you train for that character by yourself,
+
+9
+00:00:23,605 --> 00:00:25,295
+what kind of training is good,
+
+10
+00:00:25,297 --> 00:00:29,178
+and how you deal with that when you approach it,
+
+11
+00:00:29,203 --> 00:00:32,616
+and the process of learning about that, was focused on in Section 2.
+
+12
+00:00:32,641 --> 00:00:34,020
+Now, in section 3,
+
+13
+00:00:34,022 --> 00:00:36,217
+before we move on to the actual drawing,
+
+14
+00:00:36,242 --> 00:00:39,071
+we're going to go over
+
+15
+00:00:39,073 --> 00:00:40,634
+what's important.
+
+16
+00:00:40,636 --> 00:00:43,423
+We'll learn how to make the human body look good
+
+17
+00:00:43,425 --> 00:00:45,700
+and how you can create it with your own intentions.
+
+18
+00:00:45,702 --> 00:00:47,348
+We'll learn
+
+19
+00:00:47,350 --> 00:00:50,859
+what kinds of elements we can use
+
+20
+00:00:50,884 --> 00:00:52,461
+when we're composing a canvas.
+
+21
+00:00:52,463 --> 00:00:54,787
+In other words, what we're going to do from now on is
+
+22
+00:00:54,789 --> 00:00:57,788
+a real illustration class.
+
+23
+00:00:57,813 --> 00:01:01,101
+Since we're going through the illustrations,
+
+24
+00:01:01,126 --> 00:01:03,270
+let's take some time to remind ourselves
+
+25
+00:01:03,272 --> 00:01:05,505
+of the old information we are about to forget.
+
+26
+00:01:06,441 --> 00:01:08,274
+What's important in illustrations is,
+
+27
+00:01:10,216 --> 00:01:13,157
+what we make up is not the composition of the characters,
+
+28
+00:01:16,804 --> 00:01:18,549
+what we make up is
+
+29
+00:01:18,574 --> 00:01:21,471
+a square screen called an illustration.
+
+30
+00:01:23,494 --> 00:01:25,641
+When it comes to organizing this screen,
+
+31
+00:01:29,243 --> 00:01:31,705
+the character is just used as a theme.
+
+32
+00:01:31,707 --> 00:01:33,740
+It's very important.
+
+33
+00:01:33,765 --> 00:01:36,196
+Please remember this part.
+
+34
+00:01:36,221 --> 00:01:39,430
+Then, using the theme of the character,
+
+35
+00:01:39,716 --> 00:01:41,417
+when you organize the screen,
+
+36
+00:01:41,419 --> 00:01:43,415
+how could you approach it?
+
+37
+00:01:43,417 --> 00:01:46,985
+In terms of approach, the theme of this character is...
+
+38
+00:01:47,118 --> 00:01:49,649
+We usually draw character illustrations, right?
+
+39
+00:01:49,742 --> 00:01:53,727
+It's kind of like meat.
+
+40
+00:01:55,470 --> 00:01:59,489
+Comparing the ingredients to the illustration,
+
+41
+00:01:59,514 --> 00:02:01,132
+the character is like meat.
+
+42
+00:02:01,157 --> 00:02:02,351
+What is meat?
+
+43
+00:02:02,376 --> 00:02:04,781
+Except for those who really hate meat,
+
+44
+00:02:04,783 --> 00:02:07,954
+it'd be the main character if there's meat as part of your meal.
+
+45
+00:02:08,180 --> 00:02:11,437
+It stands out.
+
+46
+00:02:11,462 --> 00:02:14,141
+Most of the main characters eat it by themselves.
+
+47
+00:02:14,540 --> 00:02:18,515
+Then, how could you make sure the meat is delicious?
+
+48
+00:02:18,540 --> 00:02:21,282
+Of course, the freshness of the meat itself is very important.
+
+49
+00:02:21,571 --> 00:02:24,113
+The freshness of the meat means
+
+50
+00:02:24,115 --> 00:02:26,902
+how well developed this character is.
+
+51
+00:02:28,425 --> 00:02:30,961
+The setting and appearance of this character
+
+52
+00:02:31,134 --> 00:02:34,494
+and the appearance of your design or your drawing skills,
+
+53
+00:02:34,754 --> 00:02:36,543
+those things are very important, too.
+
+54
+00:02:36,545 --> 00:02:37,976
+Of course, it must be important.
+
+55
+00:02:38,001 --> 00:02:40,335
+People say that quality matters for meat.
+
+56
+00:02:40,360 --> 00:02:41,952
+But apart from that,
+
+57
+00:02:41,977 --> 00:02:44,766
+no matter what kind of meat it is, the recipe is
+
+58
+00:02:44,791 --> 00:02:46,938
+very important.
+
+59
+00:02:48,648 --> 00:02:50,856
+If this was the illustration,
+
+60
+00:02:50,858 --> 00:02:52,095
+it's going to be the direction part.
+
+61
+00:02:54,087 --> 00:02:58,793
+We brought the best A+ beef.
+
+62
+00:02:58,795 --> 00:03:00,056
+We're going to cook it now.
+
+63
+00:03:00,058 --> 00:03:02,585
+I grilled it for 5 hours.
+
+64
+00:03:02,623 --> 00:03:03,944
+The meat will go bad.
+
+65
+00:03:03,969 --> 00:03:05,436
+We shouldn't cook it like that.
+
+66
+00:03:05,679 --> 00:03:08,185
+And it's no good to have the meat raw.
+
+67
+00:03:08,210 --> 00:03:09,326
+Then what should we do?
+
+68
+00:03:09,328 --> 00:03:10,904
+Prepare a garnish,
+
+69
+00:03:10,929 --> 00:03:13,243
+depending on the quality of the meat,
+
+70
+00:03:13,245 --> 00:03:15,183
+if the meat is relatively poor quality,
+
+71
+00:03:15,185 --> 00:03:19,300
+or if it's a minor part of the animal that people don't like,
+
+72
+00:03:19,302 --> 00:03:20,821
+find the right recipe for it,
+
+73
+00:03:21,202 --> 00:03:24,029
+or if it's a part that people do usually like,
+
+74
+00:03:24,054 --> 00:03:25,580
+for example pork belly,
+
+75
+00:03:25,582 --> 00:03:27,553
+it goes well with just salt and pepper.
+
+76
+00:03:27,722 --> 00:03:30,330
+Like that, for the major materials that people like
+
+77
+00:03:30,332 --> 00:03:33,029
+you have to think about how it would be in a raw state.
+
+78
+00:03:33,054 --> 00:03:35,644
+If you don't think people will like an unfamiliar material,
+
+79
+00:03:35,646 --> 00:03:39,911
+you need to make an impactful recipe to match it accordingly.
+
+80
+00:03:39,913 --> 00:03:42,358
+You need to be able to direct it.
+
+81
+00:03:42,582 --> 00:03:45,505
+So we prepared material earlier.
+
+82
+00:03:45,530 --> 00:03:47,377
+What we prepared in Section 2 was
+
+83
+00:03:47,379 --> 00:03:49,319
+about characters.
+
+84
+00:03:49,485 --> 00:03:53,724
+Then starting from Section 3, related to the theme of characters,
+
+85
+00:03:53,749 --> 00:03:55,840
+how should we direct them?
+
+86
+00:03:55,842 --> 00:03:57,780
+We're going to take some time to figure it out.
+
+87
+00:04:02,399 --> 00:04:06,405
+Before we start, let's take a look at the gaze.
+
+88
+00:04:07,894 --> 00:04:10,076
+So, what does the term "gaze" mean?
+
+89
+00:04:10,078 --> 00:04:13,474
+When we look at the illustration,
+
+90
+00:04:13,499 --> 00:04:16,950
+in what order would the eyes see, from where to where?
+
+91
+00:04:16,952 --> 00:04:18,944
+This is the gaze.
+
+92
+00:04:19,085 --> 00:04:21,693
+When you look at the screen,
+
+93
+00:04:21,718 --> 00:04:23,977
+people's eyes start from the top left,
+
+94
+00:04:23,979 --> 00:04:25,877
+and they're going to go down to the bottom right.
+
+95
+00:04:25,902 --> 00:04:28,537
+This is the exact order.
+
+96
+00:04:28,562 --> 00:04:30,630
+Of course, I don't think everyone reads like this.
+
+97
+00:04:30,655 --> 00:04:33,828
+It can change depending on the situation of the illustration,
+
+98
+00:04:34,007 --> 00:04:37,000
+or people from Japan might look at it the opposite way.
+
+99
+00:04:37,002 --> 00:04:38,721
+There's a theory
+
+100
+00:04:38,723 --> 00:04:42,303
+that it's closely related to the order of reading.
+
+101
+00:04:42,328 --> 00:04:45,517
+People from Japan do read from left to right.
+
+102
+00:04:45,542 --> 00:04:47,832
+But they read manga comics from right to left.
+
+103
+00:04:47,857 --> 00:04:50,506
+I heard that they could even be flipped over.
+
+104
+00:04:50,531 --> 00:04:53,167
+In general, though, it's from left to right,
+
+105
+00:04:53,192 --> 00:04:57,194
+and there are many cases where it goes down and flows to the right.
+
+106
+00:04:57,219 --> 00:04:59,619
+That's the general framework for the gaze.
+
+107
+00:05:01,319 --> 00:05:03,790
+Then how will it be used?
+
+108
+00:05:03,792 --> 00:05:05,850
+You might wonder if this theory exists.
+
+109
+00:05:05,852 --> 00:05:08,896
+When you design a movie poster,
+
+110
+00:05:08,898 --> 00:05:12,284
+you don't put important designs in the bottom left.
+
+111
+00:05:12,460 --> 00:05:15,631
+So important information is as central as possible,
+
+112
+00:05:15,875 --> 00:05:17,966
+or on the top right side.
+
+113
+00:05:17,991 --> 00:05:20,507
+They fill this section with
+
+114
+00:05:20,532 --> 00:05:21,891
+as little important information as possible.
+
+115
+00:05:21,916 --> 00:05:24,370
+It'd be great to take a look at
+
+116
+00:05:24,372 --> 00:05:26,388
+a few movie posters later.
+
+117
+00:05:26,413 --> 00:05:29,602
+In illustration,
+
+118
+00:05:29,604 --> 00:05:31,318
+the gaze is almost like a simple frame.
+
+119
+00:05:31,320 --> 00:05:34,149
+Then we need to know how to use this.
+
+120
+00:05:34,151 --> 00:05:36,000
+So, let's say people gaze
+
+121
+00:05:36,002 --> 00:05:37,210
+from the top left to the bottom right.
+
+122
+00:05:37,235 --> 00:05:38,655
+So,
+
+123
+00:05:38,680 --> 00:05:41,034
+how should I use this to make it well?
+
+124
+00:05:41,059 --> 00:05:43,233
+Let's organize it again.
+
+125
+00:05:43,235 --> 00:05:47,114
+We need pretty illustrations.
+
+126
+00:05:47,116 --> 00:05:48,419
+That's what I think.
+
+127
+00:05:48,421 --> 00:05:53,214
+As a result, think of it as making one illustration
+
+128
+00:05:53,216 --> 00:05:55,242
+you can focus on for a long time.
+
+129
+00:05:55,655 --> 00:05:57,640
+Unlike cartoons and animations,
+
+130
+00:05:57,642 --> 00:06:00,734
+You have to make a strong impression with just one illustration
+
+131
+00:06:00,759 --> 00:06:03,456
+and you need to put in elements
+
+132
+00:06:03,481 --> 00:06:04,974
+that the viewers can enjoy.
+
+133
+00:06:04,999 --> 00:06:06,620
+So, it's very important to
+
+134
+00:06:06,622 --> 00:06:08,637
+make the gaze linger as long as possible
+
+135
+00:06:08,639 --> 00:06:10,027
+on this one piece.
+
+136
+00:06:10,029 --> 00:06:12,991
+Then, what are the conditions for that?
+
+137
+00:06:13,016 --> 00:06:14,944
+There are two main conditions.
+
+138
+00:06:14,979 --> 00:06:18,430
+First, the gaze needs to flow smoothly.
+
+139
+00:06:19,184 --> 00:06:22,468
+And secondly, in the middle of the smooth flow of the gaze,
+
+140
+00:06:22,493 --> 00:06:24,428
+there has to be a break.
+
+141
+00:06:25,110 --> 00:06:27,077
+You need to 'feel' the illustration.
+
+142
+00:06:27,476 --> 00:06:30,046
+When things go that way, as a result,
+
+143
+00:06:30,071 --> 00:06:32,328
+we can feel the illustration for a long time.
+
+144
+00:06:32,353 --> 00:06:35,639
+You can think of it as a good illustration.
+
+145
+00:06:37,073 --> 00:06:40,506
+Then let's apply it to a character.
+
+146
+00:06:42,321 --> 00:06:44,395
+For those who are confused, let me summarize.
+
+147
+00:06:44,420 --> 00:06:47,750
+When you look at the screen,
+
+148
+00:06:47,752 --> 00:06:49,950
+from the top left to the bottom right,
+
+149
+00:06:49,952 --> 00:06:52,499
+that's people's general gaze.
+
+150
+00:06:52,711 --> 00:06:56,591
+And when you apply this to illustration,
+
+151
+00:06:56,616 --> 00:07:00,347
+so that we can keep our eyes on it for as long as possible,
+
+152
+00:07:00,349 --> 00:07:01,702
+we're going to display them now.
+
+153
+00:07:01,727 --> 00:07:04,052
+We need to arrange things that we can enjoy from time to time,
+
+154
+00:07:04,077 --> 00:07:07,338
+so that the viewers can be satisfied.
+
+155
+00:07:07,340 --> 00:07:09,671
+Let's divide it into details.
+
+156
+00:07:09,696 --> 00:07:11,639
+If I were to go into character illustration,
+
+157
+00:07:15,796 --> 00:07:17,718
+how should I create this?
+
+158
+00:07:17,966 --> 00:07:20,547
+In the character illustration,
+
+159
+00:07:20,549 --> 00:07:21,960
+let's imagine
+
+160
+00:07:21,962 --> 00:07:23,472
+how people will look at the illustration.
+
+161
+00:07:24,097 --> 00:07:27,092
+When you students see a character illustration,
+
+162
+00:07:27,117 --> 00:07:29,046
+which part will you look at first?
+
+163
+00:07:29,071 --> 00:07:33,099
+I think most of you will see the character first.
+
+164
+00:07:33,124 --> 00:07:35,120
+Sometimes not.
+
+165
+00:07:35,122 --> 00:07:37,022
+Even if it's an illustration with a character,
+
+166
+00:07:37,024 --> 00:07:39,399
+there's also illustrations that are mainly background.
+
+167
+00:07:39,401 --> 00:07:41,702
+So it's only about 80-90%.
+
+168
+00:07:41,727 --> 00:07:43,057
+There are times when it's not.
+
+169
+00:07:43,163 --> 00:07:44,796
+But for most of the illustrations,
+
+170
+00:07:44,821 --> 00:07:46,468
+you may notice the characters first.
+
+171
+00:07:46,493 --> 00:07:48,143
+Which part do you see in a character?
+
+172
+00:07:48,172 --> 00:07:51,511
+We look at the face of the character first.
+
+173
+00:07:51,940 --> 00:07:54,576
+Look at the face and move to the body.
+
+174
+00:07:54,578 --> 00:07:56,170
+It's a general flow of the gaze.
+
+175
+00:07:56,195 --> 00:07:58,305
+I'll open up a few files.
+
+176
+00:07:59,486 --> 00:08:01,151
+I brought two illustrations.
+
+177
+00:08:01,176 --> 00:08:03,100
+1 and 2.
+
+178
+00:08:03,591 --> 00:08:07,241
+You'll be able to see that the two images are quite different.
+
+179
+00:08:07,442 --> 00:08:09,804
+The first page looks very calm,
+
+180
+00:08:09,806 --> 00:08:11,510
+overall, it looks cool,
+
+181
+00:08:11,512 --> 00:08:14,201
+and it's comfortable to observe.
+
+182
+00:08:14,203 --> 00:08:16,866
+While the second one looks a bit more intense,
+
+183
+00:08:16,891 --> 00:08:18,969
+and more dynamic.
+
+184
+00:08:18,994 --> 00:08:20,903
+What's the difference between these two?
+
+185
+00:08:20,905 --> 00:08:22,714
+Let's
+
+186
+00:08:22,716 --> 00:08:23,976
+think about it.
+
+187
+00:08:24,091 --> 00:08:27,036
+The first one looks at the face first,
+
+188
+00:08:27,320 --> 00:08:30,749
+and then it goes down towards the body.
+
+189
+00:08:31,241 --> 00:08:33,801
+It could be different if there are background elements.
+
+190
+00:08:33,803 --> 00:08:36,281
+But usually in an illustration with a single character,
+
+191
+00:08:36,282 --> 00:08:38,930
+the flow from the character's face to the body
+
+192
+00:08:38,931 --> 00:08:40,650
+would be the most common trend.
+
+193
+00:08:40,655 --> 00:08:42,593
+That's why we see the face first,
+
+194
+00:08:42,618 --> 00:08:44,225
+and when it goes down,
+
+195
+00:08:44,385 --> 00:08:48,225
+since the character's body isn't that bent either,
+
+196
+00:08:48,725 --> 00:08:50,835
+it gives a calm impression.
+
+197
+00:08:51,416 --> 00:08:54,600
+On the contrary, the more your upper and lower body is bent,
+
+198
+00:08:54,602 --> 00:08:56,952
+it would give you a dynamic impression.
+
+199
+00:08:56,977 --> 00:09:00,437
+But this time, the character's body is calm.
+
+200
+00:09:00,462 --> 00:09:03,116
+You can't help the gaze flowing like that.
+
+201
+00:09:03,141 --> 00:09:06,109
+But the second character's face,
+
+202
+00:09:06,134 --> 00:09:07,643
+on the other hand, it's down there.
+
+203
+00:09:09,476 --> 00:09:11,502
+Let's say we have the introduction, development, turn, and conclusion in an illustration.
+
+204
+00:09:11,503 --> 00:09:15,137
+If the first illustration showed what's important in the introduction,
+
+205
+00:09:15,138 --> 00:09:18,819
+the second illustration showed what's important in the development stage.
+
+206
+00:09:18,844 --> 00:09:21,159
+That's why it gives a strong impression,
+
+207
+00:09:21,184 --> 00:09:23,650
+and unlike the general trend
+
+208
+00:09:23,651 --> 00:09:24,950
+that the flow of the gaze moves from top to bottom,
+
+209
+00:09:24,952 --> 00:09:26,887
+it bent from the bottom to the top.
+
+210
+00:09:27,809 --> 00:09:31,092
+So it goes opposite to the flow,
+
+211
+00:09:31,117 --> 00:09:32,733
+which was from top left to bottom right.
+
+212
+00:09:33,395 --> 00:09:34,873
+So you may wonder
+
+213
+00:09:34,898 --> 00:09:36,136
+whether you could do that or not.
+
+214
+00:09:36,161 --> 00:09:38,162
+Of course, it's uncomfortable to look at now.
+
+215
+00:09:38,164 --> 00:09:41,535
+This is an illustration that you can see only at a glance.
+
+216
+00:09:41,984 --> 00:09:45,392
+But by making them go against the general flow,
+
+217
+00:09:45,856 --> 00:09:47,480
+by putting it in the opposite way,
+
+218
+00:09:47,482 --> 00:09:50,042
+it gives it a dynamic vibe.
+
+219
+00:09:50,058 --> 00:09:52,011
+It makes a strong impression.
+
+220
+00:09:52,613 --> 00:09:55,025
+You usually won't use this kind of mixture.
+
+221
+00:09:55,026 --> 00:09:56,660
+But if you do use it,
+
+222
+00:09:56,661 --> 00:09:59,120
+viewers will think that it is unique.
+
+223
+00:10:00,414 --> 00:10:03,623
+Other than that, if you look at the overall flow of the gaze,
+
+224
+00:10:03,625 --> 00:10:06,594
+there aren't many things that disrupt the character at this point.
+
+225
+00:10:07,124 --> 00:10:09,179
+The gaze flows from top to bottom,
+
+226
+00:10:09,203 --> 00:10:12,163
+and there's nothing distracting in the middle.
+
+227
+00:10:12,187 --> 00:10:16,007
+You can say that there are elements that go sideways,
+
+228
+00:10:16,031 --> 00:10:18,491
+but there's nothing in particular that distracts our attention.
+
+229
+00:10:18,824 --> 00:10:20,273
+Even the clouds in the back,
+
+230
+00:10:20,297 --> 00:10:23,292
+you'll be able to see them as if they're surrounding the character.
+
+231
+00:10:24,876 --> 00:10:26,516
+But if you look at this illustration,
+
+232
+00:10:26,540 --> 00:10:29,847
+let's say the flow of the character's eyes goes up like this,
+
+233
+00:10:29,871 --> 00:10:33,135
+in between, there are elements that distract our attention,
+
+234
+00:10:33,159 --> 00:10:35,792
+and the flow that goes back and forth.
+
+235
+00:10:35,816 --> 00:10:37,986
+You'll be able to see that most of those flows are connected.
+
+236
+00:10:38,604 --> 00:10:40,010
+Because of these things,
+
+237
+00:10:40,034 --> 00:10:43,604
+this illustration becomes more dynamic.
+
+238
+00:10:44,087 --> 00:10:45,046
+Within the gaze,
+
+239
+00:10:45,070 --> 00:10:47,425
+there are the main gaze and the sub gaze.
+
+240
+00:10:47,449 --> 00:10:50,018
+Main gaze and sub gaze.
+
+241
+00:10:50,042 --> 00:10:51,658
+If the main gaze focuses on
+
+242
+00:10:51,682 --> 00:10:53,952
+the character,
+
+243
+00:10:53,976 --> 00:10:55,452
+the sub gaze will decide
+
+244
+00:10:55,454 --> 00:10:57,525
+the overall atmosphere
+
+245
+00:10:57,527 --> 00:10:59,229
+of the illustration.
+
+246
+00:10:59,253 --> 00:11:01,253
+To give a flashy and dynamic vibe,
+
+247
+00:11:01,277 --> 00:11:03,299
+the sub gaze is arranged for us
+
+248
+00:11:03,323 --> 00:11:07,099
+to cut off the flow as much as possible.
+
+249
+00:11:08,533 --> 00:11:11,658
+So that it seems like there's a lot of meaning behind it,
+
+250
+00:11:11,957 --> 00:11:13,895
+with a stronger impression,
+
+251
+00:11:13,919 --> 00:11:15,415
+and that's that kind of illustration.
+
+252
+00:11:15,439 --> 00:11:16,978
+On the other hand, with the former one,
+
+253
+00:11:17,002 --> 00:11:19,797
+there's nothing that bothers the flow of the gaze,
+
+254
+00:11:19,821 --> 00:11:21,587
+so you could observe it calmly,
+
+255
+00:11:21,611 --> 00:11:24,037
+and you come to focus on it and observe it slowly,
+
+256
+00:11:24,061 --> 00:11:26,204
+in a relaxed manner.
+
+257
+00:11:26,228 --> 00:11:28,895
+So the way you create the illustration changes.
+
+258
+00:11:30,593 --> 00:11:33,768
+This includes the drawing of the character,
+
+259
+00:11:33,792 --> 00:11:35,792
+but it also goes for the coloring.
+
+260
+00:11:35,976 --> 00:11:37,099
+For example,
+
+261
+00:11:37,123 --> 00:11:40,131
+this character has more light.
+
+262
+00:11:40,714 --> 00:11:43,576
+There's a lot of shadow as well.
+
+263
+00:11:43,895 --> 00:11:46,822
+But on the other hand, there's not much shadow on this side,
+
+264
+00:11:46,957 --> 00:11:49,229
+and the light spread so smoothly that it came in.
+
+265
+00:11:49,492 --> 00:11:51,410
+Including those things,
+
+266
+00:11:51,434 --> 00:11:53,952
+with example A, the overall gaze
+
+267
+00:11:53,976 --> 00:11:56,374
+would be droopy.
+
+268
+00:11:56,398 --> 00:11:58,235
+However, the gaze flow would be different with example B
+
+269
+00:11:58,259 --> 00:12:00,593
+because the image is fancy and strong.
+
+270
+00:12:01,097 --> 00:12:02,766
+It is the difference in the illustrative mood,
+
+271
+00:12:02,790 --> 00:12:05,820
+depending on the gaze.
+
+272
+00:12:09,564 --> 00:12:11,224
+Let's come back to this point.
+
+273
+00:12:11,248 --> 00:12:13,529
+In character illustration, our main gaze
+
+274
+00:12:13,553 --> 00:12:15,788
+flows from the face to the body.
+
+275
+00:12:16,114 --> 00:12:18,431
+The more the gaze flows calmly,
+
+276
+00:12:18,455 --> 00:12:19,792
+the calmer the illustration will be.
+
+277
+00:12:19,816 --> 00:12:21,816
+But, if the gaze flows in the opposite direction
+
+278
+00:12:21,840 --> 00:12:24,434
+or if it is reverted
+
+279
+00:12:25,124 --> 00:12:27,761
+and if there are fancy elements
+
+280
+00:12:28,093 --> 00:12:30,495
+that distract the gaze,
+
+281
+00:12:30,519 --> 00:12:33,457
+it will make a stronger impression overall.
+
+282
+00:12:34,167 --> 00:12:36,732
+There are many other things you can utilize,
+
+283
+00:12:36,756 --> 00:12:39,030
+but, that's all you need to know for now.
+
+284
+00:12:39,054 --> 00:12:41,054
+If you want to draw a calm character,
+
+285
+00:12:41,069 --> 00:12:42,934
+then, try to make the character's gaze
+
+286
+00:12:42,967 --> 00:12:45,196
+not interrupted by any objects.
+
+287
+00:12:45,220 --> 00:12:48,106
+And try to make the overall flow calm.
+
+288
+00:12:48,288 --> 00:12:50,827
+On the other hand, if you want to draw something dynamic,
+
+289
+00:12:50,851 --> 00:12:52,963
+it's also important to strengthen the flow of characters,
+
+290
+00:12:52,987 --> 00:12:54,786
+that's an effective method.
+
+291
+00:12:54,810 --> 00:12:56,687
+In that intense flow,
+
+292
+00:12:56,711 --> 00:12:59,493
+by using these additional elements,
+
+293
+00:12:59,517 --> 00:13:02,292
+the gaze won't have a single flow
+
+294
+00:13:02,316 --> 00:13:05,026
+but will the gaze will be cut off in the middle
+
+295
+00:13:05,050 --> 00:13:08,210
+and the illustration will look fancier.
+
+296
+00:13:08,484 --> 00:13:10,886
+Usually, you can say that you're making it
+
+297
+00:13:10,910 --> 00:13:13,542
+by understanding the difference depending on the mood
+
+298
+00:13:13,566 --> 00:13:16,556
+and utilizing that knowledge.
+
+299
+00:13:17,728 --> 00:13:20,222
+Even if we went through some theory,
+
+300
+00:13:20,246 --> 00:13:22,246
+you still might not get it.
+
+301
+00:13:22,270 --> 00:13:24,551
+Let's use it a real situation.
+
+302
+00:13:24,575 --> 00:13:26,914
+We're going to use the character on the left,
+
+303
+00:13:26,938 --> 00:13:29,591
+to draw a simple illustration.
+
+304
+00:13:30,337 --> 00:13:32,844
+Since it's a character in a swimsuit,
+
+305
+00:13:32,868 --> 00:13:35,082
+it was made for skin samples.
+
+306
+00:13:35,302 --> 00:13:36,154
+So with this one,
+
+307
+00:13:36,178 --> 00:13:38,689
+let's say we're drawing an illustration.
+
+308
+00:13:41,566 --> 00:13:44,272
+I'm sure it'll come out in my teachings about thumbnails but
+
+309
+00:13:44,296 --> 00:13:45,635
+when composing the thumbnail,
+
+310
+00:13:45,659 --> 00:13:48,128
+it's important to make the parts
+
+311
+00:13:48,153 --> 00:13:49,755
+you want to emphasize more clear.
+
+312
+00:13:50,387 --> 00:13:52,660
+First of all, to draw attention,
+
+313
+00:13:52,684 --> 00:13:54,485
+we need to organize it well.
+
+314
+00:13:54,509 --> 00:13:57,702
+So the first illustration will be a single character.
+
+315
+00:13:57,726 --> 00:13:59,421
+Let's look at various cases.
+
+316
+00:14:03,064 --> 00:14:04,819
+For the second illustration,
+
+317
+00:14:05,479 --> 00:14:07,887
+we're going to use simple objects with it.
+
+318
+00:14:09,833 --> 00:14:11,580
+And in the third illustration,
+
+319
+00:14:14,158 --> 00:14:16,182
+we're going to have multiple characters.
+
+320
+00:14:19,101 --> 00:14:20,316
+These three things,
+
+321
+00:14:20,340 --> 00:14:23,214
+I want you to practice these things the most
+
+322
+00:14:23,238 --> 00:14:26,964
+when you work on illustrations.
+
+323
+00:14:26,988 --> 00:14:28,988
+Let me tell you why.
+
+324
+00:14:29,012 --> 00:14:30,089
+There's nothing else to say
+
+325
+00:14:30,113 --> 00:14:31,587
+about the character.
+
+326
+00:14:31,612 --> 00:14:34,577
+In character illustration, we would draw a lot of illustrations
+
+327
+00:14:34,601 --> 00:14:36,843
+with a character in it.
+
+328
+00:14:37,454 --> 00:14:40,905
+And we're going to connect a lot of things to the character.
+
+329
+00:14:41,275 --> 00:14:43,945
+But if that object doesn't go well with the character,
+
+330
+00:14:43,969 --> 00:14:46,161
+you may struggle when you draw illustrations.
+
+331
+00:14:46,395 --> 00:14:48,263
+So, to match the character,
+
+332
+00:14:48,287 --> 00:14:50,287
+we need to know how to deploy it.
+
+333
+00:14:51,658 --> 00:14:52,887
+In addition to that,
+
+334
+00:14:52,911 --> 00:14:55,170
+you will practice a lot of illustrations
+
+335
+00:14:55,171 --> 00:14:56,574
+with two characters at the same time.
+
+336
+00:14:56,633 --> 00:14:59,648
+Especially among those who want to work in the field,
+
+337
+00:14:59,672 --> 00:15:01,751
+or those who want to work on the covers of novels,
+
+338
+00:15:01,775 --> 00:15:03,675
+if you want to try that later,
+
+339
+00:15:03,699 --> 00:15:06,836
+it's very important.
+
+340
+00:15:06,860 --> 00:15:09,400
+Most novels have two or more characters on the cover.
+
+341
+00:15:09,424 --> 00:15:10,671
+And most of them are male and female characters,
+
+342
+00:15:10,683 --> 00:15:12,276
+cuddling each other.
+
+343
+00:15:12,300 --> 00:15:15,202
+So, it would help you a lot
+
+344
+00:15:15,226 --> 00:15:18,398
+if you know in advance how to make the gaze flow
+
+345
+00:15:18,422 --> 00:15:21,736
+when you're composing the characters.
+
+346
+00:15:22,305 --> 00:15:24,165
+Let's get started.
+
+347
+00:15:24,385 --> 00:15:26,353
+If you are going to show
+
+348
+00:15:26,377 --> 00:15:28,057
+the character first,
+
+349
+00:15:28,081 --> 00:15:31,516
+and you want it to be more dynamic overall,
+
+350
+00:15:32,262 --> 00:15:34,378
+with the upper body part of the character
+
+351
+00:15:34,402 --> 00:15:36,566
+being emphasized.
+
+352
+00:15:36,590 --> 00:15:38,590
+Or you want to emphasize the lower body.
+
+353
+00:15:38,614 --> 00:15:39,854
+You need to decide these things first.
+
+354
+00:15:39,878 --> 00:15:42,709
+I'm going to show you something dynamic.
+
+355
+00:15:42,986 --> 00:15:44,883
+I'll show you a dynamic performance,
+
+356
+00:15:44,913 --> 00:15:47,267
+with a way that emphasizes the upper body of the character.
+
+357
+00:15:47,269 --> 00:15:48,688
+Let's get started.
+
+358
+00:15:49,698 --> 00:15:51,857
+If we were to do it dynamically,
+
+359
+00:15:51,882 --> 00:15:54,492
+you can bend the gaze
+
+360
+00:15:54,516 --> 00:15:56,218
+from the top left to the bottom right a little bit.
+
+361
+00:15:57,141 --> 00:16:00,401
+Then let's put the character on the right side.
+
+362
+00:16:07,574 --> 00:16:09,982
+I'm going to place the character on the right,
+
+363
+00:16:11,935 --> 00:16:14,620
+and we're going to increase the amount of information here.
+
+364
+00:16:15,188 --> 00:16:18,505
+The character is wearing a swimsuit,
+
+365
+00:16:18,529 --> 00:16:20,238
+and the design is very simple, too.
+
+366
+00:16:21,878 --> 00:16:22,958
+That means,
+
+367
+00:16:22,982 --> 00:16:25,216
+there's not much information added.
+
+368
+00:16:25,240 --> 00:16:27,901
+But if you tried to give a strong impression,
+
+369
+00:16:27,925 --> 00:16:29,090
+as I said,
+
+370
+00:16:29,092 --> 00:16:31,460
+we should put a lot of elements around it.
+
+371
+00:16:33,746 --> 00:16:35,841
+But we decided to use the character only.
+
+372
+00:16:36,026 --> 00:16:38,228
+Then you have to increase the information that makes up the character.
+
+373
+00:16:38,252 --> 00:16:40,593
+How can we increase that information?
+
+374
+00:16:41,353 --> 00:16:43,476
+There are many things you can use at this point,
+
+375
+00:16:43,500 --> 00:16:45,437
+but if I were to point out one thing,
+
+376
+00:16:45,461 --> 00:16:47,106
+there's an element called perspective.
+
+377
+00:16:49,719 --> 00:16:51,424
+An illustration with perspective,
+
+378
+00:16:51,448 --> 00:16:53,001
+and one without it...
+
+379
+00:16:53,025 --> 00:16:54,698
+out of those two,
+
+380
+00:16:54,722 --> 00:16:56,978
+the illustration with perspective looks a bit fancier.
+
+381
+00:16:57,184 --> 00:16:59,911
+Therefore, if you make an illustration
+
+382
+00:16:59,946 --> 00:17:02,692
+with a high angle and perspective applied,
+
+383
+00:17:02,705 --> 00:17:04,705
+it'll make a stronger first impression.
+
+384
+00:17:05,124 --> 00:17:07,035
+But even if you just use it like this,
+
+385
+00:17:07,059 --> 00:17:08,760
+it might not be enough.
+
+386
+00:17:08,784 --> 00:17:11,630
+If you want to explicitly apply perspectives,
+
+387
+00:17:11,850 --> 00:17:13,107
+how can you do that?
+
+388
+00:17:14,428 --> 00:17:16,729
+You can use a perspective that widens.
+
+389
+00:17:24,471 --> 00:17:27,475
+For example, the face of this character,
+
+390
+00:17:33,421 --> 00:17:36,234
+it makes it look like a low angle.
+
+391
+00:17:52,468 --> 00:17:54,163
+And on the upper body,
+
+392
+00:17:54,187 --> 00:17:55,851
+give a strong high angle.
+
+393
+00:17:58,306 --> 00:17:59,556
+If you do it like that,
+
+394
+00:17:59,580 --> 00:18:02,361
+with the upper body with that angle and without the angle,
+
+395
+00:18:02,385 --> 00:18:06,218
+or the part of your face that went into a low angle,
+
+396
+00:18:06,242 --> 00:18:07,937
+able to make a gap.
+
+397
+00:18:08,533 --> 00:18:11,907
+So there are two angles at the same time.
+
+398
+00:18:12,056 --> 00:18:13,540
+So that the people who are observing
+
+399
+00:18:13,564 --> 00:18:16,466
+might think there's a lot of information there.
+
+400
+00:18:35,590 --> 00:18:37,649
+I said it would be more dynamic
+
+401
+00:18:37,662 --> 00:18:40,039
+if you bend the upper and lower body a lot.
+
+402
+00:18:55,763 --> 00:18:58,242
+To make the background more fancy,
+
+403
+00:18:58,266 --> 00:19:00,385
+you can direct the character to be swimming in the water.
+
+404
+00:19:00,397 --> 00:19:02,626
+I think you could direct a circumstance like that.
+
+405
+00:19:13,959 --> 00:19:15,813
+If you arrange it like this,
+
+406
+00:19:15,837 --> 00:19:17,979
+although it's a character in a simple swimsuit,
+
+407
+00:19:18,003 --> 00:19:20,863
+you could see that the overall vibe has become quite fancy.
+
+408
+00:19:22,780 --> 00:19:24,840
+So, there's a difference in atmosphere
+
+409
+00:19:24,842 --> 00:19:26,814
+when you draw this standing character
+
+410
+00:19:27,347 --> 00:19:28,838
+like this,
+
+411
+00:19:28,862 --> 00:19:30,998
+and like this.
+
+412
+00:19:33,917 --> 00:19:36,055
+Let's see how many theories you've used.
+
+413
+00:19:36,080 --> 00:19:37,106
+First,
+
+414
+00:19:38,839 --> 00:19:40,231
+people's gaze,
+
+415
+00:19:40,255 --> 00:19:42,930
+basically, it flows from top left to bottom right.
+
+416
+00:19:42,954 --> 00:19:44,719
+Since we were going to make a dynamic vibe,
+
+417
+00:19:44,743 --> 00:19:47,141
+it was a bit different from the basic structure.
+
+418
+00:19:47,900 --> 00:19:51,386
+So it went from the top right to the bottom left,
+
+419
+00:19:51,410 --> 00:19:54,930
+and it is made up of a line that falls back to the right.
+
+420
+00:19:54,954 --> 00:19:56,258
+This is the first theory.
+
+421
+00:19:56,282 --> 00:19:58,119
+And second, perspective,
+
+422
+00:19:58,143 --> 00:20:00,470
+to give information.
+
+423
+00:20:00,494 --> 00:20:02,494
+Since the character's design is simple,
+
+424
+00:20:03,652 --> 00:20:05,846
+to increase the amount of information,
+
+425
+00:20:05,870 --> 00:20:07,579
+the face is kind of at a low angle,
+
+426
+00:20:08,169 --> 00:20:09,866
+a high angle for the upper body,
+
+427
+00:20:10,003 --> 00:20:12,920
+and by giving a stronger high angle to the lower body,
+
+428
+00:20:13,048 --> 00:20:15,498
+I put a lot of perspective in between.
+
+429
+00:20:15,522 --> 00:20:17,111
+We made sure that
+
+430
+00:20:17,135 --> 00:20:20,378
+the viewers can focus on this area, where there are
+
+431
+00:20:20,402 --> 00:20:22,160
+a lot of elements.
+
+432
+00:20:22,970 --> 00:20:25,051
+By applying a high angle,
+
+433
+00:20:25,605 --> 00:20:29,525
+we made sure that the viewers can focus on the chest area
+
+434
+00:20:29,549 --> 00:20:30,775
+and the facial area.
+
+435
+00:20:30,983 --> 00:20:34,142
+So we have three theories in total.
+
+436
+00:20:34,987 --> 00:20:37,956
+On the other hand, if you want to make the illustration look calm,
+
+437
+00:20:37,980 --> 00:20:40,392
+you're only going to draw this character,
+
+438
+00:20:40,416 --> 00:20:43,197
+with a calm mood overall.
+
+439
+00:20:43,221 --> 00:20:44,277
+Then,
+
+440
+00:20:44,301 --> 00:20:46,301
+things change a little bit here.
+
+441
+00:20:46,954 --> 00:20:49,241
+Let's do the opposite.
+
+442
+00:20:49,348 --> 00:20:50,711
+What did we do first?
+
+443
+00:20:50,735 --> 00:20:52,956
+The gaze flows from the top left to the bottom right,
+
+444
+00:20:53,126 --> 00:20:54,767
+let's start from this point.
+
+445
+00:20:55,584 --> 00:20:57,892
+And keep the perspective as low as possible.
+
+446
+00:20:58,325 --> 00:21:00,378
+It's going to be a low angle,
+
+447
+00:21:00,402 --> 00:21:02,167
+but we're not going to turn up the angle more,
+
+448
+00:21:02,191 --> 00:21:04,000
+we're going to apply just a small low angle
+
+449
+00:21:04,341 --> 00:21:07,373
+or just not apply perspective at all.
+
+450
+00:21:09,142 --> 00:21:10,143
+The posing of the character
+
+451
+00:21:10,167 --> 00:21:12,062
+is the usual dynamic posing,
+
+452
+00:21:16,211 --> 00:21:19,789
+so let's change it to a normal pose.
+
+453
+00:21:45,679 --> 00:21:47,696
+Let's say there's some background.
+
+454
+00:21:47,720 --> 00:21:50,608
+It would be a bit bland if the gaze just goes downwards.
+
+455
+00:21:50,632 --> 00:21:53,555
+In fact, in illustrations, it's good if the screen is full.
+
+456
+00:21:53,782 --> 00:21:54,741
+So, to do that,
+
+457
+00:21:54,765 --> 00:21:57,674
+we have to put in more elements here.
+
+458
+00:21:59,855 --> 00:22:01,545
+Let's put in palm trees.
+
+459
+00:22:02,525 --> 00:22:04,067
+Because the character is wearing a swimsuit.
+
+460
+00:22:13,363 --> 00:22:15,174
+If you place it like this,
+
+461
+00:22:15,198 --> 00:22:16,774
+you'll be able to see that it's definitely different
+
+462
+00:22:18,330 --> 00:22:20,481
+from the character on the top.
+
+463
+00:22:22,199 --> 00:22:24,166
+It's definitely more dynamic.
+
+464
+00:22:24,763 --> 00:22:26,424
+Quiet and calm.
+
+465
+00:22:26,716 --> 00:22:28,903
+You can feel the difference between the two.
+
+466
+00:22:32,653 --> 00:22:36,275
+To tell you one more theory at this point,
+
+467
+00:22:36,299 --> 00:22:37,959
+when you are positioning the gaze,
+
+468
+00:22:37,983 --> 00:22:41,183
+and when you position linear elements around it
+
+469
+00:22:41,214 --> 00:22:42,263
+like these ones,
+
+470
+00:22:42,973 --> 00:22:46,743
+it's good if they are connected naturally.
+
+471
+00:22:46,768 --> 00:22:49,400
+If the lines are cut off in the middle,
+
+472
+00:22:49,424 --> 00:22:53,129
+the gaze won't flow naturally
+
+473
+00:22:53,154 --> 00:22:54,741
+like I told you before.
+
+474
+00:22:54,765 --> 00:22:57,071
+So, when these linear elements are added,
+
+475
+00:22:57,095 --> 00:22:58,292
+even when they go outwards,
+
+476
+00:22:58,316 --> 00:22:59,880
+you need to make sure that the gaze
+
+477
+00:22:59,882 --> 00:23:01,061
+goes back in again.
+
+478
+00:23:01,438 --> 00:23:03,427
+So, these elements would
+
+479
+00:23:04,074 --> 00:23:06,929
+be connected when you place them
+
+480
+00:23:06,953 --> 00:23:08,143
+no matter how you place them.
+
+481
+00:23:10,203 --> 00:23:11,851
+Although it might be unnatural,
+
+482
+00:23:11,875 --> 00:23:13,704
+you need to place these elements well
+
+483
+00:23:13,728 --> 00:23:15,018
+so that the viewer's gaze
+
+484
+00:23:15,042 --> 00:23:17,980
+can flow along with them naturally.
+
+485
+00:23:18,775 --> 00:23:21,318
+So, with this illustration,
+
+486
+00:23:21,342 --> 00:23:24,727
+the gaze that went to the bottom right with the character
+
+487
+00:23:24,751 --> 00:23:27,646
+shouldn't just end, but it should go back up with the palm tree.
+
+488
+00:23:28,037 --> 00:23:30,537
+So, what element can we add
+
+489
+00:23:30,561 --> 00:23:32,021
+so that the gaze that went down with the character
+
+490
+00:23:32,046 --> 00:23:34,057
+from the right
+
+491
+00:23:34,059 --> 00:23:35,245
+to the bottom
+
+492
+00:23:35,291 --> 00:23:36,687
+comes back up again?
+
+493
+00:23:36,711 --> 00:23:38,207
+We can make it look like they're swimming.
+
+494
+00:23:39,775 --> 00:23:41,429
+So, we can add a spray of water
+
+495
+00:23:41,453 --> 00:23:43,558
+or a tube.
+
+496
+00:23:44,261 --> 00:23:45,661
+If you add these elements,
+
+497
+00:23:45,685 --> 00:23:48,605
+it would be even more effective.
+
+498
+00:23:51,051 --> 00:23:53,434
+So, we briefly looked at
+
+499
+00:23:53,458 --> 00:23:54,691
+how the gaze applies
+
+500
+00:23:54,715 --> 00:23:56,832
+when you're composing a canvas
+
+501
+00:23:56,856 --> 00:23:58,291
+with a single character.
+
+502
+00:23:58,315 --> 00:24:01,722
+Of course, this is just one of many cases.
+
+503
+00:24:01,746 --> 00:24:03,961
+You can think of it as the overall flow.
+
+504
+00:24:04,150 --> 00:24:06,676
+If you want to draw a calm character,
+
+505
+00:24:06,700 --> 00:24:08,558
+you can do a static gaze.
+
+506
+00:24:08,582 --> 00:24:11,142
+But if you want to draw a dynamic character,
+
+507
+00:24:11,166 --> 00:24:13,280
+break the flow
+
+508
+00:24:13,282 --> 00:24:14,763
+that goes from the top left to the bottom right,
+
+509
+00:24:14,938 --> 00:24:15,745
+and while working on it,
+
+510
+00:24:15,769 --> 00:24:18,193
+add other elements on the side.
+
+511
+00:24:19,098 --> 00:24:20,217
+Then, at this point,
+
+512
+00:24:20,241 --> 00:24:22,497
+What happens when the elements are connected?
+
+513
+00:24:22,521 --> 00:24:24,092
+The difference is,
+
+514
+00:24:24,116 --> 00:24:25,756
+when you're directing the character,
+
+515
+00:24:25,780 --> 00:24:26,875
+you can think of it
+
+516
+00:24:26,877 --> 00:24:29,009
+as a main element with sub-elements inside the character.
+
+517
+00:24:29,374 --> 00:24:32,235
+If you want the upper body to stand out,
+
+518
+00:24:32,259 --> 00:24:33,400
+from that information,
+
+519
+00:24:33,425 --> 00:24:35,107
+this would be the main element.
+
+520
+00:24:36,027 --> 00:24:38,575
+And the rest of the parts would be the sub-elements.
+
+521
+00:24:38,599 --> 00:24:41,153
+So normally, illustrations that go into a single character like this,
+
+522
+00:24:41,177 --> 00:24:42,630
+would be a sexy concept.
+
+523
+00:24:42,632 --> 00:24:44,133
+It's often used in that kind of concept.
+
+524
+00:24:44,308 --> 00:24:46,586
+Expressing a character's body becomes very important.
+
+525
+00:24:47,192 --> 00:24:48,274
+On the other hand,
+
+526
+00:24:48,298 --> 00:24:50,298
+when you compose an object item,
+
+527
+00:24:50,322 --> 00:24:52,322
+the item "object" itself,
+
+528
+00:24:52,346 --> 00:24:54,440
+would be a sub-element.
+
+529
+00:24:54,909 --> 00:24:56,761
+Of course, there are illustrations
+
+530
+00:24:56,785 --> 00:24:59,769
+where the objects are more important than the character.
+
+531
+00:24:59,905 --> 00:25:01,611
+But, most of the time,
+
+532
+00:25:01,635 --> 00:25:03,232
+the objects are the sub elements
+
+533
+00:25:03,256 --> 00:25:05,869
+and the characters are the main elements.
+
+534
+00:25:06,331 --> 00:25:08,291
+So, if the objects are the sub elements,
+
+535
+00:25:08,315 --> 00:25:10,374
+depending on how you use them,
+
+536
+00:25:10,398 --> 00:25:12,021
+the atmosphere would be different.
+
+537
+00:25:14,280 --> 00:25:17,509
+Let's say a character is holding an accessory.
+
+538
+00:25:17,540 --> 00:25:20,862
+A unique accessory that looks like a fish.
+
+539
+00:25:28,707 --> 00:25:30,986
+When we have a character like this,
+
+540
+00:25:48,668 --> 00:25:51,103
+let's say that it has a fish-shaped purse.
+
+541
+00:26:00,954 --> 00:26:03,362
+Let's simply draw a character
+
+542
+00:26:08,485 --> 00:26:11,207
+and let's say the character is cute.
+
+543
+00:26:15,925 --> 00:26:18,232
+This is a cheerful character
+
+544
+00:26:19,915 --> 00:26:22,959
+and you want to create an adorable mood,
+
+545
+00:26:23,493 --> 00:26:25,849
+and not a sexy mood.
+
+546
+00:26:25,873 --> 00:26:28,056
+So, if you want a cute character,
+
+547
+00:26:28,080 --> 00:26:31,448
+make sure the objects work as
+
+548
+00:26:31,472 --> 00:26:33,004
+sub elements.
+
+549
+00:26:33,206 --> 00:26:35,926
+It's better if the character has a stronger impression.
+
+550
+00:26:36,520 --> 00:26:38,812
+When you're creating a cute character,
+
+551
+00:26:38,836 --> 00:26:41,227
+usually, the main and sub elements
+
+552
+00:26:41,251 --> 00:26:44,808
+have around the same influence on the mood.
+
+553
+00:26:44,832 --> 00:26:48,024
+So, you don't have to focus on the character too much.
+
+554
+00:26:48,662 --> 00:26:51,175
+With pretty or calm characters,
+
+555
+00:26:51,199 --> 00:26:53,616
+the artist would want you to
+
+556
+00:26:53,640 --> 00:26:55,836
+just look at the character.
+
+557
+00:26:55,860 --> 00:26:57,119
+On the other hand, with cute characters,
+
+558
+00:26:57,143 --> 00:27:00,172
+viewers tend to perceive the situation itself as cute.
+
+559
+00:27:00,296 --> 00:27:02,510
+So, the connection between
+
+560
+00:27:02,534 --> 00:27:05,732
+the character and the sub-elements will be stronger.
+
+561
+00:27:05,756 --> 00:27:09,124
+For example, when there's a fish-shaped purse,
+
+562
+00:27:09,148 --> 00:27:11,800
+you can make it look alive by
+
+563
+00:27:11,824 --> 00:27:13,395
+making it jump upwards,
+
+564
+00:27:19,176 --> 00:27:21,364
+and this character
+
+565
+00:27:21,702 --> 00:27:24,306
+could be playing with the purse
+
+566
+00:27:30,758 --> 00:27:34,463
+so we can utilize its hands like this.
+
+567
+00:27:35,322 --> 00:27:38,870
+The hands can also be a kind of sub-element.
+
+568
+00:27:38,894 --> 00:27:41,474
+So, raise its hand, and place it near the face.
+
+569
+00:27:51,058 --> 00:27:54,443
+So, when we come to the character and its main element,
+
+570
+00:27:54,467 --> 00:27:57,536
+in a character illustration, the face is the main element.
+
+571
+00:27:57,702 --> 00:27:59,534
+We look at the face first,
+
+572
+00:27:59,558 --> 00:28:02,796
+then the objects we see next will be placed close to the face.
+
+573
+00:28:02,820 --> 00:28:06,136
+So, the character could be cute, or cheerful
+
+574
+00:28:06,160 --> 00:28:08,043
+or give a strong first impression.
+
+575
+00:28:08,271 --> 00:28:10,067
+What does that mean?
+
+576
+00:28:10,091 --> 00:28:11,500
+Let's take a quick look.
+
+577
+00:28:11,728 --> 00:28:14,267
+But first,
+
+578
+00:28:16,220 --> 00:28:18,141
+I'll use the space here.
+
+579
+00:28:22,138 --> 00:28:25,589
+Let's say this character is aggressive.
+
+580
+00:28:30,517 --> 00:28:32,711
+If it is very aggressive,
+
+581
+00:28:43,114 --> 00:28:48,003
+it could bite the fish like this.
+
+582
+00:28:55,218 --> 00:28:57,178
+If you take a brief glance,
+
+583
+00:28:57,202 --> 00:29:00,536
+it would look scary and obsessive.
+
+584
+00:29:02,685 --> 00:29:05,400
+Of course, to make this clear,
+
+585
+00:29:05,424 --> 00:29:07,165
+you can change the posture like this.
+
+586
+00:29:08,805 --> 00:29:11,715
+Then it will look more natural, but anyway,
+
+587
+00:29:11,739 --> 00:29:15,159
+this would also be one of the ways
+
+588
+00:29:17,067 --> 00:29:18,148
+to give a strong first impression
+
+589
+00:29:18,172 --> 00:29:19,801
+by placing the character and the sub-elements close to each other.
+
+590
+00:29:20,042 --> 00:29:21,637
+Then, on the other hand,
+
+591
+00:29:21,661 --> 00:29:24,795
+if this goes further away from the character,
+
+592
+00:29:24,819 --> 00:29:27,165
+or, if it doesn't have a strong impression,
+
+593
+00:29:27,189 --> 00:29:29,847
+the illustration would become calm
+
+594
+00:29:29,871 --> 00:29:32,503
+since we can then fully concentrate on the character.
+
+595
+00:29:32,867 --> 00:29:33,909
+That is why
+
+596
+00:29:33,933 --> 00:29:36,396
+when you're placing this object with the character
+
+597
+00:29:36,420 --> 00:29:38,505
+you can make this object obscure
+
+598
+00:29:39,921 --> 00:29:41,976
+by making it come closer
+
+599
+00:29:43,947 --> 00:29:45,570
+to the viewer.
+
+600
+00:29:46,658 --> 00:29:48,948
+So that way, it would be further apart from the character.
+
+601
+00:29:49,319 --> 00:29:53,642
+Then, if we're going for a calmer look,
+
+602
+00:30:17,575 --> 00:30:20,465
+remember how I said the hands could be a sub-element?
+
+603
+00:30:33,805 --> 00:30:36,064
+I'll spray water like this.
+
+604
+00:30:39,541 --> 00:30:41,292
+So, compared to the previous examples,
+
+605
+00:30:41,316 --> 00:30:43,870
+the fish is far apart from the character,
+
+606
+00:30:43,894 --> 00:30:46,435
+and we almost can't see it.
+
+607
+00:30:46,872 --> 00:30:48,102
+So, that's why
+
+608
+00:30:48,126 --> 00:30:50,941
+compared to the previous examples,
+
+609
+00:30:50,965 --> 00:30:52,560
+we can now focus more on
+
+610
+00:30:52,562 --> 00:30:54,207
+the character.
+
+611
+00:30:56,618 --> 00:30:58,786
+We would only focus on the facial area for this example
+
+612
+00:30:58,810 --> 00:31:02,112
+and for this example too.
+
+613
+00:31:02,307 --> 00:31:05,543
+But, with this example, the viewer's gaze would be more spread out.
+
+614
+00:31:05,804 --> 00:31:08,349
+So, you can now see
+
+615
+00:31:08,373 --> 00:31:11,360
+that this illustration looks calm and mature
+
+616
+00:31:11,361 --> 00:31:12,715
+compared to the previous ones.
+
+617
+00:31:14,189 --> 00:31:15,784
+Because the X shape on the fish is really casual,
+
+618
+00:31:15,808 --> 00:31:18,942
+if we move the fish
+
+619
+00:31:18,966 --> 00:31:21,976
+more forwards so that we almost can't see it,
+
+620
+00:31:22,353 --> 00:31:25,628
+it will look even more calm and mature.
+
+621
+00:31:26,845 --> 00:31:28,148
+Let's wrap it up.
+
+622
+00:31:29,736 --> 00:31:31,474
+Because there were a lot of hard concepts.
+
+623
+00:31:32,529 --> 00:31:34,365
+When there's only one character,
+
+624
+00:31:34,389 --> 00:31:36,605
+when you are directing the gaze,
+
+625
+00:31:36,629 --> 00:31:38,629
+you have to divide
+
+626
+00:31:38,766 --> 00:31:41,637
+the main and sub elements within a character.
+
+627
+00:31:42,073 --> 00:31:44,194
+For example, like I emphasized,
+
+628
+00:31:44,196 --> 00:31:45,705
+the character's upper body.
+
+629
+00:31:45,895 --> 00:31:48,584
+If you are going for a more dynamic pose,
+
+630
+00:31:48,608 --> 00:31:51,155
+don't make the gaze flow
+
+631
+00:31:51,179 --> 00:31:52,907
+go in a straight line,
+
+632
+00:31:54,013 --> 00:31:56,064
+and add in as many elements as possible.
+
+633
+00:31:56,494 --> 00:31:58,538
+On the other hand, when you do a calm illustration,
+
+634
+00:31:58,563 --> 00:32:00,094
+I said to reduce the amount of information,
+
+635
+00:32:00,765 --> 00:32:03,115
+and it's better to keep the flow of the gaze
+
+636
+00:32:03,139 --> 00:32:05,862
+from the top left to the bottom right.
+
+637
+00:32:06,650 --> 00:32:09,905
+Next, when you connect things together,
+
+638
+00:32:09,929 --> 00:32:12,952
+this thing that serves as a sub-element,
+
+639
+00:32:12,977 --> 00:32:16,097
+the closer the item "object"
+
+640
+00:32:16,279 --> 00:32:18,675
+is to the face of the character and the main element,
+
+641
+00:32:18,699 --> 00:32:20,316
+it gives a stronger impression.
+
+642
+00:32:20,340 --> 00:32:22,204
+If you place this one further away,
+
+643
+00:32:22,228 --> 00:32:24,697
+it gives a calm impression overall.
+
+644
+00:32:25,504 --> 00:32:27,288
+It's the layout method of the characters and objects
+
+645
+00:32:27,312 --> 00:32:30,491
+when you use the sub-element section.
+
+646
+00:32:31,452 --> 00:32:33,452
+Let's look at another case.
+
+647
+00:32:33,476 --> 00:32:36,188
+It's the case where multiple characters are deployed.
+
+648
+00:32:36,839 --> 00:32:38,818
+The reason I split up the examples is because
+
+649
+00:32:38,842 --> 00:32:41,579
+if we have multiple characters,
+
+650
+00:32:41,603 --> 00:32:43,603
+we already have two main elements.
+
+651
+00:32:43,627 --> 00:32:46,780
+Remember when I previously compared the character to the meat in a dish?
+
+652
+00:32:46,804 --> 00:32:48,213
+So, in that sense,
+
+653
+00:32:48,237 --> 00:32:50,856
+this is like a dish with chicken and pork.
+
+654
+00:32:51,194 --> 00:32:53,069
+So, if we slip up,
+
+655
+00:32:53,093 --> 00:32:54,298
+it could be an ambiguous dish
+
+656
+00:32:54,310 --> 00:32:56,689
+without an actual theme.
+
+657
+00:32:56,943 --> 00:32:58,909
+So when you're placing two important elements,
+
+658
+00:32:58,934 --> 00:33:00,797
+in other words, complex information,
+
+659
+00:33:00,821 --> 00:33:02,454
+you need to be very careful
+
+660
+00:33:02,466 --> 00:33:04,332
+when you're placing your characters.
+
+661
+00:33:05,980 --> 00:33:07,607
+A common mistake is
+
+662
+00:33:07,631 --> 00:33:09,840
+placing characters side by side.
+
+663
+00:33:10,843 --> 00:33:13,043
+Now, when you're placing them,
+
+664
+00:33:13,067 --> 00:33:14,736
+you need to decide
+
+665
+00:33:14,760 --> 00:33:17,217
+how you would direct the gaze.
+
+666
+00:33:17,241 --> 00:33:19,241
+You need to decide if you'll split them into a 5:5 ratio
+
+667
+00:33:19,808 --> 00:33:23,415
+or if you'll split them into a 7:3 ratio.
+
+668
+00:33:23,727 --> 00:33:26,540
+In other words, you need to decide what's important.
+
+669
+00:33:27,275 --> 00:33:28,343
+Like I mentioned,
+
+670
+00:33:28,367 --> 00:33:31,559
+our gazes focus on the characters the most.
+
+671
+00:33:31,800 --> 00:33:34,411
+And if an illustration has more than two characters,
+
+672
+00:33:34,435 --> 00:33:37,900
+it means there are more than two main elements.
+
+673
+00:33:38,675 --> 00:33:41,129
+So, how would you approach this?
+
+674
+00:33:41,153 --> 00:33:45,016
+Like we did to this illustration with only one character,
+
+675
+00:33:45,400 --> 00:33:48,597
+we divided what is the main element from what are the sub-elements.
+
+676
+00:33:48,621 --> 00:33:52,047
+So we can also decide who is the main element between these two characters.
+
+677
+00:33:52,594 --> 00:33:54,144
+This is used often.
+
+678
+00:33:54,168 --> 00:33:56,025
+But if this doesn't suit you
+
+679
+00:33:56,049 --> 00:33:58,779
+and if you want to split the screen
+
+680
+00:33:58,901 --> 00:34:00,029
+at a 5:5 ratio,
+
+681
+00:34:00,053 --> 00:34:01,885
+you need to put a lot of information into it.
+
+682
+00:34:01,909 --> 00:34:03,909
+It's an illustration with a lot of information.
+
+683
+00:34:04,209 --> 00:34:06,292
+Since there's a lot of information,
+
+684
+00:34:06,316 --> 00:34:08,603
+you should make the other one look calm,
+
+685
+00:34:11,247 --> 00:34:12,594
+or out of the two,
+
+686
+00:34:12,900 --> 00:34:15,159
+you need to decide on it well.
+
+687
+00:34:15,322 --> 00:34:17,790
+Usually, when you have multiple characters,
+
+688
+00:34:17,815 --> 00:34:19,267
+there are several patterns.
+
+689
+00:34:19,391 --> 00:34:21,097
+When it comes to placing the body,
+
+690
+00:34:21,878 --> 00:34:23,681
+the reason why it has these patterns is,
+
+691
+00:34:23,773 --> 00:34:27,002
+I said this is a really bad example before,
+
+692
+00:34:27,132 --> 00:34:29,359
+the reason why I don't like this view is
+
+693
+00:34:29,383 --> 00:34:32,399
+there are two starting points for the overall perspective.
+
+694
+00:34:33,141 --> 00:34:34,678
+You can see the character on the left first,
+
+695
+00:34:34,702 --> 00:34:36,181
+or the one on the right first.
+
+696
+00:34:36,429 --> 00:34:38,473
+And both of them have nothing to do with a flow.
+
+697
+00:34:38,968 --> 00:34:41,533
+That's why having different perspectives
+
+698
+00:34:41,557 --> 00:34:44,170
+means two gazes exist.
+
+699
+00:34:44,194 --> 00:34:46,689
+From the perspective of the people who are looking at the illustration,
+
+700
+00:34:46,713 --> 00:34:49,964
+it becomes a very confusing illustration.
+
+701
+00:34:50,218 --> 00:34:52,217
+Then if you want to draw an illustration
+
+702
+00:34:52,241 --> 00:34:54,997
+of these two characters facing each other,
+
+703
+00:34:55,021 --> 00:34:56,559
+then what should we do?
+
+704
+00:34:56,680 --> 00:34:59,743
+You need to tie up the flow,
+
+705
+00:34:59,768 --> 00:35:00,719
+somewhere.
+
+706
+00:35:01,299 --> 00:35:03,167
+I'll show you how to tie it up.
+
+707
+00:35:05,732 --> 00:35:07,776
+Let's say the two characters are at odds.
+
+708
+00:35:53,734 --> 00:35:55,570
+This is one of the ways to use it.
+
+709
+00:35:56,273 --> 00:35:58,323
+To explain this flow,
+
+710
+00:36:06,227 --> 00:36:07,523
+let me explain.
+
+711
+00:36:07,547 --> 00:36:10,511
+The flow of the body is
+
+712
+00:36:10,535 --> 00:36:12,106
+placed like this.
+
+713
+00:36:12,130 --> 00:36:16,240
+If you say that the eyes are drawn separately from the previous one,
+
+714
+00:36:16,264 --> 00:36:19,918
+in the middle, they will meet somewhere nearby the waist.
+
+715
+00:36:19,942 --> 00:36:22,477
+You'll be able to see that the gaze is tied up.
+
+716
+00:36:22,770 --> 00:36:25,342
+So, if it's an illustration where the characters
+
+717
+00:36:27,607 --> 00:36:29,580
+are just standing next to each other,
+
+718
+00:37:05,153 --> 00:37:07,054
+the example that I just drew
+
+719
+00:37:08,968 --> 00:37:11,299
+and the left example where we directed the gaze into one
+
+720
+00:37:11,323 --> 00:37:14,369
+will have different amounts of focus.
+
+721
+00:37:14,949 --> 00:37:17,800
+There are other kinds of information too.
+
+722
+00:37:17,825 --> 00:37:18,829
+What are they?
+
+723
+00:37:19,272 --> 00:37:23,849
+If you see the gaze here, you can see that they draw a line.
+
+724
+00:37:25,672 --> 00:37:27,963
+So, we made a more natural connection
+
+725
+00:37:27,987 --> 00:37:29,597
+between these two characters.
+
+726
+00:37:29,621 --> 00:37:32,175
+One has a high angle, the other has a low angle.
+
+727
+00:37:32,199 --> 00:37:35,899
+Also, it looks as if the bodies
+
+728
+00:37:35,923 --> 00:37:38,093
+are intertwined with each other.
+
+729
+00:37:38,334 --> 00:37:40,442
+So overall, the two characters
+
+730
+00:37:40,444 --> 00:37:42,388
+look like they're stuck to each other.
+
+731
+00:37:42,479 --> 00:37:44,728
+Unlike these characters,
+
+732
+00:37:44,752 --> 00:37:46,420
+this composition helps
+
+733
+00:37:46,422 --> 00:37:48,420
+to draw far more attention to the middle.
+
+734
+00:37:48,764 --> 00:37:50,965
+So, when you have to confront the two characters,
+
+735
+00:37:50,989 --> 00:37:54,122
+you need to tie the gaze like this.
+
+736
+00:37:54,278 --> 00:37:56,453
+There are other ways to tie it.
+
+737
+00:38:04,246 --> 00:38:06,700
+Let's say it was tied in the middle,
+
+738
+00:38:33,478 --> 00:38:35,248
+with the arms crossed
+
+739
+00:38:44,122 --> 00:38:44,807
+like this
+
+740
+00:38:45,184 --> 00:38:47,020
+so it's different from the previous one.
+
+741
+00:38:47,044 --> 00:38:49,937
+It's not tied in the middle but from the top.
+
+742
+00:38:49,961 --> 00:38:52,307
+This is also one of the possible gaze adjustments.
+
+743
+00:38:52,331 --> 00:38:55,647
+Compared to people standing still,
+
+744
+00:38:55,671 --> 00:38:58,023
+it feels like it makes the illustration fuller.
+
+745
+00:38:59,546 --> 00:39:01,923
+Compared to the one tied me up in the middle,
+
+746
+00:39:01,947 --> 00:39:04,588
+it's going to be wider in the middle,
+
+747
+00:39:04,612 --> 00:39:07,882
+so this is a diamond silhouette that we'll learn in the next class.
+
+748
+00:39:08,071 --> 00:39:10,740
+It's a silhouette that gives a flashy impression.
+
+749
+00:39:10,765 --> 00:39:13,553
+So even if you look at the illustrations at the top,
+
+750
+00:39:13,577 --> 00:39:16,163
+you'll be able to see that it's much more intense.
+
+751
+00:39:18,494 --> 00:39:19,327
+But, let's say
+
+752
+00:39:19,351 --> 00:39:22,029
+these two characters are friends with each other
+
+753
+00:39:22,053 --> 00:39:24,053
+and you want to show that.
+
+754
+00:39:24,077 --> 00:39:27,596
+Then, their bodies won't confront each other
+
+755
+00:39:28,234 --> 00:39:31,007
+but overlap each other.
+
+756
+00:39:40,265 --> 00:39:41,931
+In this case,
+
+757
+00:39:41,955 --> 00:39:45,833
+when you make these bodies overlap,
+
+758
+00:39:45,857 --> 00:39:47,767
+the canvas won't be split into a 5:5 ratio.
+
+759
+00:39:47,791 --> 00:39:50,703
+Instead, one character becomes the main element.
+
+760
+00:39:51,119 --> 00:39:54,303
+If the canvas is split in a 5:5 ratio,
+
+761
+00:39:54,327 --> 00:39:57,474
+the viewers would be taking in a lot of information.
+
+762
+00:39:57,498 --> 00:39:59,622
+From their point of view,
+
+763
+00:39:59,646 --> 00:40:01,497
+both the characters are important,
+
+764
+00:40:01,521 --> 00:40:03,027
+and they would have to look at both of them because they're hugging each other.
+
+765
+00:40:03,051 --> 00:40:05,360
+But, if it's a situation where they're hugging,
+
+766
+00:40:05,362 --> 00:40:07,278
+it would be an intense situation.
+
+767
+00:40:07,774 --> 00:40:10,341
+What is an intense situation?
+
+768
+00:40:10,365 --> 00:40:12,735
+If they went from staring at each other
+
+769
+00:40:13,460 --> 00:40:15,436
+or clashing with each other
+
+770
+00:40:15,460 --> 00:40:19,253
+to hugging and embracing each other,
+
+771
+00:40:19,277 --> 00:40:22,400
+then, the latter would have a more natural flow.
+
+772
+00:40:22,629 --> 00:40:25,017
+So, if you have a more natural flow,
+
+773
+00:40:25,041 --> 00:40:27,886
+you should set one of the characters as the main element.
+
+774
+00:40:38,382 --> 00:40:40,642
+Use both low and high angles,
+
+775
+00:41:07,874 --> 00:41:09,454
+and if you compose things like that,
+
+776
+00:41:09,478 --> 00:41:12,729
+because the overall flow of the bodies overlap each other,
+
+777
+00:41:12,841 --> 00:41:15,620
+the characters would look very close.
+
+778
+00:41:15,644 --> 00:41:18,265
+So, this is used often to give that impression.
+
+779
+00:41:18,289 --> 00:41:20,815
+When you use multiple characters,
+
+780
+00:41:20,839 --> 00:41:24,565
+to make that the character's layout not too straight,
+
+781
+00:41:24,589 --> 00:41:26,267
+I try to avoid such situations.
+
+782
+00:41:26,291 --> 00:41:28,767
+And the main elements of the two characters...
+
+783
+00:41:28,791 --> 00:41:30,693
+Will it be 5:5?
+
+784
+00:41:30,717 --> 00:41:34,465
+Or are you going to make it 7:3?
+
+785
+00:41:34,489 --> 00:41:37,495
+It's important to think about it.
+
+786
+00:41:37,519 --> 00:41:40,056
+Usually, when the characters are overlapped,
+
+787
+00:41:40,080 --> 00:41:42,021
+it's 7:3.
+
+788
+00:41:43,377 --> 00:41:46,362
+And when the characters are in conflict
+
+789
+00:41:46,386 --> 00:41:47,997
+and if it's about 5:5,
+
+790
+00:41:48,021 --> 00:41:50,118
+regardless of the gaze,
+
+791
+00:41:50,142 --> 00:41:52,729
+it's very effective to tie it up once.
+
+792
+00:41:52,753 --> 00:41:56,172
+Whether it's in the middle or above,
+
+793
+00:41:56,302 --> 00:41:59,550
+it doesn't matter if it's down there.
+
+794
+00:41:59,575 --> 00:42:01,687
+Try to draw the attention
+
+795
+00:42:01,711 --> 00:42:03,389
+and it's the same for putting them together.
+
+796
+00:42:03,413 --> 00:42:04,979
+Direct the gaze into one point.
+
+797
+00:42:05,003 --> 00:42:07,066
+Two friends who are strong-willed,
+
+798
+00:42:07,090 --> 00:42:10,482
+you need to be able to make them neat and use them together.
+
+799
+00:42:10,506 --> 00:42:13,009
+Mix the chicken and pork well.
+
+800
+00:42:13,033 --> 00:42:15,033
+I mean, we should make ham or something with it.
+
+801
+00:42:15,387 --> 00:42:18,503
+Let's wrap it up here.
+
+802
+00:42:18,527 --> 00:42:20,348
+We have a long time to list the things we've learned today.
+
+803
+00:42:20,372 --> 00:42:22,372
+Since we went through some difficult content,
+
+804
+00:42:22,396 --> 00:42:24,074
+let's talk about it one more time.
+
+805
+00:42:24,212 --> 00:42:25,912
+Let's start from the beginning.
+
+806
+00:42:26,435 --> 00:42:29,644
+Today, we learned about how to deal with the gaze.
+
+807
+00:42:29,897 --> 00:42:31,345
+The gaze in the illustration is
+
+808
+00:42:31,369 --> 00:42:33,695
+about the order of how
+
+809
+00:42:33,720 --> 00:42:36,117
+viewers look at this illustration.
+
+810
+00:42:36,219 --> 00:42:38,720
+Most of the time, our eyes move from the top left to the bottom right,
+
+811
+00:42:38,721 --> 00:42:40,491
+and it's based on the flow.
+
+812
+00:42:41,003 --> 00:42:42,691
+In the illustration,
+
+813
+00:42:42,715 --> 00:42:45,576
+you need to be able to hold onto that gaze for as long as possible.
+
+814
+00:42:46,165 --> 00:42:47,600
+In order to do that
+
+815
+00:42:47,624 --> 00:42:49,843
+the gaze has to flow smoothly,
+
+816
+00:42:50,029 --> 00:42:52,769
+and there have to be a lot of parts involved.
+
+817
+00:42:53,431 --> 00:42:55,852
+In the meantime, in the character illustration,
+
+818
+00:42:56,531 --> 00:42:59,290
+the starting point of the eyes is determined.
+
+819
+00:42:59,512 --> 00:43:00,943
+Most of them are faces.
+
+820
+00:43:01,411 --> 00:43:03,352
+Then, when it flows from your face,
+
+821
+00:43:03,376 --> 00:43:06,946
+we need to be able to attract attention effectively.
+
+822
+00:43:07,140 --> 00:43:10,499
+So, we've divided the types of illustrations.
+
+823
+00:43:10,523 --> 00:43:11,950
+It's something that we usually deal with
+
+824
+00:43:11,952 --> 00:43:14,200
+when we draw the character illustration.
+
+825
+00:43:14,652 --> 00:43:15,679
+Frequently used cases.
+
+826
+00:43:15,703 --> 00:43:18,288
+First, when you use a single character.
+
+827
+00:43:18,600 --> 00:43:21,773
+Second, when you connect the character and the object.
+
+828
+00:43:22,056 --> 00:43:25,818
+Third, when you connect the characters.
+
+829
+00:43:26,184 --> 00:43:27,518
+If I were to add one more thing,
+
+830
+00:43:27,533 --> 00:43:29,877
+it'd be when the background is added to the character.
+
+831
+00:43:30,355 --> 00:43:32,374
+In other words, in this situation,
+
+832
+00:43:32,398 --> 00:43:34,700
+when you use a single character,
+
+833
+00:43:34,724 --> 00:43:37,633
+we only have characters to see,
+
+834
+00:43:37,657 --> 00:43:39,414
+even within the character.
+
+835
+00:43:39,416 --> 00:43:40,985
+So that there's more to see,
+
+836
+00:43:40,987 --> 00:43:42,458
+it's important to arrange it.
+
+837
+00:43:42,699 --> 00:43:46,100
+So if the design is complicated, it doesn't matter.
+
+838
+00:43:46,124 --> 00:43:49,189
+If the design is complicated, it's fancy even when it's just standing still.
+
+839
+00:43:49,213 --> 00:43:52,524
+But those with simple designs can't do that.
+
+840
+00:43:52,548 --> 00:43:54,391
+The one with a simple design,
+
+841
+00:43:54,393 --> 00:43:56,440
+I want to draw it as a single illustration.
+
+842
+00:43:56,611 --> 00:43:57,705
+When you say that...
+
+843
+00:43:57,729 --> 00:43:59,191
+inside the character,
+
+844
+00:43:59,192 --> 00:44:01,788
+we need to divide the main element and the sub elements.
+
+845
+00:44:02,584 --> 00:44:06,058
+The main element needs to be highlighted.
+
+846
+00:44:06,683 --> 00:44:08,931
+If you want to express it dynamically,
+
+847
+00:44:08,955 --> 00:44:11,130
+break the gaze we had set before.
+
+848
+00:44:11,899 --> 00:44:14,586
+On the contrary, if you want to do a calm illustration,
+
+849
+00:44:14,610 --> 00:44:17,038
+try to maintain the gaze.
+
+850
+00:44:17,062 --> 00:44:19,472
+If we proceed along it, we will be able to establish a route.
+
+851
+00:44:20,066 --> 00:44:23,047
+That's it for the single character illustration.
+
+852
+00:44:23,071 --> 00:44:25,071
+You'll be able to figure out the direction part.
+
+853
+00:44:25,499 --> 00:44:26,761
+The important thing is
+
+854
+00:44:26,785 --> 00:44:29,333
+to highlight what you want to emphasize.
+
+855
+00:44:29,357 --> 00:44:31,467
+That's what the major element and sub-elements are.
+
+856
+00:44:31,491 --> 00:44:33,642
+Let's think about them separately.
+
+857
+00:44:34,508 --> 00:44:36,929
+I don't do that when I draw characters.
+
+858
+00:44:36,953 --> 00:44:37,971
+Unwillingly,
+
+859
+00:44:37,995 --> 00:44:39,738
+while drawing this character,
+
+860
+00:44:39,762 --> 00:44:41,865
+the shoulder line is the key.
+
+861
+00:44:42,112 --> 00:44:44,047
+If you want the face to be pretty,
+
+862
+00:44:44,071 --> 00:44:46,481
+if you hope this one has a good vibe,
+
+863
+00:44:46,505 --> 00:44:48,926
+and since the design of the outfit is pretty here,
+
+864
+00:44:48,950 --> 00:44:50,291
+you are going to show this side.
+
+865
+00:44:50,315 --> 00:44:53,475
+If you organize the illustration with the intentions
+
+866
+00:44:53,500 --> 00:44:56,396
+that you are going to make people focus on it somehow,
+
+867
+00:44:56,420 --> 00:44:58,794
+the feeling on the screen will be different.
+
+868
+00:44:59,599 --> 00:45:01,252
+It's the same when you use things.
+
+869
+00:45:01,276 --> 00:45:03,530
+The character's face and the object,
+
+870
+00:45:03,554 --> 00:45:05,868
+the closer you put it, the stronger the image becomes.
+
+871
+00:45:06,078 --> 00:45:08,614
+If it is farther away from the character's face,
+
+872
+00:45:08,639 --> 00:45:11,240
+overall, it has a calm image.
+
+873
+00:45:12,009 --> 00:45:13,902
+When deploying multiple characters,
+
+874
+00:45:13,926 --> 00:45:17,099
+you can put the two characters in conflict or combine them.
+
+875
+00:45:17,123 --> 00:45:20,116
+The flow of the body must be well arranged,
+
+876
+00:45:20,140 --> 00:45:21,583
+and so on,
+
+877
+00:45:21,607 --> 00:45:23,842
+as a result, when you configure the screen,
+
+878
+00:45:23,866 --> 00:45:26,318
+it's better to direct the way you think.
+
+879
+00:45:26,342 --> 00:45:29,371
+In the end, it's directing and that would be the recipe.
+
+880
+00:45:29,395 --> 00:45:31,685
+In the end, the dish called drawing,
+
+881
+00:45:31,709 --> 00:45:33,788
+to make it delicious,
+
+882
+00:45:33,813 --> 00:45:36,733
+in our curriculum,
+
+883
+00:45:36,757 --> 00:45:39,768
+the most important thing is this recipe.
+
+884
+00:45:40,813 --> 00:45:44,377
+Today, we briefly talked about directing.
+
+885
+00:45:44,401 --> 00:45:46,444
+Actually, it's a bit difficult.
+
+886
+00:45:46,469 --> 00:45:49,606
+Of course, even if you didn't understand today,
+
+887
+00:45:49,630 --> 00:45:52,394
+there's a silhouette class in the next chapter.
+
+888
+00:45:52,418 --> 00:45:53,902
+And a design class later on.
+
+889
+00:45:53,926 --> 00:45:56,264
+Colors and things like that.
+
+890
+00:45:56,288 --> 00:45:57,504
+In going through those,
+
+891
+00:45:57,506 --> 00:46:00,352
+we'll continue to talk about directing.
+
+892
+00:46:00,670 --> 00:46:04,456
+In this curriculum, we reduced the basic skills.
+
+893
+00:46:04,480 --> 00:46:06,902
+The reason why I'm emphasizing this part is
+
+894
+00:46:06,926 --> 00:46:11,121
+with the original goal of drawing how you think,
+
+895
+00:46:11,145 --> 00:46:14,480
+I think that fits the best with this direction part.
+
+896
+00:46:14,505 --> 00:46:15,520
+Why would we do that?
+
+897
+00:46:15,544 --> 00:46:18,350
+Usually, we don't even think about it.
+
+898
+00:46:18,352 --> 00:46:19,897
+We often skipped this section.
+
+899
+00:46:20,187 --> 00:46:23,354
+People come up with a specific character in their minds.
+
+900
+00:46:23,481 --> 00:46:25,800
+But while drawing that character,
+
+901
+00:46:25,802 --> 00:46:27,386
+what did you want to show?
+
+902
+00:46:27,441 --> 00:46:30,651
+I hope you think about it again while taking today's class.
+
+903
+00:46:31,119 --> 00:46:32,401
+When you draw this character,
+
+904
+00:46:32,403 --> 00:46:34,850
+make sure you show the viewers what you wanted to show them properly.
+
+905
+00:46:34,851 --> 00:46:36,851
+And double-check
+
+906
+00:46:37,874 --> 00:46:39,803
+if you have second thoughts about it.
+
+907
+00:46:39,827 --> 00:46:42,988
+I hope you use these ideas well when you organize your illustration.
+
+908
+00:46:43,836 --> 00:46:45,578
+That's all for today.
+
+909
+00:46:45,602 --> 00:46:48,175
+I'll go over more details in the next class.
+
+910
+00:46:48,199 --> 00:46:50,416
+We're going to talk about the silhouette.
+
+911
+00:46:50,440 --> 00:46:52,346
+And,
+
+912
+00:46:52,348 --> 00:46:54,474
+we'll have some time to practice it.
+
+913
+00:46:56,985 --> 00:46:58,529
+Today, we used a character
+
+914
+00:46:58,553 --> 00:47:01,017
+to make up an illustration.
+
+915
+00:47:01,041 --> 00:47:03,697
+In the next class, we will handle the way
+
+916
+00:47:03,721 --> 00:47:05,885
+you can apply the gaze when you design.
+
+917
+00:47:06,582 --> 00:47:09,310
+This gaze is not only used in illustrations,
+
+918
+00:47:09,334 --> 00:47:11,041
+but you can use it when you design.
+
+919
+00:47:11,065 --> 00:47:13,818
+Let's see how we can use it in the next class.
+
+920
+00:47:13,842 --> 00:47:15,224
+We're going to talk about it together.
+
+921
+00:47:15,621 --> 00:47:17,459
+Thank you for your hard work today.
+
+922
+00:47:17,484 --> 00:47:20,123
+I'll see you next time.
+

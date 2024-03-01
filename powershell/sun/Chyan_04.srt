@@ -1,0 +1,4393 @@
+1
+00:00:00,001 --> 00:00:05,617
+If you want to turn off the subtitles,
+click [setting]-[tooltips]-['on' for PC, 'close' for mobile].
+
+2
+00:00:06,211 --> 00:00:07,250
+Hello.
+
+3
+00:00:07,726 --> 00:00:11,028
+Let's start Chapter 4, 'Understanding Movements Based on Human Anatomy Simplification'.
+
+4
+00:00:11,426 --> 00:00:15,636
+Last time, we went over the proportions of the human body.
+
+5
+00:00:15,661 --> 00:00:17,294
+Now that you've learned proportions,
+
+6
+00:00:17,319 --> 00:00:22,052
+you can now draw the human body
+
+7
+00:00:22,077 --> 00:00:25,712
+so that it looks solid to some extent, not flat.
+
+8
+00:00:25,919 --> 00:00:28,575
+Let me draw an example.
+
+9
+00:00:33,880 --> 00:00:36,075
+For the detailed outlines,
+
+10
+00:00:36,100 --> 00:00:42,044
+I recommend you study on your own
+
+11
+00:00:42,069 --> 00:00:46,036
+the things you need to practice
+
+12
+00:00:46,061 --> 00:00:47,747
+by looking at photo references and anatomy resources on the Internet.
+
+13
+00:00:47,772 --> 00:00:50,058
+You can also read books to study.
+
+14
+00:00:50,083 --> 00:00:52,817
+Like I mentioned before,
+
+15
+00:00:52,989 --> 00:00:54,442
+even if I don't draw extra lines,
+
+16
+00:00:54,467 --> 00:00:57,778
+it won't be a big problem
+
+17
+00:00:57,803 --> 00:00:59,474
+since the character is going to have clothes later on.
+
+18
+00:00:59,599 --> 00:01:02,911
+For now, I hope that you
+
+19
+00:01:02,936 --> 00:01:04,199
+are able to at least
+
+20
+00:01:04,224 --> 00:01:07,310
+draw the basic form of the body.
+
+21
+00:01:07,989 --> 00:01:09,724
+That's all that is needed for now.
+
+22
+00:01:09,927 --> 00:01:11,997
+If you can draw that,
+
+23
+00:01:12,350 --> 00:01:14,739
+you'll have no problem taking this course.
+
+24
+00:01:16,333 --> 00:01:20,380
+As long as that isn't too difficult to draw,
+
+25
+00:01:20,405 --> 00:01:21,278
+it won't be a problem.
+
+26
+00:01:23,310 --> 00:01:25,231
+And of course, it's okay
+
+27
+00:01:26,419 --> 00:01:27,528
+even if drawing this is a bit difficult for now.
+
+28
+00:01:28,028 --> 00:01:30,317
+I'll go over today's lecture
+
+29
+00:01:30,614 --> 00:01:32,816
+in a way that is easy to follow.
+
+30
+00:01:32,841 --> 00:01:34,556
+In the previous lecture, I drew a mannequin
+
+31
+00:01:34,558 --> 00:01:37,210
+just like this.
+
+32
+00:01:37,235 --> 00:01:40,224
+Today, we're going to learn
+
+33
+00:01:40,249 --> 00:01:41,755
+how to move this mannequin.
+
+34
+00:01:42,513 --> 00:01:44,325
+Now, it's important to be able
+
+35
+00:01:44,350 --> 00:01:47,497
+to draw a character's pose any way you want
+
+36
+00:01:47,522 --> 00:01:48,333
+after learning how to move this mannequin.
+
+37
+00:01:48,358 --> 00:01:50,833
+Previously, I went over the three elements of the human body,
+
+38
+00:01:50,858 --> 00:01:59,122
+which are movements, proportions, and lines.
+
+39
+00:01:59,630 --> 00:02:03,052
+Today, I'll go over the movements.
+
+40
+00:02:03,231 --> 00:02:04,769
+Personally, I think this element
+
+41
+00:02:04,771 --> 00:02:07,128
+is the most important one.
+
+42
+00:02:07,153 --> 00:02:10,106
+As I mentioned before, your illustration will look good
+
+43
+00:02:10,131 --> 00:02:11,512
+if the pose is described naturally.
+
+44
+00:02:11,514 --> 00:02:13,880
+So, let me tell you
+
+45
+00:02:13,905 --> 00:02:15,425
+what this movement is all about.
+
+46
+00:02:15,450 --> 00:02:17,669
+You might have heard
+
+47
+00:02:17,694 --> 00:02:18,902
+things like this:
+
+48
+00:02:18,904 --> 00:02:21,367
+When a shoulder is raised upwards,
+
+49
+00:02:21,369 --> 00:02:23,333
+or when it is pushed forwards,
+
+50
+00:02:24,700 --> 00:02:28,377
+naturally, the pelvis on the opposite side is raised upwards.
+
+51
+00:02:28,747 --> 00:02:31,958
+Or, the pelvis on the same side goes downwards.
+
+52
+00:02:32,114 --> 00:02:33,817
+Anatomy theories like this,
+
+53
+00:02:34,707 --> 00:02:44,823
+they are commonly referred to as contrapposto.
+
+54
+00:02:44,848 --> 00:02:48,451
+Nevertheless, you don't have to always follow them.
+
+55
+00:02:48,453 --> 00:02:51,002
+In real life, even if it's a bit awkward, you might sometimes walk
+
+56
+00:02:51,027 --> 00:02:54,385
+with your left foot and hand stretched forwards together.
+
+57
+00:02:54,410 --> 00:02:57,049
+So, this contrapposto,
+
+58
+00:02:57,074 --> 00:02:59,394
+isn't always strictly applied to all poses.
+
+59
+00:02:59,396 --> 00:03:02,034
+A contrapposto is a guideline when a character does a certain pose
+
+60
+00:03:02,059 --> 00:03:04,151
+they would look more comfortable
+
+61
+00:03:04,323 --> 00:03:06,690
+and their anatomy would look more natural.
+
+62
+00:03:06,715 --> 00:03:08,824
+Thus, even if we don't apply the contrapposto,
+
+63
+00:03:08,826 --> 00:03:11,346
+we can still draw the poses.
+
+64
+00:03:11,371 --> 00:03:12,877
+However, if we do so,
+
+65
+00:03:12,902 --> 00:03:16,010
+the illustration would look very awkward.
+
+66
+00:03:16,035 --> 00:03:17,729
+So we don't do that often when we actually draw.
+
+67
+00:03:17,754 --> 00:03:20,799
+Just keep that in mind.
+
+68
+00:03:21,159 --> 00:03:22,979
+Sometimes, when you're drawing,
+
+69
+00:03:22,981 --> 00:03:25,276
+you might actually pose the same as the character
+
+70
+00:03:25,301 --> 00:03:27,462
+and take a picture of yourself.
+
+71
+00:03:27,487 --> 00:03:30,563
+Or, you might try to capture the posing in all the different angles
+
+72
+00:03:30,588 --> 00:03:32,639
+and check if the poses
+
+73
+00:03:32,641 --> 00:03:34,399
+are physically correct or not.
+
+74
+00:03:34,424 --> 00:03:36,143
+Now, when you're doing that, the standard would be
+
+75
+00:03:36,168 --> 00:03:38,323
+whether you feel comfortable in the pose or not.
+
+76
+00:03:38,348 --> 00:03:40,956
+And that would be it
+
+77
+00:03:40,981 --> 00:03:42,510
+for the theories regarding contrapposto.
+
+78
+00:03:42,799 --> 00:03:44,532
+When a shoulder is raised upwards,
+
+79
+00:03:44,557 --> 00:03:46,440
+the pelvis on the same side goes downwards.
+
+80
+00:03:46,674 --> 00:03:49,104
+And when a shoulder is pushed forwards,
+
+81
+00:03:50,010 --> 00:03:51,351
+like this,
+
+82
+00:03:51,376 --> 00:03:52,713
+when we look at it from upwards,
+
+83
+00:03:53,120 --> 00:03:55,698
+the pelvis on the opposite side moves forwards,
+
+84
+00:03:57,417 --> 00:03:58,167
+like this.
+
+85
+00:04:00,198 --> 00:04:01,924
+This is all you need to know
+
+86
+00:04:01,949 --> 00:04:04,501
+when you draw movements.
+
+87
+00:04:04,526 --> 00:04:08,292
+And it is the best
+
+88
+00:04:08,317 --> 00:04:09,112
+to learn while actually drawing.
+
+89
+00:04:09,137 --> 00:04:12,221
+It is important to move the mannequin in your head
+
+90
+00:04:12,246 --> 00:04:15,432
+and you need to be used to it.
+
+91
+00:04:16,002 --> 00:04:19,042
+But even if it is a simple mannequin,
+
+92
+00:04:19,067 --> 00:04:21,198
+like the one we looked at last time
+
+93
+00:04:21,223 --> 00:04:24,432
+it is still hard to move it in your head.
+
+94
+00:04:24,721 --> 00:04:25,915
+This is why
+
+95
+00:04:25,917 --> 00:04:28,165
+we have to go through one more process,
+
+96
+00:04:28,190 --> 00:04:30,352
+and that would be the simplification process.
+
+97
+00:04:35,948 --> 00:04:40,936
+The simplification process would literally be
+
+98
+00:04:40,961 --> 00:04:41,992
+making the character easier to draw.
+
+99
+00:04:42,102 --> 00:04:45,014
+Or, the same term is used
+
+100
+00:04:45,016 --> 00:04:46,297
+when we make the character easier to imagine.
+
+101
+00:04:47,164 --> 00:04:48,335
+It might seem out of the blue,
+
+102
+00:04:48,360 --> 00:04:51,071
+but I really like drawings done by animators.
+
+103
+00:04:53,289 --> 00:04:56,860
+Because of their jobs,
+
+104
+00:04:56,885 --> 00:05:00,117
+at maximum, they draw over 100 pieces a day.
+
+105
+00:05:00,875 --> 00:05:03,414
+To draw over 100 pieces, you'll need to draw a lot,
+
+106
+00:05:03,439 --> 00:05:05,141
+and when something goes wrong while drawing,
+
+107
+00:05:05,166 --> 00:05:07,797
+the final movement would look awkward.
+
+108
+00:05:08,789 --> 00:05:11,953
+So when you look at the rough drafts drawn by animators,
+
+109
+00:05:11,978 --> 00:05:15,227
+in other words, the simplified drawings,
+
+110
+00:05:15,252 --> 00:05:17,877
+they have very accurate proportions.
+
+111
+00:05:18,078 --> 00:05:20,133
+You can see a lot of the details are excluded here.
+
+112
+00:05:20,158 --> 00:05:21,999
+If you see the lines,
+
+113
+00:05:22,001 --> 00:05:24,943
+you can see they have a very simple form.
+
+114
+00:05:24,945 --> 00:05:26,977
+Even with clothes, they could be simplified
+
+115
+00:05:27,002 --> 00:05:28,516
+and be drawn like this.
+
+116
+00:05:28,875 --> 00:05:31,171
+Some of you might have seen
+
+117
+00:05:31,173 --> 00:05:32,992
+the original drawings done by animators.
+
+118
+00:05:34,086 --> 00:05:35,813
+If you've seen those,
+
+119
+00:05:35,961 --> 00:05:37,696
+you would have felt they were simplified.
+
+120
+00:05:37,721 --> 00:05:39,407
+A lot of the details are simplified
+
+121
+00:05:39,432 --> 00:05:41,071
+and a lot of things are left out.
+
+122
+00:05:41,096 --> 00:05:42,499
+Actually, right here,
+
+123
+00:05:42,524 --> 00:05:44,969
+the proportions that we learned previously
+
+124
+00:05:44,994 --> 00:05:46,407
+are all applied to the drawing.
+
+125
+00:05:46,789 --> 00:05:48,040
+And this information
+
+126
+00:05:48,042 --> 00:05:49,624
+is applied quite accurately.
+
+127
+00:05:49,649 --> 00:06:03,524
+Because an animator's rough drafts are
+
+128
+00:06:07,071 --> 00:06:08,703
+done rapidly and accurately,
+
+129
+00:06:08,728 --> 00:06:10,532
+you'll get the feeling that their drawing is stabilized.
+
+130
+00:06:10,836 --> 00:06:14,297
+If these animators pick up a trendier drawing style
+
+131
+00:06:14,322 --> 00:06:16,382
+or a coloring style,
+
+132
+00:06:16,407 --> 00:06:20,016
+a lot of them become
+
+133
+00:06:20,041 --> 00:06:21,273
+really popular in the field.
+
+134
+00:06:21,275 --> 00:06:25,006
+For instance, works done by Japanese animators,
+
+135
+00:06:25,008 --> 00:06:26,551
+like Mai Yoneyama,
+
+136
+00:06:26,553 --> 00:06:27,828
+or Hongkkiii -
+
+137
+00:06:28,016 --> 00:06:29,739
+if you look at works done by illustrators
+
+138
+00:06:29,763 --> 00:06:31,297
+who were originally animators,
+
+139
+00:06:31,322 --> 00:06:34,399
+you can really see that they have grasped the basics well.
+
+140
+00:06:35,586 --> 00:06:37,875
+Previously, I mentioned that
+
+141
+00:06:37,900 --> 00:06:41,175
+accuracy and speed are important in the rough draft.
+
+142
+00:06:41,602 --> 00:06:42,833
+Obviously, you'll know why accuracy is important.
+
+143
+00:06:42,835 --> 00:06:45,522
+If you get the proportions wrong, you'll have to fix them later.
+
+144
+00:06:45,547 --> 00:06:47,180
+So you need to be accurate.
+
+145
+00:06:47,205 --> 00:06:49,438
+Then why would you need to draw quickly?
+
+146
+00:06:49,578 --> 00:06:51,928
+I'll tell you the reason why
+
+147
+00:06:51,953 --> 00:06:52,914
+you need to draw quickly.
+
+148
+00:06:52,939 --> 00:06:56,750
+It's related to the reason we use simplification.
+
+149
+00:06:57,149 --> 00:06:58,649
+So, the reason we need to sketch our rough drafts quickly,
+
+150
+00:06:58,674 --> 00:07:01,946
+is because when we remember an image,
+
+151
+00:07:06,539 --> 00:07:08,582
+we aren't given that much time.
+
+152
+00:07:08,584 --> 00:07:11,783
+Actually, when we imagine something in our head,
+
+153
+00:07:11,785 --> 00:07:16,756
+I believe 15 seconds is the maximum we can remember it.
+
+154
+00:07:16,758 --> 00:07:19,347
+When we go past that, the image in our head
+
+155
+00:07:19,349 --> 00:07:20,828
+starts to become blurry.
+
+156
+00:07:20,830 --> 00:07:22,907
+So it's a very brief time.
+
+157
+00:07:24,125 --> 00:07:27,078
+Then, as soon as you go past 15 seconds,
+
+158
+00:07:27,103 --> 00:07:29,086
+what you imagined and what you draw
+
+159
+00:07:29,111 --> 00:07:30,946
+will be more and more different as time passes,
+
+160
+00:07:30,971 --> 00:07:33,770
+so you need to keep adjusting
+
+161
+00:07:33,772 --> 00:07:35,109
+what you are drawing on the canvas
+
+162
+00:07:35,111 --> 00:07:36,971
+so that it becomes similar to what you imagined.
+
+163
+00:07:37,149 --> 00:07:40,131
+To minimize such adjustments,
+
+164
+00:07:40,133 --> 00:07:43,897
+it is good if you have the skills
+
+165
+00:07:43,922 --> 00:07:48,391
+to draw what you have imagined
+
+166
+00:07:48,416 --> 00:07:50,672
+within a 15-30 second timeframe.
+
+167
+00:07:50,836 --> 00:07:53,711
+Then you can draw what you've imagined at once.
+
+168
+00:07:55,414 --> 00:07:58,953
+I've talked about simplification so far.
+
+169
+00:07:59,172 --> 00:08:01,602
+In this process, it is important
+
+170
+00:08:01,780 --> 00:08:03,972
+to accurately and quickly do your sketches.
+
+171
+00:08:03,974 --> 00:08:05,844
+The key point of today's class would
+
+172
+00:08:05,869 --> 00:08:10,094
+focus on quickly and accurately drawing
+
+173
+00:08:10,119 --> 00:08:13,063
+what you've imagined in your head.
+
+174
+00:08:13,088 --> 00:08:15,833
+From now on, we'll focus on the actual exercises.
+
+175
+00:08:16,078 --> 00:08:17,203
+From now on, I'll focus on
+
+176
+00:08:17,228 --> 00:08:19,275
+mostly explaining
+
+177
+00:08:19,277 --> 00:08:21,131
+as I actually draw.
+
+178
+00:08:23,672 --> 00:08:26,435
+But first, before I go into this topic, I'd like to mention
+
+179
+00:08:26,437 --> 00:08:29,821
+that everyone has their own simplification style.
+
+180
+00:08:29,946 --> 00:08:32,117
+Some of you might think that the human body I drew
+
+181
+00:08:32,142 --> 00:08:35,019
+in the previous class is a simplification on its own.
+
+182
+00:08:35,172 --> 00:08:39,852
+Some of you might simplify even more
+
+183
+00:08:39,953 --> 00:08:41,875
+and draw a mannequin
+
+184
+00:08:42,641 --> 00:08:47,781
+like this
+
+185
+00:08:47,806 --> 00:08:50,086
+because you don't have the time to draw everything.
+
+186
+00:08:51,852 --> 00:08:53,608
+And some of you might draw a line
+
+187
+00:08:53,633 --> 00:08:56,800
+for the limbs because of the time limit.
+
+188
+00:08:57,672 --> 00:09:00,548
+Some of you might want to add the volumes
+
+189
+00:09:00,550 --> 00:09:02,375
+and think drawing lines is inappropriate for this.
+
+190
+00:09:02,377 --> 00:09:05,539
+So, you might draw them in cylinders.
+
+191
+00:09:06,110 --> 00:09:08,188
+So the simplification process has no answer.
+
+192
+00:09:08,212 --> 00:09:10,420
+It just has to feel right to you.
+
+193
+00:09:10,610 --> 00:09:13,303
+For those of you already familiar with human anatomy,
+
+194
+00:09:13,328 --> 00:09:16,336
+I'm sure most of you draw the details beforehand
+
+195
+00:09:16,361 --> 00:09:19,383
+in the rough draft stage.
+
+196
+00:09:20,104 --> 00:09:22,797
+But in order to do that,
+
+197
+00:09:22,822 --> 00:09:24,985
+you need to be experienced in drawing.
+
+198
+00:09:25,821 --> 00:09:28,383
+And before you have enough experience to do that,
+
+199
+00:09:28,408 --> 00:09:30,102
+you should simplify as much as you can
+
+200
+00:09:30,406 --> 00:09:32,453
+and make sure you draw with ease.
+
+201
+00:09:32,883 --> 00:09:35,078
+In other words, there's no answer to the simplification process.
+
+202
+00:09:35,103 --> 00:09:38,211
+It is important to find a simplification method
+
+203
+00:09:38,250 --> 00:09:41,978
+where you are the most comfortable
+
+204
+00:09:41,979 --> 00:09:44,461
+and where you feel there won't be problems with your further work.
+
+205
+00:09:44,486 --> 00:09:48,203
+For the pelvis, there are some of you
+
+206
+00:09:48,204 --> 00:09:51,061
+who describe it as a Frisbee that is folded it half.
+
+207
+00:09:51,086 --> 00:09:52,453
+And some of you might
+
+208
+00:09:52,478 --> 00:09:55,242
+describe it as an underwear.
+
+209
+00:09:55,414 --> 00:09:56,638
+And others might
+
+210
+00:09:56,640 --> 00:09:58,438
+just draw a trapezoid
+
+211
+00:09:58,463 --> 00:10:00,531
+and attach the legs to it.
+
+212
+00:10:01,266 --> 00:10:02,406
+There are many ways to do it.
+
+213
+00:10:02,431 --> 00:10:05,274
+However, as you simplify your drawings,
+
+214
+00:10:05,299 --> 00:10:06,953
+and as it becomes distorted and becomes different
+
+215
+00:10:07,121 --> 00:10:08,701
+from the actual human anatomy
+
+216
+00:10:08,703 --> 00:10:10,828
+the accuracy of your drawing will decrease.
+
+217
+00:10:11,133 --> 00:10:12,727
+But, with these inaccuracies,
+
+218
+00:10:12,728 --> 00:10:14,827
+you can edit them later
+
+219
+00:10:14,852 --> 00:10:16,424
+as you draw in the later stages.
+
+220
+00:10:19,844 --> 00:10:22,164
+Let me demonstrate this with an exercise.
+
+221
+00:10:22,672 --> 00:10:24,703
+On the left, you'll see a photo reference.
+
+222
+00:10:24,728 --> 00:10:27,328
+When you are studying movements,
+
+223
+00:10:27,353 --> 00:10:30,145
+you might commonly use photo references.
+
+224
+00:10:30,844 --> 00:10:33,688
+In this stage, we'll apply what we've learned in Chapter 2
+
+225
+00:10:33,713 --> 00:10:35,274
+and analyze the material
+
+226
+00:10:35,299 --> 00:10:36,696
+step by step.
+
+227
+00:10:37,438 --> 00:10:39,883
+We're not focusing on the coloring today.
+
+228
+00:10:39,908 --> 00:10:42,280
+Instead, we're focusing on the drawing.
+
+229
+00:10:42,305 --> 00:10:45,227
+I'll lower the opacity a bit.
+
+230
+00:10:47,914 --> 00:10:51,225
+Now, the first thing I recommend you to do
+
+231
+00:10:51,250 --> 00:10:53,196
+is when you observe the movement while looking at a photo reference
+
+232
+00:10:53,221 --> 00:10:55,899
+is to analyze it and draw.
+
+233
+00:10:57,485 --> 00:10:59,086
+Let's start with the head.
+
+234
+00:11:00,289 --> 00:11:02,125
+As you trace along like this,
+
+235
+00:11:04,711 --> 00:11:07,586
+you need to know exactly
+
+236
+00:11:07,611 --> 00:11:08,914
+how the image is composed.
+
+237
+00:11:08,939 --> 00:11:11,433
+At first, even doing this is very difficult.
+
+238
+00:11:12,617 --> 00:11:14,672
+Accurately analyzing a photo
+
+239
+00:11:14,697 --> 00:11:16,758
+requires some skill.
+
+240
+00:11:16,946 --> 00:11:17,889
+This is why
+
+241
+00:11:17,914 --> 00:11:20,633
+you shouldn't skip this step.
+
+242
+00:11:20,658 --> 00:11:24,625
+When copying or drawing croquis while looking at photos,
+
+243
+00:11:25,696 --> 00:11:27,094
+most students make the mistake of
+
+244
+00:11:27,119 --> 00:11:29,113
+skipping this part.
+
+245
+00:11:29,115 --> 00:11:30,796
+However, I truly believe that
+
+246
+00:11:30,821 --> 00:11:33,281
+this process is really helpful.
+
+247
+00:11:33,531 --> 00:11:34,946
+Now, if you look here,
+
+248
+00:11:34,971 --> 00:11:37,414
+the collarbone sticks out like this.
+
+249
+00:11:38,608 --> 00:11:42,953
+As you can see, the ribs will pass through the center of the chest.
+
+250
+00:11:44,188 --> 00:11:46,711
+You can also see how the upper body is generally moving.
+
+251
+00:11:46,736 --> 00:11:48,805
+We won't look at the arms for now.
+
+252
+00:11:50,789 --> 00:11:54,383
+Now, when I mention the shoulder area,
+
+253
+00:11:54,408 --> 00:11:58,781
+the area includes the back muscles and the scapula.
+
+254
+00:11:58,806 --> 00:11:59,860
+In other words,
+
+255
+00:11:59,885 --> 00:12:02,047
+the ribs would go up to here,
+
+256
+00:12:02,469 --> 00:12:05,766
+and you can consider one third of the rear
+
+257
+00:12:05,791 --> 00:12:07,223
+as the back.
+
+258
+00:12:08,688 --> 00:12:14,492
+Here, the muscles are attached to the back, such as the scapula
+
+259
+00:12:14,517 --> 00:12:15,927
+and the latissimus dorsi muscle.
+
+260
+00:12:16,477 --> 00:12:17,358
+That's all.
+
+261
+00:12:17,383 --> 00:12:19,164
+Check where the belly button is located
+
+262
+00:12:19,774 --> 00:12:22,180
+and think of the proportions we went over last time.
+
+263
+00:12:22,205 --> 00:12:23,313
+1:1, remember?
+
+264
+00:12:23,338 --> 00:12:24,883
+The pelvis will stick out right here.
+
+265
+00:12:25,909 --> 00:12:27,211
+Let me draw like this.
+
+266
+00:12:32,697 --> 00:12:35,193
+So, you need to take time analyzing the photo material.
+
+267
+00:12:38,740 --> 00:12:40,092
+The things you should look out for
+
+268
+00:12:40,117 --> 00:12:42,701
+are the movements,
+
+269
+00:12:43,420 --> 00:12:45,184
+not the outlines.
+
+270
+00:12:45,209 --> 00:12:49,404
+That's why you should focus on the overall movement.
+
+271
+00:12:50,881 --> 00:12:52,435
+Usually, when you draw gestured croquis,
+
+272
+00:12:52,460 --> 00:12:55,295
+you draw in a 15-second timeframe.
+
+273
+00:12:55,320 --> 00:12:57,450
+With croquis, although I'll emphasize it
+
+274
+00:12:57,452 --> 00:12:58,810
+once more before this lecture ends,
+
+275
+00:13:00,291 --> 00:13:04,256
+but before you get familiar with
+
+276
+00:13:04,281 --> 00:13:06,029
+a 15-second croquis,
+
+277
+00:13:06,054 --> 00:13:08,474
+you must analyze the photo first
+
+278
+00:13:08,506 --> 00:13:11,684
+then go on to the next step.
+
+279
+00:13:11,685 --> 00:13:13,318
+Once you've analyzed it,
+
+280
+00:13:13,343 --> 00:13:15,153
+now it's time to draw.
+
+281
+00:13:15,451 --> 00:13:17,982
+I'll draw according to
+
+282
+00:13:18,007 --> 00:13:19,081
+the simplification process I thought of.
+
+283
+00:13:19,083 --> 00:13:20,308
+Now, the important thing here is
+
+284
+00:13:20,310 --> 00:13:24,028
+instead of drawing an 8 head figure just like the reference,
+
+285
+00:13:24,263 --> 00:13:25,791
+though it might be a bit difficult,
+
+286
+00:13:25,793 --> 00:13:28,295
+you should practice according to
+
+287
+00:13:28,320 --> 00:13:30,530
+the character proportion you're thinking of.
+
+288
+00:13:32,701 --> 00:13:35,248
+Since I usually draw a 6 or 7 head figure,
+
+289
+00:13:35,273 --> 00:13:37,537
+I'll simplify according to that proportion.
+
+290
+00:13:42,961 --> 00:13:43,995
+If it is possible,
+
+291
+00:13:43,997 --> 00:13:47,567
+if you have a certain order for drawing a human body,
+
+292
+00:13:47,592 --> 00:13:50,795
+you should draw according to that order.
+
+293
+00:13:52,287 --> 00:13:55,084
+If you draw the head first, draw the head first.
+
+294
+00:13:55,109 --> 00:13:58,771
+And if you draw the body first, draw that first.
+
+295
+00:14:07,896 --> 00:14:09,189
+As for me, when I'm doing the rough draft,
+
+296
+00:14:09,190 --> 00:14:12,412
+I draw some of the outlines as well.
+
+297
+00:14:16,138 --> 00:14:18,217
+Doing so reduces
+
+298
+00:14:18,428 --> 00:14:20,638
+the mistakes I might make later on.
+
+299
+00:14:25,500 --> 00:14:27,857
+I'll add in the shoulder area, like so.
+
+300
+00:14:49,386 --> 00:14:50,620
+When you're doing the rough draft,
+
+301
+00:14:50,622 --> 00:14:53,892
+it is important to analyze the general movements.
+
+302
+00:14:53,917 --> 00:14:56,230
+Here, you might make slight proportional mistakes.
+
+303
+00:14:56,255 --> 00:14:59,516
+Right now, I'm intentionally making
+
+304
+00:14:59,517 --> 00:15:00,480
+proportional mistakes.
+
+305
+00:15:00,505 --> 00:15:02,153
+I'll show you the process later on.
+
+306
+00:15:04,370 --> 00:15:07,439
+I'll finish my rough draft here.
+
+307
+00:15:07,792 --> 00:15:09,811
+When you have the finished rough draft like this,
+
+308
+00:15:09,948 --> 00:15:12,800
+now you sketch additional details on top of it.
+
+309
+00:15:12,925 --> 00:15:14,339
+Now, you see,
+
+310
+00:15:14,714 --> 00:15:15,815
+when you draw,
+
+311
+00:15:15,817 --> 00:15:17,808
+you don't have to illustrate everything
+
+312
+00:15:17,833 --> 00:15:20,011
+in a single drawing stage so perfectly.
+
+313
+00:15:20,198 --> 00:15:22,409
+So when you illustrate,
+
+314
+00:15:22,434 --> 00:15:25,136
+if you feel like you don't have enough basics,
+
+315
+00:15:25,161 --> 00:15:28,308
+break the process down into many steps.
+
+316
+00:15:29,730 --> 00:15:32,878
+That will give you room to focus on each step.
+
+317
+00:15:33,862 --> 00:15:36,378
+Like mentioned before, when you're doing the rough draft,
+
+318
+00:15:36,403 --> 00:15:40,065
+you focus on the general movements.
+
+319
+00:15:41,589 --> 00:15:43,748
+When you sketch the additional details,
+
+320
+00:15:43,750 --> 00:15:45,321
+you adjust the proportions.
+
+321
+00:15:46,128 --> 00:15:47,875
+What's next?
+
+322
+00:15:48,003 --> 00:15:50,042
+You'll adjust the outlines afterwards.
+
+323
+00:15:50,519 --> 00:15:52,048
+For example, the muscle outlines or the bone outlines.
+
+324
+00:15:52,073 --> 00:15:53,665
+If there's something you missed,
+
+325
+00:15:53,690 --> 00:15:55,581
+you would look at photo references
+
+326
+00:15:55,606 --> 00:15:57,276
+and describe more outlines in detail.
+
+327
+00:15:57,730 --> 00:16:00,909
+You'll draw the lines after that.
+
+328
+00:16:00,934 --> 00:16:02,847
+This is actually similar to the outline stage.
+
+329
+00:16:04,058 --> 00:16:05,345
+As you draw the lines,
+
+330
+00:16:05,370 --> 00:16:06,786
+you'll check once more
+
+331
+00:16:06,787 --> 00:16:08,985
+if you drew everything correctly.
+
+332
+00:16:09,010 --> 00:16:11,235
+Thus, the illustration becomes more perfect
+
+333
+00:16:11,237 --> 00:16:13,231
+as you complete the different stages.
+
+334
+00:16:13,401 --> 00:16:15,710
+You might ask, if all this would take a lot of time.
+
+335
+00:16:15,862 --> 00:16:17,112
+Well, to tell you the truth,
+
+336
+00:16:17,199 --> 00:16:18,642
+it does.
+
+337
+00:16:18,667 --> 00:16:21,612
+But, as we draw,
+
+338
+00:16:21,637 --> 00:16:23,659
+and finish a single piece,
+
+339
+00:16:23,684 --> 00:16:26,815
+people don't consider how much time it took.
+
+340
+00:16:26,840 --> 00:16:28,308
+They just look at the results.
+
+341
+00:16:28,333 --> 00:16:31,519
+So I believe it's really important to
+
+342
+00:16:31,544 --> 00:16:33,276
+draw as best as you can, even if it takes a lot of time.
+
+343
+00:16:33,526 --> 00:16:35,384
+So, let's move on
+
+344
+00:16:35,409 --> 00:16:37,409
+to sketching the additional details.
+
+345
+00:16:37,597 --> 00:16:39,511
+Like I mentioned before, in this stage,
+
+346
+00:16:39,536 --> 00:16:41,103
+you'll correct the proportional errors.
+
+347
+00:16:41,284 --> 00:16:43,823
+I'll fix whatever is difficult to apply
+
+348
+00:16:43,848 --> 00:16:46,136
+in a casual style drawing in this stage.
+
+349
+00:16:46,472 --> 00:16:48,416
+For example, right here,
+
+350
+00:16:48,418 --> 00:16:50,473
+most of the neck is hidden.
+
+351
+00:16:50,474 --> 00:16:52,166
+Of course, it's because of the angle.
+
+352
+00:16:52,168 --> 00:16:54,151
+But if a casual style character doesn't have a neck,
+
+353
+00:16:54,152 --> 00:16:55,925
+it could look a bit ugly,
+
+354
+00:16:55,950 --> 00:16:57,292
+so I'll lift the head a bit.
+
+355
+00:17:04,010 --> 00:17:06,915
+When you're adding the additional sketches,
+
+356
+00:17:06,940 --> 00:17:09,480
+you should describe some details of the head.
+
+357
+00:17:09,581 --> 00:17:12,097
+I'll just mark where
+
+358
+00:17:12,480 --> 00:17:13,799
+the ears, eyes, mouth and nose will be located.
+
+359
+00:17:14,831 --> 00:17:19,909
+The next lecture will thoroughly cover the face.
+
+360
+00:17:19,934 --> 00:17:21,917
+So, I'll go over drawing the face
+
+361
+00:17:21,942 --> 00:17:23,167
+in more detail next time.
+
+362
+00:17:39,498 --> 00:17:41,287
+For now, you don't have to
+
+363
+00:17:41,312 --> 00:17:43,334
+describe the detailed curves of the body.
+
+364
+00:17:43,359 --> 00:17:44,483
+We're going to add them
+
+365
+00:17:44,508 --> 00:17:46,403
+in the next stage.
+
+366
+00:17:46,428 --> 00:17:49,616
+Now, you need to fix the proportions as you're looking at the reference.
+
+367
+00:17:49,726 --> 00:17:52,366
+Remember we went over proportions in the last lecture?
+
+368
+00:17:52,391 --> 00:17:56,014
+If you have your own version of human proportions,
+
+369
+00:17:56,178 --> 00:17:57,861
+utilize it in your drawing.
+
+370
+00:17:58,045 --> 00:17:59,522
+I'll use my version.
+
+371
+00:17:59,547 --> 00:18:02,616
+The part where the ribs are split will be located
+
+372
+00:18:04,022 --> 00:18:05,250
+at two-thirds of the head's height.
+
+373
+00:18:05,592 --> 00:18:09,061
+The pelvis will stick out at a 1:1 proportion.
+
+374
+00:18:09,467 --> 00:18:13,155
+Note that a female character's pelvis is wide, not tall.
+
+375
+00:18:13,180 --> 00:18:15,564
+So I'll set the height this much.
+
+376
+00:18:17,297 --> 00:18:18,358
+When you're drawing the legs
+
+377
+00:18:22,069 --> 00:18:23,184
+and think how thick they are,
+
+378
+00:18:23,209 --> 00:18:26,858
+keep in mind that they are thicker than the body.
+
+379
+00:18:26,883 --> 00:18:30,472
+So, when you're drawing them,
+
+380
+00:18:30,497 --> 00:18:32,787
+make them thick intentionally.
+
+381
+00:18:49,496 --> 00:18:51,918
+I'll draw the feet, too.
+
+382
+00:18:59,230 --> 00:19:01,347
+So, now I have a human body
+
+383
+00:19:03,512 --> 00:19:05,308
+with the proportion I thought of.
+
+384
+00:19:05,333 --> 00:19:07,099
+Of course, the reference was the photo I had.
+
+385
+00:19:07,933 --> 00:19:10,676
+At first, it's okay even if it takes some time.
+
+386
+00:19:10,701 --> 00:19:13,965
+But, you should reduce the timeframe later on.
+
+387
+00:19:24,884 --> 00:19:27,181
+Now that we're done with this stage,
+
+388
+00:19:27,206 --> 00:19:29,150
+let's move on to the next stage.
+
+389
+00:19:29,175 --> 00:19:31,267
+I'll make it slightly transparent.
+
+390
+00:19:32,277 --> 00:19:35,671
+At this stage, it's okay to create a new layer.
+
+391
+00:19:48,772 --> 00:19:53,752
+I'll draw the eyes at where I marked.
+
+392
+00:20:09,984 --> 00:20:12,584
+Let me draw a simplified hair.
+
+393
+00:21:08,906 --> 00:21:10,560
+When you're drawing the detailed outlines,
+
+394
+00:21:10,585 --> 00:21:13,109
+use your anatomical knowledge
+
+395
+00:21:13,110 --> 00:21:16,898
+to draw the chest,
+
+396
+00:21:16,923 --> 00:21:18,887
+the physique and the muscles.
+
+397
+00:21:22,007 --> 00:21:25,210
+At first, for this course, I wanted to
+
+398
+00:21:25,390 --> 00:21:27,124
+teach you more about anatomy
+
+399
+00:21:27,149 --> 00:21:28,593
+or how you should draw outlines.
+
+400
+00:21:28,687 --> 00:21:30,140
+However, I omitted them
+
+401
+00:21:30,726 --> 00:21:33,601
+because I am going to cover
+
+402
+00:21:33,626 --> 00:21:35,437
+practical knowledge in the latter part.
+
+403
+00:21:35,462 --> 00:21:38,812
+So, this course doesn't cover the basics much.
+
+404
+00:21:39,077 --> 00:21:42,273
+But that doesn't mean they're unimportant.
+
+405
+00:21:42,298 --> 00:21:44,513
+It just means other things are more important.
+
+406
+00:21:44,538 --> 00:21:48,960
+I strongly recommend that you go over the basics
+
+407
+00:21:48,985 --> 00:21:50,679
+as you study on your own.
+
+408
+00:21:51,171 --> 00:21:53,820
+And you can draw a human body beautifully
+
+409
+00:21:55,218 --> 00:21:57,590
+when you know the basics
+
+410
+00:21:57,591 --> 00:21:59,912
+and when you can accurately describe the outlines.
+
+411
+00:22:02,991 --> 00:22:05,288
+I'll go over how to draw a hand.
+
+412
+00:22:05,313 --> 00:22:08,706
+A lot of people are afraid to draw it.
+
+413
+00:22:08,731 --> 00:22:11,505
+I'll break it down into shapes.
+
+414
+00:22:11,708 --> 00:22:12,880
+If we look at the palm,
+
+415
+00:22:14,208 --> 00:22:17,325
+the wrist would come up to here.
+
+416
+00:22:18,533 --> 00:22:20,513
+And, we would draw a cuboid
+
+417
+00:22:22,106 --> 00:22:23,927
+with the same width as the wrist.
+
+418
+00:22:24,731 --> 00:22:29,841
+If we divide this cuboid
+
+419
+00:22:30,036 --> 00:22:31,270
+into three parts,
+
+420
+00:22:31,295 --> 00:22:34,739
+they would be the index finger, the middle finger, and the ring finger.
+
+421
+00:22:34,911 --> 00:22:38,049
+If we also look at the bone's length,
+
+422
+00:22:38,051 --> 00:22:40,114
+the length of the middle finger
+
+423
+00:22:40,277 --> 00:22:43,538
+and the palm would be the same.
+
+424
+00:22:45,302 --> 00:22:47,380
+You might ask why I only drew three fingers.
+
+425
+00:22:47,405 --> 00:22:50,440
+I'm going to draw in the little finger and the thumb now.
+
+426
+00:22:50,989 --> 00:22:51,895
+Like this.
+
+427
+00:22:54,458 --> 00:22:58,856
+If you draw in the thumb area like this,
+
+428
+00:22:58,881 --> 00:23:04,559
+the little finger area would be located diagonally on the opposite side.
+
+429
+00:23:04,794 --> 00:23:06,223
+Why would I draw them separately?
+
+430
+00:23:06,248 --> 00:23:08,652
+Well, unlike the previous three fingers,
+
+431
+00:23:08,677 --> 00:23:12,005
+you should identify the little finger and the thumb
+
+432
+00:23:12,192 --> 00:23:13,655
+as separate areas.
+
+433
+00:23:13,657 --> 00:23:16,096
+You should also keep in mind that
+
+434
+00:23:16,098 --> 00:23:18,809
+the little finger is much smaller than the other fingers.
+
+435
+00:23:18,834 --> 00:23:20,247
+The tip of the little finger barely reaches
+
+436
+00:23:20,272 --> 00:23:23,182
+the second knuckle of the ring finger.
+
+437
+00:23:23,450 --> 00:23:24,927
+Also, the thumb is
+
+438
+00:23:24,952 --> 00:23:26,020
+very small.
+
+439
+00:23:26,045 --> 00:23:29,044
+So, there are a few common mistakes when drawing hands.
+
+440
+00:23:29,069 --> 00:23:31,794
+First, a lot of people draw big index fingers.
+
+441
+00:23:31,926 --> 00:23:33,659
+It becomes big because
+
+442
+00:23:33,684 --> 00:23:35,512
+people usually draw things bigger
+
+443
+00:23:35,537 --> 00:23:38,153
+when they drew them first.
+
+444
+00:23:38,293 --> 00:23:40,089
+People usually start with the index finger.
+
+445
+00:23:40,114 --> 00:23:41,723
+So, as they continue drawing,
+
+446
+00:23:41,748 --> 00:23:43,769
+the index finger becomes longer than the middle finger.
+
+447
+00:23:43,794 --> 00:23:45,762
+This is a common mistake.
+
+448
+00:23:46,012 --> 00:23:48,614
+Another common mistake is
+
+449
+00:23:48,639 --> 00:23:50,114
+drawing the little finger
+
+450
+00:23:50,116 --> 00:23:52,567
+just a bit shorter than the other fingers.
+
+451
+00:23:52,708 --> 00:23:55,208
+Even the reference you're looking at could look like this.
+
+452
+00:23:55,233 --> 00:23:56,434
+So, the final result could look awkward.
+
+453
+00:23:56,598 --> 00:23:58,609
+When you open out your palm,
+
+454
+00:23:58,610 --> 00:24:00,075
+you'll get the feeling that
+
+455
+00:24:00,100 --> 00:24:02,591
+the little finger stretches out a bit more.
+
+456
+00:24:02,895 --> 00:24:04,817
+This is why you should think of the little finger
+
+457
+00:24:04,842 --> 00:24:07,887
+as a separate area from the rest of the fingers.
+
+458
+00:24:08,317 --> 00:24:10,688
+So far, I've covered the hand structure.
+
+459
+00:24:11,895 --> 00:24:13,052
+I'll go over the foot structure now.
+
+460
+00:24:13,203 --> 00:24:17,122
+With the foot, the tarsal bone becomes the standard.
+
+461
+00:24:17,958 --> 00:24:19,481
+When we look at it sideways,
+
+462
+00:24:19,942 --> 00:24:24,497
+we would first draw a trapezoid.
+
+463
+00:24:25,169 --> 00:24:29,145
+And, from the upper part of the trapezoid,
+
+464
+00:24:29,817 --> 00:24:31,462
+I'll draw a diagonal line.
+
+465
+00:24:34,802 --> 00:24:35,864
+This would be the toe.
+
+466
+00:24:36,403 --> 00:24:39,016
+In fact, what I drew
+
+467
+00:24:39,018 --> 00:24:41,684
+is a basic form that looks similar to the foot bone.
+
+468
+00:24:41,934 --> 00:24:44,044
+There's the trapezoid, then there's the bone in front of it.
+
+469
+00:24:44,069 --> 00:24:45,997
+And there's a blank space here.
+
+470
+00:24:46,098 --> 00:24:49,895
+This blank space would be
+
+471
+00:24:49,920 --> 00:24:51,817
+the foot arch that we commonly draw.
+
+472
+00:24:52,302 --> 00:24:55,723
+So, you should familiarize yourself with basic forms.
+
+473
+00:24:55,809 --> 00:24:58,591
+Remember the forms for the hand and the foot.
+
+474
+00:25:06,114 --> 00:25:07,934
+This curve along the thigh,
+
+475
+00:25:07,959 --> 00:25:11,573
+in the front, the muscle goes above the knees.
+
+476
+00:25:11,598 --> 00:25:14,145
+So, I'll draw the curve right up to here.
+
+477
+00:25:14,170 --> 00:25:18,630
+For this curve, I'll make it bulge just a bit and finish it off.
+
+478
+00:25:19,028 --> 00:25:22,247
+When you look at the calves from the back,
+
+479
+00:25:24,192 --> 00:25:26,231
+it sticks to the bone like this.
+
+480
+00:25:28,372 --> 00:25:29,932
+It sticks right up to here.
+
+481
+00:25:29,934 --> 00:25:33,630
+That means the thigh muscle is quite short.
+
+482
+00:25:33,655 --> 00:25:36,114
+So, you should make it curved inwards, like this.
+
+483
+00:25:40,700 --> 00:25:42,161
+When you bend your knees,
+
+484
+00:25:42,186 --> 00:25:44,286
+they tend to stick out forwards.
+
+485
+00:25:44,311 --> 00:25:46,591
+I'll go over this.
+
+486
+00:25:51,403 --> 00:25:54,059
+Remember when I taught you about kneecaps?
+
+487
+00:25:54,084 --> 00:25:56,270
+A kneecap looks like this.
+
+488
+00:25:56,295 --> 00:25:58,218
+And when it's bent, it becomes like this.
+
+489
+00:25:59,781 --> 00:26:01,497
+See how it looks?
+
+490
+00:26:01,522 --> 00:26:03,880
+So, when you look at it,
+
+491
+00:26:03,905 --> 00:26:05,059
+it's slightly rectangular.
+
+492
+00:26:05,402 --> 00:26:06,489
+Although it's slightly rectangular,
+
+493
+00:26:06,514 --> 00:26:08,223
+it's not a perfect rectangle.
+
+494
+00:26:08,356 --> 00:26:10,255
+It will stick out forwards
+
+495
+00:26:10,708 --> 00:26:12,505
+and downwards
+
+496
+00:26:12,803 --> 00:26:14,372
+like so.
+
+497
+00:26:16,200 --> 00:26:17,677
+That's all you need to know.
+
+498
+00:26:18,184 --> 00:26:19,716
+When you bend your knees,
+
+499
+00:26:22,098 --> 00:26:23,794
+because of how this bone looks,
+
+500
+00:26:25,348 --> 00:26:29,270
+it looks as if the bone
+
+501
+00:26:29,434 --> 00:26:31,128
+is bulging out forwards.
+
+502
+00:26:34,544 --> 00:26:37,103
+Here, we have the side joint that we covered last time.
+
+503
+00:26:37,333 --> 00:26:40,216
+This curve describes the side of a leg, and it is curved inwards a bit.
+
+504
+00:26:40,903 --> 00:26:42,822
+Now, this will look like a curve.
+
+505
+00:26:42,823 --> 00:26:44,622
+But, when you're drawing a bone,
+
+506
+00:26:46,005 --> 00:26:47,528
+it will be vertical.
+
+507
+00:26:48,137 --> 00:26:51,208
+Now, please remember this curve
+
+508
+00:26:51,233 --> 00:26:52,616
+that is formed even when the leg is straight.
+
+509
+00:26:52,618 --> 00:26:53,799
+A lot of people make mistakes here
+
+510
+00:26:53,801 --> 00:26:55,972
+when they're drawing the leg.
+
+511
+00:26:55,997 --> 00:26:57,934
+If you want to be a concept artist,
+
+512
+00:26:57,959 --> 00:27:00,075
+you'll draw the legs a lot.
+
+513
+00:27:01,731 --> 00:27:03,552
+We're now done with the third stage.
+
+514
+00:27:03,577 --> 00:27:06,270
+In the third stage, we drew
+
+515
+00:27:06,295 --> 00:27:08,527
+the specific curves
+
+516
+00:27:08,552 --> 00:27:10,011
+of a character's body.
+
+517
+00:27:10,833 --> 00:27:12,450
+Actually, if you successfully finished this stage,
+
+518
+00:27:13,485 --> 00:27:16,351
+you successfully went over most of the important stuff.
+
+519
+00:27:20,997 --> 00:27:25,567
+So, that was how you apply simplification to a human body.
+
+520
+00:27:25,794 --> 00:27:29,014
+Let's go over from the beginning.
+
+521
+00:27:29,255 --> 00:27:37,455
+When you're doing the rough drafts, you should draw the general posing.
+
+522
+00:27:38,885 --> 00:27:41,163
+And when you do so,
+
+523
+00:27:41,165 --> 00:27:43,580
+simplify as much as you can.
+
+524
+00:27:46,620 --> 00:27:50,669
+If you simplify it too much,
+
+525
+00:27:50,671 --> 00:27:52,566
+it will be less accurate.
+
+526
+00:27:53,791 --> 00:27:55,438
+But, you can draw much quickly.
+
+527
+00:27:56,049 --> 00:28:00,156
+So, you should decide whether you prefer speed or accuracy
+
+528
+00:28:00,573 --> 00:28:03,174
+and decide how much you simplify.
+
+529
+00:28:09,924 --> 00:28:13,495
+You should keep practicing
+
+530
+00:28:13,496 --> 00:28:16,251
+drawing a human body you want
+
+531
+00:28:16,354 --> 00:28:18,096
+in 15 to 30 seconds.
+
+532
+00:28:19,346 --> 00:28:21,016
+Like I mentioned before,
+
+533
+00:28:21,029 --> 00:28:24,709
+this lecture will be about
+
+534
+00:28:24,746 --> 00:28:28,851
+acknowledging your weaknesses
+
+535
+00:28:28,853 --> 00:28:31,949
+and finding the areas you need more practice
+
+536
+00:28:31,969 --> 00:28:34,002
+instead of learning something new.
+
+537
+00:28:35,276 --> 00:28:37,698
+Once you're done
+
+538
+00:28:38,487 --> 00:28:40,184
+with the rough draft,
+
+539
+00:28:44,300 --> 00:28:50,101
+you would fix the proportions as you sketch the additional details.
+
+540
+00:28:52,523 --> 00:28:53,945
+Before you become familiar with the process,
+
+541
+00:28:53,947 --> 00:28:55,234
+in this stage,
+
+542
+00:28:55,259 --> 00:28:58,500
+your drawings could be a little stiff.
+
+543
+00:28:58,594 --> 00:28:59,548
+So, when that happens,
+
+544
+00:28:59,573 --> 00:29:01,372
+I always tell my students
+
+545
+00:29:01,374 --> 00:29:02,319
+this.
+
+546
+00:29:02,344 --> 00:29:05,976
+I tell them, the posture was a bit awkward
+
+547
+00:29:06,001 --> 00:29:08,000
+when doing the rough draft.
+
+548
+00:29:08,617 --> 00:29:10,929
+So, as they fix it,
+
+549
+00:29:10,954 --> 00:29:13,390
+the proportions won't be correct.
+
+550
+00:29:13,558 --> 00:29:15,344
+That is why
+
+551
+00:29:15,369 --> 00:29:16,445
+the movement
+
+552
+00:29:16,470 --> 00:29:17,484
+becomes awkward.
+
+553
+00:29:17,509 --> 00:29:19,659
+So, you might ask yourself
+
+554
+00:29:19,684 --> 00:29:21,891
+whether you should put an emphasis on the proportions or the movements.
+
+555
+00:29:22,094 --> 00:29:25,804
+My advice is to
+
+556
+00:29:25,829 --> 00:29:27,226
+put an emphasis on the movements.
+
+557
+00:29:28,898 --> 00:29:31,937
+It's okay if the proportions are a bit wrong.
+
+558
+00:29:33,344 --> 00:29:36,344
+Remember the last lecture when we learned about Deformers?
+
+559
+00:29:36,594 --> 00:29:38,413
+As I mentioned
+
+560
+00:29:38,415 --> 00:29:39,773
+when learning Deformers,
+
+561
+00:29:39,774 --> 00:29:42,240
+the anatomy of our characters are already incorrect
+
+562
+00:29:42,265 --> 00:29:43,625
+when we are drawing a casual style character.
+
+563
+00:29:44,711 --> 00:29:47,945
+So, you don't have to focus too much on keeping it accurate.
+
+564
+00:29:48,476 --> 00:29:50,703
+What's more important is the nuance.
+
+565
+00:29:51,164 --> 00:29:54,289
+The movement has the biggest impact on nuance.
+
+566
+00:29:54,586 --> 00:29:56,969
+So, if you can find
+
+567
+00:29:56,994 --> 00:29:58,570
+a more natural movement,
+
+568
+00:29:58,595 --> 00:30:00,328
+it's okay even if you have
+
+569
+00:30:00,353 --> 00:30:02,235
+incorrect proportions.
+
+570
+00:30:03,078 --> 00:30:05,304
+That doesn't mean you can ignore them.
+
+571
+00:30:10,297 --> 00:30:12,484
+If you have trouble describing the pose correctly,
+
+572
+00:30:12,509 --> 00:30:13,922
+like I mentioned before,
+
+573
+00:30:14,883 --> 00:30:16,781
+look at photo references.
+
+574
+00:30:16,953 --> 00:30:19,211
+Keep training your muscle memory as you look at them.
+
+575
+00:30:19,236 --> 00:30:22,617
+It's important to memorize them.
+
+576
+00:30:26,283 --> 00:30:30,066
+When you're sketching the additional details, you fix the proportions.
+
+577
+00:30:30,437 --> 00:30:32,234
+For instance, whether the leg was a bit long,
+
+578
+00:30:34,219 --> 00:30:35,906
+or whether the arm was a bit short.
+
+579
+00:30:35,931 --> 00:30:38,109
+Keep fixing them at this stage.
+
+580
+00:30:38,945 --> 00:30:41,914
+You don't have to put in the detailed curves of the body.
+
+581
+00:30:41,939 --> 00:30:44,695
+I put some of them in because of my habit.
+
+582
+00:30:45,750 --> 00:30:49,031
+But, at this stage, you can draw the arms as a cylinder.
+
+583
+00:30:50,000 --> 00:30:52,617
+If a cylinder is too difficult,
+
+584
+00:30:53,601 --> 00:30:55,054
+this is fine too.
+
+585
+00:30:55,827 --> 00:30:56,906
+It's okay even if
+
+586
+00:30:57,484 --> 00:30:58,695
+you just draw a single line.
+
+587
+00:31:00,466 --> 00:31:01,375
+Keep in mind that
+
+588
+00:31:01,377 --> 00:31:04,000
+what you're doing now is drawing the human body easily.
+
+589
+00:31:04,025 --> 00:31:06,240
+You're not drawing it accurately.
+
+590
+00:31:06,265 --> 00:31:07,920
+So, if all this is too difficult,
+
+591
+00:31:07,945 --> 00:31:10,429
+just draw in lumps like this.
+
+592
+00:31:10,820 --> 00:31:14,344
+But, of course,
+
+593
+00:31:14,369 --> 00:31:16,242
+you should draw with lines later on.
+
+594
+00:31:22,476 --> 00:31:29,976
+I'll just draw the location of the head
+
+595
+00:31:32,716 --> 00:31:34,140
+in this stage.
+
+596
+00:31:44,212 --> 00:31:46,318
+If some of the proportions are incorrect,
+
+597
+00:31:46,343 --> 00:31:47,613
+you should correct them at this stage,
+
+598
+00:31:47,638 --> 00:31:50,998
+and make it into the proportion you want.
+
+599
+00:31:58,946 --> 00:32:00,699
+Now, let's move on to the next stage.
+
+600
+00:32:02,496 --> 00:32:05,410
+Now, we're draw the outlines and the curves.
+
+601
+00:32:05,730 --> 00:32:08,931
+I'll teach you how to draw the head
+
+602
+00:32:08,933 --> 00:32:10,682
+in the next lecture.
+
+603
+00:32:10,707 --> 00:32:12,489
+So, once you learn that, draw the head at this stage.
+
+604
+00:33:00,715 --> 00:33:03,004
+I'll just simplify it today.
+
+605
+00:33:04,709 --> 00:33:06,832
+The next lecture goes thoroughly
+
+606
+00:33:07,837 --> 00:33:10,606
+on how to draw the head.
+
+607
+00:33:21,113 --> 00:33:22,651
+When you're drawing the curves,
+
+608
+00:33:22,676 --> 00:33:25,504
+you'll notice your weaknesses quickly.
+
+609
+00:33:27,027 --> 00:33:29,277
+If you want to draw them well,
+
+610
+00:33:29,302 --> 00:33:32,160
+you need to understand how the muscles work.
+
+611
+00:33:32,162 --> 00:33:34,634
+You also need to understand the physiques.
+
+612
+00:33:34,738 --> 00:33:37,723
+So, the more you study,
+
+613
+00:33:38,605 --> 00:33:41,738
+the more you will be able to depict various things.
+
+614
+00:33:41,840 --> 00:33:42,504
+So, I'd like to give
+
+615
+00:33:42,529 --> 00:33:45,124
+some advice to those of you
+
+616
+00:33:45,149 --> 00:33:46,677
+who just draw female characters.
+
+617
+00:33:49,254 --> 00:33:51,651
+You should draw male characters
+
+618
+00:33:52,246 --> 00:33:53,285
+sometime later on.
+
+619
+00:33:53,310 --> 00:33:55,252
+I'm suggesting this because there's a limit
+
+620
+00:33:55,277 --> 00:33:57,637
+when you practice drawing muscles with female characters.
+
+621
+00:33:58,105 --> 00:33:59,428
+When you're drawing a female character,
+
+622
+00:33:59,430 --> 00:34:01,645
+you usually won't depict six-pack abs in detail.
+
+623
+00:34:02,059 --> 00:34:04,324
+So, when you're studying muscles,
+
+624
+00:34:04,349 --> 00:34:06,254
+practicing with male characters
+
+625
+00:34:06,279 --> 00:34:08,215
+will help you much more.
+
+626
+00:34:08,465 --> 00:34:11,061
+The point here is not drawing male characters itself.
+
+627
+00:34:11,063 --> 00:34:13,488
+As you study male characters, you'll study muscles,
+
+628
+00:34:13,513 --> 00:34:16,004
+and you'll later apply them to female characters.
+
+629
+00:34:17,090 --> 00:34:19,526
+So, instead of just drawing female characters,
+
+630
+00:34:21,090 --> 00:34:23,449
+if you can draw muscular male characters as well,
+
+631
+00:34:23,474 --> 00:34:25,733
+it helps you a lot with female characters.
+
+632
+00:34:27,275 --> 00:34:28,918
+It won't apply to all people, but usually
+
+633
+00:34:29,410 --> 00:34:31,129
+if you can draw both
+
+634
+00:34:31,154 --> 00:34:32,467
+a muscular character
+
+635
+00:34:32,492 --> 00:34:34,215
+and a female character well,
+
+636
+00:34:34,217 --> 00:34:36,535
+that means your drawing skills are very settled.
+
+637
+00:34:42,012 --> 00:34:47,902
+I've mentioned before that the upper part
+
+638
+00:34:47,927 --> 00:34:49,792
+and the lower part of the leg are the same length.
+
+639
+00:34:50,512 --> 00:34:52,580
+You can easily check this
+
+640
+00:34:54,493 --> 00:34:56,910
+through the heel.
+
+641
+00:34:56,935 --> 00:34:58,816
+When you're kneeling,
+
+642
+00:34:58,841 --> 00:35:02,248
+the hips and the heel interlock perfectly.
+
+643
+00:35:02,887 --> 00:35:04,520
+We sit down like this.
+
+644
+00:35:04,545 --> 00:35:05,465
+When a character sits down,
+
+645
+00:35:06,137 --> 00:35:09,715
+and when its feet are located in the back,
+
+646
+00:35:10,613 --> 00:35:12,785
+or when its feet are located forwards
+
+647
+00:35:12,810 --> 00:35:14,739
+so the hips are floating in the air,
+
+648
+00:35:14,764 --> 00:35:17,184
+it will look a bit awkward.
+
+649
+00:35:24,066 --> 00:35:26,207
+Drawing a grid
+
+650
+00:35:26,355 --> 00:35:28,525
+helps a lot
+
+651
+00:35:28,527 --> 00:35:30,043
+when you're studying anatomy.
+
+652
+00:35:35,244 --> 00:35:36,934
+It helps with perspective.
+
+653
+00:35:38,527 --> 00:35:40,121
+When you're drawing a grid,
+
+654
+00:35:40,146 --> 00:35:43,684
+and when you've studied muscles,
+
+655
+00:35:43,709 --> 00:35:45,910
+apply that knowledge as much as possible.
+
+656
+00:35:45,935 --> 00:35:47,069
+So, in other words,
+
+657
+00:35:47,071 --> 00:35:49,473
+for example, the abs would go here.
+
+658
+00:35:50,012 --> 00:35:52,091
+So, you would draw a curve like this.
+
+659
+00:35:53,105 --> 00:35:55,981
+And you would add another curve where external oblique abdominal muscle is.
+
+660
+00:35:56,324 --> 00:35:59,051
+You would divide it as much as you can.
+
+661
+00:36:02,559 --> 00:36:03,551
+If it is too difficult for you,
+
+662
+00:36:03,576 --> 00:36:04,613
+and if you don't understand
+
+663
+00:36:04,638 --> 00:36:05,965
+how muscles work,
+
+664
+00:36:05,990 --> 00:36:07,164
+you can just draw a cylinder.
+
+665
+00:36:07,166 --> 00:36:08,458
+Even this is difficult.
+
+666
+00:36:10,092 --> 00:36:12,316
+So, you need to go over this a lot when practicing.
+
+667
+00:36:21,765 --> 00:36:24,096
+That's how you'll study anatomy.
+
+668
+00:36:24,121 --> 00:36:27,710
+If you become familiar, you should draw many different poses.
+
+669
+00:36:30,221 --> 00:36:31,926
+You should draw a male character as well.
+
+670
+00:36:41,419 --> 00:36:43,572
+You will also set a specific angle for this character.
+
+671
+00:36:46,400 --> 00:36:47,353
+Now, a lot of students
+
+672
+00:36:47,915 --> 00:36:50,258
+have difficulty
+
+673
+00:36:50,283 --> 00:36:52,415
+understanding and applying perspective.
+
+674
+00:36:53,158 --> 00:36:55,220
+It is really hard to understand.
+
+675
+00:36:55,478 --> 00:36:57,610
+So, I'll go over this topic
+
+676
+00:36:58,244 --> 00:37:00,001
+really quickly.
+
+677
+00:37:01,194 --> 00:37:03,158
+You might wonder if perspective can be applied simply.
+
+678
+00:37:03,183 --> 00:37:04,884
+It's actually a very important question.
+
+679
+00:37:05,376 --> 00:37:06,986
+You might think
+
+680
+00:37:07,072 --> 00:37:08,621
+you have to study as much as possible.
+
+681
+00:37:08,767 --> 00:37:09,669
+Well, that is true.
+
+682
+00:37:09,671 --> 00:37:11,275
+Of course, perspective is very important.
+
+683
+00:37:11,300 --> 00:37:13,634
+But if you study it in detail,
+
+684
+00:37:14,509 --> 00:37:16,447
+you'll see terms like
+
+685
+00:37:16,472 --> 00:37:18,173
+one-point, two-point, and three-point perspective
+
+686
+00:37:18,198 --> 00:37:19,072
+which you might have seen in books.
+
+687
+00:37:19,415 --> 00:37:22,376
+I'm sure most of you are familiar with this concept.
+
+688
+00:37:23,064 --> 00:37:25,525
+They also teach you this in junior high.
+
+689
+00:37:26,126 --> 00:37:27,994
+If you're unfamiliar with it,
+
+690
+00:37:27,996 --> 00:37:29,218
+go ahead and search the terms.
+
+691
+00:37:29,382 --> 00:37:32,515
+Just Google up the word 'perspective'.
+
+692
+00:37:33,101 --> 00:37:34,426
+In this class, I'll go over things
+
+693
+00:37:34,428 --> 00:37:36,216
+that are more practical.
+
+694
+00:37:37,170 --> 00:37:39,147
+I'll stop drawing this male character for now,
+
+695
+00:37:41,888 --> 00:37:46,515
+and teach you a bit about perspective.
+
+696
+00:37:48,124 --> 00:37:52,525
+When you focus on what's important,
+
+697
+00:37:52,527 --> 00:37:53,960
+you'll usually hear terms like
+
+698
+00:37:53,985 --> 00:37:56,812
+one-point, two-point,
+
+699
+00:37:56,837 --> 00:37:58,662
+and three-point perspective.
+
+700
+00:37:58,687 --> 00:38:02,183
+But, it's hard to limit perspectives in to a few points.
+
+701
+00:38:02,752 --> 00:38:03,976
+Let me share an example.
+
+702
+00:38:04,363 --> 00:38:06,413
+Let's say you're
+
+703
+00:38:09,421 --> 00:38:10,765
+standing up Ike this.
+
+704
+00:38:10,790 --> 00:38:12,007
+You're here,
+
+705
+00:38:13,976 --> 00:38:14,944
+and there are objects.
+
+706
+00:38:14,969 --> 00:38:16,083
+I'll draw them in.
+
+707
+00:38:16,108 --> 00:38:18,702
+There are long objects
+
+708
+00:38:20,937 --> 00:38:22,226
+placed like this
+
+709
+00:38:24,741 --> 00:38:26,358
+surrounding you.
+
+710
+00:38:30,874 --> 00:38:32,101
+When they are placed like this,
+
+711
+00:38:32,126 --> 00:38:33,741
+how will you see
+
+712
+00:38:35,163 --> 00:38:37,250
+these objects?
+
+713
+00:38:41,993 --> 00:38:43,810
+This panel shows
+
+714
+00:38:45,231 --> 00:38:46,897
+how you will see them.
+
+715
+00:38:53,306 --> 00:38:56,468
+Since four pillars are directed towards you, they will look like this.
+
+716
+00:38:56,749 --> 00:38:58,085
+The point here is to
+
+717
+00:38:58,110 --> 00:39:00,022
+find the vanishing point of these pillars.
+
+718
+00:39:00,047 --> 00:39:01,062
+What is a vanishing point?
+
+719
+00:39:01,087 --> 00:39:04,559
+A vanishing point is when you can no longer see an object
+
+720
+00:39:04,584 --> 00:39:05,983
+after it gets further away.
+
+721
+00:39:05,985 --> 00:39:07,116
+So,
+
+722
+00:39:07,399 --> 00:39:09,247
+if the pillar is stretched out like this,
+
+723
+00:39:09,272 --> 00:39:11,091
+you won't be able to see it from here.
+
+724
+00:39:12,046 --> 00:39:13,537
+You also won't see this pillar
+
+725
+00:39:13,538 --> 00:39:15,224
+somewhere starting from here.
+
+726
+00:39:15,249 --> 00:39:16,358
+That goes the same
+
+727
+00:39:16,608 --> 00:39:17,765
+for these two pillars as well.
+
+728
+00:39:18,414 --> 00:39:20,707
+So, we already have four vanishing points.
+
+729
+00:39:22,241 --> 00:39:25,093
+So, although we commonly mention
+
+730
+00:39:25,118 --> 00:39:27,198
+one-point, two-point, and three-point perspectives,
+
+731
+00:39:27,223 --> 00:39:29,350
+the number of vanishing points can be infinite
+
+732
+00:39:29,375 --> 00:39:31,904
+depending on the shape of an object
+
+733
+00:39:31,906 --> 00:39:33,510
+and it's hard to identify all of them.
+
+734
+00:39:33,512 --> 00:39:35,635
+But that doesn't mean we don't have to study it.
+
+735
+00:39:35,637 --> 00:39:39,140
+Here, I'll just go over perspectives for character drawing.
+
+736
+00:39:46,210 --> 00:39:48,827
+I'll just emphasize what's important.
+
+737
+00:39:49,623 --> 00:39:51,421
+First of all,
+
+738
+00:39:52,280 --> 00:39:55,319
+even a single object has perspective,
+
+739
+00:39:55,741 --> 00:39:57,718
+though it could vary according to distance.
+
+740
+00:39:57,897 --> 00:39:59,108
+For example,
+
+741
+00:39:59,288 --> 00:40:03,163
+when you see a giant in comics,
+
+742
+00:40:04,022 --> 00:40:06,727
+you might have seen it being presented like this.
+
+743
+00:40:08,194 --> 00:40:10,428
+It will have a fist like this,
+
+744
+00:40:13,194 --> 00:40:16,054
+and will often have glaring eyes.
+
+745
+00:40:17,476 --> 00:40:19,515
+If you analyze it,
+
+746
+00:40:19,540 --> 00:40:26,304
+you'll see that perspective is already applied to this giant.
+
+747
+00:40:28,155 --> 00:40:29,380
+Let me paraphrase it.
+
+748
+00:40:29,382 --> 00:40:31,062
+When you're applying perspective,
+
+749
+00:40:31,087 --> 00:40:33,193
+some of you may apply it
+
+750
+00:40:33,218 --> 00:40:34,907
+like this.
+
+751
+00:40:36,517 --> 00:40:38,077
+And you may argue that it's a low-angle shot,
+
+752
+00:40:42,475 --> 00:40:45,374
+and start to work on it.
+
+753
+00:40:45,491 --> 00:40:46,890
+But, if you do this,
+
+754
+00:40:46,915 --> 00:40:49,060
+the character would look stiff
+
+755
+00:40:49,085 --> 00:40:50,718
+and it will look a bit awkward.
+
+756
+00:40:50,743 --> 00:40:51,772
+Why does that happen?
+
+757
+00:40:51,797 --> 00:40:55,109
+As you approach this giant,
+
+758
+00:40:55,476 --> 00:40:57,570
+these perspective lines will go further away from each other.
+
+759
+00:40:57,572 --> 00:40:59,704
+When we have a can,
+
+760
+00:40:59,706 --> 00:41:01,790
+and if it is far away,
+
+761
+00:41:01,792 --> 00:41:03,015
+it would look like this.
+
+762
+00:41:04,046 --> 00:41:06,155
+Under the premise that it is on the same eye-level as ours,
+
+763
+00:41:06,180 --> 00:41:08,476
+it will look like this if it's far from us.
+
+764
+00:41:09,046 --> 00:41:11,140
+But, what if it is up close?
+
+765
+00:41:11,413 --> 00:41:15,757
+It will look like this.
+
+766
+00:41:16,702 --> 00:41:18,476
+If it's right in front of our eyes,
+
+767
+00:41:18,501 --> 00:41:22,101
+the label would be written like this.
+
+768
+00:41:23,999 --> 00:41:27,274
+As an object comes closer,
+
+769
+00:41:27,299 --> 00:41:29,374
+the perspective widens.
+
+770
+00:41:30,765 --> 00:41:32,476
+Keep that in mind.
+
+771
+00:41:32,501 --> 00:41:34,069
+So, when you're drawing a character,
+
+772
+00:41:34,094 --> 00:41:36,429
+you should be aware of
+
+773
+00:41:36,454 --> 00:41:37,960
+the perspective widening.
+
+774
+00:41:39,269 --> 00:41:40,836
+Even if it is a high-angle shot,
+
+775
+00:41:40,837 --> 00:41:45,772
+The upper side will look like this
+
+776
+00:41:46,233 --> 00:41:49,288
+and the underside will look like this.
+
+777
+00:41:50,257 --> 00:41:53,272
+The perspective will be applied like that.
+
+778
+00:41:53,843 --> 00:41:56,241
+So, with this cuboid,
+
+779
+00:41:56,351 --> 00:41:58,413
+the upper and the underside
+
+780
+00:41:58,438 --> 00:42:00,772
+won't look exactly the same.
+
+781
+00:42:02,015 --> 00:42:05,780
+Different perspectives would be applied to them.
+
+782
+00:42:07,063 --> 00:42:09,843
+We would have a vanishing point like this.
+
+783
+00:42:13,937 --> 00:42:18,647
+I've labeled them A and B, and I'll apply it to A.
+
+784
+00:42:19,108 --> 00:42:21,226
+That was the most important thing.
+
+785
+00:42:21,944 --> 00:42:23,295
+Ironically, the second most important thing
+
+786
+00:42:24,171 --> 00:42:27,044
+could go against what I said so far.
+
+787
+00:42:27,647 --> 00:42:30,851
+Don't focus on this cuboid so much.
+
+788
+00:42:31,538 --> 00:42:33,622
+What am I talking about?
+
+789
+00:42:34,452 --> 00:42:36,912
+I'll put in a character in here.
+
+790
+00:42:37,093 --> 00:42:38,687
+Think of it similarly to
+
+791
+00:42:38,712 --> 00:42:40,921
+sculpting something.
+
+792
+00:42:40,946 --> 00:42:42,349
+What would a sculptor do?
+
+793
+00:42:42,374 --> 00:42:43,718
+There would be a chunk of marble,
+
+794
+00:42:43,743 --> 00:42:46,437
+and they would sculpt a human as they chisel it down.
+
+795
+00:42:46,491 --> 00:42:48,138
+But, us humans,
+
+796
+00:42:48,757 --> 00:42:49,968
+we're not like robots.
+
+797
+00:42:50,444 --> 00:42:52,960
+No one stands up perfectly vertically.
+
+798
+00:42:54,038 --> 00:42:55,302
+It will be easy for us to draw
+
+799
+00:42:55,304 --> 00:42:56,608
+if a character stands vertically
+
+800
+00:42:57,866 --> 00:43:00,468
+and holds out its arm like this.
+
+801
+00:43:01,108 --> 00:43:02,522
+Drawing it would be easy
+
+802
+00:43:02,547 --> 00:43:04,252
+and it would be easy to apply perspective as well.
+
+803
+00:43:04,277 --> 00:43:06,046
+But, in reality, no one stands up like this.
+
+804
+00:43:06,680 --> 00:43:08,647
+Our waists could be bent
+
+805
+00:43:10,726 --> 00:43:12,022
+and also
+
+806
+00:43:12,390 --> 00:43:14,226
+our legs could be limping sideways.
+
+807
+00:43:14,983 --> 00:43:15,890
+We can cross them as well.
+
+808
+00:43:15,983 --> 00:43:17,905
+Humans have many different poses.
+
+809
+00:43:17,930 --> 00:43:20,787
+So, it's never easy to
+
+810
+00:43:21,046 --> 00:43:23,210
+utilize these lines within the cuboid
+
+811
+00:43:23,235 --> 00:43:24,046
+and calculate how a human body would look.
+
+812
+00:43:24,134 --> 00:43:26,210
+But, there is still a way to calculate it.
+
+813
+00:43:27,897 --> 00:43:30,525
+Let's say this cuboid contains a character's upper body.
+
+814
+00:43:42,189 --> 00:43:45,971
+A male character's upper body is located here, for example.
+
+815
+00:43:47,439 --> 00:43:49,087
+Here, you would calculate like this.
+
+816
+00:43:49,112 --> 00:43:51,783
+You need to make sure
+
+817
+00:43:51,994 --> 00:43:52,986
+that these two lines are parallel,
+
+818
+00:43:54,877 --> 00:43:59,218
+and that these two lines are parallel.
+
+819
+00:44:01,920 --> 00:44:02,689
+Like this.
+
+820
+00:44:03,635 --> 00:44:05,307
+That's all I'll tell you.
+
+821
+00:44:05,332 --> 00:44:06,635
+But, even if the waist is just a bit tilted,
+
+822
+00:44:06,660 --> 00:44:08,846
+this can't be applied.
+
+823
+00:44:09,018 --> 00:44:14,096
+So, don't be too stressed that this is a cuboid.
+
+824
+00:44:14,330 --> 00:44:16,205
+With perspectives, it is better that it looks correct
+
+825
+00:44:16,230 --> 00:44:17,932
+than it is actually correct.
+
+826
+00:44:20,036 --> 00:44:22,283
+Let's say there is a background with a perspective like this
+
+827
+00:44:26,057 --> 00:44:28,494
+when we're looking at an object.
+
+828
+00:44:30,213 --> 00:44:31,523
+The desk is here,
+
+829
+00:44:35,207 --> 00:44:36,939
+and the chair is there.
+
+830
+00:44:44,984 --> 00:44:47,807
+We have a background like this.
+
+831
+00:44:50,266 --> 00:44:53,010
+You could say it's a standard background.
+
+832
+00:44:58,821 --> 00:45:01,674
+But if this background has this kind of perspective,
+
+833
+00:45:10,274 --> 00:45:11,908
+and if the floor tile looks like this,
+
+834
+00:45:16,425 --> 00:45:18,533
+it will look awkward.
+
+835
+00:45:22,611 --> 00:45:27,096
+We had a certain way of perceiving this background's perspective.
+
+836
+00:45:29,205 --> 00:45:31,338
+But, now we have lines that go diagonally against it.
+
+837
+00:45:31,363 --> 00:45:33,229
+So it looks awkward now.
+
+838
+00:45:33,254 --> 00:45:36,135
+But, you might disagree and say that
+
+839
+00:45:36,338 --> 00:45:38,525
+a tile like that exists in real life.
+
+840
+00:45:38,550 --> 00:45:41,567
+However, because it looks awkward,
+
+841
+00:45:41,569 --> 00:45:43,804
+we won't apply that to our drawing.
+
+842
+00:45:44,447 --> 00:45:45,882
+So, in this case,
+
+843
+00:45:45,884 --> 00:45:48,471
+we would try to draw the tiles
+
+844
+00:45:48,689 --> 00:45:51,314
+along this line, like this.
+
+845
+00:45:55,971 --> 00:45:58,369
+Then it will look much less awkward.
+
+846
+00:45:58,394 --> 00:46:01,541
+Thus, it's not as important that it is correct.
+
+847
+00:46:01,566 --> 00:46:03,081
+It's more important
+
+848
+00:46:03,106 --> 00:46:04,791
+that it doesn't look awkward.
+
+849
+00:46:04,816 --> 00:46:05,494
+So, when you're drawing
+
+850
+00:46:06,057 --> 00:46:09,122
+and applying perspective to a character,
+
+851
+00:46:09,147 --> 00:46:13,985
+it is really important to
+
+852
+00:46:14,010 --> 00:46:16,275
+just make look fine
+
+853
+00:46:16,300 --> 00:46:19,090
+while you have an overall grasp of perspective
+
+854
+00:46:19,115 --> 00:46:22,377
+and know that you should apply perspective
+
+855
+00:46:22,402 --> 00:46:24,854
+instead of drawing it 100% accurately.
+
+856
+00:46:28,518 --> 00:46:29,539
+So, now I've covered all of
+
+857
+00:46:29,564 --> 00:46:32,260
+what I wanted to say about perspective.
+
+858
+00:46:32,604 --> 00:46:34,072
+A lot of you find it difficult
+
+859
+00:46:34,097 --> 00:46:36,010
+when applying perspective to a character.
+
+860
+00:46:36,799 --> 00:46:38,564
+But, before you consider that,
+
+861
+00:46:38,589 --> 00:46:42,059
+you should know
+
+862
+00:46:42,084 --> 00:46:42,955
+whether what you want to do is
+
+863
+00:46:42,980 --> 00:46:44,047
+to draw very accurately
+
+864
+00:46:44,072 --> 00:46:45,964
+or to draw a good looking character
+
+865
+00:46:45,989 --> 00:46:47,881
+with some perspective applied.
+
+866
+00:46:49,116 --> 00:46:51,064
+Let me draw a low-angle shot character.
+
+867
+00:46:52,650 --> 00:46:54,209
+Basically, this character
+
+868
+00:46:54,211 --> 00:46:58,299
+would look bigger if it's closer to us.
+
+869
+00:47:00,338 --> 00:47:02,102
+I've mentioned before that with male characters,
+
+870
+00:47:02,104 --> 00:47:04,525
+they have broad shoulders and narrow hips.
+
+871
+00:47:04,550 --> 00:47:06,900
+Well, in this case, it becomes the opposite.
+
+872
+00:47:08,002 --> 00:47:09,463
+He would have narrow shoulders
+
+873
+00:47:09,488 --> 00:47:11,096
+and broad hips.
+
+874
+00:47:17,947 --> 00:47:21,314
+I'll also apply the basics I've mentioned before.
+
+875
+00:47:25,744 --> 00:47:27,268
+Draw the legs
+
+876
+00:47:28,129 --> 00:47:30,182
+so that it gets thicker
+
+877
+00:47:33,644 --> 00:47:35,155
+at the bottom.
+
+878
+00:47:38,812 --> 00:47:40,457
+If he's bending his arms,
+
+879
+00:47:40,482 --> 00:47:41,658
+this part would look like this.
+
+880
+00:47:42,902 --> 00:47:45,213
+And if we apply a low-angle shot here,
+
+881
+00:47:46,212 --> 00:47:49,104
+it would look as if he's stretching his arms.
+
+882
+00:48:15,788 --> 00:48:17,451
+Now that I'm done with the rough draft,
+
+883
+00:48:17,453 --> 00:48:19,116
+I'll move on to the next stage.
+
+884
+00:48:28,881 --> 00:48:30,967
+Like I mentioned before, in this stage,
+
+885
+00:48:31,569 --> 00:48:33,811
+we have to fix the proportions.
+
+886
+00:48:37,546 --> 00:48:39,803
+I'll just draw a few outlines.
+
+887
+00:48:40,211 --> 00:48:42,436
+This would be where the upper body will be split.
+
+888
+00:48:44,296 --> 00:48:45,632
+And that would be the belly button.
+
+889
+00:48:46,889 --> 00:48:48,600
+Let's check
+
+890
+00:48:48,625 --> 00:48:49,700
+if I have the 1:1 ratio.
+
+891
+00:48:49,725 --> 00:48:51,272
+I'll describe the pelvis.
+
+892
+00:48:52,366 --> 00:48:54,218
+Sketch in the additional details
+
+893
+00:48:59,833 --> 00:49:02,507
+while making sure that this information are applied.
+
+894
+00:49:14,608 --> 00:49:17,053
+I'll also draw the basic form of the hand.
+
+895
+00:49:18,202 --> 00:49:19,507
+I'll draw three fingers
+
+896
+00:49:22,569 --> 00:49:25,537
+and a separate little finger area
+
+897
+00:49:25,538 --> 00:49:26,928
+like I taught you.
+
+898
+00:49:28,136 --> 00:49:29,544
+I'll also add in
+
+899
+00:49:29,569 --> 00:49:30,952
+a separate thumb area.
+
+900
+00:49:47,296 --> 00:49:49,269
+Now that I'm done with stage,
+
+901
+00:49:49,270 --> 00:49:50,890
+I'll move on to the third stage.
+
+902
+00:49:51,083 --> 00:49:54,153
+Now, I'm going to draw more detailed outlines
+
+903
+00:49:54,265 --> 00:49:56,153
+and show the character's muscles.
+
+904
+00:49:56,154 --> 00:49:57,843
+There's the sternocleidomastoid muscle
+
+905
+00:49:59,046 --> 00:50:00,109
+and the trapezius muscle.
+
+906
+00:50:00,134 --> 00:50:02,319
+Remember I said the trapezius muscle is part of the shoulder?
+
+907
+00:50:05,162 --> 00:50:05,991
+Along with the collarbone
+
+908
+00:50:08,180 --> 00:50:09,273
+and the deltoid muscle,
+
+909
+00:50:09,298 --> 00:50:11,077
+they are all part of the shoulders.
+
+910
+00:50:11,102 --> 00:50:13,702
+This would be the part we massage.
+
+911
+00:50:13,727 --> 00:50:14,796
+The actual shoulder area is here.
+
+912
+00:50:14,821 --> 00:50:16,679
+To be precise, the trapezius muscle
+
+913
+00:50:16,704 --> 00:50:17,726
+is the back, not the shoulder.
+
+914
+00:50:18,148 --> 00:50:21,280
+So, when we're massaging our 'shoulders',
+
+915
+00:50:21,305 --> 00:50:23,562
+we're massaging our back.
+
+916
+00:50:24,920 --> 00:50:27,155
+But I'll just call them shoulders so that you'll understand.
+
+917
+00:50:29,295 --> 00:50:30,819
+These would be the chest muscles.
+
+918
+00:50:33,437 --> 00:50:35,569
+I'll add in the ribs.
+
+919
+00:50:36,327 --> 00:50:38,835
+Remember I said
+
+920
+00:50:38,944 --> 00:50:40,218
+there's the belly button
+
+921
+00:50:40,243 --> 00:50:41,754
+on the third rectangle of the abs?
+
+922
+00:50:41,779 --> 00:50:43,537
+This second rectangle
+
+923
+00:50:43,562 --> 00:50:46,515
+will stick with the ribs.
+
+924
+00:50:50,413 --> 00:50:52,632
+Like I mentioned, with the shoulders,
+
+925
+00:50:52,657 --> 00:50:55,085
+there's also the latissimus dorsi muscle and the scapula.
+
+926
+00:50:57,206 --> 00:50:58,171
+So I'll add them in.
+
+927
+00:51:01,299 --> 00:51:04,859
+We refer to this as the external oblique muscle.
+
+928
+00:51:08,125 --> 00:51:09,325
+I'll add in the abs.
+
+929
+00:51:11,653 --> 00:51:14,683
+Now, it's good to
+
+930
+00:51:14,708 --> 00:51:16,145
+give some space between the muscles.
+
+931
+00:51:16,833 --> 00:51:19,854
+Basically, muscles stick to the bones.
+
+932
+00:51:19,879 --> 00:51:22,614
+So, instead of understanding as muscles sticking to each other,
+
+933
+00:51:22,639 --> 00:51:25,637
+understand it as muscles sticking to the bones.
+
+934
+00:51:25,731 --> 00:51:29,520
+When you're moving your joints,
+
+935
+00:51:29,545 --> 00:51:30,856
+these would be the bones
+
+936
+00:51:30,881 --> 00:51:32,229
+and the muscle would stick between them.
+
+937
+00:51:32,254 --> 00:51:35,879
+As it contracts, this bone would go upwards.
+
+938
+00:51:36,512 --> 00:51:39,340
+And as it expands, this bone would go downwards.
+
+939
+00:51:42,016 --> 00:51:45,325
+Just remember that it sticks to the bones.
+
+940
+00:51:48,926 --> 00:51:50,583
+Remember when we learned arm muscles?
+
+941
+00:51:50,608 --> 00:51:52,925
+This line bulges out slightly.
+
+942
+00:51:52,950 --> 00:51:54,833
+And that line bulges out a lot and goes back in.
+
+943
+00:51:54,919 --> 00:51:57,737
+This one bulges out a lot,
+
+944
+00:51:57,762 --> 00:52:00,356
+and that one is just slightly curved.
+
+945
+00:52:01,114 --> 00:52:02,833
+I'll draw the hands simply
+
+946
+00:52:04,794 --> 00:52:06,661
+while applying what we've learned.
+
+947
+00:52:07,801 --> 00:52:09,692
+When we're learning how to draw faces,
+
+948
+00:52:10,044 --> 00:52:11,379
+and if we have time,
+
+949
+00:52:11,489 --> 00:52:12,864
+let's draw the hand too.
+
+950
+00:52:15,087 --> 00:52:16,356
+There's nothing too much to do.
+
+951
+00:52:16,381 --> 00:52:19,455
+Like other body areas, the details of the hands
+
+952
+00:52:20,915 --> 00:52:23,176
+become different depending on
+
+953
+00:52:23,201 --> 00:52:24,856
+how much you describe the muscles or the physique.
+
+954
+00:52:26,575 --> 00:52:27,862
+So, now we have
+
+955
+00:52:27,887 --> 00:52:30,675
+a human body with a slight low-angle shot.
+
+956
+00:52:33,309 --> 00:52:36,401
+Don't baffle yourself too much with perspectives.
+
+957
+00:52:36,426 --> 00:52:38,786
+You can see it everywhere.
+
+958
+00:52:38,811 --> 00:52:40,129
+It is always applied in real life.
+
+959
+00:52:40,154 --> 00:52:41,879
+Even when we're looking at a still object,
+
+960
+00:52:41,904 --> 00:52:43,812
+there's some perspective applied.
+
+961
+00:52:43,837 --> 00:52:46,739
+Take this photo reference, for example.
+
+962
+00:52:46,872 --> 00:52:48,965
+We can't properly see her feet.
+
+963
+00:52:49,582 --> 00:52:52,704
+The photo is already set in a high-angle shot.
+
+964
+00:52:54,387 --> 00:52:56,911
+You might not think so
+
+965
+00:52:56,936 --> 00:52:58,325
+and think that we're looking at her
+
+966
+00:52:58,350 --> 00:52:59,903
+from our eye-level.
+
+967
+00:53:00,286 --> 00:53:01,939
+But, even if we were looking at her from eye-level,
+
+968
+00:53:01,941 --> 00:53:05,033
+if you look closely, you'll notice that as we look down,
+
+969
+00:53:05,035 --> 00:53:06,239
+there's a high-angle shot applied.
+
+970
+00:53:07,536 --> 00:53:10,856
+So, in our daily lives, we always see perspective.
+
+971
+00:53:10,997 --> 00:53:13,053
+It always exists.
+
+972
+00:53:13,055 --> 00:53:15,403
+So don't stress yourselves too much with it.
+
+973
+00:53:15,822 --> 00:53:18,731
+Just focus on creating the illusion of
+
+974
+00:53:18,756 --> 00:53:20,122
+making it look natural.
+
+975
+00:53:22,723 --> 00:53:26,051
+Today, I've covered capturing the movement
+
+976
+00:53:26,076 --> 00:53:28,392
+and how to approach perspective.
+
+977
+00:53:28,417 --> 00:53:30,348
+We should summarize it.
+
+978
+00:53:33,580 --> 00:53:36,403
+But first, let's go over
+
+979
+00:53:37,828 --> 00:53:38,669
+what we learned in the last lecture.
+
+980
+00:53:40,669 --> 00:53:43,044
+In the previous lecture,
+
+981
+00:53:43,590 --> 00:53:47,059
+we learned how to draw a simple mannequin.
+
+982
+00:53:47,333 --> 00:53:48,840
+If you didn't understand just yet,
+
+983
+00:53:48,865 --> 00:53:50,840
+give it some time.
+
+984
+00:53:51,075 --> 00:53:53,965
+Today's exercise was based on the premise that
+
+985
+00:53:54,379 --> 00:53:57,270
+we made a simple mannequin
+
+986
+00:53:57,295 --> 00:54:00,073
+with your own proportions.
+
+987
+00:54:00,098 --> 00:54:01,938
+The first step of today's exercise was
+
+988
+00:54:02,114 --> 00:54:04,876
+to simplify this mannequin even more.
+
+989
+00:54:07,028 --> 00:54:08,450
+The reason behind this is to
+
+990
+00:54:08,475 --> 00:54:09,887
+work more quickly
+
+991
+00:54:11,309 --> 00:54:14,408
+while being as accurate as possible
+
+992
+00:54:14,410 --> 00:54:18,348
+and describe what you're thinking as accurately as possible.
+
+993
+00:54:18,520 --> 00:54:20,669
+That was the key point
+
+994
+00:54:20,872 --> 00:54:21,981
+of simplification.
+
+995
+00:54:22,689 --> 00:54:25,708
+So, practicing with what you've simplified
+
+996
+00:54:27,093 --> 00:54:28,684
+is a very important process.
+
+997
+00:54:31,161 --> 00:54:33,986
+I advise you to use photo references.
+
+998
+00:54:35,072 --> 00:54:38,275
+Of course, illustration references and figure references are okay too.
+
+999
+00:54:38,300 --> 00:54:39,767
+They should work fine.
+
+1000
+00:54:39,792 --> 00:54:42,172
+But, I still think photo references are the best.
+
+1001
+00:54:42,197 --> 00:54:46,150
+Because, when a character is illustrated based on a photo,
+
+1002
+00:54:46,175 --> 00:54:47,850
+a lot of information is omitted.
+
+1003
+00:54:47,875 --> 00:54:49,860
+For example, we might not be able to see
+
+1004
+00:54:49,885 --> 00:54:51,392
+the muscles and bones, unlike a photo reference.
+
+1005
+00:54:51,417 --> 00:54:53,213
+Or, you might not be able to see the perspective well.
+
+1006
+00:54:53,238 --> 00:54:55,033
+The illustrator could have distorted
+
+1007
+00:54:55,189 --> 00:54:57,924
+something on purpose, too.
+
+1008
+00:54:57,949 --> 00:54:59,814
+After all, it's done by a human.
+
+1009
+00:55:00,127 --> 00:55:01,806
+Because of this,
+
+1010
+00:55:01,808 --> 00:55:05,596
+I think photo references are the best.
+
+1011
+00:55:05,705 --> 00:55:09,580
+But, if you're still unfamiliar with proportions,
+
+1012
+00:55:09,605 --> 00:55:12,141
+I'll go over this quickly
+
+1013
+00:55:12,166 --> 00:55:13,611
+in addition to what we've done last time.
+
+1014
+00:55:14,135 --> 00:55:15,906
+But, I'll divide it into a few steps.
+
+1015
+00:55:17,986 --> 00:55:19,939
+In the last lecture, we practiced how to apply
+
+1016
+00:55:21,080 --> 00:55:23,939
+proportions and outlines.
+
+1017
+00:55:27,221 --> 00:55:30,063
+To practice proportions,
+
+1018
+00:55:30,088 --> 00:55:32,721
+it is best to do it with figures.
+
+1019
+00:55:34,267 --> 00:55:36,425
+This is because they're already 'complete'.
+
+1020
+00:55:36,427 --> 00:55:38,852
+Because they are already deformed,
+
+1021
+00:55:38,854 --> 00:55:41,148
+we can apply that to our drawings.
+
+1022
+00:55:41,150 --> 00:55:42,775
+With just a small personal touch,
+
+1023
+00:55:42,800 --> 00:55:45,666
+you'll find the right answer for your drawing style.
+
+1024
+00:55:45,799 --> 00:55:47,486
+So, when you're practicing proportions,
+
+1025
+00:55:47,511 --> 00:55:49,994
+it is the best
+
+1026
+00:55:50,019 --> 00:55:51,931
+to imitate figures.
+
+1027
+00:55:52,127 --> 00:55:55,025
+When you're practicing outlines,
+
+1028
+00:55:55,533 --> 00:55:57,369
+look at photos and illustrations together.
+
+1029
+00:55:57,752 --> 00:56:00,096
+I'll repeat,
+
+1030
+00:56:01,783 --> 00:56:03,324
+you should study outlines
+
+1031
+00:56:03,326 --> 00:56:05,150
+with photos and illustrations.
+
+1032
+00:56:07,635 --> 00:56:08,455
+But why so?
+
+1033
+00:56:08,480 --> 00:56:09,780
+As I mentioned before,
+
+1034
+00:56:09,782 --> 00:56:12,721
+photographs describe details that illustrations don't.
+
+1035
+00:56:12,893 --> 00:56:15,492
+The same is true
+
+1036
+00:56:15,517 --> 00:56:17,775
+vice versa.
+
+1037
+00:56:17,885 --> 00:56:20,446
+So, it is the best to
+
+1038
+00:56:20,471 --> 00:56:22,791
+practice as you compare them.
+
+1039
+00:56:22,816 --> 00:56:24,696
+I won't recommend looking at figures for this.
+
+1040
+00:56:24,721 --> 00:56:27,072
+Because the outlines of figures
+
+1041
+00:56:27,074 --> 00:56:29,175
+are always much simplified
+
+1042
+00:56:29,177 --> 00:56:31,391
+compared to those of illustrations.
+
+1043
+00:56:31,416 --> 00:56:33,299
+It's hard to distinguish them well, too.
+
+1044
+00:56:33,324 --> 00:56:35,045
+So, instead of using them,
+
+1045
+00:56:35,213 --> 00:56:36,921
+use photos and illustrations
+
+1046
+00:56:36,923 --> 00:56:38,752
+to practice drawing outlines.
+
+1047
+00:56:39,017 --> 00:56:40,799
+But the most important thing is
+
+1048
+00:56:41,963 --> 00:56:43,549
+to set the correct proportions
+
+1049
+00:56:43,574 --> 00:56:45,900
+to acquire proper knowledge.
+
+1050
+00:56:46,986 --> 00:56:48,611
+And now, with movements, as I mentioned before,
+
+1051
+00:56:49,170 --> 00:56:52,932
+I recommend looking at photos.
+
+1052
+00:56:53,807 --> 00:56:56,088
+Of course, you can also
+
+1053
+00:56:56,113 --> 00:56:57,462
+look at figures.
+
+1054
+00:56:57,487 --> 00:57:00,174
+But, if your goal is to capture the pose,
+
+1055
+00:57:00,199 --> 00:57:01,486
+I strongly recommend photo materials.
+
+1056
+00:57:01,577 --> 00:57:04,937
+So, you would use this photo reference to make a character
+
+1057
+00:57:05,351 --> 00:57:06,624
+with the proportions you thought of.
+
+1058
+00:57:08,953 --> 00:57:10,579
+That would be the rough draft stage.
+
+1059
+00:57:10,581 --> 00:57:12,632
+You should practice
+
+1060
+00:57:12,657 --> 00:57:14,402
+utilizing a certain pose to apply
+
+1061
+00:57:14,427 --> 00:57:15,918
+your own proportions to your character.
+
+1062
+00:57:16,179 --> 00:57:17,427
+Once that's done,
+
+1063
+00:57:20,502 --> 00:57:21,492
+first of all,
+
+1064
+00:57:21,827 --> 00:57:24,796
+you should just focus on the movements.
+
+1065
+00:57:27,195 --> 00:57:31,703
+Then you would fix the proportions
+
+1066
+00:57:32,023 --> 00:57:35,999
+and then you would draw detailed outlines.
+
+1067
+00:57:39,124 --> 00:57:40,835
+Outlines and curves.
+
+1068
+00:57:42,179 --> 00:57:44,718
+And if you actually want to finalize it,
+
+1069
+00:57:44,743 --> 00:57:46,174
+draw the lines as well.
+
+1070
+00:57:46,219 --> 00:57:47,788
+I highly recommend you to
+
+1071
+00:57:48,499 --> 00:57:51,695
+practice with this method.
+
+1072
+00:57:52,749 --> 00:57:55,968
+If you practice while looking at photos,
+
+1073
+00:57:55,993 --> 00:57:58,279
+you can also practice
+
+1074
+00:57:58,304 --> 00:57:59,787
+how to analyze perspectives.
+
+1075
+00:57:59,812 --> 00:58:01,968
+So, I'll emphasize once more
+
+1076
+00:58:05,723 --> 00:58:08,861
+that today's lecture focused on
+
+1077
+00:58:08,886 --> 00:58:11,018
+drawing a lot so that
+
+1078
+00:58:13,502 --> 00:58:18,454
+you would be able to
+
+1079
+00:58:18,479 --> 00:58:19,575
+look at different angles and poses
+
+1080
+00:58:19,577 --> 00:58:23,091
+and draw the same pose from different angles
+
+1081
+00:58:23,093 --> 00:58:26,018
+and imagine a human body
+
+1082
+00:58:26,043 --> 00:58:27,846
+from different angles and poses.
+
+1083
+00:58:31,252 --> 00:58:33,891
+Today, we studied a bit on anatomy.
+
+1084
+00:58:33,916 --> 00:58:36,297
+Next time, we'll study faces.
+
+1085
+00:58:36,299 --> 00:58:38,766
+We drew a mannequin today
+
+1086
+00:58:38,791 --> 00:58:42,354
+and learned how to move it.
+
+1087
+00:58:45,807 --> 00:58:48,915
+We move it after simplifying it.
+
+1088
+00:58:49,080 --> 00:58:50,619
+Now that we've learned how to do it,
+
+1089
+00:58:50,644 --> 00:58:52,565
+we are going to draw in the face.
+
+1090
+00:58:52,986 --> 00:58:54,596
+Just simply think of it as
+
+1091
+00:58:54,621 --> 00:58:55,716
+a character with a face
+
+1092
+00:58:55,741 --> 00:58:59,041
+is moving around.
+
+1093
+00:58:59,066 --> 00:59:01,577
+When you finish the next lecture,
+
+1094
+00:59:01,602 --> 00:59:03,408
+you'd be able to draw a character.
+
+1095
+00:59:03,799 --> 00:59:05,861
+So, that would be it for today.
+
+1096
+00:59:05,886 --> 00:59:08,023
+I'll see you in the next lecture.
+
+1097
+00:59:08,906 --> 00:59:10,193
+Keep up the good work,
+
+1098
+00:59:10,195 --> 00:59:13,328
+and that would be the end for today's class.
+
