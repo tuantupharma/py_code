@@ -1,0 +1,1 @@
+./srv/dev-disk-by-uuid-09a67e69-2f13-4524-99c5-3ac92cb11251/blenderaddon/rendermanager/flamenco-3.4-linux-amd64/flamenco-manager
