@@ -1,0 +1,20 @@
+Baga Ivy Generator, Please use our latest version in any cases.
+Contact us if you have any issues.
+
+Release changes :
+
+V1.0.0
+	Initial release
+
+V1.0.1
+	Fix import on MAC
+
+V1.0.2
+	Fix node tree animation
+
+V1.0.3
+	Fix path for MAC and LINUX
+
+V1.0.4
+	Change label in Source Object : End Instance to "Flowers Instances"
+	Fix Presets loading for MAC

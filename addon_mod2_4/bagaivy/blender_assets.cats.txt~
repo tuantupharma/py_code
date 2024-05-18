@@ -1,0 +1,104 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+2d2f69a4-bfa6-43c4-bcb8-510f0538efdf:Flowers:Flowers
+ff9b2c72-d971-4723-b267-8fad8416cf41:Flowers/Actinidia_deliciosa:Flowers-Actinidia_deliciosa
+0f3c6f73-c143-4e71-b061-5d1f8250b967:Flowers/Akebia_quinata:Flowers-Akebia_quinata
+dd361474-b432-4920-a645-625aabca6192:Flowers/Aristolochia:Flowers-Aristolochia
+66d510ae-9244-4c12-a79b-83cb35a53ed7:Flowers/Beaumontia_Grandiflora:Flowers-Beaumontia_Grandiflora
+0c86a67c-ed88-41cf-92a3-48853ff44ab0:Flowers/Bougainvillea:Flowers-Bougainvillea
+e9cf4eaf-70f3-4aff-8fda-afb2e9c25335:Flowers/Citrullus_lanatus:Flowers-Citrullus_lanatus
+23d0bc6d-0f63-4903-8771-2093dc815307:Flowers/Clematis:Flowers-Clematis
+33d5e669-c67c-4010-aa9f-2d182cf83580:Flowers/Clematis_georges_jackmann:Flowers-Clematis_georges_jackmann
+33798fa2-c105-4070-a219-9114c3dd02bf:Flowers/Clematis_girenas:Flowers-Clematis_girenas
+2acd50c5-ce05-40bf-99b5-b10c2e23150c:Flowers/Clematis_indigo_cleminov:Flowers-Clematis_indigo_cleminov
+a12d5c7c-0053-4607-93a6-b91128f81204:Flowers/Clematis_pink_fantasy:Flowers-Clematis_pink_fantasy
+918e647a-fc58-4991-86b0-61eefb2a7c45:Flowers/Clematis_urophylla:Flowers-Clematis_urophylla
+a687f41a-a506-49ee-8ac4-c1668f4a6523:Flowers/Clematis_vitalba:Flowers-Clematis_vitalba
+70777f71-6abf-4589-b27c-52bb84d8516a:Flowers/Clematite_rebecca:Flowers-Clematite_rebecca
+0fc4d3b9-aafa-485e-a126-496c7663bd4a:Flowers/Clitoria_ternatea:Flowers-Clitoria_ternatea
+ca08bcd0-1cf2-470f-9ddc-3e5114697a42:Flowers/Cobaea_scandens:Flowers-Cobaea_scandens
+0e8ff0b8-79d8-407f-aabd-b65bf0565e15:Flowers/Cucumis_melo_cantalupensis:Flowers-Cucumis_melo_cantalupensis
+e560bca2-c31b-45bb-b42c-d96846a909ca:Flowers/Dalechampia:Flowers-Dalechampia
+57d5a8d9-c519-4f65-93b9-0773db941c0e:Flowers/Humulus_lupulus:Flowers-Humulus_lupulus
+d5fa4a42-b959-49ac-897e-0947b8045a2f:Flowers/Hydrangea_anomala:Flowers-Hydrangea_anomala
+45b05d69-6f8f-433a-b90a-e97a9d15b864:Flowers/Ipomea:Flowers-Ipomea
+db19e298-1ab2-4ade-a5c3-0c7fcbdf2ac6:Flowers/Ipomoea quamoclit:Flowers-Ipomoea quamoclit
+a8918a47-194d-4638-9d5e-3d53659ba85a:Flowers/Ipomoea_lobata:Flowers-Ipomoea_lobata
+8d749e0d-930f-4ea4-97b1-b2770ab77cf4:Flowers/Jasmine:Flowers-Jasmine
+504c6f93-b0be-4fa6-b231-4cc45da8ea00:Flowers/Lonicera_periclymenum:Flowers-Lonicera_periclymenum
+1f44f350-693b-440b-bc3f-b8d7034c7eae:Flowers/Mandevevilla:Flowers-Mandevevilla
+d52629f3-636e-40cc-a88b-294c57de2565:Flowers/Muehlenbeckia_complexa:Flowers-Muehlenbeckia_complexa
+fb3bf762-7a45-4d6c-9b0a-746d19857c4b:Flowers/Passiflora:Flowers-Passiflora
+ca3d5768-6e14-4c51-960b-b0969c591811:Flowers/Petrea_Volubilis:Flowers-Petrea_Volubilis
+20e6c007-980c-4988-a3c5-a1ac4f68867d:Flowers/Phaseolus_vulgaris_pink:Flowers-Phaseolus_vulgaris_pink
+a4397d45-8caf-4b57-8d3e-8424a45e8463:Flowers/Phaseolus_vulgaris_white:Flowers-Phaseolus_vulgaris_white
+c04f8b81-aa3e-444c-8302-22bfad528757:Flowers/Pseudogynoxys_chenopodioides:Flowers-Pseudogynoxys_chenopodioides
+502a849f-ae60-4d40-8091-f3a6767a30c4:Flowers/Pyrostegia_venustal:Flowers-Pyrostegia_venustal
+b389bf3a-cfee-4875-acdc-4c1ceb734c71:Flowers/Rosa:Flowers-Rosa
+cf3258b2-292f-499c-8aea-fa80ab6b071b:Flowers/Solanum_jasminoides:Flowers-Solanum_jasminoides
+44db9b55-1f4b-4e77-a6e6-ca94a0b8a1a2:Flowers/Solanum_lycopersicum:Flowers-Solanum_lycopersicum
+78e0e97c-bd23-4db0-bf43-61dbb7c9848d:Flowers/Stauntonia_hexaphylla:Flowers-Stauntonia_hexaphylla
+1c633957-2311-4488-b357-9aec1c2b250e:Flowers/Syringa_vulgaris:Flowers-Syringa_vulgaris
+7e37661f-611c-4e78-b083-59aaa765d93e:Flowers/Thunbergia_flower_Yellow:Flowers-Thunbergia_flower_Yellow
+f5c24754-6f79-4673-950a-8f6debcbd6c0:Flowers/Trachelospermum_jasminoides:Flowers-Trachelospermum_jasminoides
+47712563-e4a3-4ba9-b491-318a8f6fb05d:Flowers/Tropaeolum majus_orange:Flowers-Tropaeolum majus_orange
+295d9734-dda0-4b08-9d61-cb83f764d8f5:Flowers/Tropaeolum majus_yellow:Flowers-Tropaeolum majus_yellow
+10a8736e-71ff-4d19-89a0-1faf839d905c:Flowers/Vitis_vinifera:Flowers-Vitis_vinifera
+38e100d7-16de-4bb2-a2bf-745186cca3e9:Flowers/Wisteria:Flowers-Wisteria
+60d16ad4-c3d4-4e45-9ec8-6156ffcc0ae2:Fruits:Fruits
+31a580bd-05f9-44bd-b74b-a760c26dd04d:Fruits/Actinidia_deliciosa:Fruits-Actinidia_deliciosa
+05289cd3-5f09-45e3-932c-12def20eba21:Fruits/Citrullus_lanatus:Fruits-Citrullus_lanatus
+668566c0-8e28-4ca3-ac0e-300fa4590acb:Fruits/Cucumis_melo_cantalupensis:Fruits-Cucumis_melo_cantalupensis
+55d7f794-2cfb-4720-9d5c-ae5935e02962:Fruits/Cucumis_melo_reticulatus:Fruits-Cucumis_melo_reticulatus
+0bfa61db-0c65-4927-9eed-d126cd39993b:Fruits/Phaseolus_vulgaris:Fruits-Phaseolus_vulgaris
+46d4a5e2-8fe6-4b8f-bb64-bbfde99a725d:Fruits/Rubus_Rubus:Fruits-Rubus_Rubus
+5b08225c-7071-4b85-8d04-2968c143a756:Fruits/Rubus_idaeus:Fruits-Rubus_idaeus
+5ab8194f-c2b0-42cf-9114-d7f1b2817e30:Fruits/Solanum_lycopersicum:Fruits-Solanum_lycopersicum
+b5ab56ca-9643-4485-8ff0-6f16c54f2edf:Fruits/Stauntonia_hexaphylla:Fruits-Stauntonia_hexaphylla
+f2e8a643-1edd-4bed-aea2-49a8fd217f43:Leaves:Leaves
+64d7c356-5b89-4281-99c4-66023399a14a:Leaves/Actinidia_deliciosa:Leaves-Actinidia_deliciosa
+9352f369-7835-4912-a0c7-192ae4379661:Leaves/Akebia_quinata:Leaves-Akebia_quinata
+a548ae03-e2ff-428d-b2e4-7aef2f904d0a:Leaves/Aristolochia:Leaves-Aristolochia
+6e249017-f5ed-4a8f-8976-d1cc6cc93795:Leaves/Beaumontia_grandiflora:Leaves-Beaumontia_grandiflora
+ea18531e-a157-49f4-8cc6-5fde722a38ee:Leaves/Bougainvillea:Leaves-Bougainvillea
+cbb8bae6-122d-43f8-8bc0-d3e7dd407d0d:Leaves/Citrullus_lanatus:Leaves-Citrullus_lanatus
+fcc76a60-e6fa-4705-bd82-e3be1c04b2c1:Leaves/Clematis:Leaves-Clematis
+6f048af1-f83c-4da7-bd69-4e4ef6a7e977:Leaves/Clitoria_ternatea:Leaves-Clitoria_ternatea
+70f1ce03-bc51-43e7-8cde-28e940d30cdd:Leaves/Clitoria_ternatea:Leaves-Clitoria_ternatea
+dc442895-92c7-4588-b759-1fccef21746a:Leaves/Cobaea_scandens:Leaves-Cobaea_scandens
+ae7a53c2-34c0-48aa-b595-7801c584605d:Leaves/Cucumis_melo:Leaves-Cucumis_melo
+cb47b62b-7c4e-4bf5-9457-b17daf24177a:Leaves/Dalechampia:Leaves-Dalechampia
+25cc6573-8b97-41f9-b808-facbde433f3e:Leaves/Epipremnum_aureum:Leaves-Epipremnum_aureum
+07f1a80f-c9af-462c-a4a0-376c07b319ed:Leaves/Ficus_pumila:Leaves-Ficus_pumila
+cdbf86e0-1647-47a9-a7a5-366c5393c70f:Leaves/Hedera:Leaves-Hedera
+d70b733f-b8a7-4d99-848b-28951a0b5b33:Leaves/Humulus_lupulus:Leaves-Humulus_lupulus
+a5768ee4-54e0-41f2-bc65-035a0d197d79:Leaves/Hydrangea_Schizophragma_Moonlight:Leaves-Hydrangea_Schizophragma_Moonlight
+e2e02576-ab47-489f-ba3d-0b7c12589bd2:Leaves/Hydrangea_anomala:Leaves-Hydrangea_anomala
+98133d6e-d92d-43c1-ad21-46cf1195e239:Leaves/Ipomea:Leaves-Ipomea
+f6971218-a6f4-40f8-a95c-6dab4e457901:Leaves/Ipomoea_quamoclit:Leaves-Ipomoea_quamoclit
+147ef801-5d63-4c5a-b590-b6d59c67db23:Leaves/Jasmine:Leaves-Jasmine
+a8967e69-5336-413b-b452-0f508f78c2d6:Leaves/Lonicera_periclymenum:Leaves-Lonicera_periclymenum
+46d6db4b-7f37-4765-8683-77629ab4d645:Leaves/Mandevevilla:Leaves-Mandevevilla
+3dc4085c-502f-4b77-a1a6-75d9bd6142c5:Leaves/Passiflora:Leaves-Passiflora
+fbce0819-a316-4cf0-acba-d7f1f0800475:Leaves/Petrea_Volubilis:Leaves-Petrea_Volubilis
+2e9a96e4-a398-4a5f-8e04-d87442327aba:Leaves/Phaseolus_vulgaris:Leaves-Phaseolus_vulgaris
+4d1bf56d-02a1-4626-9e95-fe3e7a74e171:Leaves/Pseudogynoxys chenopodioides:Leaves-Pseudogynoxys chenopodioides
+2e4713c3-5a82-44cc-8bea-9dd140da11c2:Leaves/Pyrostegia_venustal:Leaves-Pyrostegia_venustal
+bafa3881-bf44-431a-8c48-41c873048209:Leaves/Rosa:Leaves-Rosa
+41aed5f8-b506-4556-a2de-c7f79f6a483b:Leaves/Solanum_jasminoides:Leaves-Solanum_jasminoides
+ee6ebe19-c951-4c06-8993-ee90b9e9ceda:Leaves/Solanum_lycopersicum:Leaves-Solanum_lycopersicum
+4baa53eb-a24d-4f16-a14a-168f4e9fc517:Leaves/Stauntonia_hexaphylla:Leaves-Stauntonia_hexaphylla
+7972ad22-36ff-4b78-b4e3-403617f79a6b:Leaves/Syringa_vulgaris:Leaves-Syringa_vulgaris
+6e0f6ac4-1c72-4917-9dfa-13719e2c20d3:Leaves/Thunbergia:Leaves-Thunbergia
+a6286686-0dc2-4f2f-817f-7b45024eca3b:Leaves/Trachelospermum_jasminoides:Leaves-Trachelospermum_jasminoides
+66b94468-e9ad-4e83-9036-fdc514465b22:Leaves/Tropaeolum_majus:Leaves-Tropaeolum_majus
+979f3d95-6e39-4860-9c75-2dcad087aa51:Leaves/Uubus_Fruticosus:Leaves-Uubus_Fruticosus
+1feecf22-7b81-46eb-a9ad-40e6199a7a5c:Leaves/Vitis_vinifera:Leaves-Vitis_vinifera
+61ea7bd7-4b26-4681-a675-468f10902e9d:Leaves/Wisteria:Leaves-Wisteria
+03d7f0f6-b18f-4dec-97e5-8d77062c1dc2:Presets:Presets

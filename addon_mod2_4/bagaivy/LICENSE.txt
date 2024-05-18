@@ -1,0 +1,16 @@
+Hi !
+
+Thanks for getting our Baga Ivy Generator !
+For : Ivy Generator Data Base
+
+Autors : Laura Mercadal, Antoine Bagattini and Theo Chevret
+
+This product is under Royalty Free license, it concern our 3d models, images, textures, nodes tree and shaders.
+.py files are under GPL license.
+
+The Standard Royalty Free license grants you, the purchaser, the ability to make use of the purchased product for personal, educational, or commercial purposes as long as those purposes do not violate any of the following:
+
+You may not resell, redistribute, or repackage the purchased product without explicit permission from the original author.
+
+Do not hesitate to contact us if necessary.
+www.f12studio.fr/ivy-generator
