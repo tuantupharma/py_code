@@ -2,7 +2,7 @@ import bpy
 from bpy import context
 import os
 import datetime
-
+import subprocess
 def get_file_and_project_path(filepath):
     # Get the absolute path of the current .py file
     #current_file_path = os.path.abspath(__file__)
@@ -39,7 +39,26 @@ def set_output_check(projectloc):
 
     bpy.context.scene.render.filepath = new_path
     print(new_path)
+
+def open_check_folder():
+    projectloc = bpy.data.filepath
+    getpath, dumy = get_file_and_project_path(projectloc)
+    new_path = getpath + "check\\"
+    print(new_path)
+    path = rf"{new_path}\\"
+    if os.name == 'nt':  # Checking for Windows OS (OS name is 'nt')
+        try:
+            os.startfile(path)
+        except Exception as e:
+            print("An error occurred while trying to open the folder.")
+            raise
+    else:
+        print("This script can only be run on Windows")
+# Open Windows Explorer with the given path
     
+    
+    
+
 
 def set_output_render_path(filepath):
     getpath, nameblend  = get_file_and_project_path(filepath)
@@ -48,7 +67,7 @@ def set_output_render_path(filepath):
     bpy.context.scene.render.filepath = new_path
 
 
-
+#preset sectors
 
 def set_render_png_output():
     # Set the render output format to PNG
@@ -126,6 +145,7 @@ def viewportrender():
  if old_path == "" or old_path == "\\tmp\\":
   set_output_render_path(bpy.data.filepath)
  else : bpy.context.scene.render.filepath = old_path
+ open_check_folder()
 
 def get_current_time():
     now = datetime.datetime.now()
@@ -135,6 +155,98 @@ def get_current_time():
     month = now.month
     return hour, minute, date, month
 
+
+def create_video_cv():
+    # Set the output video file path
+    input_folder = bpy.context.scene.render.filepath
+    image_pattern =''
+    if input_folder.endswith('\\'):  # Checks whether the folder ends with a backslash.
+            image_pattern =''
+    else:
+            image_pattern = os.path.basename(input_folder)
+            input_folder = os.path.dirname(input_folder)
+    fps = bpy.context.scene.render.fps 
+    output_file = os.path.join(input_folder, "video.mp4")
+    
+
+    # Get the list of image files in the input folder
+    image_files = sorted([f for f in os.listdir(input_folder) if f.startswith(image_pattern.split("#")[0])])
+
+    # Read the first image to get its dimensions
+    first_image_path = os.path.join(input_folder, image_files[0])
+    first_image = cv2.imread(first_image_path)
+    height, width, channels = first_image.shape
+
+    # Create a VideoWriter object
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")  # Specify the video codec
+    video_writer = cv2.VideoWriter(output_file, fourcc, fps, (width, height))
+
+    # Iterate through the image files and write them to the video
+    for image_file in image_files:
+        image_path = os.path.join(input_folder, image_file)
+        image = cv2.imread(image_path)
+        video_writer.write(image)
+
+    # Release the VideoWriter
+    video_writer.release()
+
+    print("Video creation completed!")
+
+
+
+def combine_image_sequence_to_mp4():
+    # Get the current scene
+    scene = bpy.context.scene
+
+    # Get frame rate and render output path from the current blend file
+    frame_rate = scene.render.fps
+    frame_rate_time=1/frame_rate
+    render_output_path = bpy.path.abspath(scene.render.filepath)
+    file_format = scene.render.image_settings.file_format.lower()
+
+    # Extract the directory and prefix from the render output path
+    render_dir, render_prefix = os.path.split(render_output_path)
+    if not render_dir:
+        render_dir = os.path.dirname(render_output_path)
+        render_prefix = os.path.basename(render_output_path)
+    
+    # Ensure the render output directory exists
+    if not os.path.exists(render_dir):
+        print(f"Render directory {render_dir} does not exist.")
+        return
+
+    # Collect all files matching the prefix and format
+    image_files = sorted([f for f in os.listdir(render_dir) if f.startswith(render_prefix) and f.lower().endswith(file_format)])
+
+    # Ensure there are images to process
+    if not image_files:
+        print("No rendered images found.")
+        return
+
+    # Create a text file with the list of images
+    file_list_path = os.path.join(render_dir, "image_list.txt")
+    with open(file_list_path, 'w') as file_list:
+        for image_file in image_files:
+            file_list.write(f"file '{os.path.join(render_dir, image_file)}'\nduration {frame_rate_time}\n")
+    # create prefix  
+    projectloc = bpy.data.filepath
+    getpath, blend_file_name = get_file_and_project_path(projectloc)     
+    hour, minute, date, month = get_current_time()
+    date_today = str(hour) + "H" + str(minute) + "_" + str(date) + "T" + str(month)
+    # Create the output MP4 file path
+    mp4name = str(blend_file_name)+"_"+ str(date_today) + ".mp4"
+    print(f"MP4 name created: {mp4name}")
+    output_mp4_path = os.path.join(render_dir, mp4name)
+    print(mp4name)
+
+    # Combine the images into an MP4 using ffmpeg with improved quality settings
+   
+    ffmpeg_command = (
+        f"ffmpeg -r {frame_rate} -f concat -safe 0 -i {file_list_path}  -c:v h264_nvenc -preset slow -b:v 30M -pix_fmt yuv420p -y -minrate 10M {output_mp4_path}"
+    )
+    os.system(ffmpeg_command)
+    
+    print(f"MP4 file created: {output_mp4_path}")
 # Example usage
     
 #filepath = r"D:\job\makeaddon\lighting\testing.blend"
