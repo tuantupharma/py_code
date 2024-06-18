@@ -1,0 +1,1 @@
+--format bc7 --quality normal --mips --min-mip-size 250 --mip-filter box --zcmp 22

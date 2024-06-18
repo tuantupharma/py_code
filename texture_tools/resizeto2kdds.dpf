@@ -1,0 +1,1 @@
+--format bc7 --quality normal --mips --min-mip-size 256 --mip-filter box --zcmp 22 --serialized-effects-v1 "1 22 2 100 2048 1 1 0 2 0.5 0.5 0 1 1 0 1 "
